@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Mükafat",
+      "free": "Pulsuz versiya"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Növbəti iş müsahibəniz üçün təcrübə!",
+      "message": "İş müsahibələri alır, əsəbi və narahat olur?\nBəlkə hələ də iş müsahibələrini qəbul etməyə hazır deyilsiniz?\nBu iş müsahibəsi parametrində danışıq bacarıqlarınızı tətbiq etmək üçün mükəmməl bir tətbiqdir!"
+    },
+    {
+      "title": "Növbəti işinizə hazır olun!",
+      "message": "İş IntelliViewer, real həyatda işə götürənlər haqqında yaxşı təəssürat yaratmaq üçün lazım olan danışıq bacarıqlarını istifadə etməyə və növbəti real həyat müsahibənizi hazırlamağınıza kömək etmək üçün həqiqi istehza iş müsahibələrini həyata keçirmək üçün süni inteqrasiya gücündən istifadə edir."
+    },
+    {
+      "title": "Premium abunə:",
+      "message": "Söhbəti real iş müsahibəsində işə götürmə şansınızı necə yaxşılaşdırmaq şansınızı necə yaxşılaşdıracağınıza dair söhbətin yekunlaşdıran bir reportajın sonunda bir hesabat alın."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Evdə",
+      "interview": "Müsahibə",
+      "resume_cv": "Resumé",
+      "history": "Tarix",
+      "history_entry": "Tarix girişi",
+      "reports": "Hesabat",
+      "settings": "Parametrlər"
+    }
+  },
+  "title": {
+    "attention": "Diqqət",
+    "information": "Məlumat"
+  },
+  "label": {
+    "search": "Axtarış"
+  },
+  "button": {
+    "ok": "Tamam",
+    "back": "Geri",
+    "close": "Yaxın",
+    "cancel": "Ləğv etmək",
+    "delete": "Silmək",
+    "review": "Rəy",
+    "subscribe": "Abunə olmaq"
+  },
+  "language": {
+    "title": "Dil",
+    "select": "Dil seçin",
+    "altered": "Dil dəyişdi"
+  },
+  "history": {
+    "empty": "Boş tarix",
+    "delete": {
+      "list": {
+        "title": "Tarixi silmək?",
+        "message": "Bütün tarixi silmək istədiyinizə əminsiniz?",
+        "deleted": "Tarix silindi."
+      },
+      "entry": {
+        "title": "Müsahibəni silmək?",
+        "message": "Bu müsahibəni silmək istədiyinizə əminsiniz?",
+        "deleted": "Tarix silindi."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Ad",
+      "first_name": "Ad",
+      "date_of_birth": "Doğum tarixi",
+      "job_position": "İş mövqeyi",
+      "job_position_detailed": "Ətraflı iş yeri",
+      "education": "Təhsil",
+      "courses": "Kurs",
+      "experience": "Təcrübə",
+      "add": {
+        "education": "Yeni təhsil əlavə edin",
+        "courses": "Yeni kurs əlavə edin",
+        "experience": "Yeni təcrübə əlavə edin"
+      },
+      "error": {
+        "validation": {
+          "title": "Təsdiqləmə xətası",
+          "invalid_fields": "Yeni bir iş müsahibəsi üçün müraciət etmək üçün etibarlı bir iş mövqeyi rolu daxil edin.\nAlternativ olaraq",
+          "unable_to_validate": "Sahələri təsdiqləmək olmur."
+        }
+      }
+    },
+    "education": {
+      "institution": "Qurum",
+      "degree": "Dərəcə",
+      "start": "Başlamaq",
+      "end": "Bitirmək"
+    },
+    "courses": {
+      "institution": "Qurum",
+      "title_of_course": "Əlbəttə",
+      "course_load": "Kurs yükü"
+    },
+    "experience": {
+      "company": "Şirkəti",
+      "position": "Mövqe",
+      "start": "Başlamaq",
+      "end": "Bitirmək"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Qaranlıq mövzu",
+      "description": "Yüngül və qaranlıq mövzu arasında seçin.\nTətbiqi ilk dəfə açdığınız zaman avtomatik olaraq cihazın mövzusuna təyin edin."
+    },
+    "language": {
+      "name": "Dil",
+      "description": "Tətbiqdən istifadə edərkən və müsahibələr zamanı AI ilə danışarkən seçilən dil seçin."
+    },
+    "notifications": {
+      "saved": "Parametrlər qurtarıldı"
+    },
+    "search": {
+      "not_found": "Heç bir nəticə tapılmadı."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Yeni reportaj",
+      "resume": "Müsahibəni bərpa edin"
+    },
+    "generating": "Yeni müsahibə yaratmaq"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Yenidən cəhd etmək üçün vurun"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Mesajınızı yazın ...",
+    "max_length": "Maks uzunluğu çatdı"
+  },
+  "cooldown": {
+    "description": "Tətbiqin pulsuz versiyası saatda bir müsahibə almağa imkan verir.\n\nMəhdudiyyətləri aradan qaldırmaq, reklamları silmək və hər bir müsahibədən sonra necə yaxşılaşdırılması barədə məsləhətlər ilə rəy bildirnini almaq istəsəniz, mükafata abunə olmağı düşünün.",
+    "active": "Yeni bir müsahibə yaratmadan əvvəl Cooldown Taymerini gözləyin.\n\nCooldowns-ı çıxarmaq, reklamları silmək və hər müsahibədən sonra necə yaxşılaşdırılması barədə məsləhətlər verməklə rəy bildirnini almaq istəsəniz, mükafata abunə olmağı düşünün.",
+    "timer": {
+      "wait": "Gözləmək",
+      "second": "ikinci",
+      "seconds": "saniyə"
+    }
+  },
+  "report": {
+    "title": "Hesabat vermək",
+    "summary": "Xülasə",
+    "feedback": "Rəy",
+    "advice": "Tövsiyə etmək",
+    "button": {
+      "view": "Hesabata baxın",
+      "unlock": "Hesabatın kilidini açın",
+      "get": "Hesabat almaq"
+    },
+    "generating": "Hesabat ..."
+  },
+  "review": {
+    "request": "Tətbiq xoşunuza gəlsəniz, bizə kömək etmək üçün bir araşdırma buraxmağı düşünün.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Çox sağ olun!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Yeni müsahibə mövcuddur!",
+      "message": "İş IntelliViewer-də iştirak etmək üçün yeni bir müsahibəniz var."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Mükafat",
+      "type": "Abunə",
+      "subscribe": "Abunə olmaq",
+      "invitation": "Mükafata abunə olun",
+      "active": "Premium abunə aktivdir",
+      "thanks": "Premiuma abunə olduğunuz üçün təşəkkür edirəm! Gələcək müsahibələrinizdə sizə uğurlar və uğurlar arzulayırıq!",
+      "menu": {
+        "title": "Premium abunə",
+        "subtitle": "Premium planına abunə olun"
+      }
+    },
+    "error": {
+      "subscription": "Satınalmanı təsdiqləməyə çalışan səhv.",
+      "connection": "Əlaqə xətası.\n\nMağazaya qoşulmaq olmur.",
+      "products": "Məhsul seçimlərini yoxlamaq olmur.",
+      "subscription_options": "Abunə planlarını yükləmək olmur.\n\nXahiş edirəm internet bağlantınızı yoxlayın və ya daha sonra yenidən cəhd edin."
+    }
+  },
+  "error": {
+    "title": "Səhv",
+    "unexpected": "Bir şey səhv oldu ... bunu görməyəcəksiniz! 😱",
+    "connection": "Qoşulma",
+    "connection_fix": "İnternet bağlantınızı yoxlayın və daha sonra yenidən cəhd edin.",
+    "ai": {
+      "no_response": "Cavab",
+      "unexpected": "Gözlənilməz",
+      "internal_server_error": "Daxili server səhvi"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Bu real AI simulyatoru ilə növbəti iş müsahibəniz üçün təcrübə edin",
+      "full_description": "İş müsahibələri alır, əsəbi və narahat olur?\nBəlkə hələ də iş müsahibələrini qəbul etməyə hazır deyilsiniz?\nBu iş müsahibəsi parametrində danışıq bacarıqlarınızı tətbiq etmək üçün mükəmməl bir tətbiqdir!\n\nİş IntelliViewer, real həyatda işə qəbul edənlər haqqında yaxşı təəssürat yaratmaq üçün lazım olan danışıq bacarıqlarını istifadə etməyə və növbəti müsahibənizi hazırlamağınıza kömək etmək üçün həqiqi istehza iş müsahibələrini aparmaq üçün süni intellektin gücünü istifadə edir.\n\nMüsahibələr axtardığınız iş vəziyyətinə uyğunlaşdırılır və həqiqi bir iş müsahibəsini daha yaxşı təmsil etmək üçün hədəflərinizlə bağlı suallarla formalaşacaq və düzəldiləcəkdir.\n\nPremium İstifadəçilər, hər bir reportajın sonunda bir reportajın sonunda, həqiqi iş müsahibəsində işə götürülmə şansınızı necə yaxşılaşdıracağınıza dair danışıqları və tövsiyələrinizi ümumiləşdirərək hesabat alacaqlar.",
+      "taglines": [
+        "Növbəti işinizə hazır olun!",
+        "Növbəti iş müsahibəniz üçün təcrübə!",
+        "AI ilə növbəti iş müsahibəniz!",
+        "Növbəti peşəkar uğurunuz sizi burada gözləyir!"
+      ],
+      "premium_benefits": [
+        "Reklamları silir",
+        "Limitsiz reportajlar",
+        "Geribildirim və məsləhət ilə hesabatlar alın"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Mükafat",
+      "monthly": "Aylıq",
+      "annual": "İllik",
+      "cancel_anytime": "İstədiyiniz zaman ləğv edin",
+      "save_discount": "Qurtarmaq",
+      "subscribe": "Abunə olmaq",
+      "restore_purchases": "Satınalmaları bərpa edin",
+      "premium_benefits": [
+        "Reklamları silmək",
+        "Heç bir cooldowns ilə məhdudiyyətsiz reportajlar",
+        "Müsahibələrdən sonra rəy və tövsiyələrlə hesabatlar alın"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Tərcümə etməyə kömək edin",
+    "description": "Bu proqramı digər dillərə tərcümə etməyə kömək edin."
+  }
+}

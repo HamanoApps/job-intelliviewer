@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Versi Gratis"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Laku kanggo wawancara kerja sabanjure!",
+      "message": "Apa njupuk wawancara kerja supaya sampeyan gemeter lan kuatir?\nMungkin sampeyan isih ora siap njupuk wawancara kerja?\nIki minangka aplikasi sing cocog kanggo praktek katrampilan ngobrol ing setelan wawancara kerja!"
+    },
+    {
+      "title": "Dadi disiapake kanggo proyek sabanjure!",
+      "message": "Pakaryan Intelliview nggunakake kekuwatan intelijen buatan kanggo nindakake wawancara kerja make realistis kanggo mbantu sampeyan menehi katrampilan kanggo nggawe kesan sing apik babagan rekrutmen urip nyata lan nggawe wawancara urip nyata sampeyan."
+    },
+    {
+      "title": "Langganan Premium:",
+      "message": "Nampa laporan ing pungkasan wawancara ora ngringket obrolan kanthi umpan balik lan saran babagan cara nambah kemungkinan sampeyan bisa nyewa ing wawancara kerja nyata."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Omah",
+      "interview": "Wawancara",
+      "resume_cv": "Resum",
+      "history": "Sejarah",
+      "history_entry": "Entri Sejarah",
+      "reports": "Laporan",
+      "settings": "Setelan"
+    }
+  },
+  "title": {
+    "attention": "Manungsa waé",
+    "information": "Informasi"
+  },
+  "label": {
+    "search": "Telusuran"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Mbalik",
+    "close": "Tutup",
+    "cancel": "Batal",
+    "delete": "Mbusak",
+    "review": "Deleng maneh",
+    "subscribe": "Langganan"
+  },
+  "language": {
+    "title": "Basa",
+    "select": "Pilih basa",
+    "altered": "Basa diganti"
+  },
+  "history": {
+    "empty": "Sejarah kosong",
+    "delete": {
+      "list": {
+        "title": "Mbusak riwayat?",
+        "message": "Apa sampeyan pengin mbusak kabeh sejarah?",
+        "deleted": "Sejarah dibusak."
+      },
+      "entry": {
+        "title": "Mbusak wawancara?",
+        "message": "Apa sampeyan pengin mbusak wawancara iki?",
+        "deleted": "Sejarah dibusak."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Jeneng",
+      "first_name": "Jeneng pisanan",
+      "date_of_birth": "Tanggal lair",
+      "job_position": "Posisi Proyek",
+      "job_position_detailed": "Posisi proyek rinci",
+      "education": "Pendhidhikan",
+      "courses": "Kursus",
+      "experience": "Pengalaman",
+      "add": {
+        "education": "Tambah Pendhidhikan Anyar",
+        "courses": "Tambah kursus anyar",
+        "experience": "Tambah pengalaman anyar"
+      },
+      "error": {
+        "validation": {
+          "title": "Kesalahan Validasi",
+          "invalid_fields": "Sisipake peran posisi proyek sing bener kanggo nglamar wawancara kerja sing anyar.\nUtawa",
+          "unable_to_validate": "Ora bisa validasi lapangan."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institusi",
+      "degree": "Gelar",
+      "start": "Miwiti",
+      "end": "Pungkasan"
+    },
+    "courses": {
+      "institution": "Institusi",
+      "title_of_course": "Judhul mesthi",
+      "course_load": "Mbukak kursus"
+    },
+    "experience": {
+      "company": "Perusahaan",
+      "position": "Posisi",
+      "start": "Miwiti",
+      "end": "Pungkasan"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tema Peteng",
+      "description": "Pilih antarane tema sing entheng lan peteng.\nSetel kanthi otomatis ing tema piranti nalika sampeyan mbukak app."
+    },
+    "language": {
+      "name": "Basa",
+      "description": "Pilih basa sing luwih disenengi kanggo nampilake aplikasi lan ngobrol karo AI sajrone wawancara."
+    },
+    "notifications": {
+      "saved": "Setelan disimpen"
+    },
+    "search": {
+      "not_found": "Ora ana asil sing ditemokake."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Wawancara Anyar",
+      "resume": "Wawancara Resume"
+    },
+    "generating": "Nggawe Wawancara Anyar"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tutul kanggo Coba maneh"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Ketik pesen sampeyan ...",
+    "max_length": "Dawane maksimal"
+  },
+  "cooldown": {
+    "description": "Versi gratis app ngidini sampeyan njupuk wawancara saben jam.\n\nYen sampeyan pengin mbusak watesan, copot iklan, lan tampa laporan umpan balik kanthi menehi saran babagan cara nambah saben wawancara, nimbang langganan Premium.",
+    "active": "Enteni wektu cooldown sadurunge ngasilake wawancara anyar.\n\nYen sampeyan pengin mbusak cooldowns, copot iklan, lan tampa laporan umpan balik kanthi menehi saran babagan cara nambah saben wawancara, nimbang langganan premium.",
+    "timer": {
+      "wait": "Ngenteni",
+      "second": "Kapindho",
+      "seconds": "detik"
+    }
+  },
+  "report": {
+    "title": "Laporan",
+    "summary": "Ringkesan",
+    "feedback": "Umpan balik",
+    "advice": "Saran",
+    "button": {
+      "view": "Ndeleng Laporan",
+      "unlock": "Mbukak kunci Laporan",
+      "get": "Entuk Laporan"
+    },
+    "generating": "Ngasilake Laporan ..."
+  },
+  "review": {
+    "request": "Yen sampeyan seneng app, coba ninggalake review kanggo mbantu kita.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Matur nuwun kanthi sanget!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Wawancara anyar kasedhiya!",
+      "message": "Sampeyan duwe wawancara anyar sing kasedhiya kanggo njupuk intelhiewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Langganan",
+      "subscribe": "Langganan",
+      "invitation": "Langganan Premium",
+      "active": "Langganan premium Aktif",
+      "thanks": "Matur nuwun kanggo langganan kanggo Premium! Muga-muga sampeyan sukses lan sukses ing kabeh wawancara ing mangsa ngarep!",
+      "menu": {
+        "title": "Langganan Premium",
+        "subtitle": "Langganan rencana premium"
+      }
+    },
+    "error": {
+      "subscription": "Kesalahan nyoba kanggo validasi tuku.",
+      "connection": "Kesalahan sambungan.\n\nOra bisa nyambung menyang toko.",
+      "products": "Ora bisa mriksa pilihan produk.",
+      "subscription_options": "Ora bisa mbukak rencana lengganan.\n\nMangga, priksa sambungan internet, utawa coba maneh mengko."
+    }
+  },
+  "error": {
+    "title": "Kesalahan",
+    "unexpected": "Ana sing salah ... sampeyan ora bakal ndeleng iki! 😱",
+    "connection": "Sambungan",
+    "connection_fix": "Priksa sambungan Internet sampeyan lan coba maneh mengko.",
+    "ai": {
+      "no_response": "Ora ana tanggapan",
+      "unexpected": "Ora kaduga",
+      "internal_server_error": "Kesalahan Server Internal"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Laku kanggo wawancara kerja sabanjure karo simulator sing realistis iki",
+      "full_description": "Apa njupuk wawancara kerja supaya sampeyan gemeter lan kuatir?\nMungkin sampeyan isih ora siap njupuk wawancara kerja?\nIki minangka aplikasi sing cocog kanggo praktek katrampilan ngobrol ing setelan wawancara kerja!\n\nPakaryan Intelliview nggunakake kekuwatan intelijen buatan kanggo nindakake wawancara kerja moyoki realistis kanggo mbantu sampeyan duwe katrampilan ngobrol kanggo nggawe kesan sing apik babagan rekrutmen nyata lan nggawe sampeyan nyiapake wawancara sabanjure.\n\nWawancara kasebut disesuaikan karo posisi kerja sing sampeyan goleki, lan bakal dibentuk lan diatur karo tujuan sing ana gandhengane karo tujuan sampeyan supaya bisa makili wawancara kerja sing luwih apik.\n\nPangguna Premium uga bakal nampa laporan ing pungkasan saben wawancara ora ngringket pacelathon kanthi umpan balik lan saran babagan cara nambah kasempatan kanggo nyewa ing wawancara kerja sing nyata.",
+      "taglines": [
+        "Dadi disiapake kanggo proyek sabanjure!",
+        "Laku kanggo wawancara kerja sabanjure!",
+        "We wawancara proyek sabanjure karo AI!",
+        "Sukses profesional sabanjure sampeyan ngenteni sampeyan ing kene!"
+      ],
+      "premium_benefits": [
+        "Ngilangi Ads",
+        "Wawancara tanpa watesan",
+        "Nampa laporan kanthi umpan balik lan saran"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Saben wulan",
+      "annual": "Taunan",
+      "cancel_anytime": "Batal kapan wae",
+      "save_discount": "Ngirit",
+      "subscribe": "Langganan",
+      "restore_purchases": "Mulihake tumbas",
+      "premium_benefits": [
+        "Copot Ads",
+        "Wawancara tanpa wates tanpa cooldowns",
+        "Nampa laporan kanthi umpan balik lan saran sawise wawancara"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Bantuan Translate",
+    "description": "Bantuan nerjemahake aplikasi iki menyang basa liyane."
+  }
+}

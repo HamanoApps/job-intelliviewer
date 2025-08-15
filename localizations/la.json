@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Libero"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Practice pro proximo officium colloquium!",
+      "message": "Non accipiens officium colloquiis te nervosi et sollicitus?\nMaybe vos adhuc sentire imparatus ad officium colloquiis?\nHoc est perfectum app ut usu vestri communi artes per officium colloquium occasum!"
+    },
+    {
+      "title": "Parari pro proximo officium!",
+      "message": "Job Intelliviverer utitur virtute artificialis intelligentia ad mores realistica ridere job colloquiis ad auxilium vobis artes in sermone artes opus ad facere bonum impressionem in realis vitae recruiters et paratus ad Ace in vita realis, et te paratus ad ACE tuis Next Vita Vita."
+    },
+    {
+      "title": "Premium Subscription:",
+      "message": "Accipite famam ad extremum cuiusque colloquium summatizing colloquium cum feedback et consilium in quam ut amplio vestri casus questus conducto in realis officium colloquium."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "In domo",
+      "interview": "Colloquium",
+      "resume_cv": "Resumé",
+      "history": "Historia",
+      "history_entry": "Historia ingressum",
+      "reports": "RENUNTIATIO",
+      "settings": "Occasus"
+    }
+  },
+  "title": {
+    "attention": "Attentio",
+    "information": "Notitia"
+  },
+  "label": {
+    "search": "PRAETENDO"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Retrorsum",
+    "close": "Propinquus",
+    "cancel": "Inrito",
+    "delete": "Delete",
+    "review": "Review",
+    "subscribe": "Subscribo"
+  },
+  "language": {
+    "title": "LENTITUDO",
+    "select": "Lego Language",
+    "altered": "Lingua mutata"
+  },
+  "history": {
+    "empty": "Inanis",
+    "delete": {
+      "list": {
+        "title": "Delere historia?",
+        "message": "Certus tu vis delere totius historia?",
+        "deleted": "Historia deleted."
+      },
+      "entry": {
+        "title": "Delere colloquium?",
+        "message": "Tu certus vis delere hoc colloquium?",
+        "deleted": "Historia deleted."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nomen",
+      "first_name": "Praenomen",
+      "date_of_birth": "Date nativitatis",
+      "job_position": "Officium",
+      "job_position_detailed": "Detailed officium situ",
+      "education": "Educatio",
+      "courses": "Courses",
+      "experience": "Experientia",
+      "add": {
+        "education": "Addere novam educationem",
+        "courses": "Addere novam utique",
+        "experience": "Addere novam experientia"
+      },
+      "error": {
+        "validation": {
+          "title": "Validation Error",
+          "invalid_fields": "Inserere validum officium situ munus adhibere ad novum officium colloquium.\nAliter",
+          "unable_to_validate": "'Non validate agris."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institutum",
+      "degree": "Gradus",
+      "start": "Satus",
+      "end": "Finis"
+    },
+    "courses": {
+      "institution": "Institutum",
+      "title_of_course": "TITULUS",
+      "course_load": "Londini"
+    },
+    "experience": {
+      "company": "Comitatus",
+      "position": "Locus",
+      "start": "Satus",
+      "end": "Finis"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tenebris theme",
+      "description": "Lego inter lucem et tenebris theme.\nAutomatice set ad fabrica scriptor theme primo te aperire app."
+    },
+    "language": {
+      "name": "LENTITUDO",
+      "description": "Eligere ad prefered linguae ad ostentationem dum usura applicationem et loquentes ad AI per colloquiis."
+    },
+    "notifications": {
+      "saved": "Services salvus erit"
+    },
+    "search": {
+      "not_found": "Nihil eventorum invenitur."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Novum colloquium",
+      "resume": "Proin Interview"
+    },
+    "generating": "Generating Novum Interview"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "ICTUS ad Retry"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Typus tuum Nuntius ...",
+    "max_length": "Max longitudo pervenit"
+  },
+  "cooldown": {
+    "description": "Quod liberum version de app permittit te ad unum colloquium per hora.\n\nSi velis removere limitations, removere ads, et accipiunt feedback fama cum consilio quam ut amplio post se colloquium, consideramus subscriptione ad premium.",
+    "active": "Exspecta ad cooldown timer antequam generating novam colloquium.\n\nSi velis removere cooldowns, removere ads, et accipiunt feedback fama cum consilio quam ad amplio post se colloquium, consideramus subscribens ad premium.",
+    "timer": {
+      "wait": "Exspecto",
+      "second": "secundus",
+      "seconds": "seconds"
+    }
+  },
+  "report": {
+    "title": "Report",
+    "summary": "Summary",
+    "feedback": "FEEDBACT",
+    "advice": "Consilio",
+    "button": {
+      "view": "Report",
+      "unlock": "Reserare fama",
+      "get": "REGRESSUS"
+    },
+    "generating": "Generating Report ..."
+  },
+  "review": {
+    "request": "Si probaverunt in app, placere considerans relinquens a review ad auxilium nobis.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Gratias ago tibi valde!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Novum Interview available!",
+      "message": "Vos have a colloquium novum ad officium in inallyiviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Subscriptio",
+      "subscribe": "Subscribo",
+      "invitation": "Subscribe ad premium",
+      "active": "Premium Subscription activae",
+      "thanks": "Tibi gratias ago pro Subscribens ad Premium! Velim bonam fortunam et victoria in futurum colloquiis!",
+      "menu": {
+        "title": "Premium Subscription",
+        "subtitle": "Subscribe ut Premium Plan"
+      }
+    },
+    "error": {
+      "subscription": "Error trying ut convalidandum vestra emptio.",
+      "connection": "Connection error.\n\n'Non coniungere ad copia.",
+      "products": "'Non reprehendo productum optiones.",
+      "subscription_options": "'Non est onus subscriptione consilia.\n\nQuaeso, reprehendo vestri Penitus iunctio, aut iterum tenta."
+    }
+  },
+  "error": {
+    "title": "Error",
+    "unexpected": "Aliquid abiit iniuriam ... et animam meam non vident? 😱",
+    "connection": "Nexus",
+    "connection_fix": "Reprehendo vestri Internet connexionem et iterum tenta.",
+    "ai": {
+      "no_response": "Non responso",
+      "unexpected": "Inopinatus",
+      "internal_server_error": "Internum Servo Error"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Practice pro proximo Job colloquium cum hoc realis AI simulator",
+      "full_description": "Non accipiens officium colloquiis te nervosi et sollicitus?\nMaybe vos adhuc sentire imparatus ad officium colloquiis?\nHoc est perfectum app ut usu vestri communi artes per officium colloquium occasum!\n\nJob Intelliviverer utitur virtute artificialis intelligentia ad mores realistica subsannationem job colloquiis ad auxilium vobis harundem in sermone artes opus ad facere bonum impressionem in reali vita recruiters et paratus ad accumsan realis vitae recruiters et paratus ad ACE Vestibulum.\n\nIn colloquiis sunt tailored ad officium positus vos erant 'quaerens, et erit informibus et adaequatum cum quaestiones ad vos proposita ad melius represent realis officium colloquium.\n\nPremium users mos quoque accipere a fama ad finem cuiusque colloquium summatizing colloquium cum feedback et consilium in quam ad amplio vestri casus questus conducto in realis officium colloquium.",
+      "taglines": [
+        "Parari pro proximo officium!",
+        "Practice pro proximo officium colloquium!",
+        "ACE Next Job colloquium cum AI!",
+        "Next professional victoria manet hic"
+      ],
+      "premium_benefits": [
+        "Tollit ads",
+        "Unlimited colloquiis",
+        "Accipite tradit cum feedback et consilium"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Menstruus",
+      "annual": "Annuus",
+      "cancel_anytime": "Inrita aliquando",
+      "save_discount": "Salve",
+      "subscribe": "Subscribo",
+      "restore_purchases": "Restituo emit",
+      "premium_benefits": [
+        "Removere ads",
+        "Unlimited colloquiis cum non cooldowns",
+        "Accipite tradit cum feedback et consilio post conloquiis"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Auxilium transferendum",
+    "description": "Auxilium translate hoc applicationem aliis linguis."
+  }
+}

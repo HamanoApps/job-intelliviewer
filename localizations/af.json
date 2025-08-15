@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premie",
+      "free": "Gratis weergawe"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Oefen vir u volgende werksonderhoud!",
+      "message": "Maak u werksonderhoude senuweeagtig en angstig?\nMiskien voel u nog onvoorbereid om werksonderhoude te neem?\nDit is die perfekte app om u gespreksvaardighede in 'n werksonderhoud te oefen!"
+    },
+    {
+      "title": "Wees voorbereid op u volgende werk!",
+      "message": "Job Intelliviewer gebruik die krag van kunsmatige intelligensie om realistiese bespotlike werksonderhoude te voer om u te help om die gespreksvaardighede te benut wat nodig is om 'n goeie indruk op die werklike werwers te maak en u bereid te maak om u volgende werklike lewensonderhoud te bewerkstellig."
+    },
+    {
+      "title": "Premium intekening:",
+      "message": "Ontvang 'n verslag aan die einde van elke onderhoud wat die gesprek met terugvoering en advies oor hoe u u kanse om in 'n regte werksonderhoud gehuur te word, opsom."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Tuiste",
+      "interview": "Onderhoud",
+      "resume_cv": "Hervat",
+      "history": "Geskiedenis",
+      "history_entry": "Geskiedenis inskrywing",
+      "reports": "Verslae",
+      "settings": "Instellings"
+    }
+  },
+  "title": {
+    "attention": "Aandag",
+    "information": "Informasie"
+  },
+  "label": {
+    "search": "Soek"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Agter",
+    "close": "Dig",
+    "cancel": "Kanselleer",
+    "delete": "Verwyder",
+    "review": "Resenseer",
+    "subscribe": "Inteken"
+  },
+  "language": {
+    "title": "Taal",
+    "select": "Kies taal",
+    "altered": "Taal verander"
+  },
+  "history": {
+    "empty": "Leë geskiedenis",
+    "delete": {
+      "list": {
+        "title": "Vee geskiedenis uit?",
+        "message": "Is u seker dat u die hele geskiedenis wil uitvee?",
+        "deleted": "Geskiedenis geskrap."
+      },
+      "entry": {
+        "title": "VERWYDERING VANDAG?",
+        "message": "Is u seker dat u hierdie onderhoud wil uitvee?",
+        "deleted": "Geskiedenis geskrap."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Naam",
+      "first_name": "Voornaam",
+      "date_of_birth": "Geboortedatum",
+      "job_position": "Werkposisie",
+      "job_position_detailed": "Gedetailleerde werkposisie",
+      "education": "Opvoeding",
+      "courses": "Kursusse",
+      "experience": "Ondervinding",
+      "add": {
+        "education": "Voeg nuwe onderwys by",
+        "courses": "Voeg nuwe kursus by",
+        "experience": "Voeg nuwe ervaring by"
+      },
+      "error": {
+        "validation": {
+          "title": "Valideringsfout",
+          "invalid_fields": "Voeg 'n geldige rolposisie in om aansoek te doen vir 'n nuwe werksonderhoud.\nAlternatief",
+          "unable_to_validate": "Kan nie velde valideer nie."
+        }
+      }
+    },
+    "education": {
+      "institution": "Instelling",
+      "degree": "Grade",
+      "start": "Aanskakel",
+      "end": "Einde"
+    },
+    "courses": {
+      "institution": "Instelling",
+      "title_of_course": "Titel natuurlik",
+      "course_load": "Kursusbelasting"
+    },
+    "experience": {
+      "company": "Kompanie",
+      "position": "Posisie",
+      "start": "Aanskakel",
+      "end": "Einde"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Donker tema",
+      "description": "Kies tussen ligte en donker tema.\nStel outomaties op die tema van die toestel die eerste keer dat u die app oopmaak."
+    },
+    "language": {
+      "name": "Taal",
+      "description": "Kies die voorgestelde taal om te vertoon terwyl u die toepassing gebruik en tydens die onderhoude met die AI praat."
+    },
+    "notifications": {
+      "saved": "Instellings gestoor"
+    },
+    "search": {
+      "not_found": "Geen resultate gevind nie."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nuwe onderhoud",
+      "resume": "Hervat onderhoud"
+    },
+    "generating": "Nuwe onderhoud te genereer"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tik om weer te probeer"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Tik u boodskap in ...",
+    "max_length": "Maksimum lengte bereik"
+  },
+  "cooldown": {
+    "description": "Met die gratis weergawe van die app kan u een onderhoud per uur neem.\n\nAs u die beperkings wil verwyder, die advertensies verwyder en 'n terugvoeringsverslag ontvang met advies oor hoe om na elke onderhoud te verbeter, oorweeg dit om in te teken op premium.",
+    "active": "Wag vir die koeldrank -timer voordat u 'n nuwe onderhoud genereer.\n\nAs u koeldrank wil verwyder, advertensies verwyder en 'n terugvoeringsverslag ontvang met advies oor hoe om na elke onderhoud te verbeter, oorweeg dit om in te teken op premium.",
+    "timer": {
+      "wait": "Wag",
+      "second": "sekonde",
+      "seconds": "sekondes"
+    }
+  },
+  "report": {
+    "title": "Verslag",
+    "summary": "Opsomming",
+    "feedback": "Terugvoer",
+    "advice": "Advies",
+    "button": {
+      "view": "View Report",
+      "unlock": "Ontsluit verslag",
+      "get": "Kry verslag"
+    },
+    "generating": "Genereer verslag ..."
+  },
+  "review": {
+    "request": "As u van die app gehou het, oorweeg dit om 'n resensie te laat om ons te help.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Baie dankie!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nuwe onderhoud beskikbaar!",
+      "message": "U het 'n nuwe onderhoud beskikbaar om Job IntelliViewer aan te pak."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premie",
+      "type": "Intekening",
+      "subscribe": "Inteken",
+      "invitation": "Teken in op premium",
+      "active": "Premium intekening aktief",
+      "thanks": "Dankie dat u inteken op premium! Ons wens u sterkte en sukses toe met al u toekomstige onderhoude!",
+      "menu": {
+        "title": "Premium intekening",
+        "subtitle": "Teken in op die premiumplan"
+      }
+    },
+    "error": {
+      "subscription": "Fout probeer om u aankoop te bekragtig.",
+      "connection": "Verbindingsfout.\n\nKan nie aan die winkel koppel nie.",
+      "products": "Kan nie die produkopsies nagaan nie.",
+      "subscription_options": "Kan nie intekeningplanne laai nie.\n\nGaan asseblief u internetverbinding na, of probeer later weer."
+    }
+  },
+  "error": {
+    "title": "Fout",
+    "unexpected": "Iets het verkeerd geloop ... jy sal dit nie sien nie! 😱",
+    "connection": "Konneksie",
+    "connection_fix": "Gaan u internetverbinding na en probeer later weer.",
+    "ai": {
+      "no_response": "Geen reaksie nie",
+      "unexpected": "Onverwags",
+      "internal_server_error": "Interne bedienerfout"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Oefen vir u volgende werksonderhoud met hierdie realistiese AI -simulator",
+      "full_description": "Maak u werksonderhoude senuweeagtig en angstig?\nMiskien voel u nog onvoorbereid om werksonderhoude te neem?\nDit is die perfekte app om u gespreksvaardighede in 'n werksonderhoud te oefen!\n\nJob Intelliviewer gebruik die krag van kunsmatige intelligensie om realistiese bespotlike werksonderhoude te voer om u te help om die gespreksvaardighede te benut wat nodig is om 'n goeie indruk op die werklike werwers te maak en u bereid te maak om u volgende onderhoud te vra.\n\nDie onderhoude is aangepas vir die werkposisie wat u soek, en sal gevorm en aangepas word met vrae wat verband hou met u doelwitte om 'n werklike werksonderhoud beter te verteenwoordig.\n\nPremium -gebruikers sal ook aan die einde van elke onderhoud 'n verslag ontvang wat die gesprek met terugvoering en advies oor hoe u u kanse om in 'n werklike werksonderhoud gehuur te word, op te som.",
+      "taglines": [
+        "Wees voorbereid op u volgende werk!",
+        "Oefen vir u volgende werksonderhoud!",
+        "Ace jou volgende werksonderhoud met AI!",
+        "U volgende professionele sukses wag hier op u!"
+      ],
+      "premium_benefits": [
+        "Verwyder advertensies",
+        "Onbeperkte onderhoude",
+        "Ontvang verslae met terugvoer en advies"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premie",
+      "monthly": "Maandeliks",
+      "annual": "Jaarliks",
+      "cancel_anytime": "Kanselleer enige tyd",
+      "save_discount": "Red",
+      "subscribe": "Inteken",
+      "restore_purchases": "Herstel aankope",
+      "premium_benefits": [
+        "Verwyder advertensies",
+        "Onbeperkte onderhoude sonder koeldrank",
+        "Ontvang verslae met terugvoer en advies na onderhoude"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Help vertaal",
+    "description": "Help om hierdie toepassing in ander tale te vertaal."
+  }
+}

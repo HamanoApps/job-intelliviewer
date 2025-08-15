@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premiwm",
+      "free": "Fersiwn am ddim"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Ymarfer ar gyfer eich cyfweliad swydd nesaf!",
+      "message": "A yw cymryd cyfweliadau swydd yn eich cael yn nerfus ac yn bryderus?\nEfallai eich bod chi'n dal i deimlo'n barod i gymryd cyfweliadau swydd?\nDyma'r ap perffaith i ymarfer eich sgiliau sgwrsio mewn lleoliad cyfweliad swydd!"
+    },
+    {
+      "title": "Byddwch yn barod ar gyfer eich swydd nesaf!",
+      "message": "Mae Job Intelliviewer yn defnyddio pŵer deallusrwydd artiffisial i gynnal ffug gyfweliadau swyddi realistig i'ch helpu chi i harneisio'r sgiliau sgwrsio sydd eu hangen i wneud argraff dda ar recriwtwyr bywyd go iawn a'ch gwneud chi'n barod i gadw'ch cyfweliad bywyd go iawn nesaf."
+    },
+    {
+      "title": "Tanysgrifiad Premiwm:",
+      "message": "Derbyn adroddiad ar ddiwedd pob cyfweliad yn crynhoi'r sgwrs gydag adborth a chyngor ar sut i wella'ch siawns o gael eich cyflogi mewn cyfweliad swydd go iawn."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Nghartrefi",
+      "interview": "Chyfwelan",
+      "resume_cv": "Ailwerthu",
+      "history": "Hanes",
+      "history_entry": "Mynediad Hanes",
+      "reports": "Adroddiadau",
+      "settings": "Ngosodiadau"
+    }
+  },
+  "title": {
+    "attention": "Sylw",
+    "information": "Ngwybodaeth"
+  },
+  "label": {
+    "search": "Chwiloon"
+  },
+  "button": {
+    "ok": "Iawn",
+    "back": "Baciwn",
+    "close": "Chaewch",
+    "cancel": "Chansliff",
+    "delete": "Croeswn",
+    "review": "Hadolygodd",
+    "subscribe": "Tanysgrifiwyd"
+  },
+  "language": {
+    "title": "Hiaith",
+    "select": "Dewiswch Iaith",
+    "altered": "Newidiwyd iaith"
+  },
+  "history": {
+    "empty": "Hanes Gwag",
+    "delete": {
+      "list": {
+        "title": "Dileu Hanes?",
+        "message": "Ydych chi'n siŵr eich bod chi am ddileu'r hanes cyfan?",
+        "deleted": "Dileu Hanes."
+      },
+      "entry": {
+        "title": "Dileu Cyfweliad?",
+        "message": "Ydych chi'n siŵr eich bod chi am ddileu'r cyfweliad hwn?",
+        "deleted": "Dileu Hanes."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Alwai",
+      "first_name": "Enw cyntaf",
+      "date_of_birth": "Dyddiad geni",
+      "job_position": "Swydd",
+      "job_position_detailed": "Swydd fanwl",
+      "education": "Addysg",
+      "courses": "Nghyrsiau",
+      "experience": "Phrofai",
+      "add": {
+        "education": "Ychwanegu addysg newydd",
+        "courses": "Ychwanegu Cwrs Newydd",
+        "experience": "Ychwanegwch brofiad newydd"
+      },
+      "error": {
+        "validation": {
+          "title": "Gwall Dilysu",
+          "invalid_fields": "Mewnosod rôl swydd ddilys i wneud cais am gyfweliad swydd newydd.\nFel arall",
+          "unable_to_validate": "Methu dilysu meysydd."
+        }
+      }
+    },
+    "education": {
+      "institution": "Sefydliadau",
+      "degree": "Raddfa",
+      "start": "Tasgaf",
+      "end": "Terfyna ’"
+    },
+    "courses": {
+      "institution": "Sefydliadau",
+      "title_of_course": "Teitl wrth gwrs",
+      "course_load": "Llwyth Cwrs"
+    },
+    "experience": {
+      "company": "Nghwmnïau",
+      "position": "Safle",
+      "start": "Tasgaf",
+      "end": "Terfyna ’"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Thema dywyll",
+      "description": "Dewiswch rhwng thema ysgafn a thywyll.\nWedi'i osod yn awtomatig i thema'r ddyfais y tro cyntaf i chi agor yr ap."
+    },
+    "language": {
+      "name": "Hiaith",
+      "description": "Dewiswch yr iaith a ffefrir i'w harddangos wrth ddefnyddio'r cais a siarad â'r AI yn ystod y cyfweliadau."
+    },
+    "notifications": {
+      "saved": "Gosodiadau wedi'u cadw"
+    },
+    "search": {
+      "not_found": "Ni ddarganfuwyd unrhyw ganlyniadau."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Cyfweliad Newydd",
+      "resume": "Ailddechrau cyfweliad"
+    },
+    "generating": "Cynhyrchu Cyfweliad Newydd"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap i Ailgychwyn"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Teipiwch eich neges ...",
+    "max_length": "Yr hyd uchaf a gyrhaeddwyd"
+  },
+  "cooldown": {
+    "description": "Mae'r fersiwn am ddim o'r app yn caniatáu ichi gymryd un cyfweliad yr awr.\n\nOs hoffech chi gael gwared ar y cyfyngiadau, cael gwared ar yr hysbysebion, a derbyn adroddiad adborth gyda chyngor ar sut i wella ar ôl pob cyfweliad, ystyriwch danysgrifio i bremiwm.",
+    "active": "Arhoswch am amserydd cooldown cyn cynhyrchu cyfweliad newydd.\n\nOs hoffech chi gael gwared ar cooldowns, cael gwared ar hysbysebion, a derbyn adroddiad adborth gyda chyngor ar sut i wella ar ôl pob cyfweliad, ystyriwch danysgrifio i bremiwm.",
+    "timer": {
+      "wait": "Aros",
+      "second": "heiliwn",
+      "seconds": "eiliadau"
+    }
+  },
+  "report": {
+    "title": "Gohebet",
+    "summary": "Nghryno",
+    "feedback": "Adborth",
+    "advice": "Nghyngor",
+    "button": {
+      "view": "Gweld yr Adroddiad",
+      "unlock": "Adroddiad Datglo",
+      "get": "Cael Adroddiad"
+    },
+    "generating": "Adroddiad Cynhyrchu ..."
+  },
+  "review": {
+    "request": "Os oeddech chi'n hoffi'r app, ystyriwch adael adolygiad i'n helpu.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Diolch yn fawr iawn!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Cyfweliad newydd ar gael!",
+      "message": "Mae gennych gyfweliad newydd ar gael i ymgymryd â Intelliviewer Job."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premiwm",
+      "type": "Tanysgrifiadau",
+      "subscribe": "Tanysgrifiwyd",
+      "invitation": "Tanysgrifiwch i Premiwm",
+      "active": "Tanysgrifiad Premiwm yn weithredol",
+      "thanks": "Diolch am danysgrifio i Premiwm! Rydym yn dymuno pob lwc a llwyddiant i chi ar eich holl gyfweliadau yn y dyfodol!",
+      "menu": {
+        "title": "Tanysgrifiad Premiwm",
+        "subtitle": "Tanysgrifiwch i'r Cynllun Premiwm"
+      }
+    },
+    "error": {
+      "subscription": "Gwall yn ceisio dilysu'ch pryniant.",
+      "connection": "Gwall cysylltiad.\n\nMethu cysylltu â'r siop.",
+      "products": "Methu gwirio opsiynau cynnyrch.",
+      "subscription_options": "Methu llwytho cynlluniau tanysgrifio.\n\nOs gwelwch yn dda, gwiriwch eich cysylltiad Rhyngrwyd, neu ceisiwch eto yn nes ymlaen."
+    }
+  },
+  "error": {
+    "title": "Gwallau",
+    "unexpected": "Aeth rhywbeth o'i le ... ni wnaethoch chi fod yn gweld hyn! 😱",
+    "connection": "Chysylltiad",
+    "connection_fix": "Gwiriwch eich cysylltiad Rhyngrwyd a rhoi cynnig arall arni yn nes ymlaen.",
+    "ai": {
+      "no_response": "Dim Ymateb",
+      "unexpected": "Annisgwyl",
+      "internal_server_error": "Gwall Gweinydd Mewnol"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Ymarfer ar gyfer eich cyfweliad swydd nesaf gyda'r efelychydd AI realistig hwn",
+      "full_description": "A yw cymryd cyfweliadau swydd yn eich cael yn nerfus ac yn bryderus?\nEfallai eich bod chi'n dal i deimlo'n barod i gymryd cyfweliadau swydd?\nDyma'r ap perffaith i ymarfer eich sgiliau sgwrsio mewn lleoliad cyfweliad swydd!\n\nMae Job Intelliviewer yn defnyddio pŵer deallusrwydd artiffisial i gynnal ffug gyfweliadau ffug realistig i'ch helpu chi i harneisio'r sgiliau sgwrsio sydd eu hangen i wneud argraff dda ar recriwtwyr bywyd go iawn a'ch gwneud chi'n barod i gadw'ch cyfweliad nesaf.\n\nMae'r cyfweliadau wedi'u teilwra i'r swydd rydych chi'n ei cheisio, a byddant yn cael eu siapio a'u haddasu gyda chwestiynau sy'n ymwneud â'ch nodau i gynrychioli cyfweliad swydd go iawn yn well.\n\nBydd defnyddwyr premiwm hefyd yn derbyn adroddiad ar ddiwedd pob cyfweliad yn crynhoi'r sgwrs gydag adborth a chyngor ar sut i wella'ch siawns o gael eich cyflogi mewn cyfweliad swydd go iawn.",
+      "taglines": [
+        "Byddwch yn barod ar gyfer eich swydd nesaf!",
+        "Ymarfer ar gyfer eich cyfweliad swydd nesaf!",
+        "Ace eich cyfweliad swydd nesaf gydag AI!",
+        "Mae eich llwyddiant proffesiynol nesaf yn aros amdanoch chi yma!"
+      ],
+      "premium_benefits": [
+        "Yn cael gwared ar hysbysebion",
+        "Cyfweliadau diderfyn",
+        "Derbyn adroddiadau gydag adborth a chyngor"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premiwm",
+      "monthly": "Misol",
+      "annual": "Flynyddol",
+      "cancel_anytime": "Canslo unrhyw bryd",
+      "save_discount": "Hiachasit",
+      "subscribe": "Tanysgrifiwyd",
+      "restore_purchases": "Adfer pryniannau",
+      "premium_benefits": [
+        "Tynnwch yr hysbysebion",
+        "Cyfweliadau diderfyn heb ddim cooldowns",
+        "Derbyn adroddiadau gydag adborth a chyngor ar ôl cyfweliadau"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Helpu i gyfieithu",
+    "description": "Helpu i drosi'r cymhwysiad hwn i ieithoedd eraill."
+  }
+}

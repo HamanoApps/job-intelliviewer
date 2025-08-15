@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Iðgjald",
+      "free": "Ókeypis útgáfa"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Æfðu í næsta atvinnuviðtal!",
+      "message": "Vekur þú atvinnuviðtöl þér kvíðin og kvíða?\nKannski finnst þér samt óundirbúið að taka atvinnuviðtöl?\nÞetta er hið fullkomna app til að æfa samtalshæfileika þína í starfsviðtali!"
+    },
+    {
+      "title": "Vertu tilbúinn fyrir næsta starf!",
+      "message": "Job Intelliviewer notar kraft gervigreindar til að halda raunhæfar spotta viðtöl til að hjálpa þér að virkja samtalshæfileikana sem þarf til að setja góðan svip á ráðningaraðila í raunveruleikanum og gera þig tilbúna til að ace næsta raunverulegt viðtal þitt."
+    },
+    {
+      "title": "Premium áskrift:",
+      "message": "Fáðu skýrslu í lok hvers viðtals sem dregur saman samtalið með endurgjöf og ráðgjöf um hvernig eigi að bæta líkurnar á því að fá ráðningu í raunverulegt atvinnuviðtal."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Heim",
+      "interview": "Viðtal",
+      "resume_cv": "Halda áfram",
+      "history": "Saga",
+      "history_entry": "Sögufærsla",
+      "reports": "Skýrslur",
+      "settings": "Stillingar"
+    }
+  },
+  "title": {
+    "attention": "Athygli",
+    "information": "Upplýsingar"
+  },
+  "label": {
+    "search": "Leitaðu"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Aftur",
+    "close": "Lokaðu",
+    "cancel": "Hætta við",
+    "delete": "Eyða",
+    "review": "Umfjöllun",
+    "subscribe": "Gerast áskrifandi"
+  },
+  "language": {
+    "title": "Tungumál",
+    "select": "Veldu tungumál",
+    "altered": "Tungumál breytt"
+  },
+  "history": {
+    "empty": "Tóm saga",
+    "delete": {
+      "list": {
+        "title": "Eyða sögu?",
+        "message": "Ertu viss um að þú viljir eyða allri sögunni?",
+        "deleted": "Saga eytt."
+      },
+      "entry": {
+        "title": "Eyða viðtali?",
+        "message": "Ertu viss um að þú viljir eyða þessu viðtali?",
+        "deleted": "Saga eytt."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nafn",
+      "first_name": "Fornafn",
+      "date_of_birth": "Fæðingardag",
+      "job_position": "Atvinnustaða",
+      "job_position_detailed": "Ítarleg starfsstöðu",
+      "education": "Menntun",
+      "courses": "Námskeið",
+      "experience": "Reynsla",
+      "add": {
+        "education": "Bættu við nýrri menntun",
+        "courses": "Bættu við nýju námskeiði",
+        "experience": "Bættu við nýrri reynslu"
+      },
+      "error": {
+        "validation": {
+          "title": "Staðfestingarvilla",
+          "invalid_fields": "Settu inn gilt starfshlutverk til að sækja um nýtt starfsviðtal.\nAð öðrum kosti",
+          "unable_to_validate": "Ekki er hægt að staðfesta reiti."
+        }
+      }
+    },
+    "education": {
+      "institution": "Stofnun",
+      "degree": "Gráðu",
+      "start": "Byrjaðu",
+      "end": "Enda"
+    },
+    "courses": {
+      "institution": "Stofnun",
+      "title_of_course": "Titill auðvitað",
+      "course_load": "Námskeiðsálag"
+    },
+    "experience": {
+      "company": "Fyrirtæki",
+      "position": "Staða",
+      "start": "Byrjaðu",
+      "end": "Enda"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Dimmt þema",
+      "description": "Veldu á milli ljóss og dökks þema.\nSjálfkrafa stillt á þema tækisins í fyrsta skipti sem þú opnar forritið."
+    },
+    "language": {
+      "name": "Tungumál",
+      "description": "Veldu valið tungumál til að birta meðan þú notar forritið og talaðu við AI meðan á viðtölunum stendur."
+    },
+    "notifications": {
+      "saved": "Stillingar vistaðar"
+    },
+    "search": {
+      "not_found": "Engar niðurstöður fundust."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nýtt viðtal",
+      "resume": "Halda áfram viðtali"
+    },
+    "generating": "Að búa til nýtt viðtal"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Pikkaðu á að reyna aftur"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Sláðu inn skilaboðin þín ...",
+    "max_length": "Hámarkslengd náði"
+  },
+  "cooldown": {
+    "description": "Ókeypis útgáfa appsins gerir þér kleift að taka eitt viðtal á klukkustund.\n\nEf þú vilt fjarlægja takmarkanirnar skaltu fjarlægja auglýsingarnar og fá endurgjöf skýrslu með ráðgjöf um hvernig eigi að bæta eftir hvert viðtal skaltu íhuga að gerast áskrifandi að iðgjaldi.",
+    "active": "Bíddu eftir cooldown tímamælinum áður en þú býrð til nýtt viðtal.\n\nEf þú vilt fjarlægja cooldowns skaltu fjarlægja auglýsingar og fá endurgjöf skýrslu með ráðgjöf um hvernig eigi að bæta eftir hvert viðtal, íhugaðu að gerast áskrifandi að iðgjaldi.",
+    "timer": {
+      "wait": "Bíddu",
+      "second": "annað",
+      "seconds": "sekúndur"
+    }
+  },
+  "report": {
+    "title": "Skýrsla",
+    "summary": "Yfirlit",
+    "feedback": "Endurgjöf",
+    "advice": "Ráð",
+    "button": {
+      "view": "Skoða skýrslu",
+      "unlock": "Opnaðu skýrslu",
+      "get": "Fáðu skýrslu"
+    },
+    "generating": "Búa til skýrslu ..."
+  },
+  "review": {
+    "request": "Ef þér líkaði vel við appið skaltu íhuga að skilja eftir endurskoðun til að hjálpa okkur.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Þakka þér kærlega!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nýtt viðtal í boði!",
+      "message": "Þú ert með nýtt viðtal til að taka við Job Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Iðgjald",
+      "type": "Áskrift",
+      "subscribe": "Gerast áskrifandi",
+      "invitation": "Gerast áskrifandi að iðgjaldi",
+      "active": "Premium áskrift virk",
+      "thanks": "Þakka þér fyrir að gerast áskrifandi að Premium! Við óskum þér góðs gengis og velgengni í öllum framtíðarviðtölum þínum!",
+      "menu": {
+        "title": "Premium áskrift",
+        "subtitle": "Gerast áskrifandi að úrvalsáætluninni"
+      }
+    },
+    "error": {
+      "subscription": "Villa við að reyna að staðfesta kaupin.",
+      "connection": "Tengingarvilla.\n\nEkki er hægt að tengjast versluninni.",
+      "products": "Ekki er hægt að athuga vöruvalkosti.",
+      "subscription_options": "Ekki er hægt að hlaða áskriftaráætlanir.\n\nVinsamlegast athugaðu internettenginguna þína, eða reyndu aftur seinna."
+    }
+  },
+  "error": {
+    "title": "Villa",
+    "unexpected": "Eitthvað fór úrskeiðis ... þú myndir ekki sjá þetta! 😱",
+    "connection": "Tenging",
+    "connection_fix": "Athugaðu internettenginguna þína og reyndu aftur seinna.",
+    "ai": {
+      "no_response": "Engin svör",
+      "unexpected": "Óvænt",
+      "internal_server_error": "Innri villa á netþjóni"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Æfðu í næsta atvinnuviðtali þínu við þennan raunsæa AI hermir",
+      "full_description": "Vekur þú atvinnuviðtöl þér kvíðin og kvíða?\nKannski finnst þér samt óundirbúið að taka atvinnuviðtöl?\nÞetta er hið fullkomna app til að æfa samtalshæfileika þína í starfsviðtali!\n\nJob Intelliviewer notar kraft gervigreindar til að halda raunhæfar spotta viðtöl til að hjálpa þér að virkja þá samtalshæfileika sem þarf til að láta gott af sér leiða til ráðninga í raunveruleikanum og gera þig tilbúna til að gera næsta viðtal þitt.\n\nViðtölin eru sniðin að atvinnustöðu sem þú ert að leita að og verða mótað og aðlagað með spurningum sem tengjast markmiðum þínum til að tákna betur starfsviðtal.\n\nINDERIUM notendur munu einnig fá skýrslu í lok hvers viðtals sem dregur saman samtalið með endurgjöf og ráðgjöf um hvernig eigi að bæta líkurnar á því að verða ráðnir í raunverulegt atvinnuviðtal.",
+      "taglines": [
+        "Vertu tilbúinn fyrir næsta starf!",
+        "Æfðu í næsta atvinnuviðtal!",
+        "Ás næsta atvinnuviðtal við AI!",
+        "Næsti faglegur árangur þinn bíður þín hér!"
+      ],
+      "premium_benefits": [
+        "Fjarlægir auglýsingar",
+        "Ótakmörkuð viðtöl",
+        "Fáðu skýrslur með endurgjöf og ráðgjöf"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Iðgjald",
+      "monthly": "Mánaðarlega",
+      "annual": "Árleg",
+      "cancel_anytime": "Hætta við hvenær sem er",
+      "save_discount": "Vista",
+      "subscribe": "Gerast áskrifandi",
+      "restore_purchases": "Endurheimta kaup",
+      "premium_benefits": [
+        "Fjarlægðu auglýsingar",
+        "Ótakmarkað viðtöl án kólnanna",
+        "Fáðu skýrslur með endurgjöf og ráðgjöf eftir viðtöl"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Hjálpaðu til við að þýða",
+    "description": "Hjálpaðu til við að þýða þetta forrit á önnur tungumál."
+  }
+}

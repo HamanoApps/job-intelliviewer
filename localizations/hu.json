@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PRÉMIUM",
+      "free": "Ingyenes változat"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Gyakorold a következő állásinterjúra!",
+      "message": "Az állásinterjúk szedése ideges és szorongó?\nTalán még mindig felkészületlennek érzi magát az állásinterjúk készítésére?\nEz a tökéletes alkalmazás a beszélgetési készségeinek gyakorlásához egy állásinterjúkban!"
+    },
+    {
+      "title": "Legyen felkészülve a következő munkájára!",
+      "message": "A Job Intelliviewer a mesterséges intelligencia hatalmát használja realisztikus modell -interjúk készítésére, hogy segítsen kihasználni a beszélgetési készségeket, hogy jó benyomást keltsenek a valós élet toborzókra, és felkészítsék Önt a következő valós interjúk ászára."
+    },
+    {
+      "title": "Prémium előfizetés:",
+      "message": "Minden interjú végén kapjon jelentést, amelyben a beszélgetést visszajelzéssel és tanácsokkal összefoglalja, hogyan lehetne javítani az esélyét, hogy valódi állásinterjúban felvegye a felvételt."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Otthon",
+      "interview": "Interjú",
+      "resume_cv": "Önéletrajz",
+      "history": "Történelem",
+      "history_entry": "Történelem bejegyzés",
+      "reports": "Jelentések",
+      "settings": "Beállítások"
+    }
+  },
+  "title": {
+    "attention": "Figyelem",
+    "information": "Információ"
+  },
+  "label": {
+    "search": "Keresés"
+  },
+  "button": {
+    "ok": "RENDBEN",
+    "back": "Vissza",
+    "close": "Közeli",
+    "cancel": "Töröl",
+    "delete": "Töröl",
+    "review": "Áttekintés",
+    "subscribe": "Feliratkozás"
+  },
+  "language": {
+    "title": "Nyelv",
+    "select": "Válassza ki a nyelvet",
+    "altered": "A nyelv megváltozott"
+  },
+  "history": {
+    "empty": "Üres történelem",
+    "delete": {
+      "list": {
+        "title": "Törölje az előzményeket?",
+        "message": "Biztos benne, hogy törölni akarja az egész előzményt?",
+        "deleted": "A történelem törölte."
+      },
+      "entry": {
+        "title": "Törölje az interjút?",
+        "message": "Biztos benne, hogy törölni akarja ezt az interjút?",
+        "deleted": "A történelem törölte."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Név",
+      "first_name": "Keresztnév",
+      "date_of_birth": "Születési idő",
+      "job_position": "Munkakör",
+      "job_position_detailed": "Részletes munkakör",
+      "education": "Oktatás",
+      "courses": "Tanfolyamok",
+      "experience": "Tapasztalat",
+      "add": {
+        "education": "Adjon hozzá új oktatást",
+        "courses": "Adjon hozzá új tanfolyamot",
+        "experience": "Adjon hozzá új élményt"
+      },
+      "error": {
+        "validation": {
+          "title": "Érvényesítési hiba",
+          "invalid_fields": "Helyezzen be egy érvényes munkaköri szerepet, hogy új állásinterjúra jelentkezzen.\nAlternatívaként",
+          "unable_to_validate": "Nem lehet érvényesíteni a mezőket."
+        }
+      }
+    },
+    "education": {
+      "institution": "Intézmény",
+      "degree": "Fokozat",
+      "start": "Indul",
+      "end": "Vége"
+    },
+    "courses": {
+      "institution": "Intézmény",
+      "title_of_course": "Cím természetesen",
+      "course_load": "Kurzusterhelés"
+    },
+    "experience": {
+      "company": "Vállalat",
+      "position": "Pozíció",
+      "start": "Indul",
+      "end": "Vége"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Sötét téma",
+      "description": "Válasszon a könnyű és a sötét témát.\nAz alkalmazás első megnyitásakor automatikusan beállítva az eszköz témájára."
+    },
+    "language": {
+      "name": "Nyelv",
+      "description": "Válassza ki az alkalmazás használatakor a megjelenítendő preferált nyelvet, és beszéljen az AI -vel az interjúk során."
+    },
+    "notifications": {
+      "saved": "Beállítások mentve"
+    },
+    "search": {
+      "not_found": "Nincs eredmény."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Új interjú",
+      "resume": "Interjú folytatása"
+    },
+    "generating": "Új interjú létrehozása"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Érintse meg az újrahasznosítást"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Írja be az üzenetét ...",
+    "max_length": "A maximális hossz elért"
+  },
+  "cooldown": {
+    "description": "Az alkalmazás ingyenes verziója lehetővé teszi, hogy óránként egy interjút készítsen.\n\nHa el szeretné távolítani a korlátozásokat, távolítsa el a hirdetéseket, és kapjon visszajelzési jelentést az egyes interjúk utáni javításhoz, fontolja meg a prémium feliratkozását.",
+    "active": "Várja meg a Cooldown időzítőt, mielőtt új interjút készít.\n\nHa el akarja távolítani a hűtéseket, távolítsa el a hirdetéseket, és kapjon visszajelzési jelentést az egyes interjúk utáni javításhoz, fontolja meg a prémium feliratkozását.",
+    "timer": {
+      "wait": "Várjon",
+      "second": "második",
+      "seconds": "másodpercek"
+    }
+  },
+  "report": {
+    "title": "Jelentés",
+    "summary": "Összefoglalás",
+    "feedback": "Visszacsatolás",
+    "advice": "Tanács",
+    "button": {
+      "view": "Jelentés megtekintése",
+      "unlock": "Felszabadítja a jelentést",
+      "get": "Jelentést szerez"
+    },
+    "generating": "Jelentés generálása ..."
+  },
+  "review": {
+    "request": "Ha tetszett az alkalmazás, kérjük, fontolja meg a véleményt, hogy segítsen nekünk.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Köszönöm szépen!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Új interjú elérhető!",
+      "message": "Van egy új interjú, amely elérhető a Job Intelliviewer számára."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PRÉMIUM",
+      "type": "Előfizetés",
+      "subscribe": "Feliratkozás",
+      "invitation": "Iratkozzon fel a Premiumra",
+      "active": "Prémium előfizetés aktív",
+      "thanks": "Köszönjük, hogy feliratkozott a prémiumra! Sok szerencsét és sikert kívánunk minden jövőbeli interjújában!",
+      "menu": {
+        "title": "Prémium előfizetés",
+        "subtitle": "Iratkozzon fel a prémium tervre"
+      }
+    },
+    "error": {
+      "subscription": "Hiba, hogy megpróbálja érvényesíteni a vásárlást.",
+      "connection": "Csatlakozási hiba.\n\nNem lehet csatlakozni a bolthoz.",
+      "products": "Nem lehet ellenőrizni a termék lehetőségeit.",
+      "subscription_options": "Nem lehet előfizetési terveket betölteni.\n\nKérjük, ellenőrizze az internetkapcsolatát, vagy próbálja újra később."
+    }
+  },
+  "error": {
+    "title": "Hiba",
+    "unexpected": "Valami rosszul ment ... nem látnád ezt! 😱",
+    "connection": "Kapcsolat",
+    "connection_fix": "Ellenőrizze az internetkapcsolatát, és próbálkozzon újra később.",
+    "ai": {
+      "no_response": "Nincs válasz",
+      "unexpected": "Váratlan",
+      "internal_server_error": "Belső szerver hiba"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Gyakorold a következő állásinterjút ezzel a reális AI szimulátorral",
+      "full_description": "Az állásinterjúk szedése ideges és szorongó?\nTalán még mindig felkészületlennek érzi magát az állásinterjúk készítésére?\nEz a tökéletes alkalmazás a beszélgetési készségeinek gyakorlásához egy állásinterjúkban!\n\nA Job Intelliviewer a mesterséges intelligencia hatalmát használja realisztikus modell -interjúk készítésére, hogy segítsen kihasználni a beszélgetési készségeket, hogy jó benyomást keltsenek a valós élet toborzókra, és felkészítsék Önt a következő interjú ászára.\n\nAz interjúkat a kívánt munkahelyi pozícióhoz igazítják, és kialakítják és módosítják az Ön céljaival kapcsolatos kérdésekkel, hogy jobban képviseljék a valódi állásinterjúkat.\n\nA prémium felhasználók minden interjú végén jelentést is kapnak, amelyben a beszélgetést visszajelzéssel és tanácsokkal összefoglalják, hogyan lehetne javítani az esélyét, hogy valódi állásinterjúban felvegyék a bérbeadást.",
+      "taglines": [
+        "Legyen felkészülve a következő munkájára!",
+        "Gyakorold a következő állásinterjúra!",
+        "Ásza a következő állásinterjút az AI -vel!",
+        "A következő szakmai sikered itt vár rád!"
+      ],
+      "premium_benefits": [
+        "Eltávolítja a hirdetéseket",
+        "Korlátlan interjúk",
+        "Jelentéseket kapjon visszajelzéssel és tanácsokkal"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Prémium",
+      "monthly": "Havi",
+      "annual": "Évi",
+      "cancel_anytime": "Törölje bármikor",
+      "save_discount": "Megtakarítás",
+      "subscribe": "Feliratkozás",
+      "restore_purchases": "Visszaállítja a vásárlásokat",
+      "premium_benefits": [
+        "Távolítsa el a hirdetéseket",
+        "Korlátlan interjúk hűtés nélkül",
+        "Interjúk után kapjon jelentéseket visszajelzéssel és tanácsokkal"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Segítsen a fordításnak",
+    "description": "Segítsen lefordítani ezt az alkalmazást más nyelvekre."
+  }
+}

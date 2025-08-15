@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PRÄMIE",
+      "free": "Kostenlose Version"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Übe für dein nächstes Vorstellungsgespräch!",
+      "message": "Nehmen Sie Vorstellungsgespräche nervös und ängstlich?\nVielleicht fühlen Sie sich immer noch unvorbereitet, Vorstellungsgespräche zu nehmen?\nDies ist die perfekte App, um Ihre Konversationsfähigkeiten in einem Vorstellungsgesprächsumfeld zu üben!"
+    },
+    {
+      "title": "Seien Sie auf Ihren nächsten Job vorbereitet!",
+      "message": "Job IntelliViewer nutzt die Kraft der künstlichen Intelligenz, um realistische Scheinvorstellungsgespräche durchzuführen, um die Konversationsfähigkeiten zu nutzen, die erforderlich sind, um einen guten Eindruck auf Rekrutierer im wirklichen Leben zu machen und Sie darauf vorzubereiten, Ihr nächstes Interview im wirklichen Leben zu behaupten."
+    },
+    {
+      "title": "Premium -Abonnement:",
+      "message": "Erhalten Sie am Ende jedes Interviews einen Bericht, in dem das Gespräch mit Feedback und Ratschlägen zusammenfasst, wie Sie Ihre Chancen verbessern können, in einem echten Vorstellungsgespräch eingestellt zu werden."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Heim",
+      "interview": "Interview",
+      "resume_cv": "Wieder aufnehmen",
+      "history": "Geschichte",
+      "history_entry": "History -Eintrag",
+      "reports": "Berichte",
+      "settings": "Einstellungen"
+    }
+  },
+  "title": {
+    "attention": "Aufmerksamkeit",
+    "information": "Information"
+  },
+  "label": {
+    "search": "Suchen"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Zurück",
+    "close": "Schließen",
+    "cancel": "Stornieren",
+    "delete": "Löschen",
+    "review": "Rezension",
+    "subscribe": "Abonnieren"
+  },
+  "language": {
+    "title": "Sprache",
+    "select": "Sprache auswählen",
+    "altered": "Sprache änderte sich"
+  },
+  "history": {
+    "empty": "Leere Geschichte",
+    "delete": {
+      "list": {
+        "title": "Geschichte löschen?",
+        "message": "Sind Sie sicher, dass Sie die gesamte Geschichte löschen möchten?",
+        "deleted": "Geschichte gelöscht."
+      },
+      "entry": {
+        "title": "Interview löschen?",
+        "message": "Sind Sie sicher, dass Sie dieses Interview löschen möchten?",
+        "deleted": "Geschichte gelöscht."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Name",
+      "first_name": "Vorname",
+      "date_of_birth": "Geburtsdatum",
+      "job_position": "Jobposition",
+      "job_position_detailed": "Detaillierte Arbeitsplatzposition",
+      "education": "Ausbildung",
+      "courses": "Kurse",
+      "experience": "Erfahrung",
+      "add": {
+        "education": "Neue Ausbildung hinzufügen",
+        "courses": "Neuen Kurs hinzufügen",
+        "experience": "Neue Erfahrung hinzufügen"
+      },
+      "error": {
+        "validation": {
+          "title": "Validierungsfehler",
+          "invalid_fields": "Fügen Sie eine gültige Auftragspositionsrolle ein, um ein neues Vorstellungsgespräch zu beantragen.\nAlternativ",
+          "unable_to_validate": "Felder nicht validieren."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institution",
+      "degree": "Grad",
+      "start": "Start",
+      "end": "Ende"
+    },
+    "courses": {
+      "institution": "Institution",
+      "title_of_course": "Titel natürlich",
+      "course_load": "Kursbelastung"
+    },
+    "experience": {
+      "company": "Unternehmen",
+      "position": "Position",
+      "start": "Start",
+      "end": "Ende"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Dunkles Thema",
+      "description": "Wählen Sie zwischen hellem und dunklem Thema.\nSetzen Sie automatisch auf das Thema des Geräts ein, wenn Sie die App zum ersten Mal öffnen."
+    },
+    "language": {
+      "name": "Sprache",
+      "description": "Wählen Sie die bevorzugte Sprache aus, während Sie die Anwendung verwenden und während der Interviews mit der KI sprechen."
+    },
+    "notifications": {
+      "saved": "Einstellungen gespeichert"
+    },
+    "search": {
+      "not_found": "Keine Ergebnisse gefunden."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Neues Interview",
+      "resume": "Lebenslaufinterview"
+    },
+    "generating": "Neues Interview generieren"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tippen Sie auf, um erneut zu werden"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Geben Sie Ihre Nachricht ein ...",
+    "max_length": "Maximale Länge erreicht"
+  },
+  "cooldown": {
+    "description": "Mit der kostenlosen Version der App können Sie ein Interview pro Stunde mitnehmen.\n\nWenn Sie die Einschränkungen entfernen möchten, entfernen Sie die Anzeigen und erhalten Sie einen Feedback -Bericht mit Ratschlägen zur Verbesserung nach jedem Interview. Überlegen Sie sich, ob Sie die Prämie abonnieren.",
+    "active": "Warten Sie auf den Abklingzeitstimer, bevor Sie ein neues Interview generieren.\n\nWenn Sie Abklingzeiten entfernen, Anzeigen entfernen und einen Feedback -Bericht erhalten möchten, wobei Sie sich nach jedem Interview verbessern möchten, sollten Sie sich für die Prämie abonnieren.",
+    "timer": {
+      "wait": "Warten",
+      "second": "zweite",
+      "seconds": "Sekunden"
+    }
+  },
+  "report": {
+    "title": "Bericht",
+    "summary": "Zusammenfassung",
+    "feedback": "Rückmeldung",
+    "advice": "Beratung",
+    "button": {
+      "view": "Bericht anzeigen",
+      "unlock": "Bericht entsperren",
+      "get": "Bericht erhalten"
+    },
+    "generating": "Bericht generieren ..."
+  },
+  "review": {
+    "request": "Wenn Ihnen die App gefallen hat, sollten Sie eine Bewertung verlassen, um uns zu helfen.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Vielen Dank!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Neues Interview verfügbar!",
+      "message": "Sie haben ein neues Interview zur Verfügung, um Job intelliviewer zu übernehmen."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PRÄMIE",
+      "type": "Abonnement",
+      "subscribe": "Abonnieren",
+      "invitation": "Abonnieren Sie Premium",
+      "active": "Premium -Abonnement aktiv",
+      "thanks": "Vielen Dank, dass Sie Premium abonniert haben! Wir wünschen Ihnen viel Glück und Erfolg in all Ihren zukünftigen Interviews!",
+      "menu": {
+        "title": "Premium -Abonnement",
+        "subtitle": "Abonnieren Sie den Premium -Plan"
+      }
+    },
+    "error": {
+      "subscription": "Fehler beim Versuch, Ihren Kauf zu validieren.",
+      "connection": "Verbindungsfehler.\n\nIch kann keine Verbindung zum Geschäft herstellen.",
+      "products": "Produktoptionen nicht überprüfen.",
+      "subscription_options": "Abonnementpläne nicht laden.\n\nBitte überprüfen Sie Ihre Internetverbindung oder versuchen Sie es später erneut."
+    }
+  },
+  "error": {
+    "title": "Fehler",
+    "unexpected": "Etwas ist schief gelaufen ... du würdest das nicht sehen! 😱",
+    "connection": "Verbindung",
+    "connection_fix": "Überprüfen Sie Ihre Internetverbindung und versuchen Sie es später erneut.",
+    "ai": {
+      "no_response": "Keine Antwort",
+      "unexpected": "Unerwartet",
+      "internal_server_error": "interner Serverfehler"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Üben Sie für Ihr nächstes Vorstellungsgespräch mit diesem realistischen KI -Simulator",
+      "full_description": "Nehmen Sie Vorstellungsgespräche nervös und ängstlich?\nVielleicht fühlen Sie sich immer noch unvorbereitet, Vorstellungsgespräche zu nehmen?\nDies ist die perfekte App, um Ihre Konversationsfähigkeiten in einem Vorstellungsgesprächsumfeld zu üben!\n\nJob Intelliviewer nutzt die Kraft der künstlichen Intelligenz, um realistische Scheinvorstellungsgespräche durchzuführen, um die Konversationsfähigkeiten zu nutzen, die erforderlich sind, um einen guten Eindruck auf Rekrutierer im wirklichen Leben zu machen und Sie auf Ihr nächstes Interview vorbereiten zu können.\n\nDie Interviews sind auf die von Ihnen gesuchte Arbeitsplatzposition zugeschnitten und werden mit Fragen zu Ihren Zielen geformt und angepasst, um ein echtes Vorstellungsgespräch besser darzustellen.\n\nPremium -Nutzer erhalten am Ende jedes Interviews auch einen Bericht, in dem das Gespräch mit Feedback und Ratschlägen zusammengefasst werden kann, wie Sie Ihre Chancen verbessern können, in einem echten Vorstellungsgespräch eingestellt zu werden.",
+      "taglines": [
+        "Seien Sie auf Ihren nächsten Job vorbereitet!",
+        "Übe für dein nächstes Vorstellungsgespräch!",
+        "Ace Ihr nächstes Vorstellungsgespräch mit KI!",
+        "Ihr nächster professioneller Erfolg erwartet Sie hier!"
+      ],
+      "premium_benefits": [
+        "Entfernt Anzeigen",
+        "Unbegrenzte Interviews",
+        "Erhalten Sie Berichte mit Feedback und Ratschlägen"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Prämie",
+      "monthly": "Monatlich",
+      "annual": "Jährlich",
+      "cancel_anytime": "Jederzeit abbrechen",
+      "save_discount": "Speichern",
+      "subscribe": "Abonnieren",
+      "restore_purchases": "Käufe wiederherstellen",
+      "premium_benefits": [
+        "Anzeigen entfernen",
+        "Unbegrenzte Interviews ohne Abklingzeiten",
+        "Erhalten Sie Berichte mit Feedback und Ratschlägen nach Interviews"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Hilfe übersetzen",
+    "description": "Helfen Sie, diese Anwendung in andere Sprachen zu übersetzen."
+  }
+}

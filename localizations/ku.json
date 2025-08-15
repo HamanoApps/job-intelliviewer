@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "XELAT",
+      "free": "Guhertoya belaş"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Ji bo hevpeyivîna karê xwe yê din pratîkê bikin!",
+      "message": "Ma girtina hevpeyivînên kar ji we aciz û xeyal dikirin?\nDibe ku hûn hîn jî ji bo hevpeyivînên kar bêpar bimînin?\nEv serîlêdana bêkêmasî ye ku hûn di mîhengek hevpeyivîna karûbarê we de jêhatîyên danûstendinê pratîk bikin!"
+    },
+    {
+      "title": "Ji bo karê xwe yê din amade bibin!",
+      "message": "Intellestiviewera kar ji bo ku hûn ji we re bibin alîkar ku hûn ji we re bibin alîkar ku hûn ji bo veberhênerên jiyanê yên rastîn ên ku ji we re dibe alîkar ku hûn li ser peywirdarên jiyanê yên rastîn ên ku ji we re çêbikin, ji we re çêbikin."
+    },
+    {
+      "title": "Aboneya Premium:",
+      "message": "Di dawiya her hevpeyvînê de raporek bistînin ku danûstendinê bi bertek û şîreta li ser ka hûn çawa başkirina şansên we yên di hevpeyivînek karekî rastîn de baştir bikin."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Xane",
+      "interview": "Hevpeyvîn",
+      "resume_cv": "Dîsa vekirin",
+      "history": "Dîrok",
+      "history_entry": "Dîroka têketinê",
+      "reports": "Rapor dike",
+      "settings": "Mîhengan"
+    }
+  },
+  "title": {
+    "attention": "Baldarî",
+    "information": "Agahî"
+  },
+  "label": {
+    "search": "Gerr"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Paş",
+    "close": "Nêzîkî",
+    "cancel": "Bişûndekirin",
+    "delete": "Lûleêkirin",
+    "review": "Axaftin",
+    "subscribe": "Subscribed"
+  },
+  "language": {
+    "title": "Ziman",
+    "select": "Ziman hilbijêrin",
+    "altered": "Ziman guherî"
+  },
+  "history": {
+    "empty": "Dîroka Empty",
+    "delete": {
+      "list": {
+        "title": "Dîrok jêbirin?",
+        "message": "Ma hûn guman dikin ku hûn dixwazin tevahiya dîrokê jêbirin?",
+        "deleted": "Dîrok jêbirin."
+      },
+      "entry": {
+        "title": "Hevpeyivîn jêbirin?",
+        "message": "Ma hûn guman dikin ku hûn dixwazin vê hevpeyvînê jêbirin?",
+        "deleted": "Dîrok jêbirin."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nav",
+      "first_name": "Nav",
+      "date_of_birth": "Roja bûyînê",
+      "job_position": "Pozîsyona kar",
+      "job_position_detailed": "Rewşa kar a berfireh",
+      "education": "Zanyarî",
+      "courses": "Kursên",
+      "experience": "Tecribe",
+      "add": {
+        "education": "Perwerdehiya nû zêde bikin",
+        "courses": "Kursa nû zêde bikin",
+        "experience": "Ezmûna nû zêde bikin"
+      },
+      "error": {
+        "validation": {
+          "title": "Errorewtiya erêkirinê",
+          "invalid_fields": "Rola pozîsyona karekî derbasdar bicîh bikin ku ji bo hevpeyivînek karekî nû serlêdan bikin.\nAlternatîf",
+          "unable_to_validate": "Zeviyên nekarin rast bikin."
+        }
+      }
+    },
+    "education": {
+      "institution": "Dayre",
+      "degree": "Derece",
+      "start": "Destpêkirin",
+      "end": "Dawî"
+    },
+    "courses": {
+      "institution": "Dayre",
+      "title_of_course": "Sernav Bê guman",
+      "course_load": "BARESERIYA KIRIN"
+    },
+    "experience": {
+      "company": "Şîrket",
+      "position": "Rewş",
+      "start": "Destpêkirin",
+      "end": "Dawî"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Mijara tarî",
+      "description": "Di navbera mijara tarî û tarî de hilbijêrin.\nCara yekemîn a ku hûn serlêdanê vekin, bixweber li mijara cîhazê têne danîn."
+    },
+    "language": {
+      "name": "Ziman",
+      "description": "Dema ku karanîna serlêdanê bikar bînin û di dema hevpeyivînan de bi Ai re bipeyivin, zimanê bijare hilbijêrin."
+    },
+    "notifications": {
+      "saved": "Mîhengên hatine tomarkirin"
+    },
+    "search": {
+      "not_found": "Ti encam nehat dîtin."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Hevpeyivîna nû",
+      "resume": "Hevpeyivîn Resume"
+    },
+    "generating": "Hevpeyivîna nû ava dike"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap bikin ku dîsa biceribîne"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Peyama xwe binivîse ...",
+    "max_length": "Dirêjahiya Max gihîşt"
+  },
+  "cooldown": {
+    "description": "Guhertoya belaş a app dihêle ku hûn yek demjimêrek yek hevpeyivîn bigirin.\n\nHeke hûn dixwazin sînorkirinan derxînin, reklaman rakirin, û raporek bersivê bi şîreta li ser ka meriv piştî her hevpeyvînê baştir bike, ji bo premium bifikirin.",
+    "active": "Berî ku hûn hevpeyivînek nû ava bikin li benda demjimêra Cooldown bisekinin.\n\nHeke hûn dixwazin cooldown derxînin, reklaman derxînin, û raporek bersivê bi şîreta li ser her hevpeyvînê baştir bikin, bifikirin aboneya premium.",
+    "timer": {
+      "wait": "Payin",
+      "second": "duyem",
+      "seconds": "seconds"
+    }
+  },
+  "report": {
+    "title": "Nûçe",
+    "summary": "Berhevkirinî",
+    "feedback": "Bersiv",
+    "advice": "Şêwr",
+    "button": {
+      "view": "Raportê binihêrin",
+      "unlock": "Raportê vekin",
+      "get": "Rapor bistînin"
+    },
+    "generating": "Rapora hilberînê ..."
+  },
+  "review": {
+    "request": "Heke we ji serîlêdanê hez kir, ji kerema xwe bifikirin ku ji bo alîkariya me bibin.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Gelek sipasîya we dikim!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Hevpeyivîna nû peyda dibe!",
+      "message": "Hevpeyivînek nû heye ku hûn li ser intelliewer kar bikin."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "XELAT",
+      "type": "Abonetî",
+      "subscribe": "Subscribed",
+      "invitation": "Subscribe to Premium",
+      "active": "Abonetiya Premium Active",
+      "thanks": "Spas dikim ji bo parvekirina Premium! Em li ser hemî hevpeyivînên pêşerojê we serfiraz û serfiraziyê dixwazin!",
+      "menu": {
+        "title": "Aboneya Premium",
+        "subtitle": "Subscribe to plana Premium"
+      }
+    },
+    "error": {
+      "subscription": "Erewtî hewl dide ku kirîna we rast bike.",
+      "connection": "Errorewtiya girêdanê.\n\nNekarîn bi dikanê ve girêdayî bibin.",
+      "products": "Vebijarkên hilberê nekarin.",
+      "subscription_options": "Planên aboneyê nekarin barkirin.\n\nJi kerema xwe, girêdana xwe ya înternetê kontrol bikin, an paşê paşê biceribînin."
+    }
+  },
+  "error": {
+    "title": "Şaşî",
+    "unexpected": "Tiştek çewt çû ... hûn nekarin vê yekê bibînin! 😱",
+    "connection": "Têkêlî",
+    "connection_fix": "Têkiliya xwe ya Internetnternetê kontrol bikin û paşê paşê biceribînin.",
+    "ai": {
+      "no_response": "Bê bersiv",
+      "unexpected": "Nepa",
+      "internal_server_error": "Errorewtiya serverê navxweyî"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Ji bo hevpeyivîna karê xwe yê pêşîn bi vê simulatorê realîst a rastîn re pratîkê bikin",
+      "full_description": "Ma girtina hevpeyivînên kar ji we aciz û xeyal dikirin?\nDibe ku hûn hîn jî ji bo hevpeyivînên kar bêpar bimînin?\nEv serîlêdana bêkêmasî ye ku hûn di mîhengek hevpeyivîna karûbarê we de jêhatîyên danûstendinê pratîk bikin!\n\nIntellestiviewera kar ji bo ku hûn ji we re bibin alîkar ku ji we re bibe alîkar ku ji we re bibe alîkar.\n\nHevpeyivîn li ser pozîsyona kar in ku hûn lê digerin û bi pirsên têkildarî armancên xwe re têkildar in û bêne sererast kirin.\n\nBikarhênerên Premium jî dê di dawiya her hevpeyvînê de raporek bi kurtahî bi bersiv û şîreta li ser ka hûn çawa başkirina şansên we yên di hevpeyivînek karekî rastîn de baştir bikin.",
+      "taglines": [
+        "Ji bo karê xwe yê din amade bibin!",
+        "Ji bo hevpeyivîna karê xwe yê din pratîkê bikin!",
+        "Hevpeyivîna karê xwe yê din bi AI re bikin!",
+        "Serkeftina profesyoneliya we ya din li vir li benda we ye!"
+      ],
+      "premium_benefits": [
+        "Reklaman ji holê radike",
+        "Hevpeyivînên bêsînor",
+        "Raporên bi bersiv û şîreta bistînin"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Xelat",
+      "monthly": "Mehane",
+      "annual": "Yeksalî",
+      "cancel_anytime": "Her dem betal bikin",
+      "save_discount": "Rizgarkirin",
+      "subscribe": "Subscribed",
+      "restore_purchases": "Kiriyaran sererast bikin",
+      "premium_benefits": [
+        "Reklaman rakirin",
+        "Hevpeyivînên bêsînor bi bê cooldowns",
+        "Piştî hevpeyivînan bi bersiv û şîretan re rapor bistînin"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Alîkarî Werger",
+    "description": "Alîkariya wergerandina zimanên din bikin."
+  }
+}

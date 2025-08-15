@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Prima",
+      "free": "Doako bertsioa"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Praktikatu zure hurrengo laneko elkarrizketarako!",
+      "message": "Laneko elkarrizketak egiteak urduri eta nazkatuta al zaude?\nBeharbada oraindik prestatuta zaude prest egonik laneko elkarrizketak egiteko?\nHau da zure elkarrizketa-trebetasunak lantzeko elkarrizketa ezarpen batean lantzeko aplikazio ezin hobea!"
+    },
+    {
+      "title": "Prest egon zure hurrengo lanerako!",
+      "message": "Enplegua Intelliviewer-ek adimen artifizialaren potentzia erabiltzen du iseka laneko elkarrizketak egiteko, bizitza errealeko kontratatzaileei inpresio ona egiteko beharrezkoak diren elkarrizketarako trebetasunak aprobetxatzeko eta zure bizitza errealeko elkarrizketa bat egiteko prestatu zaituzte."
+    },
+    {
+      "title": "Premium Harpidetza:",
+      "message": "Jaso txostena elkarrizketa bakoitzaren amaieran elkarrizketa-elkarrizketa eta aholkuak laburbilduz lan elkarrizketa batean kontratatzeko aukerak hobetzeko."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Etxe",
+      "interview": "Elkarrizketa",
+      "resume_cv": "Cesusumé",
+      "history": "Historia",
+      "history_entry": "Historia Sarrera",
+      "reports": "Txostenak",
+      "settings": "Ezarpen"
+    }
+  },
+  "title": {
+    "attention": "Arreta",
+    "information": "Informazio"
+  },
+  "label": {
+    "search": "Araketa"
+  },
+  "button": {
+    "ok": "Jaizos",
+    "back": "Bizkar",
+    "close": "Hurbileko",
+    "cancel": "Indargabetu",
+    "delete": "Ezabatu",
+    "review": "Aipamen",
+    "subscribe": "Harpidetu"
+  },
+  "language": {
+    "title": "Mintzaira",
+    "select": "Aukeratu hizkuntza",
+    "altered": "Hizkuntza aldatu da"
+  },
+  "history": {
+    "empty": "HIRU HISTORIA",
+    "delete": {
+      "list": {
+        "title": "Historia ezabatu?",
+        "message": "Ziur historia osoa ezabatu nahi duzula?",
+        "deleted": "Historia ezabatu da."
+      },
+      "entry": {
+        "title": "Elkarrizketa ezabatu?",
+        "message": "Ziur elkarrizketa hau ezabatu nahi duzula?",
+        "deleted": "Historia ezabatu da."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Izen",
+      "first_name": "Izena",
+      "date_of_birth": "Jaiotze data",
+      "job_position": "Lanaren posizioa",
+      "job_position_detailed": "Lanpostu zehatza",
+      "education": "Heziera",
+      "courses": "Ikastaroak",
+      "experience": "Esperientzia",
+      "add": {
+        "education": "Gehitu hezkuntza berria",
+        "courses": "Gehitu ikastaro berria",
+        "experience": "Gehitu esperientzia berria"
+      },
+      "error": {
+        "validation": {
+          "title": "Balidazio errorea",
+          "invalid_fields": "Sartu lan-posizio baliozko funtzioa lan elkarrizketa berri bat eskatzeko.\nTxandatarki",
+          "unable_to_validate": "Ezin izan dira eremuak balioztatu."
+        }
+      }
+    },
+    "education": {
+      "institution": "Erakunde",
+      "degree": "Gradu",
+      "start": "Hasiera",
+      "end": "Amai"
+    },
+    "courses": {
+      "institution": "Erakunde",
+      "title_of_course": "Izenburua",
+      "course_load": "Ikastaroaren karga"
+    },
+    "experience": {
+      "company": "Lagundi",
+      "position": "Kokaleku",
+      "start": "Hasiera",
+      "end": "Amai"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Gai iluna",
+      "description": "Aukeratu gai argiaren eta ilunaren artean.\nAplikazioa irekitzen duzun lehenengo aldian gailuaren gaian automatikoki ezarri."
+    },
+    "language": {
+      "name": "Mintzaira",
+      "description": "Hautatu nahiago duen hizkuntza aplikazioa erabiltzean eta AI-rekin hitz egin elkarrizketetan zehar."
+    },
+    "notifications": {
+      "saved": "Ezarpenak gorde dira"
+    },
+    "search": {
+      "not_found": "Ez da emaitzarik aurkitu."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Elkarrizketa berria",
+      "resume": "Curriculuma elkarrizketa"
+    },
+    "generating": "Elkarrizketa berria sortzen"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Sakatu berriro saiatzeko"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Idatzi zure mezua ...",
+    "max_length": "Luzera lortu da"
+  },
+  "cooldown": {
+    "description": "Aplikazioaren doako bertsioak orduko elkarrizketa bat egiteko aukera ematen du.\n\nMugak kendu nahi badituzu, kendu iragarkiak eta jaso feedback txostena elkarrizketa bakoitzaren ondoren hobetzeko aholkuekin, kontuan hartu harpidetzea prima harpidetzea.",
+    "active": "Itxaron cooldown tenporizadorea elkarrizketa berri bat sortu aurretik.\n\nCooldowns kendu nahi baduzu, kendu iragarkiak eta jaso ezazu feedback txostena elkarrizketa bakoitzaren ondoren hobetzeko aholkuekin, kontuan hartu harpidetzea prima harpidetzea.",
+    "timer": {
+      "wait": "Itxaron",
+      "second": "segundu",
+      "seconds": "bizkarbete"
+    }
+  },
+  "report": {
+    "title": "-En berri eman",
+    "summary": "Laburpen",
+    "feedback": "Fedick",
+    "advice": "Aholku",
+    "button": {
+      "view": "Ikusi txostena",
+      "unlock": "Desblokeatu txostena",
+      "get": "Lortu txostena"
+    },
+    "generating": "Txostena sortzen ..."
+  },
+  "review": {
+    "request": "Aplikazioa gustatu bazaizu, kontuan hartu berrikuspen bat uzten diguzula.\n\nE ⭐⭐⭐⭐⭐",
+    "thanks": "Eskerrik asko!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Elkarrizketa berria eskuragarri!",
+      "message": "Elkarrizketa berri bat eskuragarri duzu lan-intelliviewer hartzeko."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Prima",
+      "type": "Harpidetza",
+      "subscribe": "Harpidetu",
+      "invitation": "Harpidetu Premium-era",
+      "active": "Premium Harpidetza Aktiboa",
+      "thanks": "Eskerrik asko prima harpidetzeagatik! Zorte on eta arrakasta nahi dugu zure etorkizuneko elkarrizketa guztietan!",
+      "menu": {
+        "title": "Premium harpidetza",
+        "subtitle": "Harpidetu Premium Planera"
+      }
+    },
+    "error": {
+      "subscription": "Errorea erosketa balioztatzen saiatzean.",
+      "connection": "Konexioaren akatsa.\n\nEzin da dendara konektatu.",
+      "products": "Ezin da produktuaren aukerak egiaztatu.",
+      "subscription_options": "Ezin da harpidetza planak kargatu.\n\nMesedez, egiaztatu zure Interneteko konexioa edo saiatu berriro geroago."
+    }
+  },
+  "error": {
+    "title": "Errakuntza",
+    "unexpected": "Zerbait gaizki joan da ... ez al duzu hau ikusten! E 😱",
+    "connection": "Lotune",
+    "connection_fix": "Begiratu Interneteko konexioa eta saiatu berriro geroago.",
+    "ai": {
+      "no_response": "Erantzunik ez",
+      "unexpected": "Ustekabeko",
+      "internal_server_error": "Barne zerbitzariaren errorea"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Praktikatu zure hurrengo laneko elkarrizketarako, AI simulatzaile errealista honekin",
+      "full_description": "Laneko elkarrizketak egiteak urduri eta nazkatuta al zaude?\nBeharbada oraindik prestatuta zaude prest egonik laneko elkarrizketak egiteko?\nHau da zure elkarrizketa-trebetasunak lantzeko elkarrizketa ezarpen batean lantzeko aplikazio ezin hobea!\n\nEnplegua Intelliviewer-ek adimen artifizialaren ahalmena erabiltzen du erreala laneko elkarrizketak burutzeko, bizitza errealeko kontratatzaileei inpresio ona egiteko beharrezkoak diren elkarrizketarako trebetasunak aprobetxatzeko eta zure hurrengo elkarrizketa asetzeko prestatu zaituztelako.\n\nElkarrizketak bilatzen ari zaren lanpostura egokitzen dira, eta zure helburuekin lotutako galderekin moldatuko dira eta egokituko dira benetako lan elkarrizketa bat hobetzeko.\n\nPremium erabiltzaileek ere txostena jasoko dute elkarrizketa bakoitzaren amaieran elkarrizketa-elkarrizketa eta aholkuak laburbilduz zure lan elkarrizketa batean kontratatzeko aukerak hobetzeko.",
+      "taglines": [
+        "Prest egon zure hurrengo lanerako!",
+        "Praktikatu zure hurrengo laneko elkarrizketarako!",
+        "Ace zure hurrengo lan elkarrizketa AI-rekin!",
+        "Zure hurrengo arrakasta profesionala hemen espero zaizu!"
+      ],
+      "premium_benefits": [
+        "Iragarkiak kentzen ditu",
+        "Elkarrizketa mugagabeak",
+        "Jaso txostenak feedback eta aholkuekin"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Prima",
+      "monthly": "Hileko",
+      "annual": "Urtebeteko",
+      "cancel_anytime": "Ezeztatu noiznahi",
+      "save_discount": "Aurreztu",
+      "subscribe": "Harpidetu",
+      "restore_purchases": "Erosketak leheneratu",
+      "premium_benefits": [
+        "Iragarkiak kendu",
+        "Elkarrizketa mugagabeak cooldowns-ekin",
+        "Elkarrizketak egin ondoren iruzkin eta aholku batzuekin egindako txostenak jaso"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Laguntza itzulpena",
+    "description": "Lagundu aplikazio hau beste hizkuntza batzuetara itzultzen."
+  }
+}

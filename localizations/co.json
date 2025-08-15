@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Prima",
+      "free": "Versione libera"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Pràtica per a vostra prossima intervista di travagliu!",
+      "message": "Piglia l'entrevista di u travagliu vi ottene nervu è ansiosu?\nForsi vi sentu sempre unprepared per piglià interviste di travagliu?\nQuesta hè l'app perfetta per praticà e vostre cumpetenze di conversazioni in un stabilimentu di l'entrevista!"
+    },
+    {
+      "title": "Preparate per u vostru prossimu travagliu!",
+      "message": "L'intellivisay di travagliu usa u putere di l'intelligenza artificiale per aiutà l'intervista di u travagliu realisticu per aiutà e cumpetenze di conversazione in una bona impresa per a vostra prossima entrevista vera."
+    },
+    {
+      "title": "Abbonamentu Premium:",
+      "message": "Ricevete un rapportu à a fine di ogni intervista chì hà riassuntu a cunversazione cù feedback è cunsiglii per migliurà e vostre probabilità di avvicinassi in una vera entrevista di travagliu."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Casa",
+      "interview": "Intervista",
+      "resume_cv": "Resumé",
+      "history": "A STORIA",
+      "history_entry": "Entrata di storia",
+      "reports": "Raporti",
+      "settings": "Configurazioni"
+    }
+  },
+  "title": {
+    "attention": "Attenzione",
+    "information": "Infurmazione"
+  },
+  "label": {
+    "search": "CERCAZZA"
+  },
+  "button": {
+    "ok": "Va bè",
+    "back": "Torna",
+    "close": "Chiudere",
+    "cancel": "Annulla",
+    "delete": "Sguassà",
+    "review": "Revue",
+    "subscribe": "ARMURI"
+  },
+  "language": {
+    "title": "Lingua",
+    "select": "Selezziunate lingua",
+    "altered": "A lingua cambiò"
+  },
+  "history": {
+    "empty": "Storia viotu",
+    "delete": {
+      "list": {
+        "title": "Sguassà a storia?",
+        "message": "Hè sicura chì vulete sguassà tutta a storia?",
+        "deleted": "Storia eliminatu."
+      },
+      "entry": {
+        "title": "Sguassà l'entrevista?",
+        "message": "Hè sicura chì vulete sguassà sta intervista?",
+        "deleted": "Storia eliminatu."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nome",
+      "first_name": "Nome",
+      "date_of_birth": "Data di nascimentu",
+      "job_position": "Pusizione di travagliu",
+      "job_position_detailed": "Pusizione di travagliu detallatu",
+      "education": "Educazione",
+      "courses": "Corsi di",
+      "experience": "Sperienza",
+      "add": {
+        "education": "Aghjunghje una nova educazione",
+        "courses": "Aghjunghje novu corsu",
+        "experience": "Aghjunghje nova sperienza"
+      },
+      "error": {
+        "validation": {
+          "title": "Errore di Validazione",
+          "invalid_fields": "Inserite un rolu di pusizione di travagliu validu per dumandà una nova entrevista di travagliu.\nIn alternativa",
+          "unable_to_validate": "Incapace di validà i campi."
+        }
+      }
+    },
+    "education": {
+      "institution": "Istituzione",
+      "degree": "GRADU",
+      "start": "Accuma",
+      "end": "Finta"
+    },
+    "courses": {
+      "institution": "Istituzione",
+      "title_of_course": "Titulu di Cantu",
+      "course_load": "Carica corso"
+    },
+    "experience": {
+      "company": "Cumpagnia",
+      "position": "POSIZIONE",
+      "start": "Accuma",
+      "end": "Finta"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tema scuru",
+      "description": "Selezziunate trà u tema di luce è scuru.\nHà stabilitu automaticamente u tema di u dispusitivu a prima volta chì apre l'app."
+    },
+    "language": {
+      "name": "Lingua",
+      "description": "Selezziunate a lingua preferita per affissà mentre aduprate l'applicazione è parlendu à l'AI durante l'entreviste."
+    },
+    "notifications": {
+      "saved": "Paràmetri salvati"
+    },
+    "search": {
+      "not_found": "Ùn ci sò risultati trovati."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nova entrevista",
+      "resume": "Resume Intervista"
+    },
+    "generating": "Generazione nova entrevista"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap per pruvà"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Scrivite u vostru messagiu ...",
+    "max_length": "A durata massima ghjunghjia"
+  },
+  "cooldown": {
+    "description": "A versione libera di l'app permette di piglià una intervista per ora.\n\nSe vulete sguassà e limitazioni, sguassate l'annunzii, è riceve un rapportu di feedback cun cunsiglii per migliurà dopu ogni intervista, cunsidereghja abbonà a prima.",
+    "active": "Aspetta u timer di u cooldown prima di generà una nova intervista.\n\nSe vulete sguassà i cooldowns, eliminà l'annunzii, è riceve un rapportu di feedback cun cunsiglii per migliurà dopu ogni intervista, cunsidereghja abbonà a prima.",
+    "timer": {
+      "wait": "Aspetta",
+      "second": "sicondu",
+      "seconds": "sicondi"
+    }
+  },
+  "report": {
+    "title": "Rapportu",
+    "summary": "Riassuntu",
+    "feedback": "Feedback",
+    "advice": "Cunsiglii",
+    "button": {
+      "view": "View Rapportu",
+      "unlock": "Unlock Rapportu",
+      "get": "Get Rapportu"
+    },
+    "generating": "Generarti Rapportu ..."
+  },
+  "review": {
+    "request": "Sì avete piaciutu l'app, per piacè cunsiderà abbandunà una recensione per aiutà.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Grazie mille!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nova intervista disponibile!",
+      "message": "Avete una nova intervista dispunibile per piglià l'intellivisie di travagliu."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Prima",
+      "type": "Abbunamentu",
+      "subscribe": "ARMURI",
+      "invitation": "Abbonate à prima",
+      "active": "Abbonamentu Premium attivu",
+      "thanks": "Ti ringraziu per abbonà a prima! Vi auguriamu bona furtuna è successu nantu à tutte e vostre interviste futuri!",
+      "menu": {
+        "title": "Abbonamentu Premium",
+        "subtitle": "Abbonate à u pianu premium"
+      }
+    },
+    "error": {
+      "subscription": "Errore à pruvà à validà a vostra compra.",
+      "connection": "Errore di cunnessione.\n\nIncapace di cunnette à a tenda.",
+      "products": "Impussibile di verificà l'opzioni di u produttu.",
+      "subscription_options": "Incapace di carricà piani di abbonamentu.\n\nPer piacè, verificate a vostra cunnessione internet, o pruvate più tardi."
+    }
+  },
+  "error": {
+    "title": "Errore",
+    "unexpected": "Qualcosa hè andatu male ... ùn sia micca vede questu! 😱",
+    "connection": "Cunnessione",
+    "connection_fix": "Verificate a vostra cunnessione Internet è pruvate dopu più tardi.",
+    "ai": {
+      "no_response": "Nisuna risposta",
+      "unexpected": "Inespettatu",
+      "internal_server_error": "Errore di servitore internu"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Pratica per a vostra prossima intervista di travagliu cù stu simulatore AI realisticu",
+      "full_description": "Piglia l'entrevista di u travagliu vi ottene nervu è ansiosu?\nForsi vi sentu sempre unprepared per piglià interviste di travagliu?\nQuesta hè l'app perfetta per praticà e vostre cumpetenze di conversazioni in un stabilimentu di l'entrevista!\n\nL'intellivisay di travagliu usa l'intelligenza artificiale per guidà l'entrevista di travagliu realistichi per aiutà e cumpetenze di conversazione necessaria per fà una bona imprese à a vostra prossima entrevista.\n\nL'interviste sò misurate à a pusizione di u travagliu chì cercate, è sarà furmatu è aghjustatu cù e dumande riguardanti i vostri scopi per rapprisintà megliu una vera entrevista di travagliu.\n\nL'utilizatori Premium riceveranu ancu un rapportu à a fine di ogni intervista chì hà riassuntu a cunversazione cù i feedback è cunsiglii per migliurà e vostre probabilità di avvicinassi.",
+      "taglines": [
+        "Preparate per u vostru prossimu travagliu!",
+        "Pràtica per a vostra prossima intervista di travagliu!",
+        "Ace a vostra prossima entrevista di travagliu cù AI!",
+        "U vostru prossimu successu prufessiunale vi aspetta quì!"
+      ],
+      "premium_benefits": [
+        "Elimina l'annunci",
+        "Interviste illimitate",
+        "Riceve Rapporti cù Feedback è Cunsigliu"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Prima",
+      "monthly": "Mensuale",
+      "annual": "Annuale",
+      "cancel_anytime": "Annulla in ogni momentu",
+      "save_discount": "Salvata",
+      "subscribe": "ARMURI",
+      "restore_purchases": "Restore compra",
+      "premium_benefits": [
+        "Elimina l'annunci",
+        "Entrevista illimitate senza cooldowns",
+        "Riceve i rapporti cù feedback è cunsiglii dopu l'entreviste"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Aiutu traduce",
+    "description": "Aiuta à traduce sta applicazione à altre lingue."
+  }
+}

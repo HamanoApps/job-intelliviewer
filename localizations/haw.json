@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Kau",
+      "free": "Huaʻaʻole"
+    }
+  },
+  "presentation": [
+    {
+      "title": "E hoʻomaʻamaʻa no kāu nīnau noi hou aʻe!",
+      "message": "Ke lawe nei i nā hana hana hana e hopohopo a hopohopo paha?\nManaʻo pahaʻoe eʻikeʻoleʻia e lawe i nā ninaninau hana?\nʻO kēia ka polokalamu kūpono loa e hoʻomaʻamaʻa i kāu mauʻike kamaʻilio i kahi hoʻonohonoho ninaninau hana!"
+    },
+    {
+      "title": "E mākaukau no kāu hana hou aʻe!",
+      "message": "Hoʻohanaʻo Job Intelliviiewer i ka mana o ke akamai kaulana e hana ai i nā mea e pono ai ke kōkuaʻana i nā mea kūʻai aku ma keʻano o ke ola maikaʻi."
+    },
+    {
+      "title": "ʻO ka helu helu helu kālā:",
+      "message": "E kiʻi i kahi hōʻike ma ka hopena o kēlā me kēia ninaninau e hōʻuluʻulu ana i ke kamaʻilio me ka'ōlelo pane a me nā'ōlelo aʻo i ka manawa o ke kūkāʻana o ka hana hana."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "KA HOME",
+      "interview": "Nīnauā",
+      "resume_cv": "Resumé",
+      "history": "Mōʻaukala",
+      "history_entry": "Nā Kuhi mōʻaukala",
+      "reports": "Nā hoike",
+      "settings": "Nā hoʻonohonoho"
+    }
+  },
+  "title": {
+    "attention": "Nānāhole",
+    "information": "Kaʻike"
+  },
+  "label": {
+    "search": "Huli"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Kua hope",
+    "close": "'ĀʻE",
+    "cancel": "Ke kāpae nei",
+    "delete": "Hoʻopue",
+    "review": "Hōʻike",
+    "subscribe": "Hoʻopāka"
+  },
+  "language": {
+    "title": "Kanakai",
+    "select": "E koho i ka'ōlelo",
+    "altered": "Loli ka'ōlelo"
+  },
+  "history": {
+    "empty": "Moolelo aku",
+    "delete": {
+      "list": {
+        "title": "Hoʻopau i ka mōʻaukala?",
+        "message": "ʻIkeʻoe makemakeʻoe e hoʻopau i ka mōʻaukala holoʻokoʻa?",
+        "deleted": "Ua hoʻokuʻuʻia ka mōʻaukala."
+      },
+      "entry": {
+        "title": "Hoʻopau i nā nīnau nīnau?",
+        "message": "ʻIkeʻoe makemakeʻoe e hoʻopau i kēia ninaninau?",
+        "deleted": "Ua hoʻokuʻuʻia ka mōʻaukala."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Inoa",
+      "first_name": "Inoa mua",
+      "date_of_birth": "Lā hānau",
+      "job_position": "Kūlana hana",
+      "job_position_detailed": "ʻO ke kūlana hana kiko'ī",
+      "education": "Aina",
+      "courses": "Papaʻaʻa",
+      "experience": "KAHua pūnaewele",
+      "add": {
+        "education": "E hoʻohui i ka hoʻonaʻauao hou",
+        "courses": "E hoʻohui i ke papa hou",
+        "experience": "E hoʻohui i nāʻike hou"
+      },
+      "error": {
+        "validation": {
+          "title": "Ka hewa hewa",
+          "invalid_fields": "E hoʻokomo i kahi kūlana hana kūpono e noi ai no ka nīnau nīnau hou.\nHE MAU NUI",
+          "unable_to_validate": "ʻAʻole hiki ke hōʻoia i nā mahina."
+        }
+      }
+    },
+    "education": {
+      "institution": "Kauoha",
+      "degree": "Ke Kaena",
+      "start": "Hoʻomaka",
+      "end": "Pauhope"
+    },
+    "courses": {
+      "institution": "Kauoha",
+      "title_of_course": "Ka inoa o ke papa",
+      "course_load": "Papa hana"
+    },
+    "experience": {
+      "company": "Hui hui",
+      "position": "Kūlana",
+      "start": "Hoʻomaka",
+      "end": "Pauhope"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "ʻO ke'anoʻeleʻele",
+      "description": "E koho ma waena o ke aniani a me keʻano pouli.\nE hoʻonohonoho koke i ka kumuhana o ka mea hana i ka manawa mua e wehe aiʻoe i ka app."
+    },
+    "language": {
+      "name": "Kanakai",
+      "description": "E koho i ka'ōlelo i makemakeʻia e hōʻike i ka wā e hoʻohana ai i ka noi a kamaʻilio pū me ka AI i nā nīnau nīnau."
+    },
+    "notifications": {
+      "saved": "Nā hoʻonohonoho i mālamaʻia"
+    },
+    "search": {
+      "not_found": "ʻAʻohe hopena i loaʻa."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nīnau hou",
+      "resume": "Nā hālāwai kūkā hou"
+    },
+    "generating": "E hoʻolauleʻa ai i nā kūkākūkā hou"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Pākuʻi e hoʻihoʻi"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Pākuʻi i kāu leka uila ...",
+    "max_length": "Ua hōʻeaʻo Max"
+  },
+  "cooldown": {
+    "description": "Hiki i keʻano manuahi o ka app eʻae iāʻoe e lawe i hoʻokahi nīnauele i hoʻokahi hola.\n\nInā makemakeʻoe e wehe i nā palena, wehe i nā hoʻolaha, a loaʻa i kahi hōʻike hōʻikeʻike me kēlā me kēia ninaninau e noʻonoʻo ai i ka uku.",
+    "active": "E kali i ka manawa kūpono ma mua o ka hoʻopiliʻana i kahi nīnau hou.\n\nInā makemakeʻoe e wehe i nā mea lanakila, e wehe i nā hoʻolaha, a loaʻa iā ia kahi hōʻike'ōlelo me ka hoʻomaikaʻiʻana i kēlā me kēia ninaninau, e hoʻomaikaʻi i ka ukuʻana i ka uku.",
+    "timer": {
+      "wait": "Kali",
+      "second": "ka lua",
+      "seconds": "kekona"
+    }
+  },
+  "report": {
+    "title": "Hōʻike",
+    "summary": "Hōʻaʻakeʻa",
+    "feedback": "Hua'ōlelo",
+    "advice": "Ka'ōlelo'ōlelo",
+    "button": {
+      "view": "Hōʻike hōʻike",
+      "unlock": "Wehe i ka hōʻike",
+      "get": "E kiʻi i ka hōʻike"
+    },
+    "generating": "Ka Hōʻailona ..."
+  },
+  "review": {
+    "request": "Inā makemakeʻoe i ka app, eʻoluʻolu e noʻonoʻo e haʻalele i kahi loiloi e kōkua iā mākou.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Mahalo nui loa iā ʻoe!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Loaʻa nā kūkākūkā hou!",
+      "message": "Loaʻa iāʻoe kahi ninaninau hou e lawe i ka hana o ka hana hana."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Kau",
+      "type": "Laia",
+      "subscribe": "Hoʻopāka",
+      "invitation": "E kau inoa i ka uku",
+      "active": "ʻO ka helu helu helu helu",
+      "thanks": "Mahalo iāʻoe no ka heluʻana i ka uku! Makemake mākou iāʻoe i ka pōmaikaʻi maikaʻi a me ka kūleʻa ma kāu mau kūkākūkā hou aʻe!",
+      "menu": {
+        "title": "ʻO ke kau inoa inoa",
+        "subtitle": "E hoʻopaʻa inoa i ka hoʻolālā kumu"
+      }
+    },
+    "error": {
+      "subscription": "Hōʻalo ka ho'āʻoʻana e hōʻoia i kāu kūʻai.",
+      "connection": "KAHOU.\n\nʻAʻole hiki ke hoʻopili i ka hale kūʻai.",
+      "products": "ʻAʻole hiki ke nānā i nā koho huahana.",
+      "subscription_options": "ʻAʻole hiki ke hoʻouka i nā hoʻolālā inoa inoa inoa.\n\nEʻoluʻolu, e nānā i kāu pili pūnaewele, a iʻole e ho'āʻo hou ma hope."
+    }
+  },
+  "error": {
+    "title": "Haki",
+    "unexpected": "Ua hewa kekahi mea ...ʻAʻoleʻoe eʻike i kēia! 😱",
+    "connection": "Hono",
+    "connection_fix": "E nānā i kāu pūnaewele pūnaewele a ho'āʻo hou ma hope.",
+    "ai": {
+      "no_response": "ʻAʻohe pane",
+      "unexpected": "ʻAʻole i manaʻoʻia",
+      "internal_server_error": "'Ōlelo kūloko kūloko"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "E hoʻomaʻamaʻa no kāu nīnau hou aʻe e pili ana i kēia mea simulator maoli",
+      "full_description": "Ke lawe nei i nā hana hana hana e hopohopo a hopohopo paha?\nManaʻo pahaʻoe eʻikeʻoleʻia e lawe i nā ninaninau hana?\nʻO kēia ka polokalamu kūpono loa e hoʻomaʻamaʻa i kāu mauʻike kamaʻilio i kahi hoʻonohonoho ninaninau hana!\n\nHoʻohanaʻo Job Intelliviewer i ka mana o ka naʻauao o keʻano he mea e pono ai ke kōkua i keʻano o nā mea e pono ai ke kōkuaʻana i ke ola\n\nUa hoʻopiliʻia nā nīnau nīnau i ke kūlana hana āu eʻimi nei, a e hoʻoponoponoʻia a hoʻoponoponoʻia me nā nīnau e pili ana i kāu mau pahuhopu i kahi manawa kūpono.\n\nE loaʻa nō i nā mea hoʻohana mua e loaʻa i kahi hōʻike ma ka hopena o kēlā me kēia ninaninau e hōʻuluʻulu i ke kamaʻilioʻana me ka manaʻo o keʻano o ke kūkāʻana i ka manawa",
+      "taglines": [
+        "E mākaukau no kāu hana hou aʻe!",
+        "E hoʻomaʻamaʻa no kāu nīnau noi hou aʻe!",
+        "Ace i kāu nīnau nīnau hou me AI!",
+        "E kali ana kāu pōmaikaʻi ma hope aʻe e kali nei iāʻoe ma aneʻi!"
+      ],
+      "premium_benefits": [
+        "Hoʻopau i nā hoʻolaha",
+        "Nā nīnau kūkākūkāʻole",
+        "Loaʻa nā hōʻike me nā mea hoihoi a me ka'ōlelo aʻo"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Kau",
+      "monthly": "Mahina",
+      "annual": "Makahiki",
+      "cancel_anytime": "Hoopau i kēlā me kēia manawa",
+      "save_discount": "Lauku",
+      "subscribe": "Hoʻopāka",
+      "restore_purchases": "Hoʻihoʻi hou i nā kūʻai",
+      "premium_benefits": [
+        "Wehe i nā hoʻolaha",
+        "Nā ninaninau kālāʻole me nā meaʻole he caldowns",
+        "Loaʻa i nā hōʻike me nā'ōlelo hoihoi a me nā'ōlelo aʻo ma hope o nā kūkākūkā ninaninau"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Kōkua i ke unuhiʻana",
+    "description": "E kōkua i ka unuhiʻana i kēia noi i nā'ōlelo'ē aʻe."
+  }
+}

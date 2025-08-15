@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "NAYRIR KUST'ATA",
+      "free": "Versión gratis ukax 1.1."
+    }
+  },
+  "presentation": [
+    {
+      "title": "!",
+      "message": "¿Envistas de trabajo ukanak apsuñajj ajjsarañat ukat llakitäpachati?\nInas jumax wali jan wakicht’ataw jikxatassta entrevistas de trabajo ukanak lurañataki?\n¡Akax mä perfecto app ukawa, mä entrevista de trabajo ukan aruskipt’añ yatiñanakamar yatiqañataki!"
+    },
+    {
+      "title": "¡Jutïr trabajoman wakichtʼatäñamawa!",
+      "message": "Job IntelliViewer ukax inteligencia artificial ukan ch’amapampiw chiqpach simulacro de trabajo entrevistas ukanakamp lurañatak apnaqi, yanapt’añatakiwa, ukax aprovechañatakiwa, kunatix conversacional yatiñanakax wakisi, chiqpach jakañ reclutadores ukanakar mä suma amuyt’ayañataki ukhamarak jutir chiqpach jakawiman entrevistam ace ukar wakicht’añataki."
+    },
+    {
+      "title": "Premium suscripción ukax akhamawa:",
+      "message": "Sapa entrevista tukuyatat mä yatiyäw katuqañamawa, mä juk’a qhanañcht’awimpiw aruskipt’awimp iwxt’awinakamp kunjams chances ukanakax juk’amp askiptaspa contratat mä chiqpach entrevista de trabajo ukan."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Uta",
+      "interview": "Jiskt'a",
+      "resume_cv": "Juk'aptayaña",
+      "history": "Isturya",
+      "history_entry": "Sarnaqäwi Uñt’ayaña .",
+      "reports": "Yatiyawinaka .",
+      "settings": "Ukax 1.1."
+    }
+  },
+  "title": {
+    "attention": "Ist'aña",
+    "information": "Yatiyäwi"
+  },
+  "label": {
+    "search": "Thaqhata"
+  },
+  "button": {
+    "ok": "WALIKI",
+    "back": "Qhipa",
+    "close": "Jist'antaña",
+    "cancel": "Kansilaña",
+    "delete": "Phiskhsuña",
+    "review": "Uñakipaña",
+    "subscribe": "Suscribirse ."
+  },
+  "language": {
+    "title": "Aru",
+    "select": "Arunak ajlliñamawa .",
+    "altered": "Aru mayjt’ayata ."
+  },
+  "history": {
+    "empty": "Ch’usa sarnaqäwi .",
+    "delete": {
+      "list": {
+        "title": "¿Sarnaqäwi chhaqtayaña?",
+        "message": "¿Taqi historia chhaqtayañ munasmati?",
+        "deleted": "Historia ukax chhaqtayatawa."
+      },
+      "entry": {
+        "title": "¿Envistax chhaqtayatäpachati?",
+        "message": "¿Aka entrevista chhaqtayañ munasmati?",
+        "deleted": "Historia ukax chhaqtayatawa."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Chacha",
+      "first_name": "Nayrïr suti",
+      "date_of_birth": "Kuna urus yurïna .",
+      "job_position": "Irnaqawi cargo .",
+      "job_position_detailed": "Detallada Irnaqawi posición .",
+      "education": "Yatichäw",
+      "courses": "Yatichäwinaka .",
+      "experience": "Yatxata",
+      "add": {
+        "education": "Machaq yatichäwinak yapxataña .",
+        "courses": "Machaq yatichäwi yapxataña .",
+        "experience": "Machaq experiencia yapxataña ."
+      },
+      "error": {
+        "validation": {
+          "title": "validación error ukax 1.1.",
+          "invalid_fields": "Mä machaq entrevista de trabajo ukar mantañatakix mä rol de posición de trabajo valida ukar mantañamawa.\nMaysatxa .",
+          "unable_to_validate": "Janiw yapunakax chiqapar uñjañjamäkiti."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institución ukax 1.1.",
+      "degree": "Kraru",
+      "start": "Qalltaña",
+      "end": "Tukuya"
+    },
+    "courses": {
+      "institution": "Institución ukax 1.1.",
+      "title_of_course": "Título ukax chiqpachansa .",
+      "course_load": "Curso Carga ukax mä jach’a uñacht’äwiwa."
+    },
+    "experience": {
+      "company": "Kumpañiya",
+      "position": "Pusisyuna",
+      "start": "Qalltaña",
+      "end": "Tukuya"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Ch’amaka tema .",
+      "description": "Qhana ukat ch’amaka tema taypin ajlliñamawa.\nAutomáticamente ukax dispositivo ukan tema ukaruw nayrïr kuti app jist’arañatakix utt’ayata."
+    },
+    "language": {
+      "name": "Aru",
+      "description": "Aplicación apnaqañanx uñacht’ayañatakix juk’amp munat aru ajlliñamawa ukat entrevistas ukanx AI ukamp aruskipt’añamawa."
+    },
+    "notifications": {
+      "saved": "Configuración ukax qhispiyatawa ."
+    },
+    "search": {
+      "not_found": "Janiw kuna resultados ukanakas jikxataskiti."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Machaq entrevista .",
+      "resume": "Currículum vitae entrevista ."
+    },
+    "generating": "Machaq entrevista uñstayaña ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "ukat retry to retry ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Uka yatiyawi qillqt’aña...",
+    "max_length": "Max longitud ukax purintäna ."
+  },
+  "cooldown": {
+    "description": "Uka app ukan versión gratuita ukax mä entrevista sapa hora apsuñatak yanapt’i.\n\nUka limitaciones ukanaka apsuña munasma, anuncios ukanaka apsuña, ukatxa mä informe de retroalimentación uka katuqaña iwxt’awinakampi kunjamasa sapa entrevista tukuyatatxa sumaptaña, amuyt’aña suscribir a prima.",
+    "active": "Cooldown Timer ukax janïr machaq entrevista uñstayañkamaw suyt’añama.\n\nJumatix cooldowns apsuñ munsta, anuncios apsuñ munsta, ukat mä informe de retroalimentación ukax sapa entrevista tukuyatat kunjams juk’amp sumaptaspa ukxat iwxt’awinak katuqañ munasma, premium ukar qillqt’asiñ amtañamawa.",
+    "timer": {
+      "wait": "Suyaña",
+      "second": "sijuntu",
+      "seconds": "Segundos ."
+    }
+  },
+  "report": {
+    "title": "Uñt'ayawi",
+    "summary": "Juk'achata",
+    "feedback": "Arunaka",
+    "advice": "Ixwa",
+    "button": {
+      "view": "Uñakipt’añataki yatiyawi .",
+      "unlock": "Desbloquear Yatiyäwi .",
+      "get": "Yatiyäwi katuqaña ."
+    },
+    "generating": "Yatiyäwi generador ukax..."
+  },
+  "review": {
+    "request": "Uka app ukar munassta ukhax mä revisión jaytañ amtañamawa, ukhamat yanapt’añataki.\n\n⭐⭐⭐⭐⭐ ukax mä jach’a uñacht’äwiwa.",
+    "thanks": "Pay suma!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "¡Machaq entrevistaw utji!",
+      "message": "Jumax mä machaq entrevistaw utji Job IntelliViewer ukar katuqañataki."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "NAYRIR KUST'ATA",
+      "type": "Suscripción .",
+      "subscribe": "Suscribirse .",
+      "invitation": "Premium ukar qillqt’asipxam .",
+      "active": "Premium suscripción activa .",
+      "thanks": "¡Premio ukar subscribición ukar yuspajarapxsma! ¡Taqi jutïr entrevistanakaman suma suerte ukat éxito ukar munapxsma!",
+      "menu": {
+        "title": "Premium suscripción ukax 1.1.",
+        "subtitle": "Plan Premium ukaru qillqantaña ."
+      }
+    },
+    "error": {
+      "subscription": "Pantjasiwi yant’aña chiqapa lurañataki.",
+      "connection": "Conexión ukax pantjasiwa.\n\nJaniw tienda ukar conectañjamäkiti.",
+      "products": "Janiwa producto opciones ukanaka uñakipañakiti.",
+      "subscription_options": "Janiw suscripción amtanakax cargañjamäkiti.\n\nMä juk’a, internetan conexión ukar uñakipt’añamawa, jan ukax qhipat mayamp yant’añamawa."
+    }
+  },
+  "error": {
+    "title": "Pantja",
+    "unexpected": "Kunas jan waliw sarantäna... ¡Janiw almachktati! 😱 .",
+    "connection": "Ukax mä conexión satawa.",
+    "connection_fix": "Internetan conexión uñakiptʼam ukat qhepat mayamp yantʼam.",
+    "ai": {
+      "no_response": "Janiw kuna jaysäwis utjkiti .",
+      "unexpected": "Jan suytʼat .",
+      "internal_server_error": "Servidor manqhanxa pantjasiwi ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Aka simulador AI realista ukamp jutir entrevista de trabajo ukan yatiqañamawa .",
+      "full_description": "¿Envistas de trabajo ukanak apsuñajj ajjsarañat ukat llakitäpachati?\nInas jumax wali jan wakicht’ataw jikxatassta entrevistas de trabajo ukanak lurañataki?\n¡Akax mä perfecto app ukawa, mä entrevista de trabajo ukan aruskipt’añ yatiñanakamar yatiqañataki!\n\nJob IntelliViewer ukax inteligencia artificial ukan ch’amapampiw chiqpach simulacro de trabajo entrevistas ukanakamp lurañatak yanapt’i, jumar yanapt’añataki, kunatix chiqpach jakawix reclutadores ukanakar mä suma amuyt’awinak lurañatakiw wakisi, ukat jutir entrevistas ukar ace ukar wakicht’añatakiw yanapt’i.\n\nEntrevistas ukanakax posición de trabajo ukarjam wakicht’atawa, ukat amtanakamamp chika jiskt’äwinakampiw uñt’ayasini ukat chiqanchasirakini, ukhamat chiqpach entrevista de trabajo ukar juk’amp sum uñt’ayañataki.\n\nPremium apnaqirinakax sapa entrevista tukuyatatx mä yatiyaw katuqapxani, ukax mä juk’a qhanañcht’awimpiw aruskipt’awimp iwxt’awinakampi, kunjamas chiqpach irnaqäw entrevistan contratatäñax juk’amp askiptañapataki.",
+      "taglines": [
+        "¡Jutïr trabajoman wakichtʼatäñamawa!",
+        "!",
+        "Ace ¡Jutïr Trabajo entrevista AI!",
+        "¡Jutïr profesional éxito ukax akan suyt’apxtam!"
+      ],
+      "premium_benefits": [
+        "Ukax anuncios ukanakaruw apsuñapa .",
+        "Jan limitat entrevistanaka .",
+        "Yatiyäwinak katuqapxam, amuyt’awinakampi ukhamarak iwxt’awinakampi ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Nayrir kust'ata",
+      "monthly": "Phaxsixa .",
+      "annual": "Mara",
+      "cancel_anytime": "Cancelar kuna pachas .",
+      "save_discount": "Imaña",
+      "subscribe": "Suscribirse .",
+      "restore_purchases": "kutt’ayaña alaña .",
+      "premium_benefits": [
+        "Anuncionak apsuña .",
+        "Jan limitado entrevistas ukanakax janiw cooldowns .",
+        "Entrevistanak tukuyatatx yatiyawinakampi ukat iwxt’awinak katuqañamawa ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Yanapt’awi Jaqukipaña .",
+    "description": "Aka aplicación yaqha arunakar jaqukipañ yanapt’aña."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premyum",
+      "free": "Libre nga Bersyon"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Pagpraktis alang sa imong sunod nga interbyu sa trabaho!",
+      "message": "Ang pag-ampo ba sa trabaho nakulbaan ug mabalaka?\nTingali gibati mo gihapon nga dili andam sa pagkuha sa mga interbyu sa trabaho?\nKini ang hingpit nga app nga magpraktis sa imong kahanas sa pag-istoryahanay sa usa ka setting sa interbyu sa trabaho!"
+    },
+    {
+      "title": "Pangandam alang sa imong sunod nga trabaho!",
+      "message": "Gigamit sa Job Infellieviewer ang gahum sa artipisyal nga salabutan nga magpahigayon mga realistiko nga interbyu sa trabaho aron matabangan ka sa tinuud nga pag-recruit sa kinabuhi ug pag-andam kanimo sa pag-andam sa imong sunod nga tinuod nga interbyu sa kinabuhi."
+    },
+    {
+      "title": "SUMALA SUBSCRIPTION:",
+      "message": "Pagdawat usa ka taho sa katapusan sa matag interbyu nga nag-summarize sa panag-istoryahanay sa feedback ug tambag kung giunsa ang pagpaayo sa imong tsansa nga mag-suhol sa usa ka tinuod nga interbyu sa trabaho."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Balay",
+      "interview": "Pakighisgot",
+      "resume_cv": "Resuna",
+      "history": "Kasaykasayan",
+      "history_entry": "Pagsulod sa Kasaysayan",
+      "reports": "Taho",
+      "settings": "Mga Setting"
+    }
+  },
+  "title": {
+    "attention": "Pagtagad",
+    "information": "Kasayoran"
+  },
+  "label": {
+    "search": "Mangita"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Sa likod",
+    "close": "Sirhan",
+    "cancel": "Kanselahon",
+    "delete": "Mobiya",
+    "review": "Pagduki",
+    "subscribe": "Subscribe"
+  },
+  "language": {
+    "title": "Sinultihan",
+    "select": "Pilia ang Pinulongan",
+    "altered": "Nausab ang sinultian"
+  },
+  "history": {
+    "empty": "Walay sulod nga kasaysayan",
+    "delete": {
+      "list": {
+        "title": "Pagwagtang sa kasaysayan?",
+        "message": "Sigurado ka ba nga gusto nimo nga tangtangon ang tibuuk nga kasaysayan?",
+        "deleted": "Gitangtang sa kasaysayan."
+      },
+      "entry": {
+        "title": "Pagpaniid sa Pakigsulti?",
+        "message": "Sigurado ka ba nga gusto nimo nga tangtangon kini nga interbyu?",
+        "deleted": "Gitangtang sa kasaysayan."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Ngalan",
+      "first_name": "Una nga ngalan",
+      "date_of_birth": "Petsa sa Pagkatawo",
+      "job_position": "Posisyon sa trabaho",
+      "job_position_detailed": "Detalyado nga posisyon sa trabaho",
+      "education": "Edukasyon",
+      "courses": "Kurso",
+      "experience": "Kasinatian",
+      "add": {
+        "education": "Pagdugang bag-ong edukasyon",
+        "courses": "Idugang ang Bag-ong Kurso",
+        "experience": "Pagdugang bag-ong kasinatian"
+      },
+      "error": {
+        "validation": {
+          "title": "Sayup nga sayup",
+          "invalid_fields": "Pagsulud sa usa ka balido nga papel sa posisyon sa trabaho nga mag-aplay alang sa usa ka bag-ong pakigsulti sa trabaho.\nSa laing paagi",
+          "unable_to_validate": "Dili ma-validate ang mga uma."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institusyon",
+      "degree": "Grado",
+      "start": "Magsugod",
+      "end": "Kataposan"
+    },
+    "courses": {
+      "institution": "Institusyon",
+      "title_of_course": "Ulohan sa kurso",
+      "course_load": "Kurso nga Load"
+    },
+    "experience": {
+      "company": "Kompanya",
+      "position": "Posisyon",
+      "start": "Magsugod",
+      "end": "Kataposan"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Itom nga tema",
+      "description": "Pagpili tali sa kahayag ug itom nga tema.\nAwtomatikong gibutang sa tema sa aparato sa una nga higayon nga gibuksan nimo ang app."
+    },
+    "language": {
+      "name": "Sinultihan",
+      "description": "Pilia ang gipalabi nga sinultian nga ipakita samtang gigamit ang aplikasyon ug makigsulti sa AI sa panahon sa mga interbyu."
+    },
+    "notifications": {
+      "saved": "Mga setting nga gitipig"
+    },
+    "search": {
+      "not_found": "Wala'y nakit-an nga mga resulta."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Bag-ong Pakigsulti",
+      "resume": "Pagpadayon sa Pakigsulti"
+    },
+    "generating": "Paghimo Bag-ong Pakigsulti"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tapik sa pag-usab"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "I-type ang imong mensahe ...",
+    "max_length": "Naabot ang gitas-on sa Max"
+  },
+  "cooldown": {
+    "description": "Ang libre nga bersyon sa app nagtugot kanimo sa pagkuha sa usa ka interbyu matag oras.\n\nKung gusto nimo nga tangtangon ang mga limitasyon, kuhaa ang mga ad, ug pagdawat usa ka feedback report nga adunay tambag kung unsaon pag-ayo pagkahuman sa matag interbyu, hunahunaa ang pag-subscribe sa premium.",
+    "active": "Paghulat alang sa cooldown timer sa wala pa makahimo usa ka bag-ong pakigsulti.\n\nKung gusto nimo nga tangtangon ang mga coolollowns, kuhaa ang mga ad, ug pagdawat usa ka taho sa feedback nga adunay tambag kung unsaon pag-ayo pagkahuman sa matag interbyu, hunahunaa ang pag-subscribe sa premium.",
+    "timer": {
+      "wait": "Maghulat",
+      "second": "segundo",
+      "seconds": "segundasyon"
+    }
+  },
+  "report": {
+    "title": "Motaho",
+    "summary": "Kalangkoban",
+    "feedback": "Tubag",
+    "advice": "Tambag",
+    "button": {
+      "view": "Tan-awa ang Taho",
+      "unlock": "I-unlock ang taho",
+      "get": "Taho"
+    },
+    "generating": "Naghimo Report ..."
+  },
+  "review": {
+    "request": "Kung gusto nimo ang app, palihug hunahunaa ang pagbiya sa usa ka pagsusi aron matabangan kami.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Daghang salamat!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Bag-ong interbyu nga magamit!",
+      "message": "Adunay ka bag-ong interbyu nga magamit aron makuha ang intelliviewer sa trabaho."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premyum",
+      "type": "Suskrisyon",
+      "subscribe": "Subscribe",
+      "invitation": "Mag-subscribe sa premium",
+      "active": "Aktibo ang Premium Subscription",
+      "thanks": "Salamat sa pag-subscribe sa premium! Gusto namon nga maayo ka nga swerte ug kalampusan sa tanan nimong mga interbyu sa umaabot!",
+      "menu": {
+        "title": "Premium subscription",
+        "subtitle": "Mag-subscribe sa Plano sa Premium"
+      }
+    },
+    "error": {
+      "subscription": "Sayop nga pagsulay sa pag-validate sa imong pagpalit.",
+      "connection": "Sayup sa Koneksyon.\n\nDili makonektar sa tindahan.",
+      "products": "Dili ma-tsek ang mga kapilian sa produkto.",
+      "subscription_options": "Dili ma-load ang mga plano sa suskrisyon.\n\nPalihug, susihon ang imong koneksyon sa internet, o pagsulay pag-usab sa ulahi."
+    }
+  },
+  "error": {
+    "title": "Sayop",
+    "unexpected": "Adunay usa ka butang nga sayup ... dili ka makakita niini! 😱",
+    "connection": "Koneksyon",
+    "connection_fix": "Susihon ang imong koneksyon sa internet ug pagsulay pag-usab sa ulahi.",
+    "ai": {
+      "no_response": "Walay tubag",
+      "unexpected": "Wala paabota",
+      "internal_server_error": "Internal Server Error"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Pagpraktis alang sa imong sunod nga pakigsulti sa trabaho sa kini nga realistiko nga AI simulator",
+      "full_description": "Ang pag-ampo ba sa trabaho nakulbaan ug mabalaka?\nTingali gibati mo gihapon nga dili andam sa pagkuha sa mga interbyu sa trabaho?\nKini ang hingpit nga app nga magpraktis sa imong kahanas sa pag-istoryahanay sa usa ka setting sa interbyu sa trabaho!\n\nGigamit sa Job Infellieviewer ang gahum sa artipisyal nga salabutan nga magpahigayon mga realistiko nga mga interbyu sa trabaho aron matabangan ka sa usa ka maayo nga impresyon sa tinuud nga mga recruiters sa pag-istoryahanay nga kinahanglan nga mag-andam sa imong sunod nga interbyu.\n\nAng mga interbyu gipahiangay sa posisyon sa trabaho nga imong gipangita, ug mahulma ug mabag-o sa mga pangutana nga may kalabutan sa imong mga katuyoan nga labi nga nagrepresentar sa usa ka tinuod nga interbyu sa trabaho.\n\nAng mga naggamit sa Premium makadawat usab usa ka taho sa katapusan sa matag interbyu nga nag-summarize sa panag-istoryahanay sa feedback ug tambag kung unsaon pagpaayo ang imong tinuud nga pakigsulti sa trabaho.",
+      "taglines": [
+        "Pangandam alang sa imong sunod nga trabaho!",
+        "Pagpraktis alang sa imong sunod nga interbyu sa trabaho!",
+        "Ace ang imong sunod nga interbyu sa trabaho sa AI!",
+        "Ang imong sunod nga propesyonal nga kalampusan naghulat kanimo dinhi!"
+      ],
+      "premium_benefits": [
+        "Nagtangtang mga ad",
+        "Walay kutub nga mga interbyu",
+        "Makadawat mga taho nga adunay feedback ug tambag"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premyum",
+      "monthly": "Binulan",
+      "annual": "Tinuig",
+      "cancel_anytime": "Kanselahon ang bisan unsang oras",
+      "save_discount": "Magtigom",
+      "subscribe": "Subscribe",
+      "restore_purchases": "Ibalik ang mga gipamalit",
+      "premium_benefits": [
+        "Kuhaa ang mga ad",
+        "Walay kutub nga mga interbyu nga wala'y mga cooldowns",
+        "Makadawat mga taho nga adunay feedback ug tambag pagkahuman sa mga interbyu"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Tabang sa Paghubad",
+    "description": "Tabang sa paghubad sa kini nga aplikasyon sa ubang mga sinultian."
+  }
+}

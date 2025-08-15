@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Kuɗin inshuwara na shekara-shekara",
+      "free": "Version"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Yi aiki don hirarku na gaba na gaba!",
+      "message": "Shin ɗaukar tambayoyin Ayuba ya sa ku juyayi da damuwa?\nWataƙila har yanzu kuna jin rashin shiri don ɗaukar tambayoyin aiki?\nWannan shine cikakken app don aiwatar da kwarewar intanet a cikin tsarin hira na aiki!"
+    },
+    {
+      "title": "A shirye don aikinku na gaba!",
+      "message": "A hankali aiki yana amfani da karfin bayanan wucin gadi don gudanar da tattaunawar aiki na yau da kullun don taimaka muku da kyakkyawar fahimta game da tattaunawar rayuwa ta ainihi."
+    },
+    {
+      "title": "Biyan kuɗi na Premium:",
+      "message": "Karɓi rahoto a ƙarshen kowace hirar kowane irin tattaunawar da ra'ayi da shawara kan yadda za a inganta damar samun hayar a cikin ayyukan hira ta ainihi."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Gida",
+      "interview": "Hira",
+      "resume_cv": "Jingina",
+      "history": "Tarihi",
+      "history_entry": "Shigowar Tarihi",
+      "reports": "Ba da rahoto",
+      "settings": "Saitunan"
+    }
+  },
+  "title": {
+    "attention": "Hankali",
+    "information": "Ba da labari"
+  },
+  "label": {
+    "search": "Bincika"
+  },
+  "button": {
+    "ok": "KO",
+    "back": "Goya baya",
+    "close": "Rufa",
+    "cancel": "Warware",
+    "delete": "Share",
+    "review": "Bita",
+    "subscribe": "Labarai"
+  },
+  "language": {
+    "title": "Harshe",
+    "select": "Zabi Harshe",
+    "altered": "Yaren ya canza"
+  },
+  "history": {
+    "empty": "Babu komai a tarihi",
+    "delete": {
+      "list": {
+        "title": "Share tarihi?",
+        "message": "Ka tabbata kana so ka share duk tarihin?",
+        "deleted": "Tarihi ya goge."
+      },
+      "entry": {
+        "title": "Share hira?",
+        "message": "Shin kun tabbata kuna son share wannan tattaunawar?",
+        "deleted": "Tarihi ya goge."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Suna",
+      "first_name": "Sunan rana",
+      "date_of_birth": "Ranar haifuwa",
+      "job_position": "Matsayi aiki",
+      "job_position_detailed": "Cikakken aiki matsayi",
+      "education": "Ilmi",
+      "courses": "Darussan",
+      "experience": "Gwaninta",
+      "add": {
+        "education": "Sanya Sabuwar Ilimi",
+        "courses": "Sanya sabon hanya",
+        "experience": "Sanya sabon kwarewa"
+      },
+      "error": {
+        "validation": {
+          "title": "Kuskuren Tabbatarwa",
+          "invalid_fields": "Sanya ingantaccen aiki mai inganci don neman sabon aikin aiki.\nNa adalci",
+          "unable_to_validate": "Ba zai iya inganta filayen ba."
+        }
+      }
+    },
+    "education": {
+      "institution": "Ma'aikata",
+      "degree": "Digiri",
+      "start": "Fara",
+      "end": "Ƙarshe"
+    },
+    "courses": {
+      "institution": "Ma'aikata",
+      "title_of_course": "Taken hanya",
+      "course_load": "Hanya kaya"
+    },
+    "experience": {
+      "company": "Kamfani",
+      "position": "Wuri",
+      "start": "Fara",
+      "end": "Ƙarshe"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Dark Jigo",
+      "description": "Zaɓi tsakanin jigo da bakin ciki.\nSaita ta atomatik zuwa taken na'urar ta farko ka buɗe app."
+    },
+    "language": {
+      "name": "Harshe",
+      "description": "Zaɓi yaren da aka fi so don nunawa yayin amfani da aikace-aikacen da magana da Ai yayin tambayoyin."
+    },
+    "notifications": {
+      "saved": "Saitunan da aka ajiye"
+    },
+    "search": {
+      "not_found": "Babu sakamakon da aka samu."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Sabbin Tattaunawa",
+      "resume": "Ci gaba da hira"
+    },
+    "generating": "Samar da sabon hira"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Matsa don sake gwadawa"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Rubuta saƙonka ...",
+    "max_length": "Max tsawon kai"
+  },
+  "cooldown": {
+    "description": "Siffar da ta kyauta ta ba ku damar ɗaukar hira ɗaya a cikin awa ɗaya.\n\nIdan kana son cire iyakokin, cire talla, ka karɓi rahoton martani tare da shawara kan yadda za'a inganta bayan kowace hira, yi la'akari da yin rajista zuwa Premium.",
+    "active": "Jira lokacin da aka kwantar da hankali kafin samar da sabon hirar.\n\nIdan kana son cire masu cooldowns, cire talla, kuma sami rahoton martani tare da shawarwari kan kowace hirar, yi la'akari da biyan kuɗi zuwa Premium.",
+    "timer": {
+      "wait": "Jira",
+      "second": "na biyu",
+      "seconds": "na sakan"
+    }
+  },
+  "report": {
+    "title": "Yi rahoto",
+    "summary": "Taƙaitawa",
+    "feedback": "Martani",
+    "advice": "Shawara",
+    "button": {
+      "view": "Rahoton Duba",
+      "unlock": "Rahoton buše",
+      "get": "Samu rahoto"
+    },
+    "generating": "Rahoton samar da rahoto ..."
+  },
+  "review": {
+    "request": "Idan kuna son app ɗin, don Allah a yi la'akari da barin bita don taimaka mana.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Na gode sosai!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Sabbin Tattaunawa!",
+      "message": "Kuna da sabon hirar da akwai don ɗaukar aiki a hankali."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Kuɗin inshuwara na shekara-shekara",
+      "type": "Bayar da kuɗi",
+      "subscribe": "Labarai",
+      "invitation": "Biyan kuɗi zuwa Premium",
+      "active": "Biyan kuɗi mai aiki da aiki",
+      "thanks": "Na gode da biyan kuɗi zuwa Premium! Muna muku fatan alheri da nasara akan dukkan tambayoyinku na gaba!",
+      "menu": {
+        "title": "Biyan Kuɗi",
+        "subtitle": "Biyan kuɗi zuwa Tsarin Kamfanin"
+      }
+    },
+    "error": {
+      "subscription": "Kuskure ƙoƙarin inganta siyan ku.",
+      "connection": "Kuskuren haɗin.\n\nAn kasa haɗawa zuwa kantin.",
+      "products": "An kasa duba zaɓuɓɓukan samfur.",
+      "subscription_options": "An kasa sanya shirye-shiryen biyan kuɗi.\n\nDon Allah, bincika haɗin intanet ɗinka, ko sake gwadawa daga baya."
+    }
+  },
+  "error": {
+    "title": "Kuskure",
+    "unexpected": "Wani abu ya faru ba daidai ba ... zaku zama ganin wannan! 😱",
+    "connection": "Gamuwa",
+    "connection_fix": "Duba haɗin intanet ɗinka kuma sake gwadawa daga baya.",
+    "ai": {
+      "no_response": "Babu amsa",
+      "unexpected": "M",
+      "internal_server_error": "Kuskuren na Cikin Saba"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Yi aiki don tattaunawar ku na gaba tare da wannan ainihin Ai Simulator",
+      "full_description": "Shin ɗaukar tambayoyin Ayuba ya sa ku juyayi da damuwa?\nWataƙila har yanzu kuna jin rashin shiri don ɗaukar tambayoyin aiki?\nWannan shine cikakken app don aiwatar da kwarewar intanet a cikin tsarin hira na aiki!\n\nA hankali aiki yana amfani da ikon ilimin wucin gadi don gudanar da tambayoyin aikin tattaunawa na gaskiya don taimaka muku yin amfani da hirar na yau da kullun kuma yana sa ku shirya don saduwarku ta gaba.\n\nAn daidaita tambayoyin zuwa matsayin aikin da kuke nema, kuma za a fasalta kuma aka daidaita su da tambayoyi masu alaƙa da burinku don dacewa da hira ta aiki.\n\nMasu amfani na zamani zasu kuma karbi rahoto a ƙarshen kowace hirar da shawara game da yadda za a inganta damar samun hayar da ke aiki a cikin ayyukan gaske.",
+      "taglines": [
+        "A shirye don aikinku na gaba!",
+        "Yi aiki don hirarku na gaba na gaba!",
+        "Ace aikinku na gaba tare da AI!",
+        "Sarinku na gaba mai zuwa yana jiran ku anan!"
+      ],
+      "premium_benefits": [
+        "Yana cire talla",
+        "Hutun Unlimited",
+        "Karɓi rahotanni tare da amsa da shawara"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Kuɗin inshuwara na shekara-shekara",
+      "monthly": "Na wata",
+      "annual": "Na shekara",
+      "cancel_anytime": "Soke kowane lokaci",
+      "save_discount": "Ceta",
+      "subscribe": "Labarai",
+      "restore_purchases": "Mayar da sayayya",
+      "premium_benefits": [
+        "Cire talla",
+        "Hutun Unlimited ba tare da coolowns ba",
+        "Karɓi rahotanni tare da amsa da shawara bayan tambayoyi"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Taimaka Fassara",
+    "description": "Taimakawa fassara wannan aikace-aikacen zuwa wasu yarukan."
+  }
+}

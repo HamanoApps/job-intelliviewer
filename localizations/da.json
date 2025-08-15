@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PRÆMIE",
+      "free": "Gratis version"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Øv dig til dit næste jobsamtale!",
+      "message": "Gør det at tage jobsamtaler dig nervøs og ængstelig?\nMåske føler du dig stadig uforberedt på at tage jobsamtaler?\nDette er den perfekte app til at øve dine samtaleevner i en jobsamtaleindstilling!"
+    },
+    {
+      "title": "Vær forberedt på dit næste job!",
+      "message": "Job Intelliviewer bruger kraften i kunstig intelligens til at gennemføre realistiske mock -jobinterviews for at hjælpe dig med at udnytte de samtaleevner, der er nødvendige for at gøre et godt indtryk på rekrutterere i det virkelige liv og gøre dig forberedt på at ACE dit næste virkelige livsinterview."
+    },
+    {
+      "title": "Premium -abonnement:",
+      "message": "Modtag en rapport i slutningen af hvert interview, der opsummerer samtalen med feedback og råd om, hvordan du forbedrer dine chancer for at blive ansat i et rigtigt jobsamtale."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Hjem",
+      "interview": "Interview",
+      "resume_cv": "Genoptage",
+      "history": "Historie",
+      "history_entry": "Historieindgang",
+      "reports": "Rapporter",
+      "settings": "Indstillinger"
+    }
+  },
+  "title": {
+    "attention": "Opmærksomhed",
+    "information": "Information"
+  },
+  "label": {
+    "search": "Søge"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Tilbage",
+    "close": "Tæt",
+    "cancel": "Ophæve",
+    "delete": "Slet",
+    "review": "Gennemgang",
+    "subscribe": "Abonner"
+  },
+  "language": {
+    "title": "Sprog",
+    "select": "Vælg sprog",
+    "altered": "Sprog ændret"
+  },
+  "history": {
+    "empty": "Tom historie",
+    "delete": {
+      "list": {
+        "title": "Slet historie?",
+        "message": "Er du sikker på, at du vil slette hele historien?",
+        "deleted": "Historien slettet."
+      },
+      "entry": {
+        "title": "Slet interview?",
+        "message": "Er du sikker på, at du vil slette dette interview?",
+        "deleted": "Historien slettet."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Navn",
+      "first_name": "Fornavn",
+      "date_of_birth": "Fødselsdato",
+      "job_position": "Jobposition",
+      "job_position_detailed": "Detaljeret jobposition",
+      "education": "Undervisning",
+      "courses": "Kurser",
+      "experience": "Erfaring",
+      "add": {
+        "education": "Tilføj ny uddannelse",
+        "courses": "Tilføj nyt kursus",
+        "experience": "Tilføj ny oplevelse"
+      },
+      "error": {
+        "validation": {
+          "title": "Valideringsfejl",
+          "invalid_fields": "Indsæt en gyldig jobpositionsrolle for at ansøge om en ny jobsamtale.\nAlternativt",
+          "unable_to_validate": "Kan ikke validere felter."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institution",
+      "degree": "Grad",
+      "start": "Starte",
+      "end": "Ende"
+    },
+    "courses": {
+      "institution": "Institution",
+      "title_of_course": "Titel selvfølgelig",
+      "course_load": "Kursusbelastning"
+    },
+    "experience": {
+      "company": "Selskab",
+      "position": "Position",
+      "start": "Starte",
+      "end": "Ende"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Mørkt tema",
+      "description": "Vælg mellem lys og mørkt tema.\nIndstil automatisk til enhedens tema første gang du åbner appen."
+    },
+    "language": {
+      "name": "Sprog",
+      "description": "Vælg det foretrukne sprog, der skal vises, mens du bruger applikationen og taler med AI under interviewene."
+    },
+    "notifications": {
+      "saved": "Indstillinger gemt"
+    },
+    "search": {
+      "not_found": "Ingen resultater fundet."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nyt interview",
+      "resume": "Genoptag interview"
+    },
+    "generating": "Generering af nyt interview"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tryk på for at prøve igen"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Skriv din besked ...",
+    "max_length": "Maksimal længde nået"
+  },
+  "cooldown": {
+    "description": "Den gratis version af appen giver dig mulighed for at tage et interview i timen.\n\nHvis du gerne vil fjerne begrænsningerne, fjerne annoncerne og modtage en feedback -rapport med råd om, hvordan du forbedrer efter hvert interview, skal du overveje at abonnere på Premium.",
+    "active": "Vent på cooldown -timeren, før du genererer et nyt interview.\n\nHvis du gerne vil fjerne cooldowns, fjerne annoncer og modtage en feedback -rapport med råd om, hvordan du forbedrer efter hvert interview, skal du overveje at abonnere på Premium.",
+    "timer": {
+      "wait": "Vente",
+      "second": "anden",
+      "seconds": "sekunder"
+    }
+  },
+  "report": {
+    "title": "Rapport",
+    "summary": "Oversigt",
+    "feedback": "Feedback",
+    "advice": "Råd",
+    "button": {
+      "view": "Se rapport",
+      "unlock": "Lås op rapport",
+      "get": "Få rapport"
+    },
+    "generating": "Generering af rapport ..."
+  },
+  "review": {
+    "request": "Hvis du kunne lide appen, skal du overveje at forlade en anmeldelse for at hjælpe os.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Mange tak!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nyt interview tilgængelig!",
+      "message": "Du har et nyt interview til rådighed til at påtage sig Job Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PRÆMIE",
+      "type": "Abonnement",
+      "subscribe": "Abonner",
+      "invitation": "Abonner på Premium",
+      "active": "Premium -abonnement aktivt",
+      "thanks": "Tak fordi du abonnerer på premium! Vi ønsker dig held og lykke med alle dine fremtidige interviews!",
+      "menu": {
+        "title": "Premium -abonnement",
+        "subtitle": "Abonner på premiumplanen"
+      }
+    },
+    "error": {
+      "subscription": "Fejl ved at prøve at validere dit køb.",
+      "connection": "Forbindelsesfejl.\n\nKan ikke oprette forbindelse til butikken.",
+      "products": "Kan ikke kontrollere produktindstillinger.",
+      "subscription_options": "Kan ikke indlæse abonnementsplaner.\n\nTjek venligst din internetforbindelse, eller prøv igen senere."
+    }
+  },
+  "error": {
+    "title": "Fejl",
+    "unexpected": "Noget gik galt ... du skulle ikke se dette! 😱",
+    "connection": "Forbindelse",
+    "connection_fix": "Tjek din internetforbindelse, og prøv igen senere.",
+    "ai": {
+      "no_response": "Intet svar",
+      "unexpected": "Uventet",
+      "internal_server_error": "Intern serverfejl"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Øv dig til dit næste jobinterview med denne realistiske AI -simulator",
+      "full_description": "Gør det at tage jobsamtaler dig nervøs og ængstelig?\nMåske føler du dig stadig uforberedt på at tage jobsamtaler?\nDette er den perfekte app til at øve dine samtaleevner i en jobsamtaleindstilling!\n\nJob Intelliviewer bruger kraften i kunstig intelligens til at gennemføre realistiske mock -jobinterviews for at hjælpe dig med at udnytte de samtaleevner, der er nødvendige for at gøre et godt indtryk på rekrutterere i det virkelige liv og gøre dig forberedt på at få dit næste interview.\n\nInterviewene er skræddersyet til den jobposition, du søger, og vil blive formet og justeret med spørgsmål relateret til dine mål for bedre at repræsentere et rigtigt jobsamtale.\n\nPremium -brugere vil også modtage en rapport i slutningen af hvert interview, der opsummerer samtalen med feedback og råd om, hvordan du forbedrer dine chancer for at blive ansat i et rigtigt jobsamtale.",
+      "taglines": [
+        "Vær forberedt på dit næste job!",
+        "Øv dig til dit næste jobsamtale!",
+        "Ace dit næste jobinterview med AI!",
+        "Din næste professionelle succes venter dig her!"
+      ],
+      "premium_benefits": [
+        "Fjerner annoncer",
+        "Ubegrænsede interviews",
+        "Modtag rapporter med feedback og rådgivning"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Præmie",
+      "monthly": "Månedlig",
+      "annual": "Årlig",
+      "cancel_anytime": "Annuller når som helst",
+      "save_discount": "Spare",
+      "subscribe": "Abonner",
+      "restore_purchases": "Gendan køb",
+      "premium_benefits": [
+        "Fjern annoncer",
+        "Ubegrænsede interviews uden nedkøling",
+        "Modtag rapporter med feedback og rådgivning efter interviews"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Hjælp med at oversætte",
+    "description": "Hjælp med at oversætte denne applikation til andre sprog."
+  }
+}

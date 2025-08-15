@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PRIME",
+      "free": "Version ya ofele ."
+    }
+  },
+  "presentation": [
+    {
+      "title": "Meká mpo na kosolola na yo na mosala oyo ekolanda!",
+      "message": "Kozwa bainterview ya mosala esalaka ete ozala na nsɔmɔ mpe omitungisa?\nMbala mosusu ozali naino koyoka ete omilengeli te mpo na kosala bainterview ya mosala?\nOyo ezali appli ya malamu mpenza mpo na komeka mayele na yo ya kosolola na esika ya bosololi ya mosala!"
+    },
+    {
+      "title": "Omibongisa mpo na mosala na yo oyo ekolanda!",
+      "message": "Job IntelliViewer asalelaka nguya ya mayele ya kosala mpo na kosala ba interviews ya mosala ya lokuta ya solo mpo na kosalisa yo osalela mayele ya masolo oyo esengeli mpo na kosala impression malamu na ba recruteurs ya bomoi ya solo mpe kosala ete omibongisa mpo na kosala ace na interview na yo ya solo ya bomoi ya solo."
+    },
+    {
+      "title": "Abonnement ya premium:",
+      "message": "Bozwa rapport na suka ya interview moko na moko oyo ezali koloba na bokuse lisolo na makanisi mpe toli na lolenge ya kobongisa ba chances na yo ya kozwa mosala na bosololi ya mosala ya solo."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Ndako",
+      "interview": "Mituna-lisolo",
+      "resume_cv": "Kozongela",
+      "history": "Lisolo",
+      "history_entry": "Bokoti ya lisolo ya lisolo .",
+      "reports": "Ba rapports .",
+      "settings": "Paramètres ."
+    }
+  },
+  "title": {
+    "attention": "Likebi",
+    "information": "Nsango"
+  },
+  "label": {
+    "search": "Koluka"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Mukongo",
+    "close": "Kokanga",
+    "cancel": "Kolongola",
+    "delete": "Boma",
+    "review": "Kotalela",
+    "subscribe": "Abonnez-vous ."
+  },
+  "language": {
+    "title": "Lokota",
+    "select": "Pona monoko .",
+    "altered": "Monoko ebongwanaki ."
+  },
+  "history": {
+    "empty": "Histoire ya pamba .",
+    "delete": {
+      "list": {
+        "title": "Bolongola histoire?",
+        "message": "Ozali na kondima ete olingi kosilisa lisolo mobimba?",
+        "deleted": "Lisoló ya bato elongolamaki."
+      },
+      "entry": {
+        "title": "Bolongola interview?",
+        "message": "Ozali sûr que olingi o supprimer interview oyo?",
+        "deleted": "Lisoló ya bato elongolamaki."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nkombo",
+      "first_name": "Prenom",
+      "date_of_birth": "Mokolo ya mbotama .",
+      "job_position": "Position ya mosala .",
+      "job_position_detailed": "Position ya mosala na ndenge ya détaillé .",
+      "education": "Mateya",
+      "courses": "Ba cours ya .",
+      "experience": "Ekperianse",
+      "add": {
+        "education": "Bakisa mateya ya sika .",
+        "courses": "Bakisa cours ya sika .",
+        "experience": "Bakisa expérience ya sika ."
+      },
+      "error": {
+        "validation": {
+          "title": "Libunga ya bondimi .",
+          "invalid_fields": "Kotisa mokumba ya position ya mosala oyo ezali na ntina mpo na kosenga interview ya sika ya mosala.\nNa lolenge mosusu .",
+          "unable_to_validate": "Ekoki te ko valider ba champs."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institution .",
+      "degree": "Diplome",
+      "start": "Kobanda",
+      "end": "Nsuka"
+    },
+    "courses": {
+      "institution": "Institution .",
+      "title_of_course": "Titre ya solo .",
+      "course_load": "charge ya cours ."
+    },
+    "experience": {
+      "company": "Moninga",
+      "position": "Esika",
+      "start": "Kobanda",
+      "end": "Nsuka"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Motó ya likambo ya molili .",
+      "description": "Pona kati ya motó ya likambo ya pole mpe ya molili.\nBotia yango moko na motó ya likambo ya aparɛyi mbala ya liboso oyo bofungoli programɛ yango."
+    },
+    "language": {
+      "name": "Lokota",
+      "description": "Pona monoko oyo olingaka mingi mpo na kolakisa ntango ozali kosalela aplikasi mpe kosolola na AI na ntango ya ba interviews."
+    },
+    "notifications": {
+      "saved": "Ba paramètres oyo ebombami ."
+    },
+    "search": {
+      "not_found": "Ba résultats ezwami te."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Interview ya sika .",
+      "resume": "curriculum vitae interview ."
+    },
+    "generating": "Kosala interview ya sika ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap mpo na komeka lisusu ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Tyá mesaje na yo...",
+    "max_length": "Bolai ya Max ekómaki ."
+  },
+  "cooldown": {
+    "description": "Version ya ofele ya app epesaka yo nzela ya kosala interview moko na ngonga moko.\n\nSoki olingi kolongola bandelo, kolongola bapiblisite, mpe kozwa lapolo ya makanisi na toli mpo na lolenge ya kobongisa nsima ya bosololi moko na moko, kanisá kosala abonema na mbongo ya liboso.",
+    "active": "Zela timer ya Cooldown avant osala interview ya sika.\n\nSoki olingi kolongola ba cooldowns, longola ba piblisite, mpe zwa lapolo ya makanisi na toli mpo na lolenge ya kobongisa nsima ya bosololi moko na moko, kanisá kosala abonema na mbongo ya liboso.",
+    "timer": {
+      "wait": "Zela",
+      "second": "ya mibale",
+      "seconds": "Ba secondes ."
+    }
+  },
+  "report": {
+    "title": "Rapore",
+    "summary": "Na mokuse",
+    "feedback": "Komantere",
+    "advice": "Toli",
+    "button": {
+      "view": "Tala rapport ya .",
+      "unlock": "Lapolo ya kofungola .",
+      "get": "Bozwa lapolo ya ."
+    },
+    "generating": "Rapport ya ko generer..."
+  },
+  "review": {
+    "request": "Soki osepeli na appli, kanisá kotika bozongeli mpo na kosalisa biso.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Matondi mingi!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Interview ya sika ezali!",
+      "message": "Ozali na interview ya sika oyo ezali mpo na kozua Job IntelliViewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PRIME",
+      "type": "Abonnement .",
+      "subscribe": "Abonnez-vous .",
+      "invitation": "Abonnez-vous na premium .",
+      "active": "Abonnement ya premium oyo ezali kosala .",
+      "thanks": "Matondo mingi mpo na kosala abonema na Premium! Tozali ko souhaiter bino bonne chance mpe succès na ba interviews na bino nionso ya mikolo ekoya!",
+      "menu": {
+        "title": "Abonnement ya premium .",
+        "subtitle": "Abonnez-vous na plan ya premium ."
+      }
+    },
+    "error": {
+      "subscription": "Erreur koluka ko valider achat na yo.",
+      "connection": "Libunga ya boyokani.\n\nEkoki te kozala na boyokani na magazini.",
+      "products": "Ekoki te kotala ba options ya produit.",
+      "subscription_options": "Kozanga ko charger ba plans ya abonnément.\n\nSvp, tala connexion internet na yo, to meka lisusu sima."
+    }
+  },
+  "error": {
+    "title": "Libunga",
+    "unexpected": "Eloko moko ekendeki mabe... ozali komona likambo oyo te! 😱 .",
+    "connection": "Connexion .",
+    "connection_fix": "Tala connexion internet na yo mpe meka lisusu sima.",
+    "ai": {
+      "no_response": "Eyano ezali te .",
+      "unexpected": "Ekanisami te .",
+      "internal_server_error": "Erreur ya serveur ya kati ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Pratiquer pona interview na yo ya mosala oyo ekolanda na simulateur oyo ya AI réaliste .",
+      "full_description": "Kozwa bainterview ya mosala esalaka ete ozala na nsɔmɔ mpe omitungisa?\nMbala mosusu ozali naino koyoka ete omilengeli te mpo na kosala bainterview ya mosala?\nOyo ezali appli ya malamu mpenza mpo na komeka mayele na yo ya kosolola na esika ya bosololi ya mosala!\n\nJob IntelliViewer asalelaka nguya ya mayele ya artificiel mpo na kosala ba interviews ya mosala ya mock ya solo mpo na kosalisa yo osalela mayele ya masolo oyo esengeli mpo na kosala impression malamu na ba recruteurs ya bomoi ya solo mpe kosala ete omibongisa mpo na kosala ace ya interview na yo ya sima.\n\nBa interviews esalemi na ndenge ya mosala oyo ozali koluka, mpe ekozala na lolenge mpe ekobongisama na mituna oyo etali mikano na yo mpo na komonisa malamu interview ya mosala ya solo.\n\nBa usagers ya premium bakozwa pe rapport na suka ya interview moko na moko oyo ezali ko résumer masolo na ba retours pe ba conseils na ndenge ya kobongisa ba chances na yo ya kozua emploi na interview ya solo ya musala.",
+      "taglines": [
+        "Omibongisa mpo na mosala na yo oyo ekolanda!",
+        "Meká mpo na kosolola na yo na mosala oyo ekolanda!",
+        "Ace Interview na yo ya mosala oyo ekolanda na AI!",
+        "Succès professionnel na yo ya sima ezali kozela yo awa!"
+      ],
+      "premium_benefits": [
+        "Alongolaka ba piblisite .",
+        "Ba interviews oyo ezangi ndelo .",
+        "Bozwa ba rapports na ba réactions mpe ba conseils ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Prime",
+      "monthly": "sanza na sanza .",
+      "annual": "Ya mbula",
+      "cancel_anytime": "Annuler na tango nionso .",
+      "save_discount": "Kobikisa",
+      "subscribe": "Abonnez-vous .",
+      "restore_purchases": "Kozongisa biloko oyo basombaki .",
+      "premium_benefits": [
+        "Longola ba piblisite .",
+        "Ba interviews sans limite oyo eza na ba cooldowns te .",
+        "Zwá balapolo oyo ezali na makanisi mpe toli nsima ya kotuna mituna ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Lisalisi Bobongola",
+    "description": "Aider na kobongola application oyo na minoko misusu."
+  }
+}

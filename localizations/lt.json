@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premija",
+      "free": "Nemokama versija"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Praktika kitam jūsų darbo pokalbiui!",
+      "message": "Ar darbo pokalbiai jus jaudina ir nerimauja?\nGal vis tiek jaučiatės nepasiruošę imtis darbo pokalbių?\nTai yra puiki programa, leidžianti praktikuoti savo pokalbio įgūdžius darbo interviu metu!"
+    },
+    {
+      "title": "Būkite pasirengę kitam darbui!",
+      "message": "„Job Intelliviewer“ naudoja dirbtinio intelekto galią, norėdamas atlikti realius tyčinio darbo pokalbius, kad padėtų jums panaudoti pokalbio įgūdžius, reikalingus norint padaryti gerą įspūdį realiame gyvenime įdarbintojams ir priversti jus paruošti kitą savo interviu realiame gyvenime."
+    },
+    {
+      "title": "„Premium“ prenumerata:",
+      "message": "Kiekvieno interviu pabaigoje gaukite pranešimą, kuriame apibendrinama pokalbis su atsiliepimais ir patarimais, kaip pagerinti savo galimybes pasamdyti realiame darbo pokalbyje."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Namai",
+      "interview": "Interviu",
+      "resume_cv": "Atnaujinti",
+      "history": "Istorija",
+      "history_entry": "Istorijos įrašas",
+      "reports": "Pranešimai",
+      "settings": "Nustatymai"
+    }
+  },
+  "title": {
+    "attention": "Dėmesys",
+    "information": "Informacija"
+  },
+  "label": {
+    "search": "Ieškoti"
+  },
+  "button": {
+    "ok": "Gerai",
+    "back": "Atgal",
+    "close": "Uždaryti",
+    "cancel": "Atšaukti",
+    "delete": "Ištrinti",
+    "review": "Peržiūra",
+    "subscribe": "Prenumeruokite"
+  },
+  "language": {
+    "title": "Kalba",
+    "select": "Pasirinkite Kalbą",
+    "altered": "Kalba pasikeitė"
+  },
+  "history": {
+    "empty": "Tuščia istorija",
+    "delete": {
+      "list": {
+        "title": "Ištrinti istoriją?",
+        "message": "Ar tikrai norite ištrinti visą istoriją?",
+        "deleted": "Istorija ištrinta."
+      },
+      "entry": {
+        "title": "Ištrinti interviu?",
+        "message": "Ar tikrai norite ištrinti šį interviu?",
+        "deleted": "Istorija ištrinta."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Vardas",
+      "first_name": "Vardas",
+      "date_of_birth": "Gimimo data",
+      "job_position": "Darbo pozicija",
+      "job_position_detailed": "Išsami darbo pozicija",
+      "education": "Išsilavinimas",
+      "courses": "Kursai",
+      "experience": "Patirtis",
+      "add": {
+        "education": "Pridėkite naują išsilavinimą",
+        "courses": "Pridėkite naują kursą",
+        "experience": "Pridėkite naują patirtį"
+      },
+      "error": {
+        "validation": {
+          "title": "Patvirtinimo klaida",
+          "invalid_fields": "Įdėkite galiojantį darbo pozicijos vaidmenį, kad galėtumėte kreiptis į naują darbo pokalbį.\nAlternatyviai",
+          "unable_to_validate": "Nepavyko patvirtinti laukų."
+        }
+      }
+    },
+    "education": {
+      "institution": "Įstaiga",
+      "degree": "Laipsnis",
+      "start": "Pradėti",
+      "end": "Pabaiga"
+    },
+    "courses": {
+      "institution": "Įstaiga",
+      "title_of_course": "Žinoma, pavadinimas",
+      "course_load": "Kurso apkrova"
+    },
+    "experience": {
+      "company": "Įmonė",
+      "position": "Pozicija",
+      "start": "Pradėti",
+      "end": "Pabaiga"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tamsi tema",
+      "description": "Pasirinkite tarp šviesos ir tamsios temos.\nAutomatiškai nustatykite į įrenginio temą pirmą kartą atidarę programą."
+    },
+    "language": {
+      "name": "Kalba",
+      "description": "Pokalbių metu pasirinkite pasirinktą kalbą, kurią rodoma naudojant programą ir kalbėkite su AI."
+    },
+    "notifications": {
+      "saved": "Nustatymai išsaugoti"
+    },
+    "search": {
+      "not_found": "Nerasta rezultatų."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Naujas interviu",
+      "resume": "Atnaujinti interviu"
+    },
+    "generating": "Generuoti naują interviu"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Bakstelėkite, kad pakartotinai dar kartą"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Įveskite savo pranešimą ...",
+    "max_length": "Pasiektas maksimalus ilgis"
+  },
+  "cooldown": {
+    "description": "Nemokama programos versija leidžia per valandą paimti vieną interviu.\n\nJei norite pašalinti apribojimus, pašalinti skelbimus ir gauti atsiliepimų ataskaitą su patarimais, kaip patobulinti po kiekvieno interviu, apsvarstykite galimybę užsiprenumeruoti „Premium“.",
+    "active": "Prieš sukuriant naują interviu, palaukite „Cooldown“ laikmatį.\n\nJei norite pašalinti atšiaurius, pašalinti skelbimus ir gauti atsiliepimų ataskaitą su patarimais, kaip patobulinti po kiekvieno interviu, apsvarstykite galimybę užsiprenumeruoti „Premium“.",
+    "timer": {
+      "wait": "Palauk",
+      "second": "antra",
+      "seconds": "sekundės"
+    }
+  },
+  "report": {
+    "title": "Pranešti",
+    "summary": "Santrauka",
+    "feedback": "Atsiliepimai",
+    "advice": "Patarimas",
+    "button": {
+      "view": "Peržiūrėti ataskaitą",
+      "unlock": "Atrakinti ataskaitą",
+      "get": "Gaukite ataskaitą"
+    },
+    "generating": "Generuojanti ataskaita ..."
+  },
+  "review": {
+    "request": "Jei jums patiko programa, apsvarstykite galimybę palikti apžvalgą, kad padėtumėte mums.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Labai ačiū!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Galimas naujas interviu!",
+      "message": "Turite naują interviu, kad galėtumėte imtis „In Intelliviewer“."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premija",
+      "type": "Prenumerata",
+      "subscribe": "Prenumeruokite",
+      "invitation": "Prenumeruokite „Premium“",
+      "active": "„Premium“ prenumerata aktyvi",
+      "thanks": "Dėkojame, kad užsiprenumeravote „Premium“! Linkime jums sėkmės ir sėkmės visuose jūsų būsimuose interviu!",
+      "menu": {
+        "title": "„Premium“ prenumerata",
+        "subtitle": "Prenumeruokite „Premium“ planą"
+      }
+    },
+    "error": {
+      "subscription": "Klaida bandant patvirtinti jūsų pirkinį.",
+      "connection": "Ryšio klaida.\n\nNepavyko prisijungti prie parduotuvės.",
+      "products": "Nepavyko patikrinti produkto parinkčių.",
+      "subscription_options": "Nepavyko įkelti prenumeratos planų.\n\nPrašome patikrinti savo interneto ryšį arba bandykite dar kartą vėliau."
+    }
+  },
+  "error": {
+    "title": "Klaida",
+    "unexpected": "Kažkas nutiko ne taip ... tu negali to pamatyti! 😱",
+    "connection": "Ryšys",
+    "connection_fix": "Patikrinkite interneto ryšį ir bandykite dar kartą vėliau.",
+    "ai": {
+      "no_response": "Jokio atsakymo",
+      "unexpected": "Netikėta",
+      "internal_server_error": "Vidinė serverio klaida"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Praktika kitam jūsų darbo pokalbiui su šiuo realiu AI simuliatoriumi",
+      "full_description": "Ar darbo pokalbiai jus jaudina ir nerimauja?\nGal vis tiek jaučiatės nepasiruošę imtis darbo pokalbių?\nTai yra puiki programa, leidžianti praktikuoti savo pokalbio įgūdžius darbo interviu metu!\n\n„Job Intelliviewer“ naudoja dirbtinio intelekto galią, norėdamas atlikti realius tyčinio darbo pokalbius, kad padėtų jums panaudoti pokalbio įgūdžius, reikalingus norint padaryti gerą įspūdį realiame gyvenime įdarbintojams ir priversti jus pasiruošti kitam interviu.\n\nPokalbiai yra pritaikyti jūsų siekiančiai darbo pozicijai, ir bus suformuoti ir pritaikyti klausimais, susijusiais su jūsų tikslais, kad būtų geriau atspindėtas tikras darbo pokalbis.\n\n„Premium“ vartotojai taip pat gaus ataskaitą kiekvieno pokalbio pabaigoje, apibendrindami pokalbį su atsiliepimais ir patarimais, kaip pagerinti jūsų galimybes pasamdyti realiame darbo pokalbyje.",
+      "taglines": [
+        "Būkite pasirengę kitam darbui!",
+        "Praktika kitam jūsų darbo pokalbiui!",
+        "Ace jūsų kitas darbo pokalbis su AI!",
+        "Kita jūsų profesinė sėkmė laukia jūsų čia!"
+      ],
+      "premium_benefits": [
+        "Pašalina skelbimus",
+        "Neribotas interviu",
+        "Gauti ataskaitas su atsiliepimais ir patarimais"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premija",
+      "monthly": "Mėnesinis",
+      "annual": "Metinis",
+      "cancel_anytime": "Atšaukti bet kada",
+      "save_discount": "Išsaugoti",
+      "subscribe": "Prenumeruokite",
+      "restore_purchases": "Atkurti pirkimus",
+      "premium_benefits": [
+        "Pašalinkite skelbimus",
+        "Neribota interviu be jokių šaltinių",
+        "Gaukite ataskaitas su atsiliepimais ir patarimais po interviu"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Padėti versti",
+    "description": "Padėkite išversti šią programą kitomis kalbomis."
+  }
+}

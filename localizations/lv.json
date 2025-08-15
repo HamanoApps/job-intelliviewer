@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Prēmija",
+      "free": "Bezmaksas versija"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Praksē nākamajai darba intervijai!",
+      "message": "Vai darba interviju veikšana jūs nervozē un satrauc?\nVarbūt jūs joprojām jūtaties nesagatavots veikt darba intervijas?\nŠī ir ideāla lietotne, lai praktizētu sarunvalodas prasmes darba intervijas iestatījumā!"
+    },
+    {
+      "title": "Esiet gatavs savam nākamajam darbam!",
+      "message": "Darba Intelliviewer izmanto mākslīgā intelekta spēku, lai veiktu reālistiskas izspēles darba intervijas, lai palīdzētu jums izmantot sarunvalodas prasmes, kas vajadzīgas, lai radītu labu iespaidu uz reālās dzīves vervētājiem un padarītu jūs sagatavotu savu nākamo reālās dzīves interviju."
+    },
+    {
+      "title": "Premium abonements:",
+      "message": "Saņemiet ziņojumu katras intervijas beigās, kurā apkopota saruna ar atsauksmēm un padomiem, kā uzlabot savas iespējas pieņemt darbā reālā darba intervijā."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Mājas",
+      "interview": "Intervija",
+      "resume_cv": "Atsākt",
+      "history": "Vēsture",
+      "history_entry": "Ieeja vēsturē",
+      "reports": "Ziņojumi",
+      "settings": "Iestatījumi"
+    }
+  },
+  "title": {
+    "attention": "Uzmanība",
+    "information": "Informācija"
+  },
+  "label": {
+    "search": "Meklēšana"
+  },
+  "button": {
+    "ok": "Labi",
+    "back": "Aizmugure",
+    "close": "Tuvs",
+    "cancel": "Atcelt",
+    "delete": "Dzēst",
+    "review": "Pārskatīšana",
+    "subscribe": "Abonēt"
+  },
+  "language": {
+    "title": "Valoda",
+    "select": "Atlasīt valodu",
+    "altered": "Mainījās valoda"
+  },
+  "history": {
+    "empty": "Tukša vēsture",
+    "delete": {
+      "list": {
+        "title": "Dzēst vēsturi?",
+        "message": "Vai esat pārliecināts, ka vēlaties izdzēst visu vēsturi?",
+        "deleted": "Vēsture izdzēsa."
+      },
+      "entry": {
+        "title": "Dzēst interviju?",
+        "message": "Vai esat pārliecināts, ka vēlaties izdzēst šo interviju?",
+        "deleted": "Vēsture izdzēsa."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nosaukt",
+      "first_name": "Vārds",
+      "date_of_birth": "Dzimšanas datums",
+      "job_position": "Darba pozīcija",
+      "job_position_detailed": "Detalizēts darba pozīcija",
+      "education": "Izglītība",
+      "courses": "Kursi",
+      "experience": "Pieredze",
+      "add": {
+        "education": "Pievienojiet jaunu izglītību",
+        "courses": "Pievienojiet jaunu kursu",
+        "experience": "Pievienojiet jaunu pieredzi"
+      },
+      "error": {
+        "validation": {
+          "title": "Validācijas kļūda",
+          "invalid_fields": "Ievietojiet derīgu darba pozīcijas lomu, lai pieteiktos jaunai darba intervijai.\nAlternatīvi",
+          "unable_to_validate": "Nespēj validēt laukus."
+        }
+      }
+    },
+    "education": {
+      "institution": "Iestāde",
+      "degree": "Grāds",
+      "start": "Sākums",
+      "end": "Beigas"
+    },
+    "courses": {
+      "institution": "Iestāde",
+      "title_of_course": "Nosaukums, protams",
+      "course_load": "Kursa slodze"
+    },
+    "experience": {
+      "company": "Kompānija",
+      "position": "Pozīcija",
+      "start": "Sākums",
+      "end": "Beigas"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tumša tēma",
+      "description": "Izvēlieties starp gaismas un tumšo tēmu.\nAutomātiski iestatiet ierīces motīvu, kad pirmo reizi atverat lietotni."
+    },
+    "language": {
+      "name": "Valoda",
+      "description": "Izvēlieties vēlamo valodu, lai to parādītu, lietojot lietojumprogrammu, un interviju laikā runājot ar AI."
+    },
+    "notifications": {
+      "saved": "Saglabātie iestatījumi"
+    },
+    "search": {
+      "not_found": "Rezultāti nav atrasti."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Jauna intervija",
+      "resume": "Atsākt interviju"
+    },
+    "generating": "Jaunas intervijas ģenerēšana"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Pieskarieties, lai mēģinātu atkārtot"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Ierakstiet savu ziņojumu ...",
+    "max_length": "Maksimālais garums sasniedza"
+  },
+  "cooldown": {
+    "description": "Lietotnes bezmaksas versija ļauj veikt vienu interviju stundā.\n\nJa vēlaties noņemt ierobežojumus, noņemt reklāmas un saņemt atgriezeniskās saites ziņojumu ar padomiem, kā uzlabot pēc katras intervijas, apsveriet iespēju abonēt premium.",
+    "active": "Pirms jaunas intervijas ģenerēšanas gaidiet atdzišanas taimeri.\n\nJa vēlaties noņemt atdzišanu, noņemt reklāmas un saņemt atsauksmju ziņojumu ar padomiem, kā uzlabot pēc katras intervijas, apsveriet iespēju abonēt premium.",
+    "timer": {
+      "wait": "Nogaidīt",
+      "second": "sekunde",
+      "seconds": "sekundes"
+    }
+  },
+  "report": {
+    "title": "Ziņot",
+    "summary": "Kopsavilkums",
+    "feedback": "Atsauksmes",
+    "advice": "Padoms",
+    "button": {
+      "view": "Skatīt ziņojumu",
+      "unlock": "Atbloķēt ziņojumu",
+      "get": "Saņemt ziņojumu"
+    },
+    "generating": "Ģenerēšanas ziņojums ..."
+  },
+  "review": {
+    "request": "Ja jums patika lietotne, lūdzu, apsveriet iespēju atstāt pārskatu, lai palīdzētu mums.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Liels paldies!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Pieejama jauna intervija!",
+      "message": "Jums ir pieejama jauna intervija, lai uzņemtu Job Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Prēmija",
+      "type": "Abonēšana",
+      "subscribe": "Abonēt",
+      "invitation": "Abonēt premium",
+      "active": "Premium abonementa aktīvs",
+      "thanks": "Paldies, ka abonējāt premium! Mēs novēlam jums veiksmi un panākumus visās jūsu turpmākajās intervijās!",
+      "menu": {
+        "title": "Premium abonements",
+        "subtitle": "Abonējiet premium plānu"
+      }
+    },
+    "error": {
+      "subscription": "Kļūda, mēģinot apstiprināt pirkumu.",
+      "connection": "Savienojuma kļūda.\n\nNevar izveidot savienojumu ar veikalu.",
+      "products": "Nevar pārbaudīt produktu opcijas.",
+      "subscription_options": "Nespēj ielādēt abonēšanas plānus.\n\nLūdzu, pārbaudiet savu interneta savienojumu vai vēlāk mēģiniet vēlreiz."
+    }
+  },
+  "error": {
+    "title": "Kļūda",
+    "unexpected": "Kaut kas nogāja greizi ... jūs to nevarat redzēt! 😱",
+    "connection": "Savienojums",
+    "connection_fix": "Pārbaudiet savu interneta savienojumu un mēģiniet vēlreiz vēlāk.",
+    "ai": {
+      "no_response": "Nav atbildes",
+      "unexpected": "Negaidīts",
+      "internal_server_error": "Iekšējā servera kļūda"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Prakse nākamajai darba intervijai ar šo reālistisko AI simulatoru",
+      "full_description": "Vai darba interviju veikšana jūs nervozē un satrauc?\nVarbūt jūs joprojām jūtaties nesagatavots veikt darba intervijas?\nŠī ir ideāla lietotne, lai praktizētu sarunvalodas prasmes darba intervijas iestatījumā!\n\nDarba Intelliviewer izmanto mākslīgā intelekta spēku, lai veiktu reālistiskas izspēles darba intervijas, lai palīdzētu jums izmantot sarunvalodas prasmes, kas vajadzīgas, lai radītu labu iespaidu uz reālās dzīves vervētājiem un padarītu jūs sagatavotu nākamo interviju.\n\nIntervijas ir pielāgotas jūsu meklētajam darba pozīcijai, un tās tiks veidotas un pielāgotas ar jautājumiem, kas saistīti ar jūsu mērķiem, lai labāk atspoguļotu reālu darba interviju.\n\nPremium lietotāji arī saņems ziņojumu katras intervijas beigās, kurā apkopota saruna ar atsauksmēm un padomiem, kā uzlabot savas iespējas pieņemt darbā reālā darba intervijā.",
+      "taglines": [
+        "Esiet gatavs savam nākamajam darbam!",
+        "Praksē nākamajai darba intervijai!",
+        "Ace jūsu nākamā darba intervija ar AI!",
+        "Jūsu nākamie profesionālie panākumi jūs šeit gaida!"
+      ],
+      "premium_benefits": [
+        "Noņem reklāmas",
+        "Neierobežotas intervijas",
+        "Saņemiet pārskatus ar atsauksmēm un padomiem"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Prēmija",
+      "monthly": "Ikmēneša",
+      "annual": "Ikgadējs",
+      "cancel_anytime": "Atcelt jebkurā laikā",
+      "save_discount": "Ietaupīt",
+      "subscribe": "Abonēt",
+      "restore_purchases": "Atjaunot pirkumus",
+      "premium_benefits": [
+        "Noņemt reklāmas",
+        "Neierobežotas intervijas bez atdzesēšanas",
+        "Pēc intervijām saņemiet ziņojumus ar atsauksmēm un padomiem"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Palīdzēt tulkot",
+    "description": "Palīdziet tulkot šo lietojumprogrammu citās valodās."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premiom",
+      "free": "Ụdị free"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Mee omume maka ajụjụ ọnụ ọzọ!",
+      "message": "A na-ewere ajụjụ ọnụ ọrụ gị ma na-echegbu onwe gị?\nEleghị anya ị ka na-eche na akwadoghị ịgba ajụjụ ọnụ ọrụ?\nNke a bụ ngwa zuru oke iji mụọ ihe ị na-akparịta ụka n'ajụjụ ọnụ ọrụ!"
+    },
+    {
+      "title": "Jikere maka ọrụ ọzọ gị!",
+      "message": "Ọrụ ọgụgụ isi na-eji ike nke ọgụgụ isi na-eme ka ị na-eme ihe ndị ọzọ na-akpali agụụ mmekọahụ chọrọ iji nwee mmetụta dị mma na ezigbo ndị na-eri ndụ ma mee ka ị nweta ajụjụ ajụjụ ọnụ gị na-esote."
+    },
+    {
+      "title": "Ndebanye aha adịchaghị:",
+      "message": "Anata mkpesa na njedebe nke ajụjụ ọnụ ọ bụla na-ekwu okwu na nzaghachi na ndụmọdụ gbasara otu ị ga - esi meziwanye ohere iji meziwanye ihe ị ga - eme."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Ulo",
+      "interview": "Ajuju oru",
+      "resume_cv": "Ịmaliteghachi",
+      "history": "Aguguala",
+      "history_entry": "Ntinye akụkọ ihe mere eme",
+      "reports": "Repokot",
+      "settings": "Ntọala"
+    }
+  },
+  "title": {
+    "attention": "Ige nti",
+    "information": "Ihe ogwugwa"
+  },
+  "label": {
+    "search": "Ochucho"
+  },
+  "button": {
+    "ok": "Ọ DỊ MMA",
+    "back": "Azu",
+    "close": "Mechie",
+    "cancel": "Ikansulu",
+    "delete": "Ihichapụ",
+    "review": "Ntuleghari",
+    "subscribe": "Ịdenye aha"
+  },
+  "language": {
+    "title": "Asusu",
+    "select": "Họrọ Asụsụ",
+    "altered": "Asụsụ gbanwere"
+  },
+  "history": {
+    "empty": "Akụkọ ihe efu",
+    "delete": {
+      "list": {
+        "title": "Hichapụ akụkọ ihe mere eme?",
+        "message": "Ì ji n'aka na ịchọrọ ihichapụ akụkọ ihe mere eme niile?",
+        "deleted": "Akụkọ ihe mere eme."
+      },
+      "entry": {
+        "title": "Nkwado Ajụjụ ọnụ?",
+        "message": "Ì ji n'aka na ị chọrọ ka ihichapụ ajụjụ ọnụ a?",
+        "deleted": "Akụkọ ihe mere eme."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Aha",
+      "first_name": "Aha mbụ",
+      "date_of_birth": "Ụbọchị ọmụmụ",
+      "job_position": "Ọnọdụ Job",
+      "job_position_detailed": "Ọnọdụ zuru ezu",
+      "education": "Mmuta",
+      "courses": "Nkuzi",
+      "experience": "Ahumihe",
+      "add": {
+        "education": "Tinye Mmụta Ọhụrụ",
+        "courses": "Tinye Usoro Ọhụrụ",
+        "experience": "Tinye ahụmịhe ọhụrụ"
+      },
+      "error": {
+        "validation": {
+          "title": "Njehie ziri ezi",
+          "invalid_fields": "Fanye ọrụ dị mkpa iji tinye akwụkwọ maka ajụjụ ọnụ ọrụ ọhụrụ.\nNkea",
+          "unable_to_validate": "Enweghi ike itinye ihe ubi."
+        }
+      }
+    },
+    "education": {
+      "institution": "Ewumewu",
+      "degree": "Digirii",
+      "start": "Ibido inya moto",
+      "end": "Nkwusi"
+    },
+    "courses": {
+      "institution": "Ewumewu",
+      "title_of_course": "Aha N'ezie",
+      "course_load": "Ibu Ibu"
+    },
+    "experience": {
+      "company": "Nsoro",
+      "position": "Okwa",
+      "start": "Ibido inya moto",
+      "end": "Nkwusi"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Isiokwu gbara ọchịchịrị",
+      "description": "Họrọ n'etiti isiokwu na isiokwu gbara ọchịchịrị.\nNa-akpaghị aka na isiokwu ngwaọrụ a nke mbụ ị mepee ngwa ahụ."
+    },
+    "language": {
+      "name": "Asusu",
+      "description": "Họrọ asụsụ kachasị amasị iji gosipụta mgbe ị na-eji ngwa ahụ na ịgwa AI okwu n'oge ajụjụ ọnụ ndị ahụ."
+    },
+    "notifications": {
+      "saved": "Ntọala echekwara"
+    },
+    "search": {
+      "not_found": "Enweghị nsonaazụ chọtara."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Ajụjụ Ọnụ Ọhụrụ",
+      "resume": "Resorge Ajụjụ Ọnụ"
+    },
+    "generating": "Na-eme ka Ajụjụ Ọnụ Ọhụrụ"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Kpatụ ka ọ gbanwee"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Pịnye ozi gị ...",
+    "max_length": "Ogologo oge Max ruru"
+  },
+  "cooldown": {
+    "description": "Versiondị nke ngwa ahụ na-enye gị ohere iji otu ajụjụ kwa elekere.\n\nỌ bụrụ na ịchọrọ iwepu adịghị mma, wepu mgbasa ozi, ma nata mkpesa azụ na ndụmọdụ gbasara ajụjụ ọnụ ọ bụla, tụlee ịdebanye aha na premium.",
+    "active": "Chere ka onye koodu ụlọikwuu tupu ha emee ihe osise ọhụrụ.\n\nỌ bụrụ na ị ga-achọ wepu coallows, wepụ mgbasa ozi, ma nata mkpesa azụ na ndụmọdụ gbasara ajụjụ ọnụ ọ bụla, tụlee ịdebanye aha na premium.",
+    "timer": {
+      "wait": "Chere",
+      "second": "sekon",
+      "seconds": "sekọnd"
+    }
+  },
+  "report": {
+    "title": "Repot",
+    "summary": "Nchikota",
+    "feedback": "Inye nzaghachi",
+    "advice": "Ndumodu",
+    "button": {
+      "view": "Lelee Akụkọ",
+      "unlock": "Mepee akụkọ",
+      "get": "Nweta akụkọ"
+    },
+    "generating": "Na-enwe Report ..."
+  },
+  "review": {
+    "request": "Ọ bụrụ na ị masịrị ngwa ahụ, biko tụlee ịhapụ nyocha iji nyere anyị aka.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Daalụ nke ukwuu!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Ajụjụ Ọnụ Ọhụrụ!",
+      "message": "Ị nwere ajụjụ ọnụ ọhụrụ iji were na Intellicizer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premiom",
+      "type": "Utu",
+      "subscribe": "Ịdenye aha",
+      "invitation": "Idenye aha na preum",
+      "active": "Ndenye aha adịchaghị na-arụ ọrụ",
+      "thanks": "Daalụ maka ịdebanye aha na ego! Anyị na-atụ anya gị chi ọma na ihe ịga nke ọma na ajụjụ ọnụ gị niile n'ajụjụ ọnụ gị!",
+      "menu": {
+        "title": "Ndenye aha adịchaghị",
+        "subtitle": "Idenye aha na atụmatụ adịchaghị"
+      }
+    },
+    "error": {
+      "subscription": "Njehie na-anwa ịzụrụ ihe gị.",
+      "connection": "Njehie njikọ.\n\nEnweghi ike ijikọ na ụlọ ahịa.",
+      "products": "Enweghi ike inyocha nhọrọ ngwaahịa.",
+      "subscription_options": "Enweghi ike ibughachi atụmatụ ndebanye aha.\n\nBiko, lelee njikọ ịntanetị gị, ma ọ bụ nwaa ọzọ."
+    }
+  },
+  "error": {
+    "title": "Mmejo",
+    "unexpected": "Ihe na-ezighi ezi ... I ghaghi ihu nke a! 😱",
+    "connection": "Njikota",
+    "connection_fix": "Lelee njikọ ịntanetị gị wee nwaa ọzọ.",
+    "ai": {
+      "no_response": "Enweghị nzaghachi",
+      "unexpected": "Atughi anya",
+      "internal_server_error": "Mperi Sava Ime"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Omume maka ajụjụ ọnụ ọzọ na-esote ya na nke a",
+      "full_description": "A na-ewere ajụjụ ọnụ ọrụ gị ma na-echegbu onwe gị?\nEleghị anya ị ka na-eche na akwadoghị ịgba ajụjụ ọnụ ọrụ?\nNke a bụ ngwa zuru oke iji mụọ ihe ị na-akparịta ụka n'ajụjụ ọnụ ọrụ!\n\nỌrụ ọgụgụ isi na-eji ike nke ọgụgụ isi na-eme ka ị na-eme ihe ndị na-agba ajụjụ ọnụ iji nyere gị aka na ntị na ndị na-ahụ maka ndụ ma mee ka ị dịkwuo njikere ịgba ajụjụ ọnụ gị.\n\nA na-agba ajụjụ ọnụ maka ọnọdụ ọrụ ị na-achọ, a ga-akpụzi ma gbanwee ajụjụ metụtara ebumnuche gị ka ọ dị mma ịnọchite anya ezigbo ọrụ.\n\nNdị ọrụ na-adịchaghị atụ ga-enwetakwa akụkọ na njedebe nke ajụjụ ọnụ ọ bụla na-ekwu na mkparịta ụka na nzaghachi maka iji meziwanye ohere iji meziwanye ihe ị ga-eji were ọrụ zuru oke.",
+      "taglines": [
+        "Jikere maka ọrụ ọzọ gị!",
+        "Mee omume maka ajụjụ ọnụ ọzọ!",
+        "Ace ajụjụ ọnụ ọzọ gbasara ọrụ AI!",
+        "Ọganiihu gị na-esote ebe a!"
+      ],
+      "premium_benefits": [
+        "Wepu Mgbasa ozi esighi",
+        "Ajụjụ ọnụ na-akparaghị ókè",
+        "Nweta akụkọ na nzaghachi na ndụmọdụ"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premiom",
+      "monthly": "Lewa onwa",
+      "annual": "Keafo",
+      "cancel_anytime": "Kagbuo oge ọ bụla",
+      "save_discount": "Zoputa",
+      "subscribe": "Ịdenye aha",
+      "restore_purchases": "Weghachi ịzụta ihe",
+      "premium_benefits": [
+        "Wepu Mgbasa ozi",
+        "Ajụjụ ọnụ na-akparaghị ókè na-enweghị ndị Colold",
+        "Nweta akụkọ na nzaghachi na ndụmọdụ mgbe ajụjụ ọnụ"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Nyegharịa",
+    "description": "Nyere Tugharia ngwa a n'asụsụ ndị ọzọ."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "SI XƆ ASI",
+      "free": "Femaxee ƒe tɔtrɔ ."
+    }
+  },
+  "presentation": [
+    {
+      "title": "Nusɔsrɔ̃ na wò dɔbiagbalẽvi si gbɔna!",
+      "message": "Ðe gbebiamewo wɔwɔ nana nètsia dzodzodzoe eye nètsia dzimaɖia?\nÐewohĩ ègasena le ɖokuiwò me kokoko be yemele klalo be yeawɔ gbebiamewo oa?\nEsiae nye dɔwɔnu si sɔ nyuie be nàtsɔ asrɔ̃ wò dzeɖoɖoŋutetewo le dɔbiagbalẽvi ƒe nɔnɔme me!"
+    },
+    {
+      "title": "Dzra ɖo ɖe dɔ si gbɔna ŋu!",
+      "message": "Job IntelliViewer zãa nunya wɔwɔe ƒe ŋusẽ tsɔ wɔa dɔbiabia siwo nye fewuɖunya ŋutɔŋutɔ tsɔ kpena ɖe ŋuwò nèwɔa dzeɖoɖo ƒe aɖaŋu siwo hiã be nàwɔ dɔ ɖe agbe ŋutɔŋutɔ xɔxɔ dzi la ŋudɔ eye wòana nàdzra ɖo be yeawɔ wò agbemebiabia ŋutɔŋutɔ si gbɔna la ŋudɔ."
+    },
+    {
+      "title": "Nudɔdɔ si xɔ asi wu:",
+      "message": "Xɔ nyatakaka le gbebiame ɖesiaɖe ƒe nuwuwu si me nàgblɔ dzeɖoɖoa kpuie kple nyaŋuɖoɖo kple aɖaŋuɖoɖo le alesi nàwɔ mɔnukpɔkpɔ si asu asiwò be nàxɔ dɔ le dɔbiabia ŋutɔŋutɔ me ŋu."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Aƒeme",
+      "interview": "Gbebiabia",
+      "resume_cv": "Gadze egᴐme",
+      "history": "Nyadzɔdzɔ",
+      "history_entry": "Ŋutinya me nyawo ŋɔŋlɔ .",
+      "reports": "Nyatakakawo",
+      "settings": "Ðoɖowo ."
+    }
+  },
+  "title": {
+    "attention": "Ŋuɖoɖo",
+    "information": "Numeɖeɖe"
+  },
+  "label": {
+    "search": "Di"
+  },
+  "button": {
+    "ok": "ENYO",
+    "back": "Megbe",
+    "close": "Tu",
+    "cancel": "Te fli ɖe eme",
+    "delete": "Ɖe ɖa",
+    "review": "Dzro eme",
+    "subscribe": "Ðo ŋkɔ ."
+  },
+  "language": {
+    "title": "Gbegbᴐgblᴐ",
+    "select": "Tia Gbegbɔgblɔ .",
+    "altered": "Gbegbɔgblɔ si woɖɔli ."
+  },
+  "history": {
+    "empty": "Ŋutinya ƒuƒlu .",
+    "delete": {
+      "list": {
+        "title": "Tsɔ ŋutinya ɖa?",
+        "message": "Èka ɖe edzi be yeatutu ŋutinya bliboa ɖa?",
+        "deleted": "Woɖe ŋutinya ɖa."
+      },
+      "entry": {
+        "title": "Delete Interview?",
+        "message": "Èka ɖe edzi be yeatutu gbebiame sia ɖaa?",
+        "deleted": "Woɖe ŋutinya ɖa."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Ŋkɔ",
+      "first_name": "Ŋkɔ gbãtɔ",
+      "date_of_birth": "Ɣletiŋkeke si dzi wodzii .",
+      "job_position": "Dɔwɔwɔ ƒe ɖoƒe .",
+      "job_position_detailed": "Dɔwɔwɔ ƒe ɖoƒe si me kɔ nyuie .",
+      "education": "Susᴐsrɔ̃",
+      "courses": "Nusɔsrɔ̃wo .",
+      "experience": "Nuteƒekpɔkpɔ",
+      "add": {
+        "education": "Tsɔ sukudede yeye kpee .",
+        "courses": "Tsɔ nusɔsrɔ̃ yeye kpee .",
+        "experience": "Tsɔ nuteƒekpɔkpɔ yeye kpee ."
+      },
+      "error": {
+        "validation": {
+          "title": "Vodada si wowɔ le kpeɖodzinana ŋu .",
+          "invalid_fields": "De dɔ ƒe ɖoƒe ƒe akpa si sɔ la eme be nàbia be woawɔ dɔ le ye si.\nAlo, .",
+          "unable_to_validate": "Mete ŋu ɖo kpe agblewo dzi o."
+        }
+      }
+    },
+    "education": {
+      "institution": "Dɔwɔƒe .",
+      "degree": "Ɖoƒe",
+      "start": "Dze egᴐme",
+      "end": "Nuwuwu"
+    },
+    "courses": {
+      "institution": "Dɔwɔƒe .",
+      "title_of_course": "Tanya ya nyateƒee .",
+      "course_load": "Nusɔsrɔ̃ ƒe agba ."
+    },
+    "experience": {
+      "company": "Hã",
+      "position": "Ɖoƒe",
+      "start": "Dze egᴐme",
+      "end": "Nuwuwu"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tanya Viviti .",
+      "description": "Tia le kekeli kple viviti ƒe tanya dome.\nÐo mɔ̃a ƒe tanya ɖe eɖokui si zi gbãtɔ si nèʋu dɔwɔnua."
+    },
+    "language": {
+      "name": "Gbegbᴐgblᴐ",
+      "description": "Tia gbegbɔgblɔ si nèdi be yeaɖe afia ne èle dɔwɔnua zãm eye nàƒo nu kple AI le gbebiameawo me."
+    },
+    "notifications": {
+      "saved": "Wodzra ɖoɖowo ɖo ."
+    },
+    "search": {
+      "not_found": "Womekpɔ emetsonu aɖeke o."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Gbebiame yeye .",
+      "resume": "Gbugbɔ dze gbebiame gɔme ."
+    },
+    "generating": "Gbebiame yeye wɔwɔ ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Zi edzi be nàgadze agbagba ake ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Ŋlɔ wò gbedasia ɖe agbalẽ dzi...",
+    "max_length": "Max ƒe didime ɖo ."
+  },
+  "cooldown": {
+    "description": "Dɔdamɔnua ƒe akpa si wowɔna femaxee la ɖea mɔ na wò be nàwɔ gbebiame ɖeka le gaƒoƒo ɖeka me.\n\nNe èdi be yeaɖe seɖoƒeawo ɖa la, ɖe boblododoawo ɖa, eye nàxɔ nyaŋuɖoɖo ŋuti nyatakaka si me aɖaŋuɖoɖo le le alesi nàwɔ wòanyo ɖe edzi le gbebiame ɖesiaɖe megbe ŋu la, bu eŋu kpɔ be yeawɔ nudɔdɔ na Premium.",
+    "active": "Lala cooldown timer hafi nàwɔ gbebiame yeye.\n\nNe èdi be yeaɖe cooldownwo ɖa, aɖe boblododowo ɖa, eye nàxɔ nyaŋuɖoɖo ŋuti nyatakaka si me aɖaŋuɖoɖo le le alesi nàwɔ wòanyo ɖe edzi le gbebiame ɖesiaɖe megbe ŋu la, bu eŋu kpɔ be yeawɔ nudɔdɔ na Premium.",
+    "timer": {
+      "wait": "Lala",
+      "second": "evelia",
+      "seconds": "SECENDS ."
+    }
+  },
+  "report": {
+    "title": "Nutsotso",
+    "summary": "Totoɖeme",
+    "feedback": "Nutsotso",
+    "advice": "Aɖaŋu",
+    "button": {
+      "view": "Kpɔ nyatakaka la ɖa.",
+      "unlock": "Ʋu ƒe nyatakaka .",
+      "get": "Na nyatakaka ."
+    },
+    "generating": "Nyatakaka wɔwɔ..."
+  },
+  "review": {
+    "request": "Ne dɔwɔnua dze ŋuwò la, taflatse bu eŋu kpɔ be yeagblẽ numetoto aɖe ɖi akpe ɖe mía ŋu.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Akpe na wò kakaaka!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Gbebiame yeye aɖe li!",
+      "message": "Gbebiame yeye aɖe le asiwò si nàte ŋu axɔ le dɔwɔwɔ me Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "SI XƆ ASI",
+      "type": "Subscription .",
+      "subscribe": "Ðo ŋkɔ .",
+      "invitation": "Ðo ŋkɔ ɖe Premium .",
+      "active": "Premium Subscription Active .",
+      "thanks": "Akpe na mi be miewɔ nudɔdɔ na Premium! Míele dzɔgbenyui kple dzidzedzekpɔkpɔ dim na wò le wò gbebiame siwo katã nàwɔ le etsɔme la me!",
+      "menu": {
+        "title": "Premium Subscription .",
+        "subtitle": "Wɔ ɖoɖo ɖe Premium Plan la ŋu ."
+      }
+    },
+    "error": {
+      "subscription": "Vodada si le agbagba dzem be yeaɖo kpe nusi nèƒle dzi.",
+      "connection": "Kadodo ƒe vodada.\n\nMete ŋu do ka kple fiasea o.",
+      "products": "Mete ŋu lé ŋku ɖe nusiwo wowɔ ƒe tiatiawɔblɔɖe ŋu o.",
+      "subscription_options": "Mete ŋu tsɔ nudɔdɔ ƒe ɖoɖowo de eme o.\n\nTaflatse, lé ŋku ɖe wò Internet dzi kadodoa ŋu, alo nàgadze agbagba emegbe."
+    }
+  },
+  "error": {
+    "title": "Vodada",
+    "unexpected": "Nane gblẽ... wò souldn't be èle esia kpɔm o! 😱 .",
+    "connection": "Kadodo .",
+    "connection_fix": "Kpɔ wò Internet dzi kadodoa me eye nàgadze agbagba emegbe.",
+    "ai": {
+      "no_response": "Ŋuɖoɖo aɖeke meli o .",
+      "unexpected": "nusi womele mɔ kpɔm na o .",
+      "internal_server_error": "Ememe Server Vodada ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Nusɔsrɔ̃ na wò dɔbiabia si gbɔna kple AI simulator ŋutɔŋutɔ sia .",
+      "full_description": "Ðe gbebiamewo wɔwɔ nana nètsia dzodzodzoe eye nètsia dzimaɖia?\nÐewohĩ ègasena le ɖokuiwò me kokoko be yemele klalo be yeawɔ gbebiamewo oa?\nEsiae nye dɔwɔnu si sɔ nyuie be nàtsɔ asrɔ̃ wò dzeɖoɖoŋutetewo le dɔbiagbalẽvi ƒe nɔnɔme me!\n\nJob IntelliViewer zãa nunya wɔwɔe ƒe ŋusẽ tsɔ wɔa dɔbiabia siwo nye fewuɖunya ŋutɔŋutɔ tsɔ kpena ɖe ŋuwò nèwɔa dzeɖoɖo ƒe aɖaŋu siwo hiã be nàwɔ dɔ ɖe agbe ŋutɔŋutɔ didilawo dzi la ŋudɔ eye wòana nàdzra ɖo be yeawɔ wò gbebiame si gbɔna la ŋudɔ.\n\nWotrɔ asi le gbebiameawo ŋu ɖe dɔ ƒe ɖoƒe si dim nèle la nu, eye woatrɔ asi le eŋu ahatrɔ asi le eŋu kple nyabiase siwo ku ɖe wò taɖodzinuwo ŋu be nàtsi tre ɖi na dɔbiabia ŋutɔŋutɔ.\n\nPremium zãlawo hã axɔ nyatakaka le gbebiame ɖesiaɖe ƒe nuwuwu si me woaƒo dzeɖoɖoa nu ƒu kpuie kple nyaŋuɖoɖo kple aɖaŋuɖoɖo le alesi nàwɔ wò mɔnukpɔkpɔwo nanyo ɖe edzi be nàxɔ dɔ le dɔbiabia ŋutɔŋutɔ me.",
+      "taglines": [
+        "Dzra ɖo ɖe dɔ si gbɔna ŋu!",
+        "Nusɔsrɔ̃ na wò dɔbiagbalẽvi si gbɔna!",
+        "Ace wò dɔbiabia si kplɔe ɖo kple AI!",
+        "Wò dɔnyala ƒe dzidzedzekpɔkpɔ si kplɔe ɖo la le asiwò le afisia!"
+      ],
+      "premium_benefits": [
+        "Eɖea boblododowo ɖa .",
+        "Gbebiame siwo seɖoƒe meli na o .",
+        "Xɔ nyatakakawo kple nyaŋuɖoɖo kple aɖaŋuɖoɖo ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Si xɔ asi",
+      "monthly": "Ɣleti sia ɣleti .",
+      "annual": "Ƒe sia ƒe",
+      "cancel_anytime": "Te fli ɖe eme ɣesiaɣi .",
+      "save_discount": "Dzrae ɖo",
+      "subscribe": "Ðo ŋkɔ .",
+      "restore_purchases": "Gbugbɔ nu siwo woƒle la ɖo te .",
+      "premium_benefits": [
+        "Ðe boblododowo ɖa .",
+        "Gbebiame siwo seɖoƒe meli na o siwo me cooldown aɖeke mele o .",
+        "Xɔ nyatakakawo kple nyaŋuɖoɖo kple aɖaŋuɖoɖo le gbebiamewo megbe ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Kpekpeɖeŋu Gbegɔmeɖeɖe .",
+    "description": "Kpe asi ɖe eŋu be woaɖe dɔ sia gɔme ɖe gbegbɔgblɔ bubuwo me."
+  }
+}

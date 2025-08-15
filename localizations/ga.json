@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Priofa",
+      "free": "Leagan Saor in Aisce"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Cleachtadh do do chéad agallamh poist eile!",
+      "message": "An bhfaigheann tú neirbhíseach agus imníoch agallaimh poist a ghlacadh?\nB'fhéidir go mbraitheann tú fós gan ullmhú chun agallaimh poist a ghlacadh?\nIs é seo an feidhmchlár foirfe chun do chuid scileanna comhrá a chleachtadh i suíomh agallaimh poist!"
+    },
+    {
+      "title": "Bí ullamh do do chéad phost eile!",
+      "message": "Baineann Job Intelliviewer úsáid as cumhacht na hintleachta saorga chun agallaimh réadúla poist a dhéanamh chun cabhrú leat leas a bhaint as na scileanna comhrá a theastaíonn chun tuiscint mhaith a dhéanamh ar earcaithe fíor -saoil agus chun go mbeidh tú sásta do chéad agallamh fíor -saoil eile a dhéanamh."
+    },
+    {
+      "title": "Síntiús préimhe:",
+      "message": "Faigh tuarascáil ag deireadh gach agallaimh ag déanamh achoimre ar an gcomhrá le haiseolas agus comhairle maidir le conas feabhas a chur ar do sheans go n -éireoidh tú le hagallamh poist."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Áit",
+      "interview": "Agallamh a chur ar",
+      "resume_cv": "Arís",
+      "history": "Stair",
+      "history_entry": "Iontráil staire",
+      "reports": "Tuairiscí",
+      "settings": "Socruithe"
+    }
+  },
+  "title": {
+    "attention": "Aire",
+    "information": "Eolas"
+  },
+  "label": {
+    "search": "Cíor"
+  },
+  "button": {
+    "ok": "Go maith",
+    "back": "Tacaigh le",
+    "close": "Críoch a chur le",
+    "cancel": "Cealaigh",
+    "delete": "Scrios amach",
+    "review": "Athbhreithniú",
+    "subscribe": "Suibscríobh"
+  },
+  "language": {
+    "title": "Teanga",
+    "select": "Roghnaigh teanga",
+    "altered": "Athraíodh an teanga"
+  },
+  "history": {
+    "empty": "Stair folamh",
+    "delete": {
+      "list": {
+        "title": "Scrios Stair?",
+        "message": "An bhfuil tú cinnte gur mhaith leat an stair iomlán a scriosadh?",
+        "deleted": "Scriosadh an stair."
+      },
+      "entry": {
+        "title": "Agallamh a scriosadh?",
+        "message": "An bhfuil tú cinnte gur mhaith leat an t -agallamh seo a scriosadh?",
+        "deleted": "Scriosadh an stair."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Ainmnigh",
+      "first_name": "Ainm baiste",
+      "date_of_birth": "Dáta na Breithe",
+      "job_position": "Post poist",
+      "job_position_detailed": "Seasamh poist mionsonraithe",
+      "education": "Oiliúint",
+      "courses": "Cúrsaí",
+      "experience": "Taithí",
+      "add": {
+        "education": "Cuir oideachas nua leis",
+        "courses": "Cuir cúrsa nua leis",
+        "experience": "Cuir taithí nua leis"
+      },
+      "error": {
+        "validation": {
+          "title": "Earráid bhailíochtaithe",
+          "invalid_fields": "Cuir isteach ról bailí poist poist chun iarratas a dhéanamh ar agallamh poist nua.\nMar mhalairt air sin",
+          "unable_to_validate": "Ní féidir réimsí a bhailíochtú."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institiúid",
+      "degree": "Céim",
+      "start": "Cuir ar siúl",
+      "end": "Tar chun deiridh"
+    },
+    "courses": {
+      "institution": "Institiúid",
+      "title_of_course": "Teideal ar ndóigh",
+      "course_load": "Ualach an chúrsa"
+    },
+    "experience": {
+      "company": "Cuideachta",
+      "position": "Staid",
+      "start": "Cuir ar siúl",
+      "end": "Tar chun deiridh"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Téama dorcha",
+      "description": "Roghnaigh idir téama éadrom agus téama dorcha.\nSocraigh go huathoibríoch chuig téama an fheiste an chéad uair a osclaíonn tú an feidhmchlár."
+    },
+    "language": {
+      "name": "Teanga",
+      "description": "Roghnaigh an teanga is fearr le taispeáint agus an t -iarratas á úsáid agat agus ag caint leis an AI le linn na n -agallamh."
+    },
+    "notifications": {
+      "saved": "Sábháladh Socruithe"
+    },
+    "search": {
+      "not_found": "Níor aimsíodh aon torthaí."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Agallamh nua",
+      "resume": "Atosú agallamh"
+    },
+    "generating": "Agallamh nua a ghiniúint"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Beartaíonn ar atriail"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Clóscríobh do theachtaireacht ...",
+    "max_length": "Max Fad sroichte"
+  },
+  "cooldown": {
+    "description": "Ligeann an leagan saor den aip duit agallamh amháin a ghlacadh in aghaidh na huaire.\n\nDá mba mhaith leat na teorainneacha a bhaint, na fógraí a bhaint, agus tuarascáil aiseolais a fháil le comhairle maidir le conas a fheabhsú tar éis gach agallaimh, smaoinigh ar shíntiús a dhéanamh ar phréimh.",
+    "active": "Fan ar an lasc ama cooldown sula ngintear agallamh nua.\n\nDá mba mhaith leat fuarú a bhaint, fógraí a bhaint, agus tuarascáil aiseolais a fháil le comhairle maidir le conas a fheabhsú tar éis gach agallaimh, smaoinigh ar shíntiús a dhéanamh ar phréimh.",
+    "timer": {
+      "wait": "Fanacht",
+      "second": "an dara háit",
+      "seconds": "soicind"
+    }
+  },
+  "report": {
+    "title": "Tuairisciú a dhéanamh ar",
+    "summary": "Achoimre",
+    "feedback": "Aiseolas",
+    "advice": "Fógra",
+    "button": {
+      "view": "Féach ar Thuarascáil",
+      "unlock": "Tuarascáil Díghlasáil",
+      "get": "Faigh Tuarascáil"
+    },
+    "generating": "Tuarascáil giniúna ..."
+  },
+  "review": {
+    "request": "Má thaitin an aip leat, smaoinigh ar athbhreithniú a fhágáil chun cabhrú linn.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Go raibh míle maith agat!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Agallamh nua ar fáil!",
+      "message": "Tá agallamh nua ar fáil agat le glacadh le Job Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Priofa",
+      "type": "Síntiús",
+      "subscribe": "Suibscríobh",
+      "invitation": "Liostáil le Préimh",
+      "active": "Síntiús préimhe gníomhach",
+      "thanks": "Go raibh maith agat as síntiús a thabhairt do phréimh! Guímid gach rath ort ar do chuid agallaimh go léir amach anseo!",
+      "menu": {
+        "title": "Síntiús préimhe",
+        "subtitle": "Liostáil leis an bplean préimhe"
+      }
+    },
+    "error": {
+      "subscription": "Earráid ag iarraidh do cheannach a bhailíochtú.",
+      "connection": "Earráid nasctha.\n\nNí féidir ceangal leis an siopa.",
+      "products": "Ní féidir roghanna táirge a sheiceáil.",
+      "subscription_options": "Ní féidir pleananna síntiús a luchtú.\n\nLe do thoil, seiceáil do nasc idirlín, nó bain triail eile as níos déanaí."
+    }
+  },
+  "error": {
+    "title": "Earráid",
+    "unexpected": "Chuaigh rud éigin mícheart ... ní fhéadfá é seo a fheiceáil! 😱",
+    "connection": "Nascadh",
+    "connection_fix": "Seiceáil do nasc idirlín agus bain triail eile as níos déanaí.",
+    "ai": {
+      "no_response": "Gan Freagra",
+      "unexpected": "Gan choinne",
+      "internal_server_error": "Earráid Freastalaí Inmheánach"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Cleachtadh do do chéad agallamh poist eile leis an Insamhlóir AI réalaíoch seo",
+      "full_description": "An bhfaigheann tú neirbhíseach agus imníoch agallaimh poist a ghlacadh?\nB'fhéidir go mbraitheann tú fós gan ullmhú chun agallaimh poist a ghlacadh?\nIs é seo an feidhmchlár foirfe chun do chuid scileanna comhrá a chleachtadh i suíomh agallaimh poist!\n\nBaineann Job Intelliviewer úsáid as cumhacht na hintleachta saorga chun agallaimh réadúla poist a dhéanamh chun cabhrú leat leas a bhaint as na scileanna comhrá a theastaíonn chun tuiscint mhaith a dhéanamh ar earcaithe fíor -saoil agus chun go mbeidh tú sásta do chéad agallamh eile a dhéanamh.\n\nDéantar na hagallaimh a chur in oiriúint don phost poist atá á lorg agat, agus déanfar iad a mhúnlú agus a choigeartú le ceisteanna a bhaineann le do spriocanna chun fíor -agallamh poist a léiriú níos fearr.\n\nGheobhaidh úsáideoirí Préimhe tuarascáil freisin ag deireadh gach agallaimh ag déanamh achoimre ar an gcomhrá le haiseolas agus comhairle maidir le conas do sheans a fheabhsú a fheabhsú i bhfíor -agallamh poist.",
+      "taglines": [
+        "Bí ullamh do do chéad phost eile!",
+        "Cleachtadh do do chéad agallamh poist eile!",
+        "Ace do chéad agallamh poist eile le AI!",
+        "Tá do chéad rath gairmiúil eile ag fanacht leat anseo!"
+      ],
+      "premium_benefits": [
+        "Baineann fógraí",
+        "Agallaimh neamhtheoranta",
+        "Tuarascálacha a fháil le haiseolas agus comhairle"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Priofa",
+      "monthly": "Go míosúil",
+      "annual": "Bliantán",
+      "cancel_anytime": "Cealaigh am ar bith",
+      "save_discount": "Spáráil",
+      "subscribe": "Suibscríobh",
+      "restore_purchases": "Ceannacháin a chur ar ais",
+      "premium_benefits": [
+        "Bain fógraí",
+        "Agallaimh neamhtheoranta gan aon fhuarúcháin",
+        "Tuarascálacha a fháil le haiseolas agus comhairle tar éis agallaimh"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Cabhrú le haistriú",
+    "description": "Cuidigh leis an iarratas seo a aistriú go teangacha eile."
+  }
+}

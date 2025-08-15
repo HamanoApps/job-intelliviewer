@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Besplatna verzija"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Vježbajte za sljedeći intervju za posao!",
+      "message": "Da li vas povezuju intervjui za posao, nervira vas i anksiozno?\nMožda se i dalje osjećate nespremno da preuzmete razgovore za posao?\nOvo je savršena aplikacija za vježbanje vaših razgovora u okruženju razgovora za posao!"
+    },
+    {
+      "title": "Budite spremni za svoj sljedeći posao!",
+      "message": "Posao IntelliViewer koristi snagu umjetne inteligencije za provođenje realnih rugačkih razgovora za obavljanje poslova koji će vam pomoći da iskoriste razgovorene vještine potrebne da biste napravili dobar dojam u stvarnim životnim regrutovima i učinite vas da budete spremni da vam bude spreman za vaš sljedeći stvarni intervju."
+    },
+    {
+      "title": "Premium pretplata:",
+      "message": "Primanje izveštaja na kraju svakog intervjua sažetak razgovora sa povratnim informacijama i savetima o tome kako poboljšati vaše šanse da se zapošljavaju u stvarnom razgovoru za posao."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Dom",
+      "interview": "Intervju",
+      "resume_cv": "Rezime",
+      "history": "Istorija",
+      "history_entry": "Unos povijesti",
+      "reports": "Izvještaji",
+      "settings": "Postavke"
+    }
+  },
+  "title": {
+    "attention": "Pažnja",
+    "information": "Informacije"
+  },
+  "label": {
+    "search": "Pretražiti"
+  },
+  "button": {
+    "ok": "U redu",
+    "back": "Natrag",
+    "close": "Zatvoriti",
+    "cancel": "Otkazati",
+    "delete": "Izbrisati",
+    "review": "Pregled",
+    "subscribe": "Pretplatiti se"
+  },
+  "language": {
+    "title": "Jezik",
+    "select": "Odaberite jezik",
+    "altered": "Jezik se promijenio"
+  },
+  "history": {
+    "empty": "Prazna povijest",
+    "delete": {
+      "list": {
+        "title": "Izbriši istoriju?",
+        "message": "Jeste li sigurni da želite izbrisati cijelu povijest?",
+        "deleted": "Istorija izbrisana."
+      },
+      "entry": {
+        "title": "Izbriši intervju?",
+        "message": "Jeste li sigurni da želite izbrisati ovaj intervju?",
+        "deleted": "Istorija izbrisana."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Ime",
+      "first_name": "Ime",
+      "date_of_birth": "Datum rođenja",
+      "job_position": "Položaj za posao",
+      "job_position_detailed": "Detaljna pozicija za posao",
+      "education": "Obrazovanje",
+      "courses": "Kursevi",
+      "experience": "Iskustvo",
+      "add": {
+        "education": "Dodajte novo obrazovanje",
+        "courses": "Dodajte novi kurs",
+        "experience": "Dodajte novo iskustvo"
+      },
+      "error": {
+        "validation": {
+          "title": "Pogreška validacije",
+          "invalid_fields": "Umetnite važeći ulogu poslova za prijavu za novi posao za posao.\nAlternativno",
+          "unable_to_validate": "Nije moguće provjeriti polja."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institucija",
+      "degree": "Stepen",
+      "start": "Počnite",
+      "end": "Kraj"
+    },
+    "courses": {
+      "institution": "Institucija",
+      "title_of_course": "Naslov naravno",
+      "course_load": "Tečaj"
+    },
+    "experience": {
+      "company": "Društvo",
+      "position": "Položaj",
+      "start": "Počnite",
+      "end": "Kraj"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tamna tema",
+      "description": "Odaberite između svjetla i tamne teme.\nAutomatski postavite na temu uređaja prvi put kada otvorite aplikaciju."
+    },
+    "language": {
+      "name": "Jezik",
+      "description": "Odaberite željeni jezik za prikaz dok koristite aplikaciju i razgovarali sa AI tijekom intervjua."
+    },
+    "notifications": {
+      "saved": "Postavke sačuvane"
+    },
+    "search": {
+      "not_found": "Nema rezultata."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Novi intervju",
+      "resume": "Resume Intervju"
+    },
+    "generating": "Generiranje novog intervjua"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Dodirnite za pokušaj"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Upišite svoju poruku ...",
+    "max_length": "Maksimalna dužina dosegnuta"
+  },
+  "cooldown": {
+    "description": "Besplatna verzija aplikacije omogućava vam da uzmete jedan intervju na sat.\n\nAko želite ukloniti ograničenja, ukloniti oglase i dobiti izvještaj o povratnim informacijama sa savjetima o poboljšanju nakon svakog intervjua, smatrajte pretplate na Premium.",
+    "active": "Pričekajte da je tajmer zauzeo prije generiranja novog intervjua.\n\nAko želite ukloniti Coolowns, uklonite oglase i primite izvještaj o povratnim informacijama sa savjetom o tome kako poboljšati nakon svakog intervjua, smatrajte pretplate na premiju.",
+    "timer": {
+      "wait": "Čekati",
+      "second": "drugi",
+      "seconds": "sekundi"
+    }
+  },
+  "report": {
+    "title": "Izveštaj",
+    "summary": "Sažetak",
+    "feedback": "Povratne informacije",
+    "advice": "Savjet",
+    "button": {
+      "view": "Pogledajte izvještaj",
+      "unlock": "Izveštaj za otključavanje",
+      "get": "Dobiti izvještaj"
+    },
+    "generating": "Generiranje izvještaja ..."
+  },
+  "review": {
+    "request": "Ako vam se svidjelo aplikacija, razmislite o ostavljanju recenzije da nam pomognete.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Hvala vam puno!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Dostupan novi intervju!",
+      "message": "Imate novi intervju na raspolaganju za preuzimanje IntelliViewer-a za posao."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Pretplata",
+      "subscribe": "Pretplatiti se",
+      "invitation": "Pretplatite se na premiju",
+      "active": "Premium pretplata aktivna",
+      "thanks": "Hvala vam što ste pretplatili na premiju! Želimo vam puno sreće i uspjeha na svim vašim budućim intervjuima!",
+      "menu": {
+        "title": "Premium pretplata",
+        "subtitle": "Pretplatite se na premium plan"
+      }
+    },
+    "error": {
+      "subscription": "Pogreška koja pokušava provjeriti vašu kupovinu.",
+      "connection": "Greška veze.\n\nNije moguće povezivanje sa trgovine.",
+      "products": "Nije moguće provjeriti opcije proizvoda.",
+      "subscription_options": "Nije moguće učitati planove pretplate.\n\nMolimo provjerite svoju internetsku vezu ili pokušajte ponovo kasnije."
+    }
+  },
+  "error": {
+    "title": "Greška",
+    "unexpected": "Nešto je pošlo po zlu ... ne bismo se vidjeli! 😱",
+    "connection": "Priključak",
+    "connection_fix": "Provjerite internetsku vezu i pokušajte ponovo kasnije.",
+    "ai": {
+      "no_response": "Nema odgovora",
+      "unexpected": "Neočekivan",
+      "internal_server_error": "Greška interne servere"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Vježbajte za sljedeći razgovor za posao s ovim realističnim AI simulatorom",
+      "full_description": "Da li vas povezuju intervjui za posao, nervira vas i anksiozno?\nMožda se i dalje osjećate nespremno da preuzmete razgovore za posao?\nOvo je savršena aplikacija za vježbanje vaših razgovora u okruženju razgovora za posao!\n\nPosao IntelliViewer koristi snagu umjetne inteligencije za provođenje realnih ruganih razgovora za posao koji će vam pomoći da iskorištavate razgovorne vještine potrebne da biste napravili dobar dojam u stvarnim životnim regrutama i učinite vas da se pripremite za vaš sljedeći intervju.\n\nIntervjui su prilagođeni položaju posla koji tražite, a bit će oblikovan i prilagođen pitanjima vezanim za vaše ciljeve kako bi bolje predstavljali pravi intervju za posao.\n\nPremium korisnici će također dobiti izvještaj na kraju svakog intervjua sažejući razgovor sa povratnim informacijama i savjetom o poboljšanju vaših šansi za zapošljavanje u stvarnom razgovoru za posao.",
+      "taglines": [
+        "Budite spremni za svoj sljedeći posao!",
+        "Vježbajte za sljedeći intervju za posao!",
+        "As tvoj sljedeći intervju za posao sa AI!",
+        "Vaš sljedeći profesionalni uspjeh čeka vas ovdje!"
+      ],
+      "premium_benefits": [
+        "Uklanja oglase",
+        "Neograničeni intervjui",
+        "Primanje izvještaja s povratnim informacijama i savjetima"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Mjesečno",
+      "annual": "Godišnje",
+      "cancel_anytime": "Otkaži bilo kada",
+      "save_discount": "Sačuvati",
+      "subscribe": "Pretplatiti se",
+      "restore_purchases": "Vrati kupovinu",
+      "premium_benefits": [
+        "Uklonite oglase",
+        "Neograničeni intervjui bez zaroba",
+        "Primanje izvještaja s povratnim informacijama i savjetom nakon intervjua"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Pomoći prevoditi",
+    "description": "Pomozite prevesti ovu aplikaciju na druge jezike."
+  }
+}

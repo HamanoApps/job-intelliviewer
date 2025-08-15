@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Senpaga versio"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Praktiku por via sekva laborista intervjuo!",
+      "message": "Ĉu preni laborpostenajn intervjuojn nervozas kaj maltrankvilas?\nEble vi ankoraŭ sentas vin nepreparita por preni laborpostenajn intervjuojn?\nĈi tio estas la perfekta programo por praktiki viajn konversaciajn kapablojn en laborista intervjuo!"
+    },
+    {
+      "title": "Preparu vin por via sekva laboro!",
+      "message": "Job Intelliviewer uzas la potencon de artefarita inteligenteco por realigi realismajn mokajn laborpostenajn intervjuojn por helpi vin utiligi la konversaciajn kapablojn necesajn por fari bonan impreson pri realaj vivaj varbantoj kaj fari vin preparita por aperigi vian sekvan realan intervjuon."
+    },
+    {
+      "title": "Premium Abono:",
+      "message": "Ricevu raporton ĉe la fino de ĉiu intervjuo resumante la konversacion kun retrosciigoj kaj konsiloj pri kiel plibonigi viajn eblecojn esti dungitaj en reala laborista intervjuo."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Hejmo",
+      "interview": "Intervjuo",
+      "resume_cv": "Resumé",
+      "history": "Historio",
+      "history_entry": "Historia Eniro",
+      "reports": "Raportoj",
+      "settings": "Agordoj"
+    }
+  },
+  "title": {
+    "attention": "Atento",
+    "information": "Informoj"
+  },
+  "label": {
+    "search": "Serĉo"
+  },
+  "button": {
+    "ok": "Bone",
+    "back": "Reen",
+    "close": "Fermi",
+    "cancel": "Nuligi",
+    "delete": "Forigi",
+    "review": "Recenzo",
+    "subscribe": "Aboni"
+  },
+  "language": {
+    "title": "Lingvo",
+    "select": "Elektu Lingvon",
+    "altered": "Lingvo ŝanĝiĝis"
+  },
+  "history": {
+    "empty": "Malplena Historio",
+    "delete": {
+      "list": {
+        "title": "Forigi historion?",
+        "message": "Ĉu vi certas, ke vi volas forigi la tutan historion?",
+        "deleted": "Historio forigita."
+      },
+      "entry": {
+        "title": "Forigi intervjuon?",
+        "message": "Ĉu vi certas, ke vi volas forigi ĉi tiun intervjuon?",
+        "deleted": "Historio forigita."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nomo",
+      "first_name": "Antaŭnomo",
+      "date_of_birth": "Naskiĝo",
+      "job_position": "Laborposteno",
+      "job_position_detailed": "Detala laborposteno",
+      "education": "Edukado",
+      "courses": "Kursoj",
+      "experience": "Sperto",
+      "add": {
+        "education": "Aldonu Novan Edukadon",
+        "courses": "Aldonu Novan Kurson",
+        "experience": "Aldonu novan sperton"
+      },
+      "error": {
+        "validation": {
+          "title": "Valida eraro",
+          "invalid_fields": "Enmetu validan laborpostenan rolon por kandidatiĝi por nova laborista intervjuo.\nAlternative",
+          "unable_to_validate": "Nekapabla validigi kampojn."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institucio",
+      "degree": "Grado",
+      "start": "Komencu",
+      "end": "Fino"
+    },
+    "courses": {
+      "institution": "Institucio",
+      "title_of_course": "Titolo kompreneble",
+      "course_load": "Kursŝarĝo"
+    },
+    "experience": {
+      "company": "Kompanio",
+      "position": "Pozicio",
+      "start": "Komencu",
+      "end": "Fino"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Malhela temo",
+      "description": "Elektu inter lumo kaj malhela temo.\nAŭtomate agordi al la temo de la aparato la unuan fojon kiam vi malfermas la aplikon."
+    },
+    "language": {
+      "name": "Lingvo",
+      "description": "Elektu la preferatan lingvon por aperigi dum uzado de la aplikaĵo kaj parolante kun la AI dum la intervjuoj."
+    },
+    "notifications": {
+      "saved": "Agordoj konservitaj"
+    },
+    "search": {
+      "not_found": "Neniuj rezultoj trovitaj."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nova Intervjuo",
+      "resume": "Rekomenca Intervjuo"
+    },
+    "generating": "Generante novan intervjuon"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Frapeto por reprovi"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Tajpu vian mesaĝon ...",
+    "max_length": "Maksimuma longo atingita"
+  },
+  "cooldown": {
+    "description": "La senpaga versio de la app permesas preni unu intervjuon por horo.\n\nSe vi ŝatus forigi la limojn, forigi la reklamojn kaj ricevi retrosciigan raporton kun konsiloj pri kiel plibonigi post ĉiu intervjuo, konsideru aboni premion.",
+    "active": "Atendu la malvarmigan temporizilon antaŭ ol generi novan intervjuon.\n\nSe vi ŝatus forigi malvarmetaĵojn, forigi reklamojn kaj ricevi retrosciigan raporton kun konsiloj pri kiel plibonigi post ĉiu intervjuo, konsideru aboni premion.",
+    "timer": {
+      "wait": "Atendu",
+      "second": "Due",
+      "seconds": "sekundoj"
+    }
+  },
+  "report": {
+    "title": "Raporti",
+    "summary": "Resumo",
+    "feedback": "Reagoj",
+    "advice": "Konsilo",
+    "button": {
+      "view": "Vidi Raporton",
+      "unlock": "Malŝlosi Raporton",
+      "get": "Akiru Raporton"
+    },
+    "generating": "Generala Raporto ..."
+  },
+  "review": {
+    "request": "Se vi ŝatis la programon, bonvolu konsideri lasi recenzon por helpi nin.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Koran dankon!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nova intervjuo havebla!",
+      "message": "Vi havas novan intervjuon disponeblan por okupiĝi pri Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Abono",
+      "subscribe": "Aboni",
+      "invitation": "Abonu al premio",
+      "active": "Premium -abono aktiva",
+      "thanks": "Dankon pro abono al Premium! Ni deziras al vi bonŝancon kaj sukceson pri ĉiuj viaj estontaj intervjuoj!",
+      "menu": {
+        "title": "Premium Abono",
+        "subtitle": "Abonu la Premium -Planon"
+      }
+    },
+    "error": {
+      "subscription": "Eraro provante validigi vian aĉeton.",
+      "connection": "Konekta eraro.\n\nNe eblas konekti al la vendejo.",
+      "products": "Ne eblas kontroli produktajn eblojn.",
+      "subscription_options": "Ne eblas ŝarĝi abonajn planojn.\n\nBonvolu kontroli vian interretan konekton, aŭ reprovi poste."
+    }
+  },
+  "error": {
+    "title": "Eraro",
+    "unexpected": "Io fuŝiĝis ... vi ne povus vidi ĉi tion! 😱",
+    "connection": "Konekto",
+    "connection_fix": "Kontrolu vian interretan konekton kaj reprovu poste.",
+    "ai": {
+      "no_response": "Neniu respondo",
+      "unexpected": "Neatendita",
+      "internal_server_error": "Interna Servila Eraro"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Praktiku por via sekva laborista intervjuo kun ĉi tiu realisma AI -simulilo",
+      "full_description": "Ĉu preni laborpostenajn intervjuojn nervozas kaj maltrankvilas?\nEble vi ankoraŭ sentas vin nepreparita por preni laborpostenajn intervjuojn?\nĈi tio estas la perfekta programo por praktiki viajn konversaciajn kapablojn en laborista intervjuo!\n\nJob Intelliviewer uzas la potencon de artefarita inteligenteco por realigi realismajn mokajn laborpostenajn intervjuojn por helpi vin utiligi la konversaciajn kapablojn necesajn por fari bonan impreson pri realaj vivaj rekrutantoj kaj fari vin preparita por aperigi vian sekvan intervjuon.\n\nLa intervjuoj estas adaptitaj al la laborposteno, kiun vi serĉas, kaj estos formita kaj ĝustigita kun demandoj rilataj al viaj celoj por pli bone reprezenti veran labor -intervjuon.\n\nPremium -uzantoj ankaŭ ricevos raporton ĉe la fino de ĉiu intervjuo resumante la konversacion kun retrosciigoj kaj konsiloj pri kiel plibonigi viajn eblecojn esti dungitaj en reala laborista intervjuo.",
+      "taglines": [
+        "Preparu vin por via sekva laboro!",
+        "Praktiku por via sekva laborista intervjuo!",
+        "Ace via sekva laborista intervjuo kun AI!",
+        "Via sekva profesia sukceso atendas vin ĉi tie!"
+      ],
+      "premium_benefits": [
+        "Forigas reklamojn",
+        "Senlimaj intervjuoj",
+        "Ricevu raportojn kun reagoj kaj konsiloj"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Monata",
+      "annual": "Ĉiujara",
+      "cancel_anytime": "Nuligi iam ajn",
+      "save_discount": "Konservu",
+      "subscribe": "Aboni",
+      "restore_purchases": "Restarigu aĉetojn",
+      "premium_benefits": [
+        "Forigu reklamojn",
+        "Senlimaj intervjuoj kun neniuj malvarmetaĵoj",
+        "Ricevu raportojn kun reagoj kaj konsiloj post intervjuoj"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Helpu traduki",
+    "description": "Helpu traduki ĉi tiun aplikon al aliaj lingvoj."
+  }
+}

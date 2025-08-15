@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Prim",
+      "free": "Vèsyon gratis"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Pratike pou entèvyou pwochen travay ou!",
+      "message": "Pran entèvyou travay fè ou nève ak enkyete?\nPetèt ou toujou santi ou prepare pou pran entèvyou travay yo?\nSa a se app a pafè a pratike ladrès konvèsasyon ou nan yon anviwònman entèvyou travay!"
+    },
+    {
+      "title": "Prepare pou pwochen travay ou!",
+      "message": "Job Intelliviewer sèvi ak pouvwa a nan entèlijans atifisyèl yo ka fè entèvyou reyalis travay mock ede ou hanache ladrès yo konvèsasyon ki nesesè yo fè yon enpresyon bon sou rekritè lavi reyèl ak fè ou prepare yo ace pwochen entèvyou lavi reyèl ou."
+    },
+    {
+      "title": "Premium abònman:",
+      "message": "Resevwa yon rapò nan fen chak entèvyou rezime konvèsasyon an ak fidbak ak konsèy sou kòman yo amelyore chans ou pou jwenn anboche nan yon entèvyou travay reyèl."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Lakay",
+      "interview": "Antrevi",
+      "resume_cv": "Rezòm",
+      "history": "Istwa",
+      "history_entry": "Antre istwa",
+      "reports": "Rapò",
+      "settings": "Se"
+    }
+  },
+  "title": {
+    "attention": "Atansyon",
+    "information": "Enfòmasyon"
+  },
+  "label": {
+    "search": "Rechèch"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Dèyè",
+    "close": "Fèmen",
+    "cancel": "Anile",
+    "delete": "Efase",
+    "review": "Kòmante",
+    "subscribe": "Abònman"
+  },
+  "language": {
+    "title": "Lang",
+    "select": "Chwazi langaj",
+    "altered": "Lang chanje"
+  },
+  "history": {
+    "empty": "Istwa vid",
+    "delete": {
+      "list": {
+        "title": "Efase istwa?",
+        "message": "Èske ou sèten ou vle efase tout istwa a?",
+        "deleted": "Istwa efase."
+      },
+      "entry": {
+        "title": "Efase entèvyou?",
+        "message": "Èske ou sèten ou vle efase entèvyou sa a?",
+        "deleted": "Istwa efase."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Non",
+      "first_name": "Premye non",
+      "date_of_birth": "Dat nesans",
+      "job_position": "Pozisyon travay",
+      "job_position_detailed": "Pozisyon travay detaye",
+      "education": "Edikasyon",
+      "courses": "Kou",
+      "experience": "Esperyans",
+      "add": {
+        "education": "Ajoute nouvo edikasyon",
+        "courses": "Ajoute nouvo kou",
+        "experience": "Ajoute nouvo eksperyans"
+      },
+      "error": {
+        "validation": {
+          "title": "Erè Validasyon",
+          "invalid_fields": "Mete yon wòl pozisyon valab pou aplike pou yon nouvo entèvyou travay.\nAltènativman",
+          "unable_to_validate": "Kapab valide jaden yo."
+        }
+      }
+    },
+    "education": {
+      "institution": "Enstitisyon",
+      "degree": "Degre",
+      "start": "Depa",
+      "end": "Fen"
+    },
+    "courses": {
+      "institution": "Enstitisyon",
+      "title_of_course": "Tit nan kou",
+      "course_load": "Chaje kou"
+    },
+    "experience": {
+      "company": "Konpayi",
+      "position": "Pozisyon",
+      "start": "Depa",
+      "end": "Fen"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tèm nwa",
+      "description": "Chwazi ant limyè ak tèm nwa.\nOtomatikman mete nan tèm aparèy la premye fwa ou louvri app a."
+    },
+    "language": {
+      "name": "Lang",
+      "description": "Chwazi langaj ki prefere a pou montre pandan w ap itilize aplikasyon an epi pale ak AI a pandan entèvyou yo."
+    },
+    "notifications": {
+      "saved": "Anviwònman sove"
+    },
+    "search": {
+      "not_found": "Pa gen rezilta yo te jwenn."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nouvo entèvyou",
+      "resume": "Kourikouloum -vite Entèvyou"
+    },
+    "generating": "Génération nouvo entèvyou"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tape pou rekoumanse"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Tape mesaj ou ...",
+    "max_length": "Max longè rive"
+  },
+  "cooldown": {
+    "description": "Vèsyon an gratis nan app a pèmèt ou pran yon sèl entèvyou pou chak èdtan.\n\nSi ou ta renmen retire limit yo, retire anons yo, epi resevwa yon rapò fidbak ak konsèy sou kòman yo amelyore apre chak entèvyou, konsidere abònman nan prim.",
+    "active": "Rete tann pou revèy la rcharj anvan génération yon nouvo entèvyou.\n\nSi ou ta renmen retire cooldowns, retire anons, ak resevwa yon rapò fidbak ak konsèy sou kòman yo amelyore apre chak entèvyou, konsidere abònman nan prim.",
+    "timer": {
+      "wait": "Tann",
+      "second": "dezyèm",
+      "seconds": "segond"
+    }
+  },
+  "report": {
+    "title": "Rapò",
+    "summary": "Rezime",
+    "feedback": "Fidbak",
+    "advice": "Konsèy",
+    "button": {
+      "view": "Gade rapò",
+      "unlock": "Degaje rapò",
+      "get": "Jwenn rapò"
+    },
+    "generating": "Génération rapò ..."
+  },
+  "review": {
+    "request": "Si ou te renmen app a, tanpri konsidere kite yon revizyon ede nou.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Mèsi anpil!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nouvo entèvyou ki disponib!",
+      "message": "Ou gen yon nouvo entèvyou ki disponib pou pran sou travay Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Prim",
+      "type": "Souskripsyon",
+      "subscribe": "Abònman",
+      "invitation": "Abònman nan Premium",
+      "active": "Premium abònman aktif",
+      "thanks": "Mèsi pou abònman nan prim! Nou swete ou bon chans ak siksè sou tout entèvyou nan lavni ou!",
+      "menu": {
+        "title": "Premium abònman",
+        "subtitle": "Abònman nan plan an prim"
+      }
+    },
+    "error": {
+      "subscription": "Erè ap eseye valide acha ou.",
+      "connection": "Koneksyon erè.\n\nKapab konekte nan magazen an.",
+      "products": "Kapab tcheke opsyon pwodwi yo.",
+      "subscription_options": "Kapab chaje plan abònman.\n\nTanpri, tcheke koneksyon entènèt ou, oswa eseye ankò pita."
+    }
+  },
+  "error": {
+    "title": "Erè",
+    "unexpected": "Yon bagay ale mal ... ou pa ta dwe wè sa! 😱",
+    "connection": "Koneksyon",
+    "connection_fix": "Tcheke koneksyon entènèt ou epi eseye ankò pita.",
+    "ai": {
+      "no_response": "Pa gen repons",
+      "unexpected": "Inatandi",
+      "internal_server_error": "Entèn erè sèvè"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Pratike pou pwochen entèvyou travay ou ak similatè AI reyalis sa a",
+      "full_description": "Pran entèvyou travay fè ou nève ak enkyete?\nPetèt ou toujou santi ou prepare pou pran entèvyou travay yo?\nSa a se app a pafè a pratike ladrès konvèsasyon ou nan yon anviwònman entèvyou travay!\n\nTravay Intelliviewer sèvi ak pouvwa a nan entèlijans atifisyèl yo ka fè entèvyou reyalis travay mock ede ou hanache ladrès yo konvèsasyon ki nesesè yo fè yon enpresyon bon sou rekritè lavi reyèl ak fè ou prepare yo ace entèvyou pwochen ou.\n\nEntèvyou yo pwepare a pozisyon travay ou ap chèche, epi yo pral fòme ak ajiste ak kesyon ki gen rapò ak objektif ou a pi byen reprezante yon entèvyou travay reyèl.\n\nItilizatè prim yo ap resevwa tou yon rapò nan fen chak entèvyou rezime konvèsasyon an ak fidbak ak konsèy sou kòman yo amelyore chans ou pou jwenn anboche nan yon entèvyou travay reyèl.",
+      "taglines": [
+        "Prepare pou pwochen travay ou!",
+        "Pratike pou entèvyou pwochen travay ou!",
+        "Ace pwochen entèvyou travay ou a ak AI!",
+        "Pwochen siksè pwofesyonèl ou ap tann ou isit la!"
+      ],
+      "premium_benefits": [
+        "Retire Ajoute",
+        "Entèvyou san limit",
+        "Resevwa rapò ak fidbak ak konsèy"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Prim",
+      "monthly": "Mansyèl",
+      "annual": "Anyèl",
+      "cancel_anytime": "Anile nenpòt lè",
+      "save_discount": "Sove",
+      "subscribe": "Abònman",
+      "restore_purchases": "Retabli acha",
+      "premium_benefits": [
+        "Retire anons",
+        "Entèvyou san limit ki pa gen okenn cooldowns",
+        "Resevwa rapò ak fidbak ak konsèy apre entèvyou"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Ede tradwi",
+    "description": "Ede tradwi aplikasyon sa a bay lòt lang."
+  }
+}

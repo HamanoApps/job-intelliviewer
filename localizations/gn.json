@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PRIMA",
+      "free": "Versión gratuita rehegua ."
+    }
+  },
+  "presentation": [
+    {
+      "title": "¡Epraktika nde entrevista de trabajo oúvape guarã!",
+      "message": "¿Oñenerviosa ha ojepyʼapypa regueraha hag̃ua umi entrevísta de traváho?\nIkatu piko reñeñandu gueteri noñembosako’íriva rejapo haĝua entrevista de trabajo?\n¡Kóva ha’e pe app perfecta pe’ensaya haĝua pende katupyry conversacional peteĩ entorno de entrevista de trabajo-pe!"
+    },
+    {
+      "title": "¡Eñembosako'i nde rembiapo oúvape guarã!",
+      "message": "Job Intelliviewer oipuru pe inteligencia artificial pu’aka ojapo hag̃ua entrevista de trabajo simulacra realista nepytyvõ hag̃ua reaprovecha hag̃ua umi katupyry oñe’ẽva oñeikotevẽva rejapo hag̃ua peteĩ impresión porã umi reclutador tekove añeteguápe ha nereñembosako’i hag̃ua re’ace hag̃ua nde próxima entrevista de vida real."
+    },
+    {
+      "title": "Suscripción Premium rehegua: .",
+      "message": "Pehupyty peteĩ informe opakuévo káda entrevista omombykývo pe ñomongeta umi retroalimentación ha consejo reheve mba’éichapa ikatu pemoporãve pende posibilidad peñekontrata haĝua peteĩ entrevista de trabajo añeteguápe."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Óga",
+      "interview": "Ñe'ẽjovake",
+      "resume_cv": "Moñepyrũjey",
+      "history": "Tembiasakue",
+      "history_entry": "Tembiasakue jeike .",
+      "reports": "Marandukuéra rehegua .",
+      "settings": "Ñe’ẽñemi ."
+    }
+  },
+  "title": {
+    "attention": "Jesareko",
+    "information": "Marandu"
+  },
+  "label": {
+    "search": "Jeheka"
+  },
+  "button": {
+    "ok": "OĨMA",
+    "back": "Kupe",
+    "close": "Mboty",
+    "cancel": "Heja",
+    "delete": "Mboje'oha",
+    "review": "Vichea",
+    "subscribe": "Suscribirse rehegua ."
+  },
+  "language": {
+    "title": "Ñe'ẽ",
+    "select": "Eiporavo ñe’ẽ .",
+    "altered": "Ñe’ẽ oñemoambue ."
+  },
+  "history": {
+    "empty": "Tembiasakue vacío .",
+    "delete": {
+      "list": {
+        "title": "Ombogue Tembiasakue?",
+        "message": "¿Reime seguro rembogueseha pe historia kompletoite?",
+        "deleted": "Tembiasakue oñembogueva’ekue."
+      },
+      "entry": {
+        "title": "Ombogue entrevista?",
+        "message": "¿Reime seguro rembogueseha ko entrevista?",
+        "deleted": "Tembiasakue oñembogueva’ekue."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Téra",
+      "first_name": "Téra peteĩha",
+      "date_of_birth": "Ára heñói hague .",
+      "job_position": "Mba’apo rehegua art .244 .",
+      "job_position_detailed": "Posición de Trabajo Detallado rehegua .",
+      "education": "Tekombo'e",
+      "courses": "Mbo’esyrykuéra .",
+      "experience": "Tembiasa",
+      "add": {
+        "education": "Oñemoĩve tekombo’e pyahu .",
+        "courses": "Oñemoĩve curso pyahu .",
+        "experience": "Oñemoĩve experiencia pyahu ."
+      },
+      "error": {
+        "validation": {
+          "title": "Ojejavy validación rehegua .",
+          "invalid_fields": "Emoinge peteĩ rol de posición de trabajo válida rejerure haĝua peteĩ entrevista pyahu tembiapo rehegua.\nOjejapokuaa avei .",
+          "unable_to_validate": "Ndaikatúi oñemoañete umi tenda."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institución rehegua .",
+      "degree": "Jehupive",
+      "start": "Ñepyrũ",
+      "end": "Paha"
+    },
+    "courses": {
+      "institution": "Institución rehegua .",
+      "title_of_course": "Título de Curso rehegua .",
+      "course_load": "Carga de Curso rehegua ."
+    },
+    "experience": {
+      "company": "Tembiaporenda",
+      "position": "Ñeĩha",
+      "start": "Ñepyrũ",
+      "end": "Paha"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tema iñypytũva .",
+      "description": "Eiporavo tesape ha tema iñypytũva apytépe.\nOñemohenda ijeheguiete pe tembipuru tema-pe peteĩha jey reipe’ávo pe app."
+    },
+    "language": {
+      "name": "Ñe'ẽ",
+      "description": "Eiporavo ñe’ẽ ojeiporavóva rehechauka hag̃ua reipuru jave purupyrã ha eñe’ẽ AI ndive umi entrevista aja."
+    },
+    "notifications": {
+      "saved": "Ñe’ẽñemi oñeñongatuva’ekue ."
+    },
+    "search": {
+      "not_found": "Ndojejuhúi resultado."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Entrevista pyahu .",
+      "resume": "currículum entrevista ."
+    },
+    "generating": "Omoheñóivo entrevista pyahu ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Epoko ñeha'ã jey rehe ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Ehai nde marandu...",
+    "max_length": "Max ipukukue oñeguahẽva ."
+  },
+  "cooldown": {
+    "description": "Pe versión gratuita pe app rehegua oheja ndéve rejapo peteĩ entrevista por hora.\n\nPeipe’ase ramo umi limitación, peipe’a umi anuncio, ha pehupyty peteĩ informe de retroalimentación orekóva asesoramiento mba’éichapa ikatu oñemehora káda entrevista rire, pehecha pe suscripción premium-pe.",
+    "active": "Eha’arõ pe temporizador de refresco egenera mboyve peteĩ entrevista pyahu.\n\nEipe’ase ramo umi cooldown, eipe’a umi anuncio, ha ehupyty peteĩ informe de retroalimentación orekóva consejo mba’éichapa ikatu reñembokatupyryve káda entrevista rire, ehecha pe suscripción premium-pe.",
+    "timer": {
+      "wait": "Eha'arõ",
+      "second": "mokõiha",
+      "seconds": "Mokõiha ."
+    }
+  },
+  "report": {
+    "title": "Momarandu",
+    "summary": "Mombyky",
+    "feedback": "Mandu'arãjey",
+    "advice": "Moñe'ẽ",
+    "button": {
+      "view": "Ohechakuaa marandu .",
+      "unlock": "Desbloqueo rehegua marandu .",
+      "get": "Ohupyty marandu ."
+    },
+    "generating": "Informe de generador rehegua..."
+  },
+  "review": {
+    "request": "Oiméramo ndegusta pe app, ekonsiderami eheja peteĩ revisión orepytyvõ hag̃ua.\n\n⭐⭐⭐⭐⭐ .",
+    "thanks": "Aguyjevete!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "¡Ojeguereko entrevista pyahu!",
+      "message": "Nde reguereko peteĩ entrevista pyahu disponible rejagarra hag̃ua Job Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PRIMA",
+      "type": "Suscripción rehegua .",
+      "subscribe": "Suscribirse rehegua .",
+      "invitation": "Suscribirse a Premium .",
+      "active": "Suscripción Premium rehegua Activo .",
+      "thanks": "Aguyjevete peẽme pesuscribi haguére Premium-pe! ¡Roipota peẽme suerte ha éxito opa pene entrevista futura-pe!",
+      "menu": {
+        "title": "Suscripción Premium rehegua .",
+        "subtitle": "Ejehai pe Plan Premium-pe ."
+      }
+    },
+    "error": {
+      "subscription": "Error oñeha’ãva ovalida nde jogua.",
+      "connection": "Error de conexión rehegua.\n\nNdaikatúi oñembojoaju tenda rehe.",
+      "products": "Ndaikatúi ojehecha umi opción producto rehegua.",
+      "subscription_options": "Ndaikatúi ojekarga umi plan de suscripción.\n\nPor favor, ehecha nde conexión internet-pe, térã eñeha’ã jey upe rire."
+    }
+  },
+  "error": {
+    "title": "Jejavy",
+    "unexpected": "Oĩ peteĩ mba'e oho vai... ¡Nderehechái ko mba'e! 😱 .",
+    "connection": "Ñembojoaju .",
+    "connection_fix": "Ehecháke nde conexión internet-pe ha eñeha’ã jey upe rire.",
+    "ai": {
+      "no_response": "Ndaipóri ñembohovái .",
+      "unexpected": "Oñeha’arõ’ỹva .",
+      "internal_server_error": "Servidor interno jejavy ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Eñembokatupyry nde próxima entrevista de trabajo ko simulador AI realista ndive .",
+      "full_description": "¿Oñenerviosa ha ojepyʼapypa regueraha hag̃ua umi entrevísta de traváho?\nIkatu piko reñeñandu gueteri noñembosako’íriva rejapo haĝua entrevista de trabajo?\n¡Kóva ha’e pe app perfecta pe’ensaya haĝua pende katupyry conversacional peteĩ entorno de entrevista de trabajo-pe!\n\nJob Intelliviewer oipuru pe inteligencia artificial pu’aka ojapo hag̃ua entrevista de trabajo simulacra realista nepytyvõ hag̃ua reaprovecha hag̃ua umi katupyry oñe’ẽva oñeikotevẽva rejapo hag̃ua peteĩ impresión porã umi reclutador tekove añeteguápe ha nereñembosako’i hag̃ua re’ace hag̃ua nde entrevista oúva.\n\nUmi entrevista ojejapo pe posición de trabajo rehekávape, ha oñeforma ha oñemohenda porãta umi porandu ojoajúva nde metakuéra rehe rerrepresenta porãve haĝua peteĩ entrevista de trabajo añeteguáva.\n\nUmi usuario premium ohupytýta avei peteî informe omohu'ãvo cada entrevista oresumíva ñomongeta orekóva retroalimentación ha asesoramiento mba'éichapa ikatu remoporãve nde posibilidad reñekontrata haguã entrevista de trabajo añeteguávape.",
+      "taglines": [
+        "¡Eñembosako'i nde rembiapo oúvape guarã!",
+        "¡Epraktika nde entrevista de trabajo oúvape guarã!",
+        "¡Ace nde próxima entrevista de trabajo AI ndive!",
+        "¡Ne próxima éxito profesional penera’arõ ko’ápe!"
+      ],
+      "premium_benefits": [
+        "Oipe’a umi ADS .",
+        "Entrevistas Ilimitadas rehegua .",
+        "Ojehupyty marandu ñe’ẽ ha ñe’ẽmondo reheve ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Prima",
+      "monthly": "Mensual rehegua .",
+      "annual": "Aryñavõgua",
+      "cancel_anytime": "Cancelar oimeha ára .",
+      "save_discount": "Pysyrõ",
+      "subscribe": "Suscribirse rehegua .",
+      "restore_purchases": "Oñemoĩjey umi mba’e ojejoguáva .",
+      "premium_benefits": [
+        "Ojepe’a umi ADS .",
+        "Entrevistas ilimitados ha no cooldown .",
+        "Ojehupyty marandu ñe’ẽ ha ñe’ẽme’ẽ reheve oñe’ẽ rire ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Pytyvõ Ombohasa .",
+    "description": "Oipytyvõ ombohasa hag̃ua ko aplicación ambue ñe’ẽme."
+  }
+}

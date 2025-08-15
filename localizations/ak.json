@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "NTETOHƆ",
+      "free": "Free version ."
+    }
+  },
+  "presentation": [
+    {
+      "title": "Sua wo ho ma w’adwuma ho nsɛmbisa a edi hɔ no!",
+      "message": "So adwuma ho nsɛmbisa a wofa no ma wo ho yeraw wo na wo ho yeraw wo?\nEbia woda so ara te nka sɛ wunsiesiee wo ho sɛ wubebisabisa wo nsɛm?\nEyi ne app a edi mũ a wode bɛtete wo nkɔmmɔbɔ ho nimdeɛ wɔ adwuma ho nsɛmbisa tebea mu!"
+    },
+    {
+      "title": "Siesie wo ho ma w’adwuma a edi hɔ no!",
+      "message": "Hiob IntelliViewer de tumi a ɛwɔ nyansa a wɔde ayɛ adwuma mu di dwuma de yɛ adwuma a ɛyɛ fɛwdi ho nsɛmbisa a ɛyɛ nokware de boa wo ma wode nkɔmmɔbɔ ho nimdeɛ a ɛho hia na ama woanya adwene pa wɔ wɔn a wɔfa wɔn adwuma mu ankasa no so na ama woasiesie wo ho sɛ wobɛma wo asetra mu nsɛmbisa ankasa a edi hɔ no."
+    },
+    {
+      "title": "Premium nkrataahyɛde:",
+      "message": "Nya amanneɛbɔ wɔ nsɛmbisa biara awiei a ɛbɔ nkɔmmɔbɔ no mua denam nsɛm a wɔka ne afotuo a ɛfa sɛdeɛ wobɛma hokwan a wowɔ sɛ wobɛfa wo wɔ adwuma mu nsɛmbisa ankasa mu no atu mpɔn ho."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Fie",
+      "interview": "Anototoɔ",
+      "resume_cv": "Hyɛ aseɛ",
+      "history": "Abakɔsɛm",
+      "history_entry": "Abakɔsɛm mu Nsɛm a Wɔakyerɛw .",
+      "reports": "Amanneɛbɔ ahorow .",
+      "settings": "Nsiesiei ."
+    }
+  },
+  "title": {
+    "attention": "Adwene nsisoɔ",
+    "information": "Asɛm"
+  },
+  "label": {
+    "search": "Hwehwɛ"
+  },
+  "button": {
+    "ok": "YOO",
+    "back": "Akyire",
+    "close": "To mu",
+    "cancel": "Twam",
+    "delete": "Pepa",
+    "review": "Hwɛ mu",
+    "subscribe": "Fa wo ho hyɛ mu ."
+  },
+  "language": {
+    "title": "Kasa",
+    "select": "Paw kasa .",
+    "altered": "Kasa sesae ."
+  },
+  "history": {
+    "empty": "Abakɔsɛm hunu .",
+    "delete": {
+      "list": {
+        "title": "Popa abakɔsɛm?",
+        "message": "Wopɛ sɛ wopopa abakɔsɛm no nyinaa?",
+        "deleted": "Abakɔsɛm a Wɔapopa."
+      },
+      "entry": {
+        "title": "Popa nsɛmbisa?",
+        "message": "Wopɛ sɛ wopopa nsɛmbisa yi?",
+        "deleted": "Abakɔsɛm a Wɔapopa."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Din",
+      "first_name": "Fie din",
+      "date_of_birth": "Da a wɔwoo no .",
+      "job_position": "Adwuma mu dibea .",
+      "job_position_detailed": "Adwuma mu dibea a ɛkɔ akyiri .",
+      "education": "Nwomasua",
+      "courses": "Adesua ahorow .",
+      "experience": "Suahunu",
+      "add": {
+        "education": "Fa nhomasua foforo ka ho .",
+        "courses": "Fa adesua foforo ka ho .",
+        "experience": "Fa osuahu foforo ka ho ."
+      },
+      "error": {
+        "validation": {
+          "title": "Mfomso a ɛwɔ mu .",
+          "invalid_fields": "Fa adwuma gyinabea dwumadie a ɛfata hyɛ mu na woabisa adwuma ho nsɛmbisa foforɔ.\nɔkwan foforo so no .",
+          "unable_to_validate": "Entumi nnye fields ntom."
+        }
+      }
+    },
+    "education": {
+      "institution": "Asoɛe .",
+      "degree": "Anoɔden",
+      "start": "Hyɛ aseɛ",
+      "end": "Awieeɛ"
+    },
+    "courses": {
+      "institution": "Asoɛe .",
+      "title_of_course": "Asɛmti nokwarem no .",
+      "course_load": "Adesua no mu adesoa ."
+    },
+    "experience": {
+      "company": "Adwumakuo",
+      "position": "Gyinabea",
+      "start": "Hyɛ aseɛ",
+      "end": "Awieeɛ"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Asɛmti a ɛyɛ sum .",
+      "description": "Paw hann ne sum asɛmti ntam.\nFa wo ho to afiri no asɛmti so bere a edi kan a wubebue app no."
+    },
+    "language": {
+      "name": "Kasa",
+      "description": "Paw Kasa a Wɔpɛ sɛ Wokyerɛ bere a wode application no redi dwuma na wo ne AI no rekasa wɔ nsɛmbisa no mu."
+    },
+    "notifications": {
+      "saved": "Nsiesiei a Wɔakora So ."
+    },
+    "search": {
+      "not_found": "Wonhuu nea efii mu bae biara."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nsɛmbisa foforo .",
+      "resume": "Resume Nsɛmbisa ."
+    },
+    "generating": "Nsɛmbisa foforo a wɔde bɛba ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap to retry ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Type wo nkrasɛm no...",
+    "max_length": "Max tenten adu ."
+  },
+  "cooldown": {
+    "description": "App no a wontua hwee no ma wutumi fa nsɛmbisa biako dɔnhwerew biara.\n\nSɛ wopɛ sɛ wuyi anohyeto ahorow no fi hɔ, yi dawurubɔ ahorow no fi hɔ, na wo nsa ka amanneɛbɔ a wɔde ma ho amanneɛbɔ a afotu a ɛfa sɛnea wobɛma wo ho atu mpɔn wɔ nsɛmbisa biara akyi a, susuw ho sɛ wobɛkyerɛw wo din wɔ premium ho.",
+    "active": "Twɛn ma cooldown timer no ansa na woayɛ nsɛmbisa foforo.\n\nSɛ wopɛ sɛ woyi cooldowns fi hɔ, yi dawurubɔ ahorow fi hɔ, na wo nsa ka amanneɛbɔ a ɛfa nsɛm a wɔde ma ho a afotu a ɛfa sɛnea wobɛma wo ho atu mpɔn wɔ nsɛmbisa biara akyi a, susuw ho sɛ wobɛkyerɛw wo din wɔ premium ho.",
+    "timer": {
+      "wait": "Twɛn",
+      "second": "deɛ ɛtɔ so mmienu",
+      "seconds": "Sekan ."
+    }
+  },
+  "report": {
+    "title": "Amaneɛbɔ",
+    "summary": "Tɔfabɔ",
+    "feedback": "Adwenkyerɛ",
+    "advice": "Afutuo",
+    "button": {
+      "view": "Hwɛ amanneɛbɔ .",
+      "unlock": "Unlock amanneɛbɔ .",
+      "get": "Nya amanneɛbɔ ."
+    },
+    "generating": "Amanneɛbɔ a ɛfa generating ho..."
+  },
+  "review": {
+    "request": "Sɛ w’ani gyee app no ho a, yɛsrɛ wo susuw ho sɛ wubegyaw nsusuwho bi a ɛbɛboa yɛn.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Meda wo ase pa ara!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nsɛmbisa foforo a ɛwɔ hɔ!",
+      "message": "Wowɔ nsɛmbisa foforɔ a ɛwɔ hɔ a wode bɛfa adwuma IntelliViewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "NTETOHƆ",
+      "type": "Nkrasɛm a wɔde kra .",
+      "subscribe": "Fa wo ho hyɛ mu .",
+      "invitation": "Fa wo ho hyɛ Premium mu .",
+      "active": "Premium Subscription Active .",
+      "thanks": "Yɛda wo ase sɛ woakyerɛw wo din wɔ Premium! Yɛpɛ sɛ wo kɔ yiye na woadi nkonim wɔ wo daakye nsɛmbisa nyinaa ho!",
+      "menu": {
+        "title": "Premium nkrataahyɛde .",
+        "subtitle": "Fa wo ho hyɛ Premium Nhyehyɛe no mu ."
+      }
+    },
+    "error": {
+      "subscription": "Mfomso a worebɔ mmɔden sɛ wobɛma wo adetɔ no ayɛ nokware.",
+      "connection": "Nkitahodi mu mfomso.\n\nEntumi nkɔ sotɔɔ no mu.",
+      "products": "Entumi nhwɛ nneɛma a wobetumi apaw.",
+      "subscription_options": "Entumi nhyɛ nkrataa a wɔde kra nneɛma ho nhyehyɛe mu.\n\nYɛsrɛ wo, hwɛ wo intanɛt nkitahodi, anaa sɔ hwɛ bio akyiri yi."
+    }
+  },
+  "error": {
+    "title": "Mfomsoɔ",
+    "unexpected": "Biribi ankɔ yie... Wo souldn't be seeing this! 😱 .",
+    "connection": "Nkitahodi .",
+    "connection_fix": "Hwɛ wo intanɛt nkitahodi no na sɔ hwɛ bio akyiri yi.",
+    "ai": {
+      "no_response": "Mmuae biara nni hɔ .",
+      "unexpected": "a wɔnhwɛ kwan .",
+      "internal_server_error": "Server mfomso a ɛwɔ mu ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Fa yɛ adesua ma wo adwuma ho nsɛmbisa a edi hɔ a wo ne AI simulator a ɛyɛ nokware yi bɛba .",
+      "full_description": "So adwuma ho nsɛmbisa a wofa no ma wo ho yeraw wo na wo ho yeraw wo?\nEbia woda so ara te nka sɛ wunsiesiee wo ho sɛ wubebisabisa wo nsɛm?\nEyi ne app a edi mũ a wode bɛtete wo nkɔmmɔbɔ ho nimdeɛ wɔ adwuma ho nsɛmbisa tebea mu!\n\nHiob IntelliViewer de tumi a ɛwɔ nyansa a wɔde ayɛ adwuma mu di dwuma de yɛ adwuma a ɛyɛ fɛwdi ho nsɛmbisa a ɛyɛ nokware de boa wo ma wode nkɔmmɔbɔ ho nimdeɛ a ɛho hia na ama woanya adwene pa wɔ wɔn a wɔfa wɔn adwuma mu ankasa no so na ama woasiesie wo ho sɛ wobɛma wo nsɛmbisa a edi hɔ no akɔ so.\n\nWɔayɛ nsɛmbisa no ma ɛne adwuma gyinabea a worehwehwɛ no hyia, na wɔde nsɛmmisa a ɛfa wo botaeɛ ho bɛhyehyɛ na wɔayɛ nsakraeɛ wɔ mu na ama atumi agyina hɔ ama adwuma ho nsɛmbisa ankasa.\n\nWɔn a wɔde Premium di dwuma no nso nsa bɛka amanneɛbɔ wɔ nsɛmbisa biara awiei a ɛbɔ nkɔmmɔbɔ no mua denam nsɛm a wɔka ne afotu a ɛfa sɛnea wobɛma hokwan a wowɔ sɛ wobɛfa wo wɔ adwuma ho nsɛmbisa ankasa mu no atu mpɔn ho.",
+      "taglines": [
+        "Siesie wo ho ma w’adwuma a edi hɔ no!",
+        "Sua wo ho ma w’adwuma ho nsɛmbisa a edi hɔ no!",
+        "Ace wo adwuma ho nsɛmbisa a edi hɔ a wo ne AI bɛyɛ!",
+        "Wo professional nkonimdi a edi hɔ no retwɛn wo wɔ ha!"
+      ],
+      "premium_benefits": [
+        "Yi ads fi hɔ .",
+        "Nsɛmbisa a anohyeto nni mu .",
+        "Nya amanneɛbɔ ahorow a ɛwɔ nsɛm a wɔka ne afotu ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Ntetohɔ",
+      "monthly": "Ɔsram biara .",
+      "annual": "Afeafe",
+      "cancel_anytime": "Twa mu bere biara .",
+      "save_discount": "Kora",
+      "subscribe": "Fa wo ho hyɛ mu .",
+      "restore_purchases": "San fa nneɛma a wobɛtɔ no san ba .",
+      "premium_benefits": [
+        "Yi dawurubɔ ahorow no fi hɔ .",
+        "Nsɛmbisa a anohyeto nni mu a on cooldowns biara nni hɔ .",
+        "Nya amanneɛbɔ a ɛwɔ nsɛm a wɔka ne afotu a wɔde ma wɔ nsɛmbisa akyi ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Boa kyerɛ ase .",
+    "description": "Boa ma wɔmfa saa application yi nkɔ kasa afoforo mu."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Palkkio",
+      "free": "Ilmainen versio"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Harjoittele seuraavaa työhaastattelua!",
+      "message": "Saako työhaastattelut sinut hermostuneeksi ja ahdistuneeksi?\nEhkä sinusta tuntuu silti valmistautumattomalta ottamaan työhaastatteluja?\nTämä on täydellinen sovellus harjoittaa keskustelutaitojasi työhaastatteluasetuksessa!"
+    },
+    {
+      "title": "Ole valmis seuraavaan työhösi!",
+      "message": "Job IntelliViewer käyttää keinotekoisen älykkyyden voimaa toteuttaakseen realistisia pilkkatyöhaastatteluja auttaaksesi sinua hyödyntämään keskustelutaitoja, joita tarvitaan hyvän vaikutelman tekemiseen tosielämän rekrytoijista ja valmistamaan sinut valmistautumaan ässä seuraavaan tosielämän haastatteluun."
+    },
+    {
+      "title": "Premium -tilaus:",
+      "message": "Vastaanota jokaisen haastattelun lopussa raportti, jossa on yhteenveto keskustelusta palautetta ja neuvoja siitä, kuinka parantaa mahdollisuuksiasi palkata oikeaan työhaastatteluun."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Kotiin",
+      "interview": "Haastatella",
+      "resume_cv": "Jatkaa",
+      "history": "Historia",
+      "history_entry": "Historia",
+      "reports": "Raportit",
+      "settings": "Asetukset"
+    }
+  },
+  "title": {
+    "attention": "Huomio",
+    "information": "Tiedot"
+  },
+  "label": {
+    "search": "Haku"
+  },
+  "button": {
+    "ok": "Hyvä",
+    "back": "Takaisin",
+    "close": "Lähellä",
+    "cancel": "Peruuttaa",
+    "delete": "Poistaa",
+    "review": "Arvostelu",
+    "subscribe": "Tilata"
+  },
+  "language": {
+    "title": "Kieli",
+    "select": "Valitse kieli",
+    "altered": "Kieli muuttui"
+  },
+  "history": {
+    "empty": "Tyhjä historia",
+    "delete": {
+      "list": {
+        "title": "Poistaa historia?",
+        "message": "Haluatko varmasti poistaa koko historian?",
+        "deleted": "Historia poistettu."
+      },
+      "entry": {
+        "title": "Poistaa haastattelu?",
+        "message": "Haluatko varmasti poistaa tämän haastattelun?",
+        "deleted": "Historia poistettu."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nimi",
+      "first_name": "Etunimi",
+      "date_of_birth": "Syntymäaika",
+      "job_position": "Työpaikka",
+      "job_position_detailed": "Yksityiskohtainen työpaikka",
+      "education": "Koulutus",
+      "courses": "Kurssit",
+      "experience": "Kokea",
+      "add": {
+        "education": "Lisää uusi koulutus",
+        "courses": "Lisää uusi kurssi",
+        "experience": "Lisää uusi kokemus"
+      },
+      "error": {
+        "validation": {
+          "title": "Validointivirhe",
+          "invalid_fields": "Aseta voimassa oleva työaseman rooli uuden työhaastattelun hakemiseksi.\nVaihtoehtoisesti",
+          "unable_to_validate": "Kenttien validoimista ei voida validoida."
+        }
+      }
+    },
+    "education": {
+      "institution": "Laitos",
+      "degree": "Aste",
+      "start": "Alkaa",
+      "end": "Loppu"
+    },
+    "courses": {
+      "institution": "Laitos",
+      "title_of_course": "Otsikko",
+      "course_load": "Kurssikuorma"
+    },
+    "experience": {
+      "company": "Yritys",
+      "position": "Sijainti",
+      "start": "Alkaa",
+      "end": "Loppu"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tumma teema",
+      "description": "Valitse valon ja tumman teeman välillä.\nAseta laitteen teemaan automaattisesti, kun avaat sovelluksen."
+    },
+    "language": {
+      "name": "Kieli",
+      "description": "Valitse suositeltu kieli, joka näytetään sovelluksen käyttämisen ja AI: n kanssa haastattelujen aikana."
+    },
+    "notifications": {
+      "saved": "Asetukset tallennetaan"
+    },
+    "search": {
+      "not_found": "Tuloksia ei löydy."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Uusi haastattelu",
+      "resume": "Jatkaa haastattelua"
+    },
+    "generating": "Uuden haastattelun luominen"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Napauta uudelleen"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Kirjoita viestisi ...",
+    "max_length": "Enimmäispituus saavutettu"
+  },
+  "cooldown": {
+    "description": "Sovelluksen ilmaisen version avulla voit ottaa yhden haastattelun tunnissa.\n\nJos haluat poistaa rajoitukset, poistaa mainokset ja saat palautekaportin neuvolla, kuinka parantaa kunkin haastattelun jälkeen, harkitse palkkion tilaamista.",
+    "active": "Odota jäähdytys ajastinta ennen uuden haastattelun luomista.\n\nJos haluat poistaa jäähdytyksiä, poistaa mainoksia ja saada palautekaportin neuvolla, kuinka parantaa kunkin haastattelun jälkeen, harkitse palkkion tilaamista.",
+    "timer": {
+      "wait": "Odota",
+      "second": "toinen",
+      "seconds": "sekunti"
+    }
+  },
+  "report": {
+    "title": "Raportti",
+    "summary": "Yhteenveto",
+    "feedback": "Palaute",
+    "advice": "Neuvonta",
+    "button": {
+      "view": "Näytä raportti",
+      "unlock": "Avata raportti",
+      "get": "Saada raportti"
+    },
+    "generating": "Raportin luominen ..."
+  },
+  "review": {
+    "request": "Jos pidit sovelluksesta, harkitse tarkistuksen jättämistä auttamaan meitä.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Paljon kiitoksia!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Uusi haastattelu saatavilla!",
+      "message": "Sinulla on uusi haastattelu, joka on saatavana työhön IntelliViewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Palkkio",
+      "type": "Tilaus",
+      "subscribe": "Tilata",
+      "invitation": "Tilaa palkkio",
+      "active": "Premium -tilaus aktiivinen",
+      "thanks": "Kiitos, että tilasi Premium! Toivotamme sinulle onnea ja menestystä kaikissa tulevissa haastatteluissa!",
+      "menu": {
+        "title": "Premium -tilaus",
+        "subtitle": "Tilaa premium -suunnitelma"
+      }
+    },
+    "error": {
+      "subscription": "Virhe yrittäen vahvistaa ostoksesi.",
+      "connection": "Yhteysvirhe.\n\nEi voi muodostaa yhteyttä kauppaan.",
+      "products": "Tuotevaihtoehtoja ei voi tarkistaa.",
+      "subscription_options": "Tilaussuunnitelmien lataaminen.\n\nTarkista Internet -yhteys tai yritä myöhemmin uudelleen."
+    }
+  },
+  "error": {
+    "title": "Virhe",
+    "unexpected": "Jotain meni pieleen ... et voi nähdä tätä! 😱",
+    "connection": "Yhteys",
+    "connection_fix": "Tarkista Internet -yhteys ja yritä myöhemmin uudelleen.",
+    "ai": {
+      "no_response": "Ei vastausta",
+      "unexpected": "Odottamaton",
+      "internal_server_error": "Sisäinen palvelinvirhe"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Harjoittele seuraavaa työhaastattelua tämän realistisen AI -simulaattorin kanssa",
+      "full_description": "Saako työhaastattelut sinut hermostuneeksi ja ahdistuneeksi?\nEhkä sinusta tuntuu silti valmistautumattomalta ottamaan työhaastatteluja?\nTämä on täydellinen sovellus harjoittaa keskustelutaitojasi työhaastatteluasetuksessa!\n\nJob IntelliViewer käyttää keinotekoisen älykkyyden voimaa toteuttaakseen realistisia pilkkatyöhaastatteluja auttaaksesi sinua hyödyntämään keskustelutaitoja, joita tarvitaan hyvän vaikutelman tekemiseen tosielämän rekrytoijista ja valmistamaan sinut valmistautumaan ässä seuraavaan haastatteluun.\n\nHaastattelut on räätälöity etsimäsi työtehtävään, ja ne on muotoiltu ja mukautettu tavoitteisiisi liittyvien kysymyksien kanssa, jotka edustavat paremmin todellista työhaastattelua.\n\nPremium -käyttäjät saavat myös jokaisen haastattelun lopussa raportin, jossa on yhteenveto keskustelusta palautetta ja neuvoja siitä, kuinka parantaa mahdollisuuksiasi palkata oikeassa työhaastattelussa.",
+      "taglines": [
+        "Ole valmis seuraavaan työhösi!",
+        "Harjoittele seuraavaa työhaastattelua!",
+        "Ace Seuraava työhaastattelu AI: n kanssa!",
+        "Seuraava ammattimainen menestys odottaa sinua täällä!"
+      ],
+      "premium_benefits": [
+        "Poistaa mainokset",
+        "Rajoittamattomat haastattelut",
+        "Vastaanota raportteja palautetta ja neuvoja"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Palkkio",
+      "monthly": "Kuukausittain",
+      "annual": "Vuosittainen",
+      "cancel_anytime": "Peruuta milloin tahansa",
+      "save_discount": "Tallentaa",
+      "subscribe": "Tilata",
+      "restore_purchases": "Palauta ostokset",
+      "premium_benefits": [
+        "Poista mainokset",
+        "Rajoittamattomat haastattelut ilman jäähdytyksiä",
+        "Vastaanota raportteja palautetta ja neuvoja haastattelujen jälkeen"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Auttaa kääntämään",
+    "description": "Auta kääntämään tämä sovellus muille kielille."
+  }
+}

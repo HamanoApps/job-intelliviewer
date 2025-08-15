@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Versión gratuíta"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Practica para a túa próxima entrevista de traballo.",
+      "message": "A toma de entrevistas de traballo póñase nervioso e ansioso?\nQuizais aínda non te sentes preparado para facer entrevistas de traballo?\nEsta é a aplicación perfecta para practicar as túas habilidades de conversación nunha configuración de entrevistas de traballo."
+    },
+    {
+      "title": "Estea preparado para o teu seguinte traballo.",
+      "message": "Job Intelliviewer usa o poder da intelixencia artificial para realizar entrevistas de traballo realistas para axudarche a aproveitar as habilidades de conversación necesarias para facer unha boa impresión nos reclutadores da vida real e facerche preparado para asistir á túa próxima entrevista de vida real."
+    },
+    {
+      "title": "Subscrición Premium:",
+      "message": "Recibe un informe ao final de cada entrevista que resume a conversa con comentarios e consellos sobre como mellorar as posibilidades de contratar nunha entrevista de traballo real."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Casa",
+      "interview": "Entrevista",
+      "resume_cv": "Resumé",
+      "history": "Historia",
+      "history_entry": "Entrada de historia",
+      "reports": "Informes",
+      "settings": "Configuración"
+    }
+  },
+  "title": {
+    "attention": "Atención",
+    "information": "Información"
+  },
+  "label": {
+    "search": "Busca"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "De volta",
+    "close": "Pechar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "review": "Revisión",
+    "subscribe": "Subscríbete"
+  },
+  "language": {
+    "title": "Idioma",
+    "select": "Selecciona Idioma",
+    "altered": "A linguaxe cambiou"
+  },
+  "history": {
+    "empty": "Historia baleira",
+    "delete": {
+      "list": {
+        "title": "Eliminar a historia?",
+        "message": "¿Estás seguro de que queres eliminar toda a historia?",
+        "deleted": "Historia eliminada."
+      },
+      "entry": {
+        "title": "Eliminar entrevista?",
+        "message": "¿Estás seguro de que queres eliminar esta entrevista?",
+        "deleted": "Historia eliminada."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nome",
+      "first_name": "Nome",
+      "date_of_birth": "Data de nacemento",
+      "job_position": "Posto de traballo",
+      "job_position_detailed": "Posición detallada do traballo",
+      "education": "Educación",
+      "courses": "Cursos",
+      "experience": "Experiencia",
+      "add": {
+        "education": "Engade nova educación",
+        "courses": "Engade un novo curso",
+        "experience": "Engade nova experiencia"
+      },
+      "error": {
+        "validation": {
+          "title": "Erro de validación",
+          "invalid_fields": "Inserir un papel de traballo válido para solicitar unha nova entrevista de traballo.\nAlternativamente",
+          "unable_to_validate": "Non se pode validar campos."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institución",
+      "degree": "Grao",
+      "start": "Comezar",
+      "end": "Final"
+    },
+    "courses": {
+      "institution": "Institución",
+      "title_of_course": "Título Por suposto",
+      "course_load": "Carga do curso"
+    },
+    "experience": {
+      "company": "Empresa",
+      "position": "Posición",
+      "start": "Comezar",
+      "end": "Final"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tema escuro",
+      "description": "Seleccione entre o tema claro e escuro.\nEstablece automaticamente o tema do dispositivo a primeira vez que abre a aplicación."
+    },
+    "language": {
+      "name": "Idioma",
+      "description": "Seleccione o idioma preferido para mostrar mentres usa a aplicación e fale coa IA durante as entrevistas."
+    },
+    "notifications": {
+      "saved": "Configuración gardada"
+    },
+    "search": {
+      "not_found": "Non se atoparon resultados."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nova entrevista",
+      "resume": "Resume Entrevista"
+    },
+    "generating": "Xerando unha nova entrevista"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Toca para intentar"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Escribe a túa mensaxe ...",
+    "max_length": "A lonxitude máxima alcanzada"
+  },
+  "cooldown": {
+    "description": "A versión gratuíta da aplicación permítelle facer unha entrevista por hora.\n\nSe desexa eliminar as limitacións, eliminar os anuncios e recibir un informe de comentarios con consellos sobre como mellorar despois de cada entrevista, considere subscribirse á prima.",
+    "active": "Agarde o temporizador de recarga antes de xerar unha nova entrevista.\n\nSe desexa eliminar os recargos, eliminar os anuncios e recibir un informe de comentarios con consellos sobre como mellorar despois de cada entrevista, considere subscribirse á prima.",
+    "timer": {
+      "wait": "Agarda",
+      "second": "segundo",
+      "seconds": "segundos"
+    }
+  },
+  "report": {
+    "title": "Informe",
+    "summary": "Resumo",
+    "feedback": "Comentarios",
+    "advice": "Consello",
+    "button": {
+      "view": "Ver informe",
+      "unlock": "Informe de desbloqueo",
+      "get": "Obter informe"
+    },
+    "generating": "Xeración do informe ..."
+  },
+  "review": {
+    "request": "Se che gustou a aplicación, considere deixar unha revisión para axudarnos.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Moitas grazas!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nova entrevista dispoñible.",
+      "message": "Ten unha nova entrevista dispoñible para asumir o traballo Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Subscrición",
+      "subscribe": "Subscríbete",
+      "invitation": "Suscríbete a Premium",
+      "active": "Subscrición premium activa",
+      "thanks": "Grazas por subscribirse a Premium! Desexámoslle moita sorte e éxito en todas as túas futuras entrevistas.",
+      "menu": {
+        "title": "Subscrición premium",
+        "subtitle": "Suscríbete ao plan premium"
+      }
+    },
+    "error": {
+      "subscription": "Erro ao intentar validar a túa compra.",
+      "connection": "Erro de conexión.\n\nNon se pode conectar á tenda.",
+      "products": "Non se pode comprobar as opcións do produto.",
+      "subscription_options": "Non se pode cargar plans de subscrición.\n\nPor favor, comprobe a túa conexión a internet ou téntao de novo máis tarde."
+    }
+  },
+  "error": {
+    "title": "Erro",
+    "unexpected": "Algo saíu mal ... Non podería estar vendo isto! 😱",
+    "connection": "Conexión",
+    "connection_fix": "Consulte a súa conexión a Internet e téntao de novo máis tarde.",
+    "ai": {
+      "no_response": "Sen resposta",
+      "unexpected": "Inesperado",
+      "internal_server_error": "Erro do servidor interno"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Practica para a túa próxima entrevista de traballo con este simulador de AI realista",
+      "full_description": "A toma de entrevistas de traballo póñase nervioso e ansioso?\nQuizais aínda non te sentes preparado para facer entrevistas de traballo?\nEsta é a aplicación perfecta para practicar as túas habilidades de conversación nunha configuración de entrevistas de traballo.\n\nJob Intelliviewer usa o poder da intelixencia artificial para realizar entrevistas de traballo realistas para axudarche a aproveitar as habilidades de conversación necesarias para facer unha boa impresión nos reclutadores da vida real e facerche preparado para asistir á túa próxima entrevista.\n\nAs entrevistas están adaptadas á posición do traballo que estás buscando e serán conformadas e axustadas con preguntas relacionadas cos teus obxectivos para representar mellor unha entrevista real de traballo.\n\nOs usuarios Premium tamén recibirán un informe ao final de cada entrevista que resuma a conversa con comentarios e consellos sobre como mellorar as posibilidades de contratar nunha entrevista de traballo real.",
+      "taglines": [
+        "Estea preparado para o teu seguinte traballo.",
+        "Practica para a túa próxima entrevista de traballo.",
+        "Ace a túa próxima entrevista de traballo con AI!",
+        "O teu seguinte éxito profesional agarda aquí."
+      ],
+      "premium_benefits": [
+        "Elimina os anuncios",
+        "Entrevistas ilimitadas",
+        "Recibe informes con comentarios e consellos"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Mensual",
+      "annual": "Anual",
+      "cancel_anytime": "Cancelar en calquera momento",
+      "save_discount": "Gardar",
+      "subscribe": "Subscríbete",
+      "restore_purchases": "Restaurar as compras",
+      "premium_benefits": [
+        "Elimina os anuncios",
+        "Entrevistas ilimitadas sen tempo de metro",
+        "Recibe informes con comentarios e consellos despois das entrevistas"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Axuda a traducir",
+    "description": "Axuda a traducir esta aplicación a outros idiomas."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Zoo tshaj plaws",
+      "free": "Dawb version"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Xyaum rau koj qhov kev sib tham ua haujlwm tom ntej!",
+      "message": "Puas muaj kev xam phaj haujlwm tau koj ntshai thiab ntxhov siab?\nTej zaum koj tseem hnov tsis tau npaj rau kev xam phaj haujlwm?\nQhov no yog lub app zoo tshaj los xyaum koj cov kev sib tham sib tham hauv kev sib tham txog kev xam phaj!"
+    },
+    {
+      "title": "Npaj rau koj txoj haujlwm tom ntej!",
+      "message": "Txoj hauj lwm Piav qhia txoj haujlwm siv lub zog ntawm kev txawj ntse ua kom muaj kev sib tham txog kev ua haujlwm ntawm kev ua haujlwm ntawm kev ua haujlwm ntawm kev ua haujlwm ntawm kev ua haujlwm ntawm kev ua haujlwm ntawm lub neej tiag tiag."
+    },
+    {
+      "title": "Hwm Subscription:",
+      "message": "Tau txais ib daim ntawv tshaj tawm ntawm qhov kawg ntawm txhua qhov kev sib tham piav qhia qhov kev sib tham nrog cov lus taw qhia thiab cov lus qhia txog yuav ua li cas txhim kho koj txoj kev ntiav tau txais kev xam phaj tiag tiag."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Lub tsev",
+      "interview": "Kev sib tham",
+      "resume_cv": "Rov qab dua",
+      "history": "Zaj liv xwm",
+      "history_entry": "Keeb Kwm Nkag Nkag",
+      "reports": "Qhia",
+      "settings": "Chaw teeb tsa"
+    }
+  },
+  "title": {
+    "attention": "Kev mloog zoo",
+    "information": "Lus qhia"
+  },
+  "label": {
+    "search": "Kev tshawb nrhiav"
+  },
+  "button": {
+    "ok": "Ua li cas",
+    "back": "Nram ntej",
+    "close": "Kaw",
+    "cancel": "Tshem",
+    "delete": "Tshem tawm",
+    "review": "Tshab xyuas",
+    "subscribe": "Sau npe yuav"
+  },
+  "language": {
+    "title": "Yam lus",
+    "select": "Xaiv lus",
+    "altered": "Lus Hloov"
+  },
+  "history": {
+    "empty": "Keeb Kwm",
+    "delete": {
+      "list": {
+        "title": "Rho tawm keeb kwm?",
+        "message": "Koj puas paub tseeb tias koj xav rho tawm tag nrho keeb kwm?",
+        "deleted": "Keeb kwm tshem tawm."
+      },
+      "entry": {
+        "title": "Rho tawm kev sib tham?",
+        "message": "Koj puas paub tseeb tias koj xav rho tawm cov kev sib tham no?",
+        "deleted": "Keeb kwm tshem tawm."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Lub npe",
+      "first_name": "Lub npe",
+      "date_of_birth": "Hnub Yug",
+      "job_position": "Txoj Haujlwm Haujlwm",
+      "job_position_detailed": "Cov ncauj lus kom ntxaws txoj haujlwm",
+      "education": "Kev kawm",
+      "courses": "Kev kawm",
+      "experience": "Paub lawm",
+      "add": {
+        "education": "Ntxiv Kev Kawm Tshiab",
+        "courses": "Ntxiv Cov Kev Kawm Tshiab",
+        "experience": "Ntxiv cov kev tshiab"
+      },
+      "error": {
+        "validation": {
+          "title": "Kev ua yuam kev siv tau",
+          "invalid_fields": "Ntxig ib txoj haujlwm uas tsim nyog uas tau siv rau kev xam phaj haujlwm tshiab.\nNtxiv",
+          "unable_to_validate": "Tsis tuaj yeem siv tau teb."
+        }
+      }
+    },
+    "education": {
+      "institution": "Lub koom haum",
+      "degree": "Tiv kis",
+      "start": "Pib",
+      "end": "Qhov kawg"
+    },
+    "courses": {
+      "institution": "Lub koom haum",
+      "title_of_course": "Npe ntawm chav kawm",
+      "course_load": "Chav Kawm Thauj Khoom"
+    },
+    "experience": {
+      "company": "Tsev lag luam",
+      "position": "Chaw nyob",
+      "start": "Pib",
+      "end": "Qhov kawg"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tsaus ntsiab lus",
+      "description": "Xaiv nruab nrab ntawm lub teeb thiab cov ntsiab lus tsaus.\nCia li muab tso rau hauv lub cuab yeej lub ntsiab lus thawj zaug koj qhib lub app."
+    },
+    "language": {
+      "name": "Yam lus",
+      "description": "Xaiv cov lus nyiam ua kom pom thaum siv daim ntawv thov thiab tham nrog AI thaum sib tham."
+    },
+    "notifications": {
+      "saved": "Kev nqis tes tau txais kev cawmdim"
+    },
+    "search": {
+      "not_found": "Tsis pom qhov tshwm sim."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Kev Sib Tham Tshiab",
+      "resume": "Kev Sib Tham Rov Ntxiv"
+    },
+    "generating": "Tsim kev sib tham tshiab"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Coj mus rhaub kom rov ua haujlwm"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Ntaus koj cov lus ...",
+    "max_length": "Max Long Mus Txog"
+  },
+  "cooldown": {
+    "description": "Daim dawb version ntawm lub app tso cai rau koj los noj ib zaug ib teev.\n\nYog tias koj xav tshem tawm cov kev txwv, tshem tawm cov kev tshaj tawm, thiab tau txais cov lus qhia tswv yim zoo li cas tom qab kev sib tham, xav txog kev xam phaj.",
+    "active": "Tos kom muaj kev sib tw ua ntej tsim kev sib tham tshiab.\n\nYog tias koj xav tshem tawm cov neeg siv tshuaj Khis, tshem tawm cov lus qhia tswv yim, thiab tau txais cov lus qhia tswv yim nrog cov lus qhia yuav ua li cas los txhim kho tom qab kev sib tham, txiav txim siab rau tus hwm.",
+    "timer": {
+      "wait": "Tos",
+      "second": "ib xi nkoos",
+      "seconds": "vib nas this"
+    }
+  },
+  "report": {
+    "title": "Lus qhia",
+    "summary": "Lub ntsiab",
+    "feedback": "Tswv yim",
+    "advice": "Lus ntuas",
+    "button": {
+      "view": "Saib Daim Ntawv Qhia",
+      "unlock": "Xauv Daim Ntawv Qhia",
+      "get": "Tau Txais Daim Ntawv Qhia"
+    },
+    "generating": "Daim Ntawv Tshaj Qhia Generating ..."
+  },
+  "review": {
+    "request": "Yog tias koj nyiam lub app, thov txiav txim siab tawm ntawm kev ntsuam xyuas los pab peb.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Ua tsaug ntau!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Kev xam phaj tshiab muaj!",
+      "message": "Koj muaj kev sib tham tshiab muaj los ua haujlwm ntawm cov haujlwm hauv cov haujlwm."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Zoo tshaj plaws",
+      "type": "Kev yuav ib phau ntawv",
+      "subscribe": "Sau npe yuav",
+      "invitation": "Sau npe yuav ua kom tau zoo",
+      "active": "Hwm Subscription Action",
+      "thanks": "Ua tsaug rau koj rau subscribing rau hwm! Peb xav koj hmoov zoo thiab ua tiav txhua yam koj cov lus nug yav tom ntej!",
+      "menu": {
+        "title": "Hwm Subscription",
+        "subtitle": "Sau npe yuav ua rau txoj kev npaj siab"
+      }
+    },
+    "error": {
+      "subscription": "Yuam kev sim siv koj txoj kev yuav khoom.",
+      "connection": "Kev sib txuas yuam kev.\n\nTsis tuaj yeem txuas rau lub khw.",
+      "products": "Tsis tuaj yeem tshawb xyuas cov khoom xaiv.",
+      "subscription_options": "Tsis tuaj yeem thauj cov phiaj xwm kev npaj yuav khoom.\n\nThov, xyuas koj cov internet txuas, lossis sim dua tom qab."
+    }
+  },
+  "error": {
+    "title": "Yuam kev",
+    "unexpected": "Ib yam dab tsi mus tsis ncaj ncees lawm ... Koj cov ntaub qhwv tsis pom qhov no! 😱",
+    "connection": "Kev sib txua",
+    "connection_fix": "Txheeb xyuas koj cov internet txuas thiab sim dua tom qab.",
+    "ai": {
+      "no_response": "Tsis teb",
+      "unexpected": "Tsis paub ua ntej",
+      "internal_server_error": "Sab hauv Server yuam kev"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Xyaum rau koj cov haujlwm xam phaj tom ntej nrog cov neeg tsis muaj tseeb ntawm Ai Simulator",
+      "full_description": "Puas muaj kev xam phaj haujlwm tau koj ntshai thiab ntxhov siab?\nTej zaum koj tseem hnov tsis tau npaj rau kev xam phaj haujlwm?\nQhov no yog lub app zoo tshaj los xyaum koj cov kev sib tham sib tham hauv kev sib tham txog kev xam phaj!\n\nTxoj hauj lwm Piav qhia txoj haujlwm siv lub zog ntawm kev txawj ntse ua kom muaj kev sib tham txog kev ua haujlwm ntawm kev ua haujlwm ntawm kev ua haujlwm ntawm kev ua haujlwm ntawm lub neej thiab ua kom koj tau txais kev sib tham tom ntej.\n\nCov kev sib tham tau ua kom haum rau txoj haujlwm txoj haujlwm koj tab tom nrhiav, thiab yuav zoo li tus thiab kho nrog koj cov hom phiaj kom sawv cev rau kev xam phaj haujlwm tiag tiag.\n\nCov neeg siv hwm tau tseem tau txais ib daim ntawv tshaj tawm ntawm qhov kawg ntawm txhua qhov kev sib tham piav qhia cov lus sib tham thiab cov lus qhia txog kev yuav ua kom koj txoj kev sib tham tau tiag tiag.",
+      "taglines": [
+        "Npaj rau koj txoj haujlwm tom ntej!",
+        "Xyaum rau koj qhov kev sib tham ua haujlwm tom ntej!",
+        "Ace koj qhov kev sib tham ua haujlwm tom ntej nrog Ai!",
+        "Koj txoj kev tshaj lij tom ntej tos koj nyob ntawm no!"
+      ],
+      "premium_benefits": [
+        "Tshem Tawm Tawm",
+        "Kev Xam Siab Txwv tsis pub",
+        "Tau txais cov ntaub ntawv nrog cov lus qhia thiab cov lus qhia"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Zoo tshaj plaws",
+      "monthly": "Txhua lub hlis",
+      "annual": "Txhua xyoo",
+      "cancel_anytime": "Ncua tseg txhua lub sijhawm",
+      "save_discount": "Cawm",
+      "subscribe": "Sau npe yuav",
+      "restore_purchases": "Restore yuav khoom",
+      "premium_benefits": [
+        "Tshem Tawm Tawm",
+        "Txwv tsis pub xam phaj nrog tsis muaj coholdowns",
+        "Tau txais cov ntaub ntawv nrog cov lus qhia thiab cov lus qhia tom qab sib tham"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Pab Txhais",
+    "description": "Pab txhais tsab ntawv thov no rau lwm hom lus."
+  }
+}

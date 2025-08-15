@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Dikan-teny maimaimpoana"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Manaova fanazarana amin'ny dinidinika amin'ny asa manaraka anao!",
+      "message": "Ny dinidinika amin'ny dinidinika ve dia mampatahotra sy mitebiteby?\nAngamba mbola mahatsapa fa tsy vonona handray dinidinika amin'ny asa ianao?\nIty no fampiharana tonga lafatra mba hampiharana ny fahaizanao mifampiresaka amin'ny toerana misy ny dinidinika!"
+    },
+    {
+      "title": "Miomàna amin'ny asanao manaraka!",
+      "message": "Ny asa IntellIviewer dia mampiasa ny herin'ny faharanitan-tsaina voajanahary mba hampiverenanao ny dinidinika amin'ny asa fanesoana mba hanampiana ny fahaizanao mifampiresaka ilaina mba hanomezana fahatsapana tsara amin'ny mpikirakira tena izy ary hanao izay hiomanana anao amin'ny dinidinika amin'ny fiainana tena izy."
+    },
+    {
+      "title": "Famandrihana Premium:",
+      "message": "Mahazoa tatitra amin'ny faran'ny tafatafa tsirairay, izay mamintina ny resaka miaraka amin'ny valin-kafatra sy torohevitra momba ny fanatsarana ny voka-dratsinao amin'ny dinidinika amin'ny tena mpangaly."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "an-trano",
+      "interview": "FANADINADINANA",
+      "resume_cv": "CV",
+      "history": "FIAINANY TALOHA",
+      "history_entry": "Tantara Entry",
+      "reports": "tatitra",
+      "settings": "Fikirana"
+    }
+  },
+  "title": {
+    "attention": "TSARA",
+    "information": "Information"
+  },
+  "label": {
+    "search": "karohy"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "indray",
+    "close": "AKAIKY",
+    "cancel": "hanafoana",
+    "delete": "Mamafa",
+    "review": "FAMERENANA",
+    "subscribe": "Raiso amin ny"
+  },
+  "language": {
+    "title": "Fiteny",
+    "select": "Safidio ny fiteny",
+    "altered": "Niova ny fiteny"
+  },
+  "history": {
+    "empty": "Tantara tsy misy dikany",
+    "delete": {
+      "list": {
+        "title": "Hamafa ny tantara?",
+        "message": "Azo antoka ve fa te hamafa ny tantara manontolo ianao?",
+        "deleted": "Nesorina ny tantara."
+      },
+      "entry": {
+        "title": "Hamafa ny tafatafa?",
+        "message": "Azo antoka ve fa te hamafa ity tafatafa ity ianao?",
+        "deleted": "Nesorina ny tantara."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Anarana",
+      "first_name": "Fanampin'anarana",
+      "date_of_birth": "Daty nahaterahana",
+      "job_position": "Toerana",
+      "job_position_detailed": "Toerana amin'ny antsipirihany",
+      "education": "FAMPIANARANA",
+      "courses": "antokony",
+      "experience": "Experience",
+      "add": {
+        "education": "Ampio ny fanabeazana vaovao",
+        "courses": "Ampio ny làlana vaovao",
+        "experience": "Ampio ny traikefa vaovao"
+      },
+      "error": {
+        "validation": {
+          "title": "Hadisoana ny fanamarinana",
+          "invalid_fields": "Ampidiro ny anjara toeran'ny asa manan-kery mba hangataka dinidinika amin'ny asa vaovao.\n-tsy izany",
+          "unable_to_validate": "Tsy afaka manamarina ny saha."
+        }
+      }
+    },
+    "education": {
+      "institution": "andrim-panjakana",
+      "degree": "ANTONONY",
+      "start": "fanombohana",
+      "end": "Tapitra"
+    },
+    "courses": {
+      "institution": "andrim-panjakana",
+      "title_of_course": "Lohateny mazava",
+      "course_load": "Load Course"
+    },
+    "experience": {
+      "company": "Orinasa",
+      "position": "Toerana",
+      "start": "fanombohana",
+      "end": "Tapitra"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Lohahevitra maizina",
+      "description": "Safidio eo anelanelan'ny lohahevitra maivana sy maizina.\nAtao mandeha ho azy ny lohahevitry ny fitaovana amin'ny fotoana voalohany hanokafanao ny fampiharana."
+    },
+    "language": {
+      "name": "Fiteny",
+      "description": "Safidio ny fiteny efa noheverina mba haseho mandritra ny fampiasana ny fangatahana ary miresaka amin'ny AI mandritra ny dinidinika."
+    },
+    "notifications": {
+      "saved": "Voavonjy ny toerana"
+    },
+    "search": {
+      "not_found": "Tsy misy valiny hita."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Resadresaka vaovao",
+      "resume": "Resume resadresaka"
+    },
+    "generating": "Miteraka resadresaka vaovao"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tsindrio ny hamerenany"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Soraty ny hafatrao ...",
+    "max_length": "Tonga ny halavan'ny max"
+  },
+  "cooldown": {
+    "description": "Ny dikan-teny maimaim-poana amin'ny fampiharana dia ahafahanao mandray an-daniny iray isaky ny adiny iray.\n\nRaha te-hanaisotra ny fetrany ianao, dia esory ny doka, ary raiso ny tatitra momba ny valin-kafatra momba ny fomba hanatsarana aorian'ny dinidinika tsirairay, eritrereto ny hisoratra anarana amin'ny vidiny.",
+    "active": "Andraso ny famandrihana cooldown alohan'ny namerimberina tafatafa vaovao.\n\nRaha te-hanaisotra ny hatsiaka ianao, dia esory ny doka ary handray tambin-kevitra momba ny valiny momba ny fomba hanatsarana aorian'ny dinidinika tsirairay, eritrereto ny misoratra anarana amin'ny vidiny.",
+    "timer": {
+      "wait": "miandry",
+      "second": "FAHAROA",
+      "seconds": "segondra"
+    }
+  },
+  "report": {
+    "title": "TATITRA",
+    "summary": "FAMINTINANA",
+    "feedback": "Hevitra momba ny valiny",
+    "advice": "Toro-hevitra",
+    "button": {
+      "view": "Jereo ny tatitra",
+      "unlock": "Mamaha ny tatitra",
+      "get": "Makà tatitra"
+    },
+    "generating": "Miteraka tatitra ..."
+  },
+  "review": {
+    "request": "Raha tianao ny fampiharana, dia diniho ny mandinika fa mamela famerenana ianao hanampy anay.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Misaotra indrindra anao!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Misy ny tafatafa vaovao misy!",
+      "message": "Manana dinidinika vaovao ianao raha te handray an'i Joba IntellIviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Famandrihana",
+      "subscribe": "Raiso amin ny",
+      "invitation": "Misoratra anarana amin'ny Premium",
+      "active": "Activited in premium",
+      "thanks": "Misaotra anao nisoratra anarana tamin'ny Premium! Maniry anao ho tsara vintana sy fahombiazana amin'ny dinidinika rehetra ho avy ianao!",
+      "menu": {
+        "title": "Famandrihana Premium",
+        "subtitle": "Misoratra anarana amin'ny drafitry ny premium"
+      }
+    },
+    "error": {
+      "subscription": "Hadisoana miezaka manamarina ny fividiananao.",
+      "connection": "Hadisoana fifandraisana.\n\nTsy afaka mifandray amin'ny fivarotana.",
+      "products": "Tsy afaka manamarina ny safidy vokatra.",
+      "subscription_options": "Tsy afaka namoaka drafitra famandrihana.\n\nAzafady, jereo ny fifandraisanao amin'ny Internet, na andramo indray avy eo."
+    }
+  },
+  "error": {
+    "title": "fahadisoana",
+    "unexpected": "Nisy zavatra tsy nety ... tsy ho hitanao izany! 😱",
+    "connection": "fifandraisana",
+    "connection_fix": "Zahao ny fifandraisanao amin'ny Internet ary andramo indray avy eo.",
+    "ai": {
+      "no_response": "Tsy misy valiny",
+      "unexpected": "Tsy nampoizina",
+      "internal_server_error": "Olana amin'ny servera anatiny"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Manaova fanazaran-tena ho an'ny dinidinika amin'ny asa manaraka miaraka amin'ity simulator AI tena zava-misy ity",
+      "full_description": "Ny dinidinika amin'ny dinidinika ve dia mampatahotra sy mitebiteby?\nAngamba mbola mahatsapa fa tsy vonona handray dinidinika amin'ny asa ianao?\nIty no fampiharana tonga lafatra mba hampiharana ny fahaizanao mifampiresaka amin'ny toerana misy ny dinidinika!\n\nNy asa intelliwer dia mampiasa ny herin'ny faharanitan-tsaina voajanahary mba hitondrana ny dinidinika amin'ny asa fanesoana mba hanampiana anao hampanan-kery ny fahaizan-dresaka ilaina mba hanomezana fahatsapana tsara amin'ny mpikirakira tena izy ary hanao izay hiomanana anao amin'ny dinidinikao manaraka.\n\nNy dinidinika dia mifanaraka amin'ny toeran'ny asa tadiavinao, ary haingo sy hanitsy amin'ny fanontaniana mifandraika amin'ny tanjonao mba hisolo tena ny tafatafa tsara.\n\nIreo mpampiasa Premium dia hahazo tatitra amin'ny faran'ny resaka iray izay mamintina ny resaka miaraka amin'ny valin-kafatra sy torohevitra momba ny fomba hanatsarana ny voka-dratsinao amin'ny dinidinika amin'ny tena mpikambanao asa.",
+      "taglines": [
+        "Miomàna amin'ny asanao manaraka!",
+        "Manaova fanazarana amin'ny dinidinika amin'ny asa manaraka anao!",
+        "Ace ny dinidinika amin'ny asanao manaraka miaraka amin'i Ai!",
+        "Ny fahombiazanao amin'ny matihanina manaraka dia miandry anao eto!"
+      ],
+      "premium_benefits": [
+        "Manala ny doka",
+        "Resadresaka tsy manam-petra",
+        "Raiso ny tatitra miaraka amin'ny valiny sy torohevitra"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Isam-bolana",
+      "annual": "Isan-taona",
+      "cancel_anytime": "Hanafoana amin'ny fotoana rehetra",
+      "save_discount": "afa-tsy",
+      "subscribe": "Raiso amin ny",
+      "restore_purchases": "Famerenana amin'ny laoniny",
+      "premium_benefits": [
+        "Esory ny doka",
+        "Resadresaka tsy manam-petra tsy misy cooldowns",
+        "Raiso ny tatitra miaraka amin'ny valiny sy torohevitra aorian'ny dinidinika"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Ampio handika",
+    "description": "Ampio handika ity fampiharana ity amin'ny fiteny hafa."
+  }
+}

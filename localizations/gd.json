@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Tionndadh an-asgaidh"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Cleachd airson an ath agallamh obrach agad!",
+      "message": "A bheil thu a 'gabhail agallamhan obrach gad fhaighinn nearbhasach agus iomagaineach?\nIs dòcha gu bheil thu fhathast a 'faireachdainn gun ullachadh gus agallamhan obrach a ghabhail?\nIs e seo an aplacaid foirfe gus na sgilean còmhraidh agad a chleachdadh ann an suidheachadh agallaimh obrach!"
+    },
+    {
+      "title": "A bhith deiseil airson an ath obair agad!",
+      "message": "Bidh Intellivener Obair a 'cleachdadh a' chumhachd fiosrachaidh fuadain gus do chuideachadh gus toirt air na sgilean còmhraidh a dhèanamh air luchd-fastaidh fìor agus a dh 'ullaich thu gus an ath agallamh fìor-bheatha a dhèanamh."
+    },
+    {
+      "title": "Fo-sgrìobhadh Premium:",
+      "message": "A 'faighinn aithisg aig deireadh gach agallamh a' toirt geàrr-chunntas air a 'chòmhradh le fios air ais agus comhairle air mar a leasaicheas tu na cothroman agad a bhith a' fàs nas fhasa ann an agairt obrach."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Dachaigh",
+      "interview": "Agallamh",
+      "resume_cv": "Resumé",
+      "history": "Eachdraidh",
+      "history_entry": "Inntrigeadh eachdraidh",
+      "reports": "Aithisgean",
+      "settings": "Roghainnean"
+    }
+  },
+  "title": {
+    "attention": "Aire",
+    "information": "Fiosrachadh"
+  },
+  "label": {
+    "search": "Rannsaich"
+  },
+  "button": {
+    "ok": "Ceart gu leòr",
+    "back": "Air ais",
+    "close": "Dùin",
+    "cancel": "Sguir dheth",
+    "delete": "Thoir às",
+    "review": "Lèirmheas",
+    "subscribe": "Subscribe"
+  },
+  "language": {
+    "title": "Cànan",
+    "select": "Tagh Cànan",
+    "altered": "Air atharrachadh cànain"
+  },
+  "history": {
+    "empty": "Eachdraidh falamh",
+    "delete": {
+      "list": {
+        "title": "Cuir às do eachdraidh?",
+        "message": "A bheil thu cinnteach gu bheil thu airson an eachdraidh iomlan a dhubhadh às?",
+        "deleted": "Chaidh eachdraidh a chuir às."
+      },
+      "entry": {
+        "title": "Cuir às do agallamh?",
+        "message": "A bheil thu cinnteach gu bheil thu airson an agallamh seo a dhubhadh às?",
+        "deleted": "Chaidh eachdraidh a chuir às."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Ainm",
+      "first_name": "A’ chiad ainm",
+      "date_of_birth": "Latha breith",
+      "job_position": "Suidheachadh obrach",
+      "job_position_detailed": "Suidheachadh obrach mionaideach",
+      "education": "Foghlam",
+      "courses": "Cùrsaichean",
+      "experience": "Eòlas",
+      "add": {
+        "education": "Cuir Foghlam ùr ris",
+        "courses": "Cuir cùrsa ùr ris",
+        "experience": "Cuir eòlas ùr ris"
+      },
+      "error": {
+        "validation": {
+          "title": "Mearachd dearbhaidh",
+          "invalid_fields": "Cuir a-steach dreuchd suidheachadh obrach dligheach gus tagradh a dhèanamh airson agallamh obrach ùr.\nAir neo",
+          "unable_to_validate": "Cha ghabh raointean dligheach a dhearbhadh."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institiùd",
+      "degree": "Ceum",
+      "start": "Tòisich",
+      "end": "Deireadh"
+    },
+    "courses": {
+      "institution": "Institiùd",
+      "title_of_course": "Tiotal an Cùrsa",
+      "course_load": "Luchdaich a 'chùrsa"
+    },
+    "experience": {
+      "company": "Companaidh",
+      "position": "Suidheachadh",
+      "start": "Tòisich",
+      "end": "Deireadh"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Cuspair dorcha",
+      "description": "Tagh eadar cuspair solais is dorcha.\nSuidhich gu fèin-ghluasadach gu cuspair an inneal a 'chiad uair a dh' fhosglas tu an aplacaid."
+    },
+    "language": {
+      "name": "Cànan",
+      "description": "Tagh an cànan as fheàrr a tha ri thaisbeanadh fhad 's a tha iad a' cleachdadh an tagraidh agus a 'bruidhinn ris an AI rè na h-agallamhan."
+    },
+    "notifications": {
+      "saved": "Suidhichidhean air an sàbhaladh"
+    },
+    "search": {
+      "not_found": "Cha deach toraidhean a lorg."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Agallamh ùr",
+      "resume": "Agallamh ath-thòiseachadh"
+    },
+    "generating": "A 'gineadh agallamh ùr"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap air ath-ghairm"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Taidhp do theachdaireachd ...",
+    "max_length": "Tha Mad Max air a ruighinn"
+  },
+  "cooldown": {
+    "description": "Leigidh an dreach an-asgaidh den aplacaid leat aon agallamh a thoirt san uair.\n\nMa tha thu airson na crìochan a thoirt air falbh, thoir air falbh na sanasan, agus gheibh thu coinneamh fios air ais le comhairle air mar a nì thu leasachadh às deidh a 'chruinneil.",
+    "active": "Fuirich airson timer compodwn mus cuir thu agallamh ùr.\n\nMa tha thu airson clooil a thoirt air falbh, cuir às do shsan, agus gheibh thu aithisg fios air ais le comhairle air mar a leasaicheas tu air mar a leasaicheas iad",
+    "timer": {
+      "wait": "Feitheamh",
+      "second": "an dàrna",
+      "seconds": "diogan"
+    }
+  },
+  "report": {
+    "title": "Aithisg",
+    "summary": "Geàrr-chunntas",
+    "feedback": "Beachdan air ais",
+    "advice": "Comhairle",
+    "button": {
+      "view": "Faic an aithisg",
+      "unlock": "Aithisg fhuasgladh",
+      "get": "Dèan aithisg"
+    },
+    "generating": "Aithisg gineadh ..."
+  },
+  "review": {
+    "request": "Ma chòrd an aplacaidich thu an aplacaid, smaoinich ort a bhith a 'fàgail ath-bhreithneachadh gus ar cuideachadh.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Mòran taing dhut!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Agallamh ùr ri fhaighinn!",
+      "message": "Tha agallamh ùr agad ri fhaighinn gus goireas obrach a ghabhail os làimh."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Fo-sgrìobhadh",
+      "subscribe": "Subscribe",
+      "invitation": "Subscribe to Topium",
+      "active": "Premium fo-sgrìobhadh gnìomhach",
+      "thanks": "Tapadh leibh airson ballrachd a thoirt don àrd-sgrìobhadh! Tha sinn a 'guidhe deagh fhortan dhut agus soirbheachas dhut air na h-agallamhan agad san àm ri teachd!",
+      "menu": {
+        "title": "Fo-sgrìobhadh Premium",
+        "subtitle": "Subscribe ris a 'Phlana Premium"
+      }
+    },
+    "error": {
+      "subscription": "Mearachd a 'feuchainn ri do cheannach a dhearbhadh.",
+      "connection": "Mearachd ceangail.\n\nCha ghabh ceangal ris a 'bhùth.",
+      "products": "Cha ghabh sùil a thoirt air roghainnean toraidh.",
+      "subscription_options": "Cha ghabh planaichean ballrachd a luchdachadh.\n\nFeuch an toir thu sùil air a 'cheangal eadar-lìn agad, no feuch ris a-rithist nas fhaide air adhart."
+    }
+  },
+  "error": {
+    "title": "Mearachd",
+    "unexpected": "Chaidh rudeigin ceàrr ... cha robh thu a 'faicinn seo! 😱",
+    "connection": "Ceangal",
+    "connection_fix": "Thoir sùil air a 'cheangal eadar-lìn agad agus feuch ris a-rithist nas fhaide air adhart.",
+    "ai": {
+      "no_response": "Gun fhreagairt",
+      "unexpected": "Ris nach robh dùil",
+      "internal_server_error": "Mearachd frithealaiche a-staigh"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Cleachd airson an ath agallamh obrach agad leis an ath lasair dearbhach seo",
+      "full_description": "A bheil thu a 'gabhail agallamhan obrach gad fhaighinn nearbhasach agus iomagaineach?\nIs dòcha gu bheil thu fhathast a 'faireachdainn gun ullachadh gus agallamhan obrach a ghabhail?\nIs e seo an aplacaid foirfe gus na sgilean còmhraidh agad a chleachdadh ann an suidheachadh agallaimh obrach!\n\nBidh inneal-obrach obrach a 'cleachdadh cumhachd fuadain gus agallamhan obrach MODE a dhèanamh gus deagh bheachd a thoirt air luchd-fastaidh fìor agus a dh' ullaich thu gus an ath agallamh a dhèanamh.\n\nTha na h-agallamhan air an dèanamh freagarrach don t-suidheachadh obrach a tha thu a 'sireadh, agus bidh e air a chumadh agus air atharrachadh le ceistean co-cheangailte ris na h-amasan agad gus rionnagan obrach a riochdachadh.\n\nGheibh Premium Luchd-cleachdaidh cuideachd aithisg aig deireadh gach agallamh a bheir air ais le fios air ais agus comhairle air mar a leasaicheas tu na cothroman agad a bhith a 'fàs nas fhasa ann an agairt obrach.",
+      "taglines": [
+        "A bhith deiseil airson an ath obair agad!",
+        "Cleachd airson an ath agallamh obrach agad!",
+        "Ace an ath agallamh obrach agad le Ai!",
+        "Tha an ath shoirbheachadh proifeasanta agad a 'feitheamh riut an seo!"
+      ],
+      "premium_benefits": [
+        "A 'toirt air falbh sanasan",
+        "Agallamhan gun chrìoch",
+        "Faigh aithisgean le fios air ais agus comhairle"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Mìosail",
+      "annual": "Bliadhnail Bliadhnail",
+      "cancel_anytime": "Cuir dheth uair sam bith",
+      "save_discount": "Sàbhail",
+      "subscribe": "Subscribe",
+      "restore_purchases": "Ath-nuadhachadh ceannach",
+      "premium_benefits": [
+        "Cuir às do shanasan",
+        "Agallamhan gun chrìoch gun cho fhulangach",
+        "Faigh aithisgean le fios air ais agus comhairle às deidh agallamhan"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Cuidich eadar-theangachadh",
+    "description": "Cuidich le bhith ag eadar-theangachadh an tagraidh seo gu cànanan eile."
+  }
+}

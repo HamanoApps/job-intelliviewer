@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "KALITE FƆLƆ",
+      "free": "Version gratuite ."
+    }
+  },
+  "presentation": [
+    {
+      "title": "Aw ye aw yɛrɛ dege aw ka baara ɲininkali nata la!",
+      "message": "Yala baara ɲininkaliw kɛli bɛ i jɔrɔ ani ka jɔrɔ wa?\nN’a sɔrɔ i b’a miiri hali bi ko i ma labɛn ka baara ɲininkaliw kɛ wa?\nNin ye app dafalen ye walasa k’i ka barokɛcogo dege baara ɲininkali kɛyɔrɔ la!"
+    },
+    {
+      "title": "Aw ye aw labɛn aw ka baara nata kama!",
+      "message": "Job IntelliViewer bɛ baara kɛ ni hakililata fanga ye walasa ka baara ɲininkaliw kɛ minnu bɛ se ka kɛ tiɲɛ ye, walasa k’i dɛmɛ ka barokɛcogo ɲumanw sɔrɔ minnu ka kan ka kɛ walasa ka hakilina ɲuman di ɲɛnamaya lakikaw ma ani k’i labɛn ka i ka ɲɛnamaya ɲininkali nata ɲini."
+    },
+    {
+      "title": "Abonnés premium:",
+      "message": "Aw ye kunnafoni sɔrɔ ɲininkali kelen-kelen bɛɛ laban na min bɛ baro kuncɛ ni hakilinaw ye ani ladilikanw ye aw bɛ se ka aw ka baara kɛcogo ɲɛ cogo min na baara ɲininkali lakika kɔnɔ."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "So",
+      "interview": "Kúmaɲɔgɔnya",
+      "resume_cv": "Ka daminɛ ko kura ye",
+      "history": "Tariku",
+      "history_entry": "Tariku don .",
+      "reports": "rapɔɔriw .",
+      "settings": "Settings ."
+    }
+  },
+  "title": {
+    "attention": "Janto",
+    "information": "Kunnafoni"
+  },
+  "label": {
+    "search": "Ɲini"
+  },
+  "button": {
+    "ok": "N SƆNNA",
+    "back": "Kɔ",
+    "close": "Ka datugu",
+    "cancel": "ka dankari",
+    "delete": "Ka jɔsi",
+    "review": "Ka sɛgɛsɛgɛ",
+    "subscribe": "Abonnés ."
+  },
+  "language": {
+    "title": "Kan",
+    "select": "kan sugandi .",
+    "altered": "Kan Changé ."
+  },
+  "history": {
+    "empty": "Tariku lankolon .",
+    "delete": {
+      "list": {
+        "title": "Tariku bɔ yen wa?",
+        "message": "Yala i b’a fɛ ka tariku bɛɛ bɔ yen wa?",
+        "deleted": "Tariku bɔra yen."
+      },
+      "entry": {
+        "title": "Delete interview?",
+        "message": "Yala i b’a fɛ ka nin ɲininkali in bɔ yen wa?",
+        "deleted": "Tariku bɔra yen."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Tɔ̀gɔ",
+      "first_name": "Tɔgɔ",
+      "date_of_birth": "wolodon .",
+      "job_position": "Baara jɔyɔrɔ .",
+      "job_position_detailed": "Baara jɔyɔrɔ ɲɛfɔlen .",
+      "education": "Ladamuni",
+      "courses": "Kuranɛw .",
+      "experience": "Ko dɔn",
+      "add": {
+        "education": "Kalan kura fara a kan .",
+        "courses": "Add new course .",
+        "experience": "A fara a kan ko kura ."
+      },
+      "error": {
+        "validation": {
+          "title": "Validation error .",
+          "invalid_fields": "Job position jɔyɔrɔ bɛnnen don walasa ka baara ɲininkali kura ɲini.\nO cogo kelen na .",
+          "unable_to_validate": "Se tɛ ka forow tiɲɛ."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institution .",
+      "degree": "Dipilomu",
+      "start": "Ka daminɛ",
+      "end": "Laban"
+    },
+    "courses": {
+      "institution": "Institution .",
+      "title_of_course": "Title tiɲɛ na .",
+      "course_load": "Course Load ."
+    },
+    "experience": {
+      "company": "Cakɛda",
+      "position": "Jɔyɔrɔ",
+      "start": "Ka daminɛ",
+      "end": "Laban"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Barokun dibiman .",
+      "description": "Aw bɛ yeelen ni dibi barokun cɛ sugandi.\nAw bɛ a yɛrɛma bila minɛn in barokun na siɲɛ fɔlɔ min na aw bɛ appli da wuli."
+    },
+    "language": {
+      "name": "Kan",
+      "description": "Kan min ka di i ye, i k’o sugandi k’a sɔrɔ i bɛ baara kɛ ni porogaramu ye ani ka kuma AI fɛ ɲininkaliw senfɛ."
+    },
+    "notifications": {
+      "saved": "Settings minnu maralen bɛ ."
+    },
+    "search": {
+      "not_found": "jaabi si ma sɔrɔ."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Interview kura .",
+      "resume": "Resume interview ."
+    },
+    "generating": "Interview kura sɔrɔli ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap ka retry ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Aw ye aw ka cikan sɛbɛn...",
+    "max_length": "Max janya sera ."
+  },
+  "cooldown": {
+    "description": "O appli in cogoya fu b’a to i bɛ se ka ɲininkali kelen kɛ lɛrɛ kelen kɔnɔ.\n\nN’i b’a fɛ ka dantigɛliw bɔ yen, ka piblisitew bɔ yen, ani ka jaabi sɔrɔ ni laadilikan ye, i bɛ se ka ɲɛtaa kɛ cogo min na ɲininkali kelen-kelen bɛɛ kɔfɛ, i ka jateminɛ kɛ ka ɲɛsin Premium ma.",
+    "active": "Aw bɛ cooldown timer makɔnɔ sani aw ka interview kura lawuli.\n\nN’i b’a fɛ ka cooldownw bɔ, ka piblisitew bɔ, ani ka jaabi sɔrɔ ni ladilikanw ye, i bɛ se ka ɲɛtaa kɛ cogo min na ɲininkali kelen-kelen bɛɛ kɔfɛ, i ka jateminɛ kɛ ka ɲɛsin Premium ma.",
+    "timer": {
+      "wait": "Ka kɔnɔ",
+      "second": "filanan",
+      "seconds": "Seginnkanni ."
+    }
+  },
+  "report": {
+    "title": "Cisama",
+    "summary": "Farankan",
+    "feedback": "Kibaru kɔsegi",
+    "advice": "Laadilikan",
+    "button": {
+      "view": "A ye rapɔɔri lajɛ .",
+      "unlock": "Unlock ka rapɔɔri .",
+      "get": "Get Report ."
+    },
+    "generating": "Rapport de generation..."
+  },
+  "review": {
+    "request": "Ni appli diyara i ye, i ka jateminɛ kɛ ka bɔ seginnkanni na walasa k’an dɛmɛ.\n\n⭐⭐⭐⭐ .",
+    "thanks": "I ni ce kɔsɛbɛ!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Interview kura bɛ sɔrɔ!",
+      "message": "Aw ye interview kura sɔrɔ ka baara kɛ ni Job IntelliViewer ye."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "KALITE FƆLƆ",
+      "type": "Abonnés .",
+      "subscribe": "Abonnés .",
+      "invitation": "Abonnés ka premium .",
+      "active": "Abonnés premium active .",
+      "thanks": "Aw ni ce aw ka abonnés ka premium! An bɛ hɛrɛ ni ɲɛtaa ɲini aw ye aw ka ɲininkali nataw bɛɛ kan!",
+      "menu": {
+        "title": "Abonnés premium .",
+        "subtitle": "Aw ye aw tɔgɔ sɛbɛn Premium Plan la ."
+      }
+    },
+    "error": {
+      "subscription": "Misali min b’a ɲini ka i ka sanni tiɲɛ.",
+      "connection": "Jɛɲɔgɔnya fili.\n\nSe tɛ ka don magasa la.",
+      "products": "Se tɛ ka fɛn dilannenw sugandi.",
+      "subscription_options": "Se tɛ ka abonnés plans doni.\n\nAw ye aw ka ɛntɛrinɛti lajɛ, walima ka segin a kan kɔfɛ."
+    }
+  },
+  "error": {
+    "title": "Filijuru",
+    "unexpected": "Fɛn dɔ ma ɲɛ... I ma nin ye! 😱",
+    "connection": "Jɛɲɔgɔnya .",
+    "connection_fix": "Aw ye aw ka ɛntɛrinɛti lajɛ ani ka segin a kan kɔfɛ.",
+    "ai": {
+      "no_response": "jaabi tɛ sɔrɔ .",
+      "unexpected": "A ma deli ka kɛ cogo min na .",
+      "internal_server_error": "Server kɔnɔna fili ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Aw ye aw yɛrɛ dege aw ka baara nata la ni nin AI simulator sɛbɛ in ye .",
+      "full_description": "Yala baara ɲininkaliw kɛli bɛ i jɔrɔ ani ka jɔrɔ wa?\nN’a sɔrɔ i b’a miiri hali bi ko i ma labɛn ka baara ɲininkaliw kɛ wa?\nNin ye app dafalen ye walasa k’i ka barokɛcogo dege baara ɲininkali kɛyɔrɔ la!\n\nJob IntelliViewer bɛ baara kɛ ni hakililata fanga ye walasa ka baara ɲininkaliw kɛ minnu bɛ se ka kɛ tiɲɛ ye, walasa k’i dɛmɛ ka barokɛcogo ɲumanw sɔrɔ minnu ka kan ka kɛ walasa ka hakilina ɲuman sɔrɔ ɲɛnamaya yɛrɛ kɔnɔ mɔgɔ ɲininikɛlaw kan ani k’i labɛn ka i ka ɲininkali nata ɲini.\n\nƝininkaliw bɛ kɛ ka kɛɲɛ ni baara jɔyɔrɔ ye i bɛ min ɲini, wa u bɛna kɛ cogo la ani ka ladilan ni ɲininkaliw ye minnu ɲɛsinnen bɛ i ka laɲiniw ma walasa ka baara ɲininkali lakika jira ka ɲɛ.\n\nPremium baarakɛlaw fana bɛna kunnafoni sɔrɔ ɲininkali kelen-kelen bɛɛ laban na ka baro lajɛ ni hakilinaw ye ani ladilikanw ye i ka se ka baara sɔrɔ cogo min na baara ɲininkali lakika kɔnɔ.",
+      "taglines": [
+        "Aw ye aw labɛn aw ka baara nata kama!",
+        "Aw ye aw yɛrɛ dege aw ka baara ɲininkali nata la!",
+        "ace i ka baara nata interview ni AI!",
+        "Aw ka ɲɛtaa nata bɛ aw makɔnɔ yan!"
+      ],
+      "premium_benefits": [
+        "A bɛ piblisitew bɔ yen .",
+        "Dan tɛ ɲininkaliw la .",
+        "Aw ye kunnafoniw sɔrɔ ni hakilinaw ni ladilikanw ye ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Kalite fɔlɔ",
+      "monthly": "Kalo o kalo .",
+      "annual": "San ni san",
+      "cancel_anytime": "ka ban waati o waati .",
+      "save_discount": "Ka mara",
+      "subscribe": "Abonnés .",
+      "restore_purchases": "Restore sanniw .",
+      "premium_benefits": [
+        "Aw ye piblisitew bɔ .",
+        "Dan tɛ ɲininkaliw la ni No Cooldowns ye .",
+        "Aw ye kunnafoniw sɔrɔ ni hakilinaw ye ani ladilikanw ye ɲininkaliw kɔfɛ ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Dɛmɛ don bamanankan na .",
+    "description": "Aw ye dɛmɛ don ka nin baarakɛminɛn in baara kan wɛrɛw la."
+  }
+}

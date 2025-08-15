@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premi",
+      "free": "Versió gratuïta"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Practiqueu per a la vostra propera entrevista de treball!",
+      "message": "Les entrevistes de feina et posa nervioses i ansioses?\nPotser encara us sentiu preparats per fer entrevistes laborals?\nAquesta és l’aplicació perfecta per practicar les vostres habilitats de conversa en una configuració d’entrevistes de feina."
+    },
+    {
+      "title": "Estigueu preparats per a la vostra propera feina!",
+      "message": "Job IntelliViewer utilitza el poder de la intel·ligència artificial per realitzar entrevistes realistes de treball burleta per ajudar -vos a aprofitar les habilitats de conversa necessàries per fer una bona impressió en els reclutadors de la vida real i fer -vos preparat per aconseguir la vostra propera entrevista de la vida real."
+    },
+    {
+      "title": "Subscripció Premium:",
+      "message": "Rep un informe al final de cada entrevista resumint la conversa amb comentaris i consells sobre com millorar les possibilitats de contractar -se en una entrevista de feina real."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Casa",
+      "interview": "Entrevista",
+      "resume_cv": "Reprendre",
+      "history": "Història",
+      "history_entry": "Entrada d'història",
+      "reports": "Informes",
+      "settings": "Configuració"
+    }
+  },
+  "title": {
+    "attention": "Atenció",
+    "information": "Informació"
+  },
+  "label": {
+    "search": "Buscar"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Esquena",
+    "close": "Tancar -se",
+    "cancel": "Cancel·lar",
+    "delete": "Esborrar",
+    "review": "Ressenyar",
+    "subscribe": "Subscriure"
+  },
+  "language": {
+    "title": "Llengua",
+    "select": "Seleccioneu el llenguatge",
+    "altered": "La llengua va canviar"
+  },
+  "history": {
+    "empty": "Història buida",
+    "delete": {
+      "list": {
+        "title": "Suprimir la història?",
+        "message": "Esteu segur que voleu suprimir tota la història?",
+        "deleted": "Història suprimida."
+      },
+      "entry": {
+        "title": "Suprimir l'entrevista?",
+        "message": "Esteu segur que voleu suprimir aquesta entrevista?",
+        "deleted": "Història suprimida."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nom",
+      "first_name": "Nom",
+      "date_of_birth": "Data de naixement",
+      "job_position": "Posició de treball",
+      "job_position_detailed": "Posició de treball detallada",
+      "education": "Educació",
+      "courses": "Cursos",
+      "experience": "Experiència",
+      "add": {
+        "education": "Afegiu una nova educació",
+        "courses": "Afegiu un curs nou",
+        "experience": "Afegiu una nova experiència"
+      },
+      "error": {
+        "validation": {
+          "title": "Error de validació",
+          "invalid_fields": "Inseriu un rol de lloc de treball vàlid per sol·licitar una nova entrevista de treball.\nAlternativament",
+          "unable_to_validate": "No es pot validar els camps."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institució",
+      "degree": "Grau",
+      "start": "Començar",
+      "end": "Final"
+    },
+    "courses": {
+      "institution": "Institució",
+      "title_of_course": "Títol, per descomptat",
+      "course_load": "Càrrec"
+    },
+    "experience": {
+      "company": "Companyia",
+      "position": "Posició",
+      "start": "Començar",
+      "end": "Final"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tema fosc",
+      "description": "Seleccioneu entre el tema clar i fosc.\nConfigureu automàticament al tema del dispositiu la primera vegada que obriu l'aplicació."
+    },
+    "language": {
+      "name": "Llengua",
+      "description": "Seleccioneu l'idioma preferit per mostrar -lo mentre utilitzeu l'aplicació i parleu amb l'AI durant les entrevistes."
+    },
+    "notifications": {
+      "saved": "Configuració desada"
+    },
+    "search": {
+      "not_found": "No es van trobar resultats."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nova entrevista",
+      "resume": "Resumeix entrevista"
+    },
+    "generating": "Generant una nova entrevista"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Toqueu per tornar a intentar"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Escriviu el vostre missatge ...",
+    "max_length": "La longitud màxima va arribar"
+  },
+  "cooldown": {
+    "description": "La versió gratuïta de l’aplicació us permet fer una entrevista per hora.\n\nSi voleu eliminar les limitacions, eliminar els anuncis i rebre un informe de comentaris amb consells sobre com millorar després de cada entrevista, considereu la subscripció a Premium.",
+    "active": "Espereu el temporitzador de recorregut abans de generar una nova entrevista.\n\nSi voleu eliminar els recorreguts, eliminar els anuncis i rebre un informe de comentaris amb consells sobre com millorar després de cada entrevista, considereu la subscripció a Premium.",
+    "timer": {
+      "wait": "Esperar",
+      "second": "segona",
+      "seconds": "segons"
+    }
+  },
+  "report": {
+    "title": "Informar",
+    "summary": "Sumari",
+    "feedback": "Comentaris",
+    "advice": "Consell",
+    "button": {
+      "view": "Consulteu l'informe",
+      "unlock": "Desbloqueja l'informe",
+      "get": "Obteniu informe"
+    },
+    "generating": "Generar informe ..."
+  },
+  "review": {
+    "request": "Si us ha agradat l’aplicació, considereu que deixar una ressenya per ajudar -nos.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Moltes gràcies!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nova entrevista disponible!",
+      "message": "Teniu una nova entrevista disponible per assumir Job IntelliViewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premi",
+      "type": "Subscripció",
+      "subscribe": "Subscriure",
+      "invitation": "Subscriviu -vos a Premium",
+      "active": "Subscripció premium activa",
+      "thanks": "Gràcies per subscriure's a Premium. Us desitgem molta sort i èxit en totes les vostres futures entrevistes.",
+      "menu": {
+        "title": "Subscripció Premium",
+        "subtitle": "Subscriviu -vos al pla premium"
+      }
+    },
+    "error": {
+      "subscription": "Error en intentar validar la compra.",
+      "connection": "Error de connexió.\n\nNo es pot connectar a la botiga.",
+      "products": "No es pot comprovar les opcions del producte.",
+      "subscription_options": "No es poden carregar plans de subscripció.\n\nComproveu la vostra connexió a Internet o torneu -ho a provar més tard."
+    }
+  },
+  "error": {
+    "title": "Error",
+    "unexpected": "Alguna cosa va passar malament ... no ho podríeu veure! 😱",
+    "connection": "Conexió",
+    "connection_fix": "Comproveu la vostra connexió a Internet i torneu -ho a provar més tard.",
+    "ai": {
+      "no_response": "Sense resposta",
+      "unexpected": "Inesperat",
+      "internal_server_error": "Error del servidor intern"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Practiqueu per a la vostra propera entrevista de treball amb aquest simulador d’IA realista",
+      "full_description": "Les entrevistes de feina et posa nervioses i ansioses?\nPotser encara us sentiu preparats per fer entrevistes laborals?\nAquesta és l’aplicació perfecta per practicar les vostres habilitats de conversa en una configuració d’entrevistes de feina.\n\nJob IntelliViewer utilitza el poder de la intel·ligència artificial per realitzar entrevistes realistes de treball burleta per ajudar -vos a aprofitar les habilitats de conversa necessàries per fer una bona impressió en els reclutadors de la vida real i fer -vos preparats per aconseguir la vostra propera entrevista.\n\nLes entrevistes s’adapten a la posició laboral que busqueu i es configuraran i s’ajustaran amb preguntes relacionades amb els vostres objectius per representar millor una entrevista de feina real.\n\nEls usuaris de Premium també rebran un informe al final de cada entrevista resumint la conversa amb comentaris i consells sobre com millorar les possibilitats de contractar -se en una entrevista de feina real.",
+      "taglines": [
+        "Estigueu preparats per a la vostra propera feina!",
+        "Practiqueu per a la vostra propera entrevista de treball!",
+        "Ace La vostra propera entrevista de feina amb AI!",
+        "El vostre proper èxit professional us espera aquí!"
+      ],
+      "premium_benefits": [
+        "Elimina els anuncis",
+        "Entrevistes il·limitades",
+        "Rebre informes amb comentaris i consells"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premi",
+      "monthly": "Mensual",
+      "annual": "Anual",
+      "cancel_anytime": "Cancel·la en qualsevol moment",
+      "save_discount": "Estalviar",
+      "subscribe": "Subscriure",
+      "restore_purchases": "Restaurar les compres",
+      "premium_benefits": [
+        "Traieu els anuncis",
+        "Entrevistes il·limitades sense temps de recuperació",
+        "Rebeu informes amb comentaris i consells després d’entrevistes"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Ajuda a traduir",
+    "description": "Ajudeu a traduir aquesta aplicació a altres idiomes."
+  }
+}

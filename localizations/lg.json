@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "SENTE EZISASILIBWA MUNDAGANO",
+      "free": "Enkyusa ey'obwereere ."
+    }
+  },
+  "presentation": [
+    {
+      "title": "Weegezeemu mu interview yo ey'omulimu eddako!",
+      "message": "Okutwala interview z’emirimu kikuleetera okutya n’okweraliikirira?\nMpozzi okyawulira nga tolina kye weetegese okukola interview z’emirimu?\nEno ye app etuukiridde okwegezaamu obukugu bwo mu mboozi mu mbeera y'okubuuza ebibuuzo ku mulimu!"
+    },
+    {
+      "title": "Weetegeke ku mulimu gwo oguddako!",
+      "message": "Job IntelliViewer akozesa amaanyi g’obugezi obukozesebwa okukola interviews ez’omulimu ez’okukoppa ezituufu okukuyamba okukozesa obukugu obw’emboozi obwetaagisa okukola ekifaananyi ekirungi ku bawandiika abantu mu bulamu obw’amazima n’okukufuula okwetegekera okukola interview yo ey’obulamu obw’amazima eddako."
+    },
+    {
+      "title": "Okuwandiika kwa Premium:",
+      "message": "Funa lipoota ku nkomerero ya buli yintaviyu ng’ofunza emboozi n’ebikuddibwamu n’amagezi ku ngeri y’okulongoosaamu emikisa gyo egy’okupangisa mu mboozi ey’omulimu entuufu."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Ewaka",
+      "interview": "Okubuuza",
+      "resume_cv": "Okuddamu",
+      "history": "Ebyafaayo",
+      "history_entry": "Okuyingira mu byafaayo .",
+      "reports": "Alipoota .",
+      "settings": "Enteekateeka ."
+    }
+  },
+  "title": {
+    "attention": "Okutereera",
+    "information": "Obubaka"
+  },
+  "label": {
+    "search": "Okunoonya"
+  },
+  "button": {
+    "ok": "KALE",
+    "back": "Mabega",
+    "close": "Okuggalawo",
+    "cancel": "okusazaamu",
+    "delete": "Okusiimuula",
+    "review": "Okwekkaanya",
+    "subscribe": "Subscribe ."
+  },
+  "language": {
+    "title": "Olulimi",
+    "select": "Londa olulimi .",
+    "altered": "Olulimi lwakyuka ."
+  },
+  "history": {
+    "empty": "Ebyafaayo ebitalimu kintu kyonna .",
+    "delete": {
+      "list": {
+        "title": "Okusazaamu ebyafaayo?",
+        "message": "Okakasa nti oyagala kusazaamu byafaayo byonna?",
+        "deleted": "Ebyafaayo byasazibwamu."
+      },
+      "entry": {
+        "title": "Ssaawo yintaviyu?",
+        "message": "Oyagala kusazaamu interview eno?",
+        "deleted": "Ebyafaayo byasazibwamu."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Erinnya",
+      "first_name": "Erinnya erisooka",
+      "date_of_birth": "Olunaku lw'okuzaalibwa .",
+      "job_position": "Ekifo ky'omulimu .",
+      "job_position_detailed": "Ekifo ky'omulimu ekikwata ku nsonga eno mu bujjuvu .",
+      "education": "Okusoma",
+      "courses": "Emisomo .",
+      "experience": "Obumanyirivu",
+      "add": {
+        "education": "Add New Education .",
+        "courses": "Okwongerako Omusomo omupya .",
+        "experience": "Yongera ku bumanyirivu obupya ."
+      },
+      "error": {
+        "validation": {
+          "title": "Ensobi y'okukakasa .",
+          "invalid_fields": "Teekamu omulimu gw’ekifo ekituufu okusaba okubuuza ebibuuzo ku mulimu omupya.\nEkirala .",
+          "unable_to_validate": "Tekisoboka kukakasa nnimiro."
+        }
+      }
+    },
+    "education": {
+      "institution": "Ekitongole .",
+      "degree": "Diguli",
+      "start": "Okutandika",
+      "end": "Enkomerero"
+    },
+    "courses": {
+      "institution": "Ekitongole .",
+      "title_of_course": "omutwe ddala .",
+      "course_load": "Omugugu gw'omusomo ."
+    },
+    "experience": {
+      "company": "Kampane",
+      "position": "Ekifo",
+      "start": "Okutandika",
+      "end": "Enkomerero"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Omulamwa gw'ekizikiza .",
+      "description": "Londa wakati w’omulamwa gw’ekitangaala n’enzikiza.\nAutomatically Teeka ku mulamwa gw'ekyuma omulundi ogusooka okuggulawo app."
+    },
+    "language": {
+      "name": "Olulimi",
+      "description": "Londa olulimi olusinga okwettanira okulaga ng’okozesa enkola n’okwogera ne AI mu biseera by’okubuuza ebibuuzo."
+    },
+    "notifications": {
+      "saved": "Enteekateeka eziterekeddwa ."
+    },
+    "search": {
+      "not_found": "Tewali bivuddemu bizuuliddwa."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Yintaviyu empya .",
+      "resume": "Okubuuza ebibuuzo ku bbaluwa (Resume Interview) ."
+    },
+    "generating": "Okukola interview empya ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap okuddamu okugezaako ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Wandiika obubaka bwo...",
+    "max_length": "Max obuwanvu butuuse ."
+  },
+  "cooldown": {
+    "description": "App ya bwereere ekusobozesa okukola interview emu buli ssaawa.\n\nBw’oba oyagala okuggyawo obukwakkulizo, okuggyawo ebirango, n’okufuna lipoota y’okuddamu n’amagezi ku ngeri y’okulongoosaamu oluvannyuma lwa buli yintaviyu, lowooza ku ky’okuwandiika ku premium.",
+    "active": "Linda cooldown timer nga tonnaba kukola interview empya.\n\nBw’oba oyagala okuggyawo cooldowns, okuggyawo ebirango, n’okufuna lipoota y’okuddamu n’amagezi ku ngeri y’okulongoosaamu oluvannyuma lwa buli yintaviyu, lowooza ku kwewandiisa ku premium.",
+    "timer": {
+      "wait": "Linda",
+      "second": "akatikitiki",
+      "seconds": "Sikonda ."
+    }
+  },
+  "report": {
+    "title": "Okuloopa",
+    "summary": "Okubumbako",
+    "feedback": "Endowooza",
+    "advice": "Okuwabula",
+    "button": {
+      "view": "Laba alipoota .",
+      "unlock": "Alipoota y'okusumulula .",
+      "get": "funa Alipoota ."
+    },
+    "generating": "Alipoota y’okukola..."
+  },
+  "review": {
+    "request": "Bwoba oyagala app, nsaba olowooze ku ky'okuleka review okutuyamba.\n\n⭐⭐⭐⭐⭐ .",
+    "thanks": "Webale nyo!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Yintaviyu empya eriwo!",
+      "message": "Olina interview empya eriwo okutwala Job Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "SENTE EZISASILIBWA MUNDAGANO",
+      "type": "Okwewandiisa .",
+      "subscribe": "Subscribe .",
+      "invitation": "Subscribe ku Premium .",
+      "active": "Premium Okuwandiika Active .",
+      "thanks": "Mwebale kwewandiisa ku premium! Tukwagaliza emikisa n'obuwanguzi ku yintaviyu zo zonna ez'omu maaso!",
+      "menu": {
+        "title": "Okuwandiika kwa Premium .",
+        "subtitle": "Wewandiise ku nteekateeka ya Premium ."
+      }
+    },
+    "error": {
+      "subscription": "Ensobi nga ogezaako okukakasa okugula kwo.",
+      "connection": "Ensobi mu kuyungibwa.\n\nTekisoboka kuyungibwa ku dduuka.",
+      "products": "Tekisoboka kukebera nkola za bikozesebwa.",
+      "subscription_options": "Tekisoboka kutikka nteekateeka za kuwandiika.\n\nNsaba, kebera ku yintaneeti yo, oba ddamu ogezeeko oluvannyuma."
+    }
+  },
+  "error": {
+    "title": "Ensobi",
+    "unexpected": "Waliwo ekyatambula obubi... You soulnn't be seeing this! 😱 .",
+    "connection": "Okuyungibwa .",
+    "connection_fix": "Kebera ku yintaneeti yo oddemu ogezeeko oluvannyuma.",
+    "ai": {
+      "no_response": "Tewali kuddamu .",
+      "unexpected": "Ekitasuubirwa .",
+      "internal_server_error": "Ensobi ya seva ey'omunda ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Yegezeemu mu interview yo eddako ey'omulimu ne kino ekituufu AI simulator .",
+      "full_description": "Okutwala interview z’emirimu kikuleetera okutya n’okweraliikirira?\nMpozzi okyawulira nga tolina kye weetegese okukola interview z’emirimu?\nEno ye app etuukiridde okwegezaamu obukugu bwo mu mboozi mu mbeera y'okubuuza ebibuuzo ku mulimu!\n\nJob IntelliViewer akozesa amaanyi g’obugezi obukozesebwa okukola interviews ez’okukoppa ezituufu okukuyamba okukozesa obukugu obw’emboozi obwetaagisa okukola ekifaananyi ekirungi ku bawandiisi b’abakozi mu bulamu obw’amazima n’okukufuula okwetegekera okubuuza yintaviyu yo eddako.\n\nYintaviyu zituukagana n‟ekifo ky‟omulimu ky‟onoonya, era zijja kubumbibwa era zitereeze n‟ebibuuzo ebikwatagana n‟ebiruubirirwa byo okusobola okukiikirira obulungi yintaviyu entuufu ey‟omulimu.\n\nAbakozesa Premium era bajja kufuna lipoota ku nkomerero ya buli yintaviyu nga bafunza emboozi nga balina endowooza n’amagezi ku ngeri y’okulongoosaamu emikisa gyo egy’okupangisibwa mu mboozi ey’omulimu entuufu.",
+      "taglines": [
+        "Weetegeke ku mulimu gwo oguddako!",
+        "Weegezeemu mu interview yo ey'omulimu eddako!",
+        "Ace your next job interview ne AI!",
+        "Obuwanguzi bwo obw'ekikugu obuddako bukulindiridde wano!"
+      ],
+      "premium_benefits": [
+        "Aggyawo ebirango .",
+        "Ebibuuzo ebitaliiko kkomo .",
+        "Funa lipoota eziriko endowooza yo n'amagezi ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Sente ezisasilibwa mundagano",
+      "monthly": "Buli mwezi .",
+      "annual": "Buli mwaaka",
+      "cancel_anytime": "Sazaamu essaawa yonna .",
+      "save_discount": "Okununula",
+      "subscribe": "Subscribe .",
+      "restore_purchases": "Okuzzaawo okugula .",
+      "premium_benefits": [
+        "Ggyawo ebirango .",
+        "Yintaviyu ezitaliiko kkomo nga tezirina cooldowns .",
+        "Funa lipoota eziriko endowooza yo n'okubuulirira oluvannyuma lw'okubuuza ebibuuzo"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Yamba okuvvuunula",
+    "description": "Yamba okuvvuunula enkola eno mu nnimi endala."
+  }
+}

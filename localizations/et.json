@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Preemia",
+      "free": "Tasuta versioon"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Harjutage oma järgmise tööintervjuu jaoks!",
+      "message": "Kas tööintervjuude tegemine ajab teid närvi ja ärevaks?\nVõib -olla tunnete end ikkagi tööintervjuude tegemiseks?\nSee on ideaalne rakendus oma vestlusoskuste harjutamiseks tööintervjuu keskkonnas!"
+    },
+    {
+      "title": "Ole valmis oma järgmiseks töökohaks!",
+      "message": "Job Intelliviewer kasutab tehisintellekti jõudu realistlike pilkamiste tööintervjuude läbiviimiseks, et aidata teil kasutada vestlusoskusi, mis on vajalikud reaalse elu värbajatele hea mulje jätmiseks ja teie järgmise reaalse elu intervjuu äsoriks valmistamiseks."
+    },
+    {
+      "title": "Premium tellimus:",
+      "message": "Saate iga intervjuu lõpus aruande, milles võtke kokku vestlus tagasiside ja nõuannetega, kuidas parandada oma võimalusi palgata reaalses tööintervjuus."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Kodu",
+      "interview": "Vestlus",
+      "resume_cv": "Resümee",
+      "history": "Ajalugu",
+      "history_entry": "Ajaloo sissekanne",
+      "reports": "Aruanded",
+      "settings": "Sätted"
+    }
+  },
+  "title": {
+    "attention": "Tähelepanu",
+    "information": "Teave"
+  },
+  "label": {
+    "search": "Otsima"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Tagurpidi",
+    "close": "Sulgur",
+    "cancel": "Tühistama",
+    "delete": "Kustutama",
+    "review": "Ülevaade",
+    "subscribe": "Tellima"
+  },
+  "language": {
+    "title": "Keel",
+    "select": "Vali keel",
+    "altered": "Keel muutunud"
+  },
+  "history": {
+    "empty": "Tühi ajalugu",
+    "delete": {
+      "list": {
+        "title": "Kustuta ajalugu?",
+        "message": "Kas olete kindel, et soovite kogu ajaloo kustutada?",
+        "deleted": "Ajalugu kustutati."
+      },
+      "entry": {
+        "title": "Kustuta intervjuu?",
+        "message": "Kas olete kindel, et soovite selle intervjuu kustutada?",
+        "deleted": "Ajalugu kustutati."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nimetus",
+      "first_name": "Eesnimi",
+      "date_of_birth": "Sünniaeg",
+      "job_position": "Töökoht",
+      "job_position_detailed": "Üksikasjalik töökoht",
+      "education": "Haridus",
+      "courses": "Kursused",
+      "experience": "Kogemus",
+      "add": {
+        "education": "Lisage uus haridus",
+        "courses": "Lisage uus kursus",
+        "experience": "Lisage uus kogemus"
+      },
+      "error": {
+        "validation": {
+          "title": "Valideerimisviga",
+          "invalid_fields": "Sisestage uue tööintervjuu taotlemiseks kehtiv töökoha roll.\nAlternatiiv",
+          "unable_to_validate": "Ei saa väljad valideerida."
+        }
+      }
+    },
+    "education": {
+      "institution": "Asutus",
+      "degree": "Kraad",
+      "start": "Alustama",
+      "end": "Lõpp"
+    },
+    "courses": {
+      "institution": "Asutus",
+      "title_of_course": "Muidugi pealkiri",
+      "course_load": "Kursuskoormus"
+    },
+    "experience": {
+      "company": "Ettevõte",
+      "position": "Positsioon",
+      "start": "Alustama",
+      "end": "Lõpp"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tume teema",
+      "description": "Valige valguse ja tumeda teema vahel.\nSeadistage seadme teema automaatselt rakenduse esmakordsel avamisel."
+    },
+    "language": {
+      "name": "Keel",
+      "description": "Valige rakenduse kasutamise ja AI -ga vestluste ajal eelistatud keel, mida kuvada."
+    },
+    "notifications": {
+      "saved": "Seaded salvestatud"
+    },
+    "search": {
+      "not_found": "Tulemusi pole leitud."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Uus intervjuu",
+      "resume": "Jätkake intervjuu"
+    },
+    "generating": "Uue intervjuu genereerimine"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Puudutage uuesti proovimiseks"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Sisestage oma sõnum ...",
+    "max_length": "Maksimaalne pikkus saavutatud"
+  },
+  "cooldown": {
+    "description": "Rakenduse tasuta versioon võimaldab teil teha ühe intervjuu tunnis.\n\nKui soovite piiranguid eemaldada, reklaamid eemaldada ja saada tagasisidearuannet koos nõuannete parandamiseks pärast iga intervjuud, kaaluge lisatasu tellimist.",
+    "active": "Enne uue intervjuu genereerimist oodake jahutatud taimerit.\n\nKui soovite eemaldada jahukad, eemaldada reklaamid ja saada tagasisidearuannet koos nõuannetega, kuidas pärast iga intervjuud täiustada, kaaluge lisatasu tellimist.",
+    "timer": {
+      "wait": "Ootama",
+      "second": "teine",
+      "seconds": "sekundid"
+    }
+  },
+  "report": {
+    "title": "Aruanne",
+    "summary": "Kokkuvõte",
+    "feedback": "Tagasiside",
+    "advice": "Nõuanne",
+    "button": {
+      "view": "Vaate aruanne",
+      "unlock": "Avaaruanne avama",
+      "get": "Aruannet hankima"
+    },
+    "generating": "Genereerimise aruanne ..."
+  },
+  "review": {
+    "request": "Kui teile see rakendus meeldis, kaaluge meie abistamiseks arvustuse jätmist.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Suur aitäh!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Uus intervjuu saadaval!",
+      "message": "Teil on saadaval uus intervjuu töökoha IntelliViewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Preemia",
+      "type": "Tellimus",
+      "subscribe": "Tellima",
+      "invitation": "Tellima lisatasu",
+      "active": "Preemia tellimus aktiivne",
+      "thanks": "Täname, et tellisite lisatasu! Soovime teile palju õnne ja edu kõigis teie tulevastes intervjuudes!",
+      "menu": {
+        "title": "Lisatasu",
+        "subtitle": "Telli preemiaplaani"
+      }
+    },
+    "error": {
+      "subscription": "Viga proovib ostu kinnitada.",
+      "connection": "Ühenduse viga.\n\nEi saa kauplusega ühendust luua.",
+      "products": "Tootevalikuid ei saa kontrollida.",
+      "subscription_options": "Tellimisplaane ei saa laadida.\n\nPalun kontrollige oma Interneti -ühendust või proovige hiljem uuesti."
+    }
+  },
+  "error": {
+    "title": "Viga",
+    "unexpected": "Midagi läks valesti ... sa ei peaks seda nägema! 😱",
+    "connection": "Ühendus",
+    "connection_fix": "Kontrollige oma Interneti -ühendust ja proovige hiljem uuesti.",
+    "ai": {
+      "no_response": "Vastus pole",
+      "unexpected": "Ootamatu",
+      "internal_server_error": "Siseserveri viga"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Harjutage oma järgmise tööintervjuu selle realistliku AI simulaatoriga",
+      "full_description": "Kas tööintervjuude tegemine ajab teid närvi ja ärevaks?\nVõib -olla tunnete end ikkagi tööintervjuude tegemiseks?\nSee on ideaalne rakendus oma vestlusoskuste harjutamiseks tööintervjuu keskkonnas!\n\nJob Intelliviewer kasutab tehisintellekti jõudu realistlike pilkavate tööintervjuude läbiviimiseks, et aidata teil kasutada vestlusoskusi, mis on vajalikud reaalse elu värbajate jaoks hea mulje jätmiseks ja teie järgmise intervjuu äsoriks valmistumiseks.\n\nIntervjuud on kohandatud teie otsitava töökoha jaoks ning need kujundavad ja kohandatakse küsimustega, mis on seotud teie eesmärkidega, et paremini esindada tõelist tööintervjuud.\n\nPremium kasutajad saavad aruande ka iga intervjuu lõpus, milles võetakse kokku vestlus tagasiside ja nõuannetega, kuidas parandada oma võimalusi palgata reaalses tööintervjuus.",
+      "taglines": [
+        "Ole valmis oma järgmiseks töökohaks!",
+        "Harjutage oma järgmise tööintervjuu jaoks!",
+        "Ace oma järgmine tööintervjuu AI -ga!",
+        "Teie järgmine ametialane edu ootab teid siin!"
+      ],
+      "premium_benefits": [
+        "Eemaldab reklaamid",
+        "Piiramatu intervjuud",
+        "Saate aruandeid tagasiside ja nõuannetega"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Preemia",
+      "monthly": "Igakuine",
+      "annual": "Aastane",
+      "cancel_anytime": "Tühista igal ajal",
+      "save_discount": "Kokkuhoid",
+      "subscribe": "Tellima",
+      "restore_purchases": "Ostud taastavad",
+      "premium_benefits": [
+        "Eemaldage reklaamid",
+        "Piiramatu intervjuud ilma jahutamisteta",
+        "Saate pärast intervjuusid tagasiside ja nõuannetega teateid"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Aidake tõlkida",
+    "description": "Aidake seda rakendust teistesse keeltesse tõlkida."
+  }
+}

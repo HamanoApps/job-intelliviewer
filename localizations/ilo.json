@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PREMIUM",
+      "free": "Libre nga Bersyon ."
+    }
+  },
+  "presentation": [
+    {
+      "title": "Agsanayka para iti sumaruno nga interbium iti trabaho!",
+      "message": "Ti kadi panangala kadagiti interbiu iti trabaho ti mangpanerbios kenka ken madandanagan kenka?\nMabalin a mariknam pay laeng a dika nakasagana nga aginterbiu iti trabaho?\nDaytoy ti perpekto nga app a mangsanay kadagiti paglaingam iti panagsasarita iti maysa a setting ti interbiu iti trabaho!"
+    },
+    {
+      "title": "Agsaganaka para iti sumaruno a trabahom!",
+      "message": "Ti Job IntelliViewer ket agus-usar ti bileg ti artipisial a kinasaririt tapno mangisayangkat kadagiti realistiko a mock nga interbiu ti trabaho tapno matulongannaka a mang-harness kadagiti paglaingan ti panagsasarita a kasapulan tapno makaaramid ti nasayaat nga impresion kadagiti pudno a biag a recruiter ken mangaramid kenka a nakasagana a mang-ace ti sumaruno a pudno a biag nga interbium."
+    },
+    {
+      "title": "Premium a suskripsion:",
+      "message": "Umawatka iti report iti ngudo ti tunggal interbiu a manggupgop iti saritaan babaen ti feedback ken balakad no kasano a mapasayaat ti tsansam a ma-hire iti pudno nga interbiu iti trabaho."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Balay",
+      "interview": "Interbiu",
+      "resume_cv": "Ituloy",
+      "history": "Pakasaritaan",
+      "history_entry": "Pakasaritaan ti iseserrek .",
+      "reports": "Dagiti Report .",
+      "settings": "Dagiti setting ."
+    }
+  },
+  "title": {
+    "attention": "Panangikaso",
+    "information": "Impormasion"
+  },
+  "label": {
+    "search": "Agbirok"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Likud",
+    "close": "Iserra",
+    "cancel": "Ikansela",
+    "delete": "Ikkaten",
+    "review": "Repasoen",
+    "subscribe": "Agsubskribe ."
+  },
+  "language": {
+    "title": "Lengguahe",
+    "select": "Pilien ti pagsasao .",
+    "altered": "Nagbaliw ti pagsasao ."
+  },
+  "history": {
+    "empty": "Empty History .",
+    "delete": {
+      "list": {
+        "title": "Ikkaten ti pakasaritaan?",
+        "message": "Siguradoka kadi a kayatmo nga i-delete ti intero a pakasaritaan?",
+        "deleted": "Pakasaritaan a naikkat."
+      },
+      "entry": {
+        "title": "Ikkatenyo ti interbiu?",
+        "message": "Siguradoka kadi a kayatmo nga i-delete daytoy nga interbiu?",
+        "deleted": "Pakasaritaan a naikkat."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nagan",
+      "first_name": "Nagan",
+      "date_of_birth": "Petsa ti pannakayanak .",
+      "job_position": "Posision ti trabaho .",
+      "job_position_detailed": "Detalyado a posision ti trabaho .",
+      "education": "Edukasion",
+      "courses": "Dagiti kurso .",
+      "experience": "Kapadasan",
+      "add": {
+        "education": "Inayon ti baro nga edukasion .",
+        "courses": "Inayon ti baro a kurso .",
+        "experience": "Inayon ti baro a kapadasan ."
+      },
+      "error": {
+        "validation": {
+          "title": "Biddut ti panangipaneknek .",
+          "invalid_fields": "Mangikabil ti balido nga akem ti posision ti trabaho tapno agaplikar para iti baro nga interbiu iti trabaho.\nSaan laeng a dayta .",
+          "unable_to_validate": "Saan a makabael a mangbalido kadagiti tay-ak."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institusion .",
+      "degree": "Grado",
+      "start": "Irugi",
+      "end": "Gibus"
+    },
+    "courses": {
+      "institution": "Institusion .",
+      "title_of_course": "Titulo siempre .",
+      "course_load": "karga ti kurso ."
+    },
+    "experience": {
+      "company": "Kompania",
+      "position": "Posision",
+      "start": "Irugi",
+      "end": "Gibus"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Nasipnget a tema .",
+      "description": "Pilien ti nagbaetan ti nalawag ken nasipnget a tema.\nAutomatiko nga i-set iti tema ti alikamen iti umuna a gundaway a luktam ti app."
+    },
+    "language": {
+      "name": "Lengguahe",
+      "description": "Pilien ti kaykayat a pagsasao a maiparang bayat ti panangusar iti aplikasion ken pannakisaritam iti AI bayat dagiti interbiu."
+    },
+    "notifications": {
+      "saved": "Dagiti setting a naidulin ."
+    },
+    "search": {
+      "not_found": "Awan ti nasarakan a resulta."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Baro nga Interbiu .",
+      "resume": "Interbiu ti Resume ."
+    },
+    "generating": "Panangpataud iti baro nga interbiu ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "I-tap-mo manen ti Retry ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "I-type ti mensahem...",
+    "max_length": "Max ti kaatiddog a naabotan ."
+  },
+  "cooldown": {
+    "description": "Ti libre a bersion ti app ket mangipalubos kenka a mangala iti maysa nga interbiu iti kada oras.\n\nNo kayatmo nga ikkaten dagiti limitasion, ikkatem dagiti anunsio, ken umawatka iti report ti feedback nga addaan iti balakad no kasano a mapasayaat kalpasan ti tunggal interbiu, ibilangmo ti agsuskribir iti Premium.",
+    "active": "Urayen ti cooldown timer sakbay a mangpataud iti baro nga interbiu.\n\nNo kayatmo nga ikkaten dagiti cooldown, ikkatem dagiti anunsio, ken umawatka iti report ti feedback nga addaan iti balakad no kasano a pasayaatem kalpasan ti tunggal interbiu, ibilangmo ti agsuskribir iti Premium.",
+    "timer": {
+      "wait": "Aguray",
+      "second": "maikadua",
+      "seconds": "Dagiti segundo ."
+    }
+  },
+  "report": {
+    "title": "Ipadamag",
+    "summary": "Dagup",
+    "feedback": "Kapanunotan",
+    "advice": "Balakad",
+    "button": {
+      "view": "Kitaen ti Reporta .",
+      "unlock": "Unlock Report .",
+      "get": "Mangala iti report ."
+    },
+    "generating": "Generating Report..."
+  },
+  "review": {
+    "request": "No nagustuam ti app, pangngaasim ta ibilangmo ti mangibati iti repaso tapno matulongannakami.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Agyaman la unay!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Baro nga interview ti magun-od!",
+      "message": "Adda baro nga interbiom nga alaem ti Job Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PREMIUM",
+      "type": "Suskrision .",
+      "subscribe": "Agsubskribe .",
+      "invitation": "Agsubscribe iti Premium .",
+      "active": "Aktibo ti Premium a Suskrision .",
+      "thanks": "Agyaman kami ti subscribing yo ken ni Premium! Kayatmi ti naimbag a gasat ken balligi iti amin nga interbiom iti masakbayan!",
+      "menu": {
+        "title": "Premium a suskrision .",
+        "subtitle": "Agsubscribe iti premium plan ."
+      }
+    },
+    "error": {
+      "subscription": "Biddut a padpadasenyo a balidoen ti panaggatangyo.",
+      "connection": "Biddut ti koneksion.\n\nSaan a makakonekta iti tiendaan.",
+      "products": "Saan a makabael a mangsukimat kadagiti pagpilian iti produkto.",
+      "subscription_options": "Saan a makabael a mangikarga kadagiti plano ti suskrision.\n\nPangngaasiyo, kitaenyo ti koneksionyo iti internet, wenno padasenyo manen inton agangay."
+    }
+  },
+  "error": {
+    "title": "Biddut",
+    "unexpected": "Adda nagbiddut... you souldn't be seeing this! 😱 .",
+    "connection": "Koneksyon .",
+    "connection_fix": "Kitaem ti koneksionmo iti Internet ket padasem manen inton agangay.",
+    "ai": {
+      "no_response": "Awan ti sungbat .",
+      "unexpected": "Di ninamnama .",
+      "internal_server_error": "Biddut ti makin-uneg a server ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Agsanayka para iti sumaruno nga interbium iti trabaho iti daytoy a realistiko nga AI simulator .",
+      "full_description": "Ti kadi panangala kadagiti interbiu iti trabaho ti mangpanerbios kenka ken madandanagan kenka?\nMabalin a mariknam pay laeng a dika nakasagana nga aginterbiu iti trabaho?\nDaytoy ti perpekto nga app a mangsanay kadagiti paglaingam iti panagsasarita iti maysa a setting ti interbiu iti trabaho!\n\nTi Job IntelliViewer ket agus-usar ti bileg ti artipisial a kinasaririt tapno mangisayangkat kadagiti realistiko a mock nga interbiu ti trabaho tapno matulongannaka a mang-harness kadagiti paglaingan ti panagsasarita a kasapulan tapno makaaramid ti nasayaat nga impresion kadagiti pudno a biag a recruiter ken mangaramid kenka a nakasagana a mang-ace iti sumaruno nga interbiom.\n\nDagiti interbiu ket naibagay iti posision ti trabaho a sapsapulem, ken maporma ken maitunos kadagiti saludsod a mainaig kadagiti kalatmo tapno nasaysayaat a mangibagi iti pudno nga interbiu iti trabaho.\n\nMakaawat met dagiti agus-usar iti premium iti report iti ngudo ti tunggal interbiu a manggupgop iti saritaan babaen ti feedback ken balakad no kasano a mapasayaat ti tsansam a ma-hire iti pudno nga interbiu iti trabaho.",
+      "taglines": [
+        "Agsaganaka para iti sumaruno a trabahom!",
+        "Agsanayka para iti sumaruno nga interbium iti trabaho!",
+        "Ace ti sumaruno nga interview ti trabahom iti AI!",
+        "Ti sumaruno a propesional a balligim ket agur-uray kenka ditoy!"
+      ],
+      "premium_benefits": [
+        "Ikkatenna dagiti anunsio .",
+        "Dagiti awan limitasionna nga interbiu .",
+        "Umawat kadagiti report nga addaan iti feedback ken balakad ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "binulan .",
+      "annual": "Tinawen",
+      "cancel_anytime": "Kanselaen ti aniaman nga oras .",
+      "save_discount": "Ispalen",
+      "subscribe": "Agsubskribe .",
+      "restore_purchases": "Isubli dagiti panaggatang .",
+      "premium_benefits": [
+        "Ikkaten dagiti anunsio .",
+        "Awan limitasionna nga interbiu nga awan ti cooldowns .",
+        "Umawat kadagiti report nga addaan iti feedback ken balakad kalpasan dagiti interbiu ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Tulong nga Ipatarus .",
+    "description": "Tumulong nga ipatarus daytoy nga aplikasion kadagiti dadduma a pagsasao."
+  }
+}

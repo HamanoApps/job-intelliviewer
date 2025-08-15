@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Gratis Versioun"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Praxis fir Ären nächsten Job Interview!",
+      "message": "Maacht Job Interviewen Iech nervös an ängschtlech?\nVläicht fillt Dir Iech nach ëmmer unerkapelt fir Aarbecht Interviewen ze huelen?\nDëst ass déi perfekt App fir Är conversational Fäegkeeten an engem Job Interviewstellung ze üben!"
+    },
+    {
+      "title": "Bereet Iech fir Är nächst Aarbecht!",
+      "message": "Aarbecht Intelliviewer benotzt d'Kraaft vun der künstlecher Intelligenz fir realistesch Mudderjobs Interviewen ze maachen fir Iech ze hëllefen, déi néideg Fäegkeeten ze maachen fir e guddent Androck ze maachen fir Iech e gudden Liewensvirdeeler ze maachen."
+    },
+    {
+      "title": "Premium Abonnement:",
+      "message": "Kritt e Bericht um Enn vun all Internotiv, déi d'Gespréich zesummesetzt mam Feedback a Berodung op wéi Dir Är Chancen an engem richtege Job Interview gëtt."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Doheem",
+      "interview": "Intervestag",
+      "resume_cv": "Resumé",
+      "history": "Geschicht",
+      "history_entry": "Geschichtsgeschwisen",
+      "reports": "Derauszen",
+      "settings": "Astellunge"
+    }
+  },
+  "title": {
+    "attention": "Engermegmung",
+    "information": "Informatioun"
+  },
+  "label": {
+    "search": "Sichen"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Zréck",
+    "close": "Zoumaachen",
+    "cancel": "Ofbriechen",
+    "delete": "Läschen",
+    "review": "Iwwerschafft",
+    "subscribe": "SUBSRIBE"
+  },
+  "language": {
+    "title": "Sprooche",
+    "select": "Wielt d'Sprooch",
+    "altered": "Sprooch geännert"
+  },
+  "history": {
+    "empty": "Verschwëndlech Geschicht",
+    "delete": {
+      "list": {
+        "title": "Geschicht läschen Geschicht?",
+        "message": "Sidd Dir sécher, datt Dir d'ganz Geschicht läsche wëllt?",
+        "deleted": "Geschicht geläscht."
+      },
+      "entry": {
+        "title": "Läschen Interview?",
+        "message": "Sidd Dir sécher, datt Dir dësen Interview läsche wëllt?",
+        "deleted": "Geschicht geläscht."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Numm vum Numm",
+      "first_name": "Virnumm",
+      "date_of_birth": "Gebuertsdatum",
+      "job_position": "Jostatioun Optrag",
+      "job_position_detailed": "Detailléiert Aarbecht Positioun",
+      "education": "Unbildung",
+      "courses": "Coursen",
+      "experience": "Erlikung",
+      "add": {
+        "education": "Füügt nei Ausbildung",
+        "courses": "Füügt Nationhalb",
+        "experience": "Füügt nei Erfahrung"
+      },
+      "error": {
+        "validation": {
+          "title": "Validatioun Feeler",
+          "invalid_fields": "Setzt eng gëlteg Job Positioun Roll fir en neien Job Interview ze gëllen.\nAlternativ",
+          "unable_to_validate": "Net fäeg sinn Felder ze validéieren."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institutioun",
+      "degree": "Graft",
+      "start": "Nei fänken",
+      "end": "Schlisster"
+    },
+    "courses": {
+      "institution": "Institutioun",
+      "title_of_course": "Titel natierlech",
+      "course_load": "Am Cours vun der Course"
+    },
+    "experience": {
+      "company": "Firma",
+      "position": "Positioun un",
+      "start": "Nei fänken",
+      "end": "Schlisster"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Däischter Exas",
+      "description": "Wielt tëscht Liicht an donkel Thema.\nAutomatesch op den Thema vum Apparat op den Apparat op den Apparat op den Apparat op den Apparat."
+    },
+    "language": {
+      "name": "Sprooche",
+      "description": "Wielt déi perséinlech Sprooch fir ze benotzen beim Alikatioun an ze benotzen an mam AI wärend den Interviewe ze schwätzen."
+    },
+    "notifications": {
+      "saved": "Astellunge gespuert"
+    },
+    "search": {
+      "not_found": "Keng Resultater fonnt."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "New Interview",
+      "resume": "Resumé Interview"
+    },
+    "generating": "Generéieren nei Interview"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap fir erëm ze probéieren"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Gitt Äre Message ...",
+    "max_length": "Max Längt erreecht"
+  },
+  "cooldown": {
+    "description": "Déi gratis Versioun vun der App erlaabt Iech een Interview pro Stonn ze huelen.\n\nWann Dir d'Limititéiten ausgelaucht sou lafe wéi d'Annoncen ewechzehuelen an huelt e Feedbréiver mat Rot mat Rapporte wéi fir ze verbesseren: Betriber d'Premium.",
+    "active": "Waart op de cilloldown Timer ier en neien Interview generéiert.\n\nWann Dir Copold'en erofhuele wëllt, erofhuelen Annoncen, a kritt e Feedback Report mat Rapport iwwer wéi ze verbesseren no all Interviewe fir Premium ze verbesseren.",
+    "timer": {
+      "wait": "Waart",
+      "second": "zweeten",
+      "seconds": "Sekonnen"
+    }
+  },
+  "report": {
+    "title": "Berécksiichtegt mat",
+    "summary": "Resumé",
+    "feedback": "Fsopillfot",
+    "advice": "Berodung",
+    "button": {
+      "view": "Gesinn Bericht",
+      "unlock": "Unlock Bericht",
+      "get": "Kritt Miicht"
+    },
+    "generating": "Generéiere Bericht ..."
+  },
+  "review": {
+    "request": "Wann Dir d'App gär hutt, betruecht w.e.g. eng Bewäertung fir eis ze hëllefen.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Villmools Merci!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "New Interview verfügbar!",
+      "message": "Dir hutt en neie Interview verfügbar fir Aarbecht Intellivien ze huelen."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Abonnement",
+      "subscribe": "SUBSRIBE",
+      "invitation": "Abonnéieren op Premium",
+      "active": "Premium Abonnement aktiv",
+      "thanks": "Merci fir den Abonnement fir Premium! Mir wënschen Iech vill Gléck an Erfolleg op all Ären zukünftegen Interviewen!",
+      "menu": {
+        "title": "Premium Abonnement",
+        "subtitle": "Abonnéiert sech op de Premiumplang"
+      }
+    },
+    "error": {
+      "subscription": "Feeler beim Versuch Är Akaf ze validéieren.",
+      "connection": "Verbindung Feeler.\n\nKann net mam Geschäft verbannen.",
+      "products": "Kann net d'Produktoptiounen iwwerpréiwen.",
+      "subscription_options": "Kann net Abonnementspläng lueden.\n\nW.e.g. kuckt Är Internetverbindung, oder probéiert et nach eng Kéier."
+    }
+  },
+  "error": {
+    "title": "Feeler",
+    "unexpected": "Eppes ass falsch gaang ... Dir wäert dëst net gesinn! 😱",
+    "connection": "Verbindung",
+    "connection_fix": "Préift Är Internetverbindung a probéiert et nach eng Kéier.",
+    "ai": {
+      "no_response": "Keng Äntwert",
+      "unexpected": "Onerfënnesch",
+      "internal_server_error": "Intern Server Feeler"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Praxis fir Ären nächste Job Interview mat dësem realistesche AI Simulator",
+      "full_description": "Maacht Job Interviewen Iech nervös an ängschtlech?\nVläicht fillt Dir Iech nach ëmmer unerkapelt fir Aarbecht Interviewen ze huelen?\nDëst ass déi perfekt App fir Är conversational Fäegkeeten an engem Job Interviewstellung ze üben!\n\nAarbecht Intelliviewer benotzt d'Kraaft vun der künstlecher Intelligenz fir realistesch Mockjorstellungen ze maachen fir Iech ze hëllefen d'Konfäegkeeten déi néideg Fäegkeeten ze maachen fir e gudden Androck ze maachen.\n\nD'Interviewen sinn op d'Aarbechtspositioun ofgeschnidden, déi Dir sicht, a wäert geformt ginn a mat Froen am Zesummenhang mat Ären Ziler fir Är Ziler ze representéieren fir e richtege Job Interview ze representéieren.\n\nD'Premiguatiounen kritt och e Bericht deen um Enn vun engem Interview op d'Gespréicher zesummesproochelt mat Feedbartikelen an de Rodement as déi e richtege Jop End Interview beschriwwen.",
+      "taglines": [
+        "Bereet Iech fir Är nächst Aarbecht!",
+        "Praxis fir Ären nächsten Job Interview!",
+        "Ace Ären nächste Job Interview mat AI!",
+        "Äre nächste beruffleche Succès waart hei!"
+      ],
+      "premium_benefits": [
+        "Entfernt Annoncen",
+        "Onlimitéiert Interviewen",
+        "Kritt Berichter mat Feedback a Berodung"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Mag etwäit",
+      "annual": "Jéineseg Iwwerhousse fir",
+      "cancel_anytime": "Annuléieren all Moment",
+      "save_discount": "Spuerwäit",
+      "subscribe": "SUBSRIBE",
+      "restore_purchases": "Restauréieren Akeef",
+      "premium_benefits": [
+        "Ewechzehuelen Annoncen",
+        "Onlimitéiert Interviewen ouni Klammen",
+        "Kritt Berichter mat Feedback a Berodung nom Interviewen"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Hëllefentsetzen",
+    "description": "Hëlleft dës Applikatioun fir aner Sproochen ze iwwersetzen."
+  }
+}

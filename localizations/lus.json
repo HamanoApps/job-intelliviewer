@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "LAWMMAN",
+      "free": "Free version a ni thei bawk."
+    }
+  },
+  "presentation": [
+    {
+      "title": "I hna interview leh tur atan practice rawh!",
+      "message": "Job interview lak hian i rilru a ti na a, i lungkham em?\nHna interview la turin inpeih lo takin i la inhria mai thei em?\nHei hi job interview setting-a i conversational skills practice na tur app tha ber a ni!"
+    },
+    {
+      "title": "I hnathawh tur atan inbuatsaih rawh!",
+      "message": "Job IntelliViewer chuan artificial intelligence thiltihtheihna hmangin realistic mock job interview a nei a, chu chuan conversational skills mamawh chu nun tak tak recruiter-te chungah impression tha tak siam turin a pui thei che a, i next real life interview ace turin i inpeih theih nan a pui bawk ang che."
+    },
+    {
+      "title": "Premium subscription:",
+      "message": "Interview tin tawp lamah report dawng la, inbiakna chu hna tak tak interview-a i hnathawh theihna tur chance siam \\hat dan tur feedback leh thurawn nen a khaikhawm ang che."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "In",
+      "interview": "Inkawm",
+      "resume_cv": "Chhunzawm",
+      "history": "Hmanlai hun zirna",
+      "history_entry": "History Entry .",
+      "reports": "Report-te .",
+      "settings": "Settings 1000 a ni."
+    }
+  },
+  "title": {
+    "attention": "Ngaihven",
+    "information": "Hriattirna"
+  },
+  "label": {
+    "search": "Zawng"
+  },
+  "button": {
+    "ok": "A THA E",
+    "back": "Hnung",
+    "close": "Khar",
+    "cancel": "Titawp",
+    "delete": "Ti reh",
+    "review": "Ennawn",
+    "subscribe": "Subscribe rawh ."
+  },
+  "language": {
+    "title": "Tawng",
+    "select": "Ṭawng thlang rawh .",
+    "altered": "Ṭawng a danglam ."
+  },
+  "history": {
+    "empty": "History khar .",
+    "delete": {
+      "list": {
+        "title": "Delete history a awm em?",
+        "message": "History pumpui delete i duh tih i chiang em?",
+        "deleted": "History delete a ni."
+      },
+      "entry": {
+        "title": "Delete interview a awm em?",
+        "message": "He interview hi delete i duh tak tak em?",
+        "deleted": "History delete a ni."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Hming",
+      "first_name": "Hming hmasa",
+      "date_of_birth": "Pian ni .",
+      "job_position": "Hnathawh tur dinhmun .",
+      "job_position_detailed": "Hnathawh dan kimchang .",
+      "education": "Zirna",
+      "courses": "Course hrang hrang .",
+      "experience": "Tawnhriat",
+      "add": {
+        "education": "Zirna thar belh rawh .",
+        "courses": "Course thar add .",
+        "experience": "Experience thar add ."
+      },
+      "error": {
+        "validation": {
+          "title": "Validation tihsual a awm em?",
+          "invalid_fields": "Job interview thar dilna tur job position role dik tak dah lut rawh.\nA dang pawhin .",
+          "unable_to_validate": "Fields tihdik theih loh."
+        }
+      }
+    },
+    "education": {
+      "institution": "institution 1000 a ni.",
+      "degree": "Degree",
+      "start": "Tan",
+      "end": "Tawp"
+    },
+    "courses": {
+      "institution": "institution 1000 a ni.",
+      "title_of_course": "Title of course .",
+      "course_load": "Course load ."
+    },
+    "experience": {
+      "company": "Company",
+      "position": "Dinhmun",
+      "start": "Tan",
+      "end": "Tawp"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Dark Theme .",
+      "description": "Light leh Dark Theme zingah thlang rawh.\nApp i hawn hmasak ber ṭum khan device-a theme-ah automatic-in set rawh."
+    },
+    "language": {
+      "name": "Tawng",
+      "description": "Interview neih chhunga application hman lai leh AI nena inbiakna neih laiin a display tur ṭawng duh zawk thlang rawh."
+    },
+    "notifications": {
+      "saved": "Settings save a ni a ."
+    },
+    "search": {
+      "not_found": "Results hmuh tur a awm lo."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Interview thar .",
+      "resume": "Resume Interview ."
+    },
+    "generating": "Interview thar siam chhuah ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap leh la, retry leh rawh."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "I message kha type la...",
+    "max_length": "Max sei zawng a thleng ."
+  },
+  "cooldown": {
+    "description": "A app free version hian darkar khatah interview pakhat a la thei a ni.\n\nI duh chuan a tihkhawtlai te chu paih chhuah i duh a, ads te chu paih chhuah a, interview apianga tihchangtlun dan tur thurawn nen feedback report i dawng duh a nih chuan premium subscribing ngaihtuah rawh.",
+    "active": "Interview thar siam hmain cooldown timer nghak rawh.\n\nCooldowns te paih chhuah te, ads te paih chhuah te, leh interview apianga tihchangtlun dan tur thurawn te nena feedback report dawng duh tan chuan premium subscribing ngaihtuah rawh.",
+    "timer": {
+      "wait": "Nghak",
+      "second": "pahnihna",
+      "seconds": "Second 10 a ni."
+    }
+  },
+  "report": {
+    "title": "Hek",
+    "summary": "Khaihtawi",
+    "feedback": "Chhanna",
+    "advice": "Thurawn",
+    "button": {
+      "view": "View report .",
+      "unlock": "Unlock report a awm em tih .",
+      "get": "Report dawng rawh ."
+    },
+    "generating": "Report siam chhuah dan report..."
+  },
+  "review": {
+    "request": "App hi i duh chuan min pui turin review dah la ngaihtuah rawh.\n\n⭐⭐⭐⭐⭐ a ni.",
+    "thanks": "Ka lawm lutuk e!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Interview thar a awm e!",
+      "message": "Job IntelliViewer lak theihna tur interview thar i nei a."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "LAWMMAN",
+      "type": "Subscription 100 a ni.",
+      "subscribe": "Subscribe rawh .",
+      "invitation": "Premium 1000 ah hian subscribe rawh.",
+      "active": "Premium subscription active a ni.",
+      "thanks": "Premium min subscribe avangin lawmthu kan sawi e! Nakin lawka i interview tur zawng zawngah vanneihna leh hlawhtlinna kan duhsak che u a ni!",
+      "menu": {
+        "title": "Premium subscription a ni a.",
+        "subtitle": "Premium Plan ah hian subscribe rawh ."
+      }
+    },
+    "error": {
+      "subscription": "I thil lei chu a dik leh dik loh enfiah tumna error.",
+      "connection": "Connection a dik lo.\n\nStore-a connect theih loh.",
+      "products": "Product options check theih loh.",
+      "subscription_options": "Subscription plan load theih loh.\n\nKhawngaihin, i internet connection kha check la, a nih loh leh a hnuah han ti leh teh."
+    }
+  },
+  "error": {
+    "title": "Dik lo",
+    "unexpected": "Thil engemaw a kal sual... nang souldn hian hetiang hi a hmu lo! 😱 a ni.",
+    "connection": "A inzawmna .",
+    "connection_fix": "I internet connection kha check la, a hnuah i ti leh ang.",
+    "ai": {
+      "no_response": "Chhanna a awm lo .",
+      "unexpected": "beisei loh .",
+      "internal_server_error": "Internal Server a tihsual ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "He AI simulator tak tak hmanga hna interview i neih leh tur atan practice rawh.",
+      "full_description": "Job interview lak hian i rilru a ti na a, i lungkham em?\nHna interview la turin inpeih lo takin i la inhria mai thei em?\nHei hi job interview setting-a i conversational skills practice na tur app tha ber a ni!\n\nJob IntelliViewer chuan artificial intelligence thiltihtheihna hmangin mock job interview tak tak a nei a, chu chuan conversational skills mamawh chu nun tak tak recruiter-te chungah impression tha tak siam turin a pui thei che a, i interview leh tur ace turin i inpeih theih nan a pui ang che.\n\nInterview-te hi i hnathawh tur dinhmun ang zela siam a ni a, hna interview tak tak aiawh tha zawk tura i thil tum nena inzawm zawhnate nen a siam leh siamrem a ni ang.\n\nPremium hmangtute chuan interview tin tawp lamah report an dawng bawk ang a, chu chu inbiakna chu feedback leh hna tak tak i hmuh theihna tur advice nen a sawifiah ang.",
+      "taglines": [
+        "I hnathawh tur atan inbuatsaih rawh!",
+        "I hna interview leh tur atan practice rawh!",
+        "ACE I hna interview leh tur chu AI!",
+        "I professional hlawhtlinna lo awm tur chuan hetah hian a lo nghak reng che a ni!"
+      ],
+      "premium_benefits": [
+        "Ads a paih chhuak .",
+        "Interview hun tawp nei lo .",
+        "Feedback leh advice nei report dawng ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Lawmman",
+      "monthly": "Thla tin .",
+      "annual": "Kumtin",
+      "cancel_anytime": "Engtik lai pawhin cancel rawh .",
+      "save_discount": "Humhim",
+      "subscribe": "Subscribe rawh .",
+      "restore_purchases": "thil lei te chu siamthat leh rawh .",
+      "premium_benefits": [
+        "Ads te chu paih chhuak rawh .",
+        "Unlimited interview neih a ni a, cooldown a awm lo.",
+        "Interview zawhah feedback leh advice nei report dawng ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Lehlin theih a ni .",
+    "description": "He application hi ṭawng dang a letling turin ṭanpui rawh."
+  }
+}

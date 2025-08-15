@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Preemje",
+      "free": "Fergese ferzje"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Oefenje foar jo folgjende baan ynterview!",
+      "message": "Hat it nimmen fan baan ynterviews jo senuweftich en eangstich?\nMiskien fielst jo noch altyd unprepareare om baan ynterviews te nimmen?\nDit is de perfekte app om jo petearfeardigens te oefenjen yn in ynstelling foar wurk ynterview!"
+    },
+    {
+      "title": "Wês taret op jo folgjende baan!",
+      "message": "Job Intelliviewer brûkt de krêft fan keunstmjittige yntelliginsje om realistyske mock-ynterviews te fieren om te helpen om te helpen om te helpen de petearen dy't in goede ymputers nedich binne en jo ree meitsje om jo folgjende ynterview te meitsjen."
+    },
+    {
+      "title": "Premiumabonnemint:",
+      "message": "Untfang in rapport oan it ein fan elk ynterview dy't it petear gearfettet mei feedback en advys oer hoe't jo jo kânsen moatte ferbetterje om yn te wurden yn in echte baan ynterview."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Thús",
+      "interview": "Fraachpetear",
+      "resume_cv": "Resumé",
+      "history": "Skiednis",
+      "history_entry": "Histoarje yngong",
+      "reports": "Rapporten",
+      "settings": "Ynstellings"
+    }
+  },
+  "title": {
+    "attention": "Oandacht",
+    "information": "Ynformaasje"
+  },
+  "label": {
+    "search": "Sykje"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Rêch",
+    "close": "Slute",
+    "cancel": "Opheffe",
+    "delete": "Ferwiderje",
+    "review": "Resinsje",
+    "subscribe": "Ynskriuwe"
+  },
+  "language": {
+    "title": "Taal",
+    "select": "Selektearje taal",
+    "altered": "Taal feroare"
+  },
+  "history": {
+    "empty": "Lege skiednis",
+    "delete": {
+      "list": {
+        "title": "Skiednis wiskje?",
+        "message": "Binne jo wis dat jo de heule skiednis wiskje wolle?",
+        "deleted": "Histoarje wiske."
+      },
+      "entry": {
+        "title": "Ynterview wiskje?",
+        "message": "Binne jo wis dat jo dit ynterview wolle wiskje?",
+        "deleted": "Histoarje wiske."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Namme",
+      "first_name": "Foarnamme",
+      "date_of_birth": "Bertedatum",
+      "job_position": "Wurkposysje",
+      "job_position_detailed": "Detaillearre baanposysje",
+      "education": "Oplieding",
+      "courses": "Kursussen",
+      "experience": "Ûnderfining",
+      "add": {
+        "education": "Foegje nije oplieding ta",
+        "courses": "Foegje nije kursus ta",
+        "experience": "Nije ûnderfining tafoegje"
+      },
+      "error": {
+        "validation": {
+          "title": "Falidaasjeflater",
+          "invalid_fields": "Foegje in jildige baanposysje rol yn om in nij wurk ynterview oan te freegjen.\nAsternatively",
+          "unable_to_validate": "Kin fjilden net falidearje."
+        }
+      }
+    },
+    "education": {
+      "institution": "Ynstelling",
+      "degree": "Graad",
+      "start": "Start",
+      "end": "Ein"
+    },
+    "courses": {
+      "institution": "Ynstelling",
+      "title_of_course": "Titel fansels",
+      "course_load": "Kursus LOAD"
+    },
+    "experience": {
+      "company": "Bedriuw",
+      "position": "Posysje",
+      "start": "Start",
+      "end": "Ein"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Dark Tema",
+      "description": "Selektearje tusken ljocht- en donkertema.\nAutomatysk ynsteld op it tema fan it apparaat de earste kear dat jo de app iepenje."
+    },
+    "language": {
+      "name": "Taal",
+      "description": "Selektearje de foarkar taal om te werjaan by it brûken fan de applikaasje en praat mei de AI tidens de ynterviews."
+    },
+    "notifications": {
+      "saved": "Ynstellings rêden"
+    },
+    "search": {
+      "not_found": "Gjin resultaten fûn."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nij ynterview",
+      "resume": "Resume ynterview"
+    },
+    "generating": "Generearje nij ynterview"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap om opnij te besykjen"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Typ jo berjocht ...",
+    "max_length": "Maksimale lingte berikt"
+  },
+  "cooldown": {
+    "description": "De fergese ferzje fan 'e app lit jo ien ynterview per oere nimme.\n\nAs jo de beheiningen ferwiderje wolle, ferwiderje dan de advertinsjes, en ûntfange dan in feedbackrapport mei advys oer hoe't jo nei elk ynterview kinne ferbetterje, beskôgje dan yn te abzjen.",
+    "active": "Wachtsje op 'e kooldown Timer foardat jo in nij ynterview generearje.\n\nAs jo koekjes wolle ferwiderje, advertinsjes, ferwiderje dan en krije in feedbackrapport mei advys oer hoe't jo nei elk ynterview kinne ferbetterje, beskôgje dan ynskriuwe foar premium.",
+    "timer": {
+      "wait": "Wachtsje",
+      "second": "twadde",
+      "seconds": "Sekonden"
+    }
+  },
+  "report": {
+    "title": "Melde",
+    "summary": "Gearfetting",
+    "feedback": "Feedback",
+    "advice": "Rie",
+    "button": {
+      "view": "Ferslach besjen",
+      "unlock": "Untskoattelje rapport",
+      "get": "Rapportearje"
+    },
+    "generating": "Rapport generearje ..."
+  },
+  "review": {
+    "request": "As jo de app leuk hawwe, tink dan asjebleaft in resinsje te ferlitten om ús te helpen.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Tige tank!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nij ynterview beskikber!",
+      "message": "Jo hawwe in nij ynterview te krijen om interniviewer te nimmen."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Preemje",
+      "type": "Ynskriuwing",
+      "subscribe": "Ynskriuwe",
+      "invitation": "Abonnearje op Premium",
+      "active": "Premium abonnemint aktyf",
+      "thanks": "Tige tank foar it ynskriuwe foar premium! Wy winskje jo gelok en sukses op al jo takomstige ynterviews!",
+      "menu": {
+        "title": "Premium abonnemint",
+        "subtitle": "Abonnearje op it premiumplan"
+      }
+    },
+    "error": {
+      "subscription": "Flater by besykje jo oankeap te validearjen.",
+      "connection": "Ferbining flater.\n\nKin net ferbine mei de winkel.",
+      "products": "Kin produktopsjes net kontrolearje.",
+      "subscription_options": "Kin abonnemintsplannen net lade.\n\nKontrolearje asjebleaft jo ynternetferbining, of besykje it letter opnij."
+    }
+  },
+  "error": {
+    "title": "Fersin",
+    "unexpected": "Iets gie ferkeard ... Jo moatte dit net sjen! 😱",
+    "connection": "Ferbining",
+    "connection_fix": "Kontrolearje jo ynternetferbining en besykje it letter opnij.",
+    "ai": {
+      "no_response": "Gjin antwurd",
+      "unexpected": "Ûnferwachts",
+      "internal_server_error": "Ynterne serverflater"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Oefenje foar jo folgjende baan ynterview mei dizze realistyske AI-simulator",
+      "full_description": "Hat it nimmen fan baan ynterviews jo senuweftich en eangstich?\nMiskien fielst jo noch altyd unprepareare om baan ynterviews te nimmen?\nDit is de perfekte app om jo petearfeardigens te oefenjen yn in ynstelling foar wurk ynterview!\n\nJob Intelliviewer brûkt de krêft fan keunstmjittige yntelliginsje om realistyske mock-ynterviews te fieren om te helpen om te helpen om te helpen de petearfeardigens om in goede libben te meitsjen op rekrutearders en makken jo ree om jo folgjende ynterview te meitsjen.\n\nDe ynterviews wurde oanpast oan 'e taakposysje dy't jo sykje, en sille wurde foarmich en oanpast mei fragen yn ferbân mei jo doelen om in echte baan ynterview te fertsjinwurdigjen.\n\nPremium brûkers sille ek in rapport krije oan it ein fan elk ynterview dat it petear gearfettet mei feedback en advys oer hoe't jo jo kânsen om yn te tangen yn in echte baan ynterview.",
+      "taglines": [
+        "Wês taret op jo folgjende baan!",
+        "Oefenje foar jo folgjende baan ynterview!",
+        "Ace jo folgjende baan ynterview mei AI!",
+        "Jo folgjende profesjonele súkses wachtet op jo hjir!"
+      ],
+      "premium_benefits": [
+        "Ferwideret advertinsjes",
+        "Unbeheind ynterviews",
+        "Untfang rapporten mei feedback en advys"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Preemje",
+      "monthly": "Moanne",
+      "annual": "Jierliks",
+      "cancel_anytime": "Ofbrekke elk momint",
+      "save_discount": "Rêde",
+      "subscribe": "Ynskriuwe",
+      "restore_purchases": "Oankeapen werstelle",
+      "premium_benefits": [
+        "Advertinsjes ferwiderje",
+        "Unbeheind ynterviews mei gjin koeken",
+        "Untfang rapporten mei feedback en advys nei ynterviews"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Help oersette",
+    "description": "Help dizze applikaasje oersette nei oare talen."
+  }
+}

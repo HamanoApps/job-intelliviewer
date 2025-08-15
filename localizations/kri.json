@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "BƐST",
+      "free": "Fri vɛshɔn ."
+    }
+  },
+  "presentation": [
+    {
+      "title": "Praktis fɔ yu nɛks wok intavyu!",
+      "message": "If yu tek wok intavyu, dat kin mek yu fred ɛn wɔri?\nSɔntɛm yu stil de fil se yu nɔ rɛdi fɔ tek wok intavyu?\nDis na di pafɛkt ap fɔ praktis yu kɔnvɛshɔnal skil dɛn na wan wok intavyu sɛtin!"
+    },
+    {
+      "title": "Una rɛdi fɔ una nɛks wok!",
+      "message": "Job Intelliviewer de yuz di pawa we artificial intelligence gɛt fɔ kɔndɔkt rial mɔk wok intavyu fɔ ɛp yu fɔ yuz di kɔnvɛshɔnal skil dɛn we yu nid fɔ mek gud impreshɔn pan rial layf rikruta dɛn ɛn mek yu rɛdi fɔ ace yu nɛks rial layf intavyu."
+    },
+    {
+      "title": "Premium sabskripshɔn:",
+      "message": "Risiv wan ripɔt na di ɛnd fɔ ɛni intavyu we de sɔmariz di tɔk wit fidbak ɛn advays bɔt aw fɔ impɔtant yu chans fɔ gɛt haya insay rial wok intavyu."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Os",
+      "interview": "Intavyu",
+      "resume_cv": "Stat bak",
+      "history": "Istri",
+      "history_entry": "Di tin dɛn we dɛn rayt bɔt istri .",
+      "reports": "Ripɔt dɛn .",
+      "settings": "Sɛtin dɛn ."
+    }
+  },
+  "title": {
+    "attention": "Atɛnshɔn",
+    "information": "Tin dɛn"
+  },
+  "label": {
+    "search": "Luk fɔ"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Bak",
+    "close": "Tayt",
+    "cancel": "nɔ",
+    "delete": "Dilit",
+    "review": "Rivishɔn",
+    "subscribe": "Sabskrip"
+  },
+  "language": {
+    "title": "Langwej",
+    "select": "Pik Langwej .",
+    "altered": "Langwej chenj ."
+  },
+  "history": {
+    "empty": "Ɛmpti Istri .",
+    "delete": {
+      "list": {
+        "title": "Dilit Istri?",
+        "message": "Yu shɔ se yu want fɔ dilit di wan ol istri?",
+        "deleted": "Istri Dilit."
+      },
+      "entry": {
+        "title": "Dilit intavyu?",
+        "message": "Yu shɔ se yu want fɔ dilit dis intavyu?",
+        "deleted": "Istri Dilit."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nem",
+      "first_name": "Fɔs nem",
+      "date_of_birth": "Di de we dɛn bɔn am .",
+      "job_position": "Job pozishɔn .",
+      "job_position_detailed": "Ditiɛl Job pozishɔn .",
+      "education": "Skul biznɛs",
+      "courses": "Kɔs dɛn .",
+      "experience": "Ɛkspiriɛns",
+      "add": {
+        "education": "Ad nyu edyukeshɔn .",
+        "courses": "Ad nyu kɔs .",
+        "experience": "Ad nyu ɛkspiriɛns ."
+      },
+      "error": {
+        "validation": {
+          "title": "Valideshɔn mistek .",
+          "invalid_fields": "Put wan valid wok pozishɔn rol fɔ aplay fɔ nyu wok intavyu.\nƆda we de fɔ du dat na fɔ mek",
+          "unable_to_validate": "nɔ ebul fɔ validet fil dɛn."
+        }
+      }
+    },
+    "education": {
+      "institution": "Instityushɔn .",
+      "degree": "Kayn we",
+      "start": "Stat",
+      "end": "Dɔn"
+    },
+    "courses": {
+      "institution": "Instityushɔn .",
+      "title_of_course": "Taytul fɔ di kɔs .",
+      "course_load": "Di Kɔs Lod ."
+    },
+    "experience": {
+      "company": "Kɔmni",
+      "position": "Say",
+      "start": "Stat",
+      "end": "Dɔn"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Dak di tim fɔ di .",
+      "description": "Selekt bitwin layt ɛn dak tim.\nOtomatikal sɛt to di divays in tim di fɔs tɛm we yu opin di ap."
+    },
+    "language": {
+      "name": "Langwej",
+      "description": "Pik di langwej we yu lɛk fɔ sho we yu de yuz di aplikeshɔn ɛn tɔk to di AI we yu de intavyu."
+    },
+    "notifications": {
+      "saved": "Sɛtin dɛn we dɛn dɔn kip ."
+    },
+    "search": {
+      "not_found": "No rizulyt nɔ de we dɛn fɛn."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nyu intavyu .",
+      "resume": "Resume Intavyu"
+    },
+    "generating": "Fɔ mek nyu intavyu ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap fɔ tray bak ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Tayp yu mɛsej...",
+    "max_length": "Maks lɔng we dɛn dɔn rich ."
+  },
+  "cooldown": {
+    "description": "Di fri we fɔ di ap de alaw yu fɔ tek wan intavyu fɔ wan awa.\n\nIf yu want fɔ pul di tin dɛn we yu nɔ ebul fɔ du, pul di advays dɛn, ɛn gɛt fidbak ripɔt wit advays bɔt aw fɔ impɔtant afta ɛni intavyu, tink bɔt fɔ sabskripshɔn to prɛmiɔm.",
+    "active": "Wait fɔ di Cooldown Timer bifo yu jenarayz wan nyu intavyu.\n\nIf yu want fɔ pul di kuldaun, pul advays, ɛn gɛt fidbak ripɔt wit advays bɔt aw fɔ impɔtant afta ɛni intavyu, tink bɔt fɔ sabskripshɔn to prɛmiɔm.",
+    "timer": {
+      "wait": "Wet",
+      "second": "sɛkɔn",
+      "seconds": "Sɛkɔn dɛn ."
+    }
+  },
+  "report": {
+    "title": "Ripɔt",
+    "summary": "Ɛksplen",
+    "feedback": "Ansa",
+    "advice": "Advays",
+    "button": {
+      "view": "View Ripɔt",
+      "unlock": "Unlock Ripɔt .",
+      "get": "Get ripɔt ."
+    },
+    "generating": "Di ripɔt we de sho wetin de apin..."
+  },
+  "review": {
+    "request": "If yu bin lɛk di ap, duya tink bɔt fɔ lɛf wan rivyu fɔ ɛp wi.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Bɔku bɔku tɛnki!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nyu intavyu de!",
+      "message": "Yu gɛt nyu intavyu we yu kin gɛt fɔ tek wok IntelliViewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "BƐST",
+      "type": "Sabskripshɔn .",
+      "subscribe": "Sabskrip",
+      "invitation": "Subscribe to Premium .",
+      "active": "Premium sabskripshɔn Aktiv .",
+      "thanks": "Tank yu fɔ sabskripshɔn to prɛmiɔm! Wi de wish yu gud lak en sakses pan ol yu fiuja intavyu!",
+      "menu": {
+        "title": "Premium sabskripshɔn fɔ di wok we dɛn de du .",
+        "subtitle": "Subscribe to di Premium Plan ."
+      }
+    },
+    "error": {
+      "subscription": "Erɔd we yu de tray fɔ validet di tin we yu bay.",
+      "connection": "Kɔnɛkshɔn mistek.\n\nNɔ ebul fɔ kɔnɛkt to di stoa.",
+      "products": "Nɔ ebul fɔ chɛk di prɔdak opshɔn dɛn.",
+      "subscription_options": "Nɔ ebul fɔ lod sabskripshɔn plan dɛn.\n\nDuya, chɛk yu intanɛt kɔnɛkshɔn, ɔ tray bak leta."
+    }
+  },
+  "error": {
+    "title": "Mistek",
+    "unexpected": "Somtin bin go rong... Yu souldn't bi siin dis! 😱",
+    "connection": "Kɔnɛkshɔn .",
+    "connection_fix": "Chek yu intanet konekshon en trai bak leta.",
+    "ai": {
+      "no_response": "No ansa nɔ de .",
+      "unexpected": "we dɛn nɔ bin de ɛkspɛkt .",
+      "internal_server_error": "Intanɛt Sava mistek ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Praktis fɔ yu nɛks wok intavyu wit dis rial AI Simulator .",
+      "full_description": "If yu tek wok intavyu, dat kin mek yu fred ɛn wɔri?\nSɔntɛm yu stil de fil se yu nɔ rɛdi fɔ tek wok intavyu?\nDis na di pafɛkt ap fɔ praktis yu kɔnvɛshɔnal skil dɛn na wan wok intavyu sɛtin!\n\nJob Intelliviewer de yuz di pawa we artificial intelligence gɛt fɔ kɔndɔkt rial mɔk wok intavyu fɔ ɛp yu fɔ yuz di kɔnvɛshɔnal skil dɛn we yu nid fɔ mek gud impreshɔn pan rial layf rikruta dɛn ɛn mek yu rɛdi fɔ ace yu nɛks intavyu.\n\nDi intavyu dɛn tayla to di wok pozishɔn we yu de luk fɔ, ɛn dɛn go shep ɛn adjɔst wit kwɛstyɔn dɛn we gɛt fɔ du wit yu gol dɛn fɔ bɛtɛ ripresent wan rial wok intavyu.\n\nPremium yuza dɛm go gɛt ripɔt bak na di ɛnd fɔ ɛni intavyu we sɔmariz di tɔk wit fidbak ɛn advays bɔt aw fɔ impɔtant yu chans fɔ gɛt haya insay rial wok intavyu.",
+      "taglines": [
+        "Una rɛdi fɔ una nɛks wok!",
+        "Praktis fɔ yu nɛks wok intavyu!",
+        "Ace yu nɛks wok intavyu wit AI!",
+        "Yu nɛks pɔshɔnal sakrifays de wet fɔ yu ya!"
+      ],
+      "premium_benefits": [
+        "I de pul di advays dɛn .",
+        "Intavyu dɛn we nɔ gɛt limit .",
+        "Risiv ripɔt wit fidbak ɛn advays ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Bɛst",
+      "monthly": "Mɔnt .",
+      "annual": "Ɛvri ia",
+      "cancel_anytime": "Kansel ɛni tɛm we",
+      "save_discount": "Sev",
+      "subscribe": "Sabskrip",
+      "restore_purchases": "Ristɔr di tin dɛn we yu bay .",
+      "premium_benefits": [
+        "Rimov Ads .",
+        "Intavyu dɛn we nɔ gɛt limit ɛn nɔ gɛt kuldaun .",
+        "Risiv ripɔt wit fidbak ɛn advays afta intavyu ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Ɛp Translet .",
+    "description": "Ɛp fɔ translet dis aplikeshɔn to ɔda langwej dɛn."
+  }
+}

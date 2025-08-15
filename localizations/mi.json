@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Moni whāngai",
+      "free": "Putanga Koreutu"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Mahi mo to uiui mahi i muri mai!",
+      "message": "Kei te haere koe i nga uiui mahi ka raru koe me te awangawanga?\nMahalo kei te ahua tonu koe ki te whai uiui mahi?\nKoinei te taupānga tino tika ki te mahi i o pukenga whakawhitiwhiti korero i roto i te waahi uiui mahi!"
+    },
+    {
+      "title": "Kia rite mo to mahi i muri!",
+      "message": "Ka whakamahi te tohunga i te mana o te mohio ki te whakahaere i nga uiuinga mahi mo te mahi hei awhina i a koe ki te mahi i nga korero mo te koiora o te ao."
+    },
+    {
+      "title": "Te ohaurunga Premium:",
+      "message": "Whiwhi i tetahi ripoata i te mutunga o ia uiui e whakarapopoto ana i te korerorero me nga urupare me nga tohutohu mo te whakapai ake i to waa uiui mo te mahi uiui."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Kāinga",
+      "interview": "Uiuitanga",
+      "resume_cv": "Rehi",
+      "history": "Tāhuhu kōrero",
+      "history_entry": "Te Whakauru Korero",
+      "reports": "Nga Ripoata",
+      "settings": "Tautuhinga"
+    }
+  },
+  "title": {
+    "attention": "Whakarongo",
+    "information": "Rongo"
+  },
+  "label": {
+    "search": "Rapu"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Muri",
+    "close": "Whakapā",
+    "cancel": "Whakakore",
+    "delete": "Muku",
+    "review": "Tātari puka",
+    "subscribe": "Ohauru"
+  },
+  "language": {
+    "title": "Reo",
+    "select": "Tīpakohia te reo",
+    "altered": "I hurihia te reo"
+  },
+  "history": {
+    "empty": "Huringa",
+    "delete": {
+      "list": {
+        "title": "Mukua te hitori?",
+        "message": "Kei te hiahia koe ki te muku i te hitori katoa?",
+        "deleted": "Tuhinga o mua."
+      },
+      "entry": {
+        "title": "Mukua te uiui?",
+        "message": "Kei te hiahia koe ki te muku i tenei uiui?",
+        "deleted": "Tuhinga o mua."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Ingoa",
+      "first_name": "Ingoa Tuatahi",
+      "date_of_birth": "Te rā whānau",
+      "job_position": "Tūranga mahi",
+      "job_position_detailed": "Tūranga mahi taipitopito",
+      "education": "Mātauranga",
+      "courses": "Akoranga",
+      "experience": "Taunga",
+      "add": {
+        "education": "Tāpirihia te mātauranga hou",
+        "courses": "Tāpirihia he akoranga hou",
+        "experience": "Tāpirihia he wheako hou"
+      },
+      "error": {
+        "validation": {
+          "title": "Ko te hapa whakamana",
+          "invalid_fields": "Whakauruhia he mahi tūranga mahi tika hei tono i tetahi uiuinga mahi hou.\nAnō hoki",
+          "unable_to_validate": "Kaore e taea te whakamana i nga mara."
+        }
+      }
+    },
+    "education": {
+      "institution": "Whakanōhanga",
+      "degree": "Tohurau",
+      "start": "Tīmatanga",
+      "end": "Mutunga"
+    },
+    "courses": {
+      "institution": "Whakanōhanga",
+      "title_of_course": "Taitara o te akoranga",
+      "course_load": "Te kawenga o te akoranga"
+    },
+    "experience": {
+      "company": "Matua",
+      "position": "Tūranga",
+      "start": "Tīmatanga",
+      "end": "Mutunga"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Kaupapa pouri",
+      "description": "Whiriwhiria i waenga i te maama me te kaupapa pouri.\nWhakatakotoria aunoa ki te kaupapa a te taputapu i te wa tuatahi ka whakatuwherahia e koe te taupānga."
+    },
+    "language": {
+      "name": "Reo",
+      "description": "Whiriwhiria te reo matapae ki te whakaatu i a koe e whakamahi ana i te tono me te korero ki te AI i nga uiuinga."
+    },
+    "notifications": {
+      "saved": "Kua tiakina nga tautuhinga"
+    },
+    "search": {
+      "not_found": "Kaore i kitea."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "He uiui hou",
+      "resume": "He uiui whakamua"
+    },
+    "generating": "Te whakaputa i te uiuinga hou"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap ki te whakahoki ano"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Patohia to panui ...",
+    "max_length": "Kua tae te roa o Max"
+  },
+  "cooldown": {
+    "description": "Ko te putanga koreutu o te taupānga ka taea e koe te tango i tetahi uiui mo ia haora.\n\nMena kei te hiahia koe ki te tango i nga here, tangohia nga panui, ka whiwhi i tetahi ripoata urupare me pehea te whakapai ake i muri i ia uiui, whakaarohia te ohauru ki te utu moni.",
+    "active": "Tatari mo te tohu a te kaimoana i mua i te whakaputa i tetahi uiui hou.\n\nMena kei te hiahia koe ki te tango i nga COLDowns, tango i nga panui, ka whiwhi i tetahi ripoata urupare me te tohutohu mo te whakapai ake i ia uiui, whakaarohia te ohauru ki te utu.",
+    "timer": {
+      "wait": "Tatari",
+      "second": "tuarua",
+      "seconds": "hēkona"
+    }
+  },
+  "report": {
+    "title": "Hau",
+    "summary": "Whakarāpopototanga",
+    "feedback": "Urupare",
+    "advice": "Kupu tohutohu",
+    "button": {
+      "view": "Tirohia te ripoata",
+      "unlock": "Wewete i te Pūrongo",
+      "get": "Tikina te Pūrongo"
+    },
+    "generating": "Te whakaputa ripoata ..."
+  },
+  "review": {
+    "request": "Mena kei te pai koe ki te taupānga, tirohia koa kia waiho he arotake hei awhina i a maatau.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Mauruuru nui!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "He uiui hou e waatea ana!",
+      "message": "He uiui hou kei a koe kia mau ki te mahi mahi mahi."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Moni whāngai",
+      "type": "Koha",
+      "subscribe": "Ohauru",
+      "invitation": "Ohauru ki te Premium",
+      "active": "He tohu utu nui",
+      "thanks": "Mauruuru koe mo te ohauru ki te utu! Kei te hiahia matou kia waimarie koe me te angitu i runga i nga uiuinga a meake nei!",
+      "menu": {
+        "title": "Ohaurunga moni",
+        "subtitle": "Ohauru ki te mahere moni"
+      }
+    },
+    "error": {
+      "subscription": "He hapa e ngana ana ki te whakamana i to hoko.",
+      "connection": "Hapa hononga.\n\nKaore e taea te hono atu ki te toa.",
+      "products": "Kaore e taea te tirotiro i nga whiringa hua.",
+      "subscription_options": "Kaore e taea te uta i nga mahere ohaurunga.\n\nTena koa, tirohia to hononga Ipurangi, me te ngana ano i muri mai."
+    }
+  },
+  "error": {
+    "title": "Hē",
+    "unexpected": "Kua he tetahi mea ... Kaore koe e kite i tenei! 😱",
+    "connection": "Hononga",
+    "connection_fix": "Tirohia to hononga Ipurangi me te ngana ano i muri mai.",
+    "ai": {
+      "no_response": "Kaore he whakautu",
+      "unexpected": "Puta noa",
+      "internal_server_error": "Ko te Hapa o roto"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Mahi mo to uiui mahi i muri mai me tenei Simulator AI",
+      "full_description": "Kei te haere koe i nga uiui mahi ka raru koe me te awangawanga?\nMahalo kei te ahua tonu koe ki te whai uiui mahi?\nKoinei te taupānga tino tika ki te mahi i o pukenga whakawhitiwhiti korero i roto i te waahi uiui mahi!\n\nKo te mahi a te Kaipupuri mahi e whakamahi ana i nga uiuinga mahi hei awhina i a koe ki te awhina i nga pukenga whakawhitiwhiti korero e hiahiatia ana mo nga kaiwhaiwhai o te ao.\n\nKo nga uiuinga e rite ana ki te waahi mahi e rapu ana koe, ka tuhia me te whakatikatika i nga paatai e pa ana ki o whaainga kia pai ake ai te uiui.\n\nKa whiwhi ano nga kaiwhakamahi Premium i tetahi ripoata i te mutunga o ia uiui e whakarapopoto ana i te korerorero me nga urupare me nga tohutohu mo te whakapai ake i te uiui i tetahi mahi mo te mahi i tetahi uiui mahi.",
+      "taglines": [
+        "Kia rite mo to mahi i muri!",
+        "Mahi mo to uiui mahi i muri mai!",
+        "Ace Ko to uiui mahi i muri mai me AI!",
+        "Kei te tatari to angitu ngaio ki a koe i konei!"
+      ],
+      "premium_benefits": [
+        "Ka whakakorea nga panui",
+        "Nga uiui Kore Utu",
+        "Whiwhi i nga ripoata me nga urupare me nga tohutohu"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Moni whāngai",
+      "monthly": "Ā marama",
+      "annual": "Ā-tau",
+      "cancel_anytime": "Whakakorehia i nga wa katoa",
+      "save_discount": "Whakaora",
+      "subscribe": "Ohauru",
+      "restore_purchases": "Whakaora i nga hoko",
+      "premium_benefits": [
+        "Tangohia nga panui",
+        "He uiui kore mutunga me te kore he coollowns",
+        "Whiwhi i nga ripoata me nga urupare me nga tohutohu i muri i nga uiui"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Awhina i te whakamaoritanga",
+    "description": "Awhina i te whakamaori i tenei tono ki etahi atu reo."
+  }
+}
