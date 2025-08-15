@@ -1,7 +1,4 @@
 # Job Intelliviewer
-Realistic job interviewer AI simulator app.
-
-## Description
 Does taking job interviews get you nervous and anxious?
 Maybe you still feel unprepared to take job interviews?
 This is the perfect app to practice your conversational skills in a job interview setting!
@@ -14,3 +11,9 @@ Premium users will also receive a report at the end of each interview summarizin
 
 ## Help translate
 Help translate this application to other languages.
+
+## Download
+Android: https://play.google.com/store/apps/details?id=com.hamanoapps.jobintelliviewer
+
+## Links
+Website: https://www.HamanoApps.com
