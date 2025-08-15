@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "YEMAHARA YEMAHARA"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Dzidzira kwekubvunzisisa kwako kwebasa!",
+      "message": "Kutora kubvunzurudzwa kwebasa kwakuita kuti utye uye uchinetseka here?\nZvimwe uchiri kunzwa usina kugadzirira kutora kubvunzurudzwa kwebasa?\nIyi ndiyo yakakwana app yekudzidzira hunyanzvi hwako hwekutaura mukurangana kwebasa rebasa!"
+    },
+    {
+      "title": "Gadzirira basa rako rinotevera!",
+      "message": "Jobho antelliviewer anoshandisa simba rehungwaru hwekungwarira kuti ubudirire hwekurindira kweruzivo rwekukubatsira kusarudzika kwehupenyu hwekuita kuti uwedzere kuraramisa uye kuita kuti iwe ugadzirire kuongororwa kwako kwechokwadi hurukuro yechokwadi."
+    },
+    {
+      "title": "Yekutanga kunyoreswa:",
+      "message": "Gamuchira mushumo pakupera kwekubvunzurudza kwega kwega kupfupisa hurukuro nemhinduro uye zano rekuti ungagadzirisa sei mikana yako yekubatwa mukubvunzurudzwa kwebasa chairo."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Imba",
+      "interview": "Kubvunzurudza",
+      "resume_cv": "Resumé",
+      "history": "Nhoroondo",
+      "history_entry": "Nhoroondo Kupinda",
+      "reports": "Mishumo",
+      "settings": "Zvirongwa"
+    }
+  },
+  "title": {
+    "attention": "Kutariswa",
+    "information": "Ruzivo"
+  },
+  "label": {
+    "search": "Tsvaga"
+  },
+  "button": {
+    "ok": "Zvakanaka",
+    "back": "Kumashure",
+    "close": "Vhara",
+    "cancel": "Kanzura",
+    "delete": "Delete",
+    "review": "Ongorora",
+    "subscribe": "Nyorera"
+  },
+  "language": {
+    "title": "Mutauro",
+    "select": "Sarudza Mutauro",
+    "altered": "Mutauro Wachinja"
+  },
+  "history": {
+    "empty": "Nhoroondo YEMAHARA",
+    "delete": {
+      "list": {
+        "title": "Delete nhoroondo?",
+        "message": "Une chokwadi here kuti unoda kudzima nhoroondo yese?",
+        "deleted": "Nhoroondo yakabviswa."
+      },
+      "entry": {
+        "title": "Delete kubvunzurudza?",
+        "message": "Une chokwadi here kuti unoda kudzima iyi kubvunzurudza?",
+        "deleted": "Nhoroondo yakabviswa."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Zita",
+      "first_name": "Zita rokutanga",
+      "date_of_birth": "Zuva rekuzvarwa",
+      "job_position": "Chinzvimbo chebasa",
+      "job_position_detailed": "Yakadzama basa chinzvimbo",
+      "education": "Dzidzo",
+      "courses": "Makosi",
+      "experience": "Zvakaitika",
+      "add": {
+        "education": "Wedzera dzidzo itsva",
+        "courses": "Wedzera New Course",
+        "experience": "Wedzera chiitiko chitsva"
+      },
+      "error": {
+        "validation": {
+          "title": "Kukanganisa kwechokwadi",
+          "invalid_fields": "Isa basa rinoshanda basa rekunyorera basa rekubvunzurudza basa idzva.\nNeimwe nzira",
+          "unable_to_validate": "Kutadza kusimbisa minda."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institution",
+      "degree": "Degree",
+      "start": "Tanga",
+      "end": "Kupera"
+    },
+    "courses": {
+      "institution": "Institution",
+      "title_of_course": "Zita rechokwadi",
+      "course_load": "Course mutoro"
+    },
+    "experience": {
+      "company": "Kambani",
+      "position": "Chinzvimbo",
+      "start": "Tanga",
+      "end": "Kupera"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Theme dingindira",
+      "description": "Sarudza pakati pechiedza uye dingle theme.\nOtomatiki otomatiki kune iyo kifaa dingindira kekutanga nguva yaunovhura iyo app."
+    },
+    "language": {
+      "name": "Mutauro",
+      "description": "Sarudza mutauro wakaratidzirwa kuratidza uku uchishandisa application uye kutaura kune AI panguva yekubvunzurudzwa."
+    },
+    "notifications": {
+      "saved": "Zvirongwa Zvakaponeswa"
+    },
+    "search": {
+      "not_found": "Hapana mhedzisiro yakawanikwa."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Kubvunzana kutsva",
+      "resume": "Tangazve kubvunzurudza"
+    },
+    "generating": "Kugadzira kubvunzurudza kutsva"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tinya kuti uedzezve"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Nyora yako meseji ...",
+    "max_length": "Hurefu hwakareba hwakasvika"
+  },
+  "cooldown": {
+    "description": "Iyo yemahara vhezheni yeApp inokubvumira kuti utore kubvunzurudza kweawa.\n\nKana iwe uchida kubvisa izvo zvisingakwanisi, bvisa kushambadzira, uye ugamuchire mushumo wekupa zano nezve kuti ungavandudza sei mushure mekubvunzurudza kwega kwega, funga kunyoresa kuPremium.",
+    "active": "Mirira iyo inotonhorera timer usati wabuditsa kubvunzurudzwa kutsva.\n\nKana iwe uchida kubvisa collowns, bvisa kushambadzira, uye gamuchira mushumo wekupa zano nezano rekuvandudza mushure mekubvunzurudza kwega kwega, funga kunyorera mari.",
+    "timer": {
+      "wait": "Mirira",
+      "second": "chepiri",
+      "seconds": "masekondi"
+    }
+  },
+  "report": {
+    "title": "Chirevo",
+    "summary": "Pfupiso",
+    "feedback": "Mhinduro",
+    "advice": "Zano",
+    "button": {
+      "view": "Wona Chirevo",
+      "unlock": "Vhura mushumo",
+      "get": "Tora Chirevo"
+    },
+    "generating": "Kugadzira Chirevo ..."
+  },
+  "review": {
+    "request": "Kana iwe wanga uchida iyo app, ndapota fungai kusiya ongororo kutibatsira.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Ndokutenda zvikuru!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Kubvunzurudza kutsva kunowanikwa!",
+      "message": "Iwe une kubvunzurudza kutsva kunowanikwa kuti utore pabasa rebasa."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Kunyoreswa",
+      "subscribe": "Nyorera",
+      "invitation": "Nyorera kune Premium",
+      "active": "Premium kunyoreswa inoshanda",
+      "thanks": "Ndatenda nekunyorera kuPremium! Tinokushuvira rombo rakanaka uye kubudirira pane zvese zvako zvenguva yemberi kubvunzurudzwa!",
+      "menu": {
+        "title": "Premium kunyoreswa",
+        "subtitle": "Nyorera kune iyo premium chirongwa"
+      }
+    },
+    "error": {
+      "subscription": "Kukanganisa kuyedza kusimbisa kutenga kwako.",
+      "connection": "Kukanganisa kwekubatana.\n\nKutadza kubatana nechitoro.",
+      "products": "Hatikwanisi kutarisa sarudzo dzechigadzirwa.",
+      "subscription_options": "Hatikwanise kurodha zvinonyoreswa zvirongwa.\n\nNdapota, tarisa yako internet kubatana, kana edza zvakare gare gare."
+    }
+  },
+  "error": {
+    "title": "Kukanganisa",
+    "unexpected": "Chimwe chinhu chakatadza ... iwe ungagona kunge usingaone izvi! 😱",
+    "connection": "Kubatana",
+    "connection_fix": "Tarisa yako Internet kubatana uye edza zvakare gare gare.",
+    "ai": {
+      "no_response": "Hapana mhinduro",
+      "unexpected": "Zvisingatarisirwi",
+      "internal_server_error": "Yemukati Server Kukanganisa"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Dzidzira kwekubvunzana kwako kwebasa neiyi chaiyo AI Simulator",
+      "full_description": "Kutora kubvunzurudzwa kwebasa kwakuita kuti utye uye uchinetseka here?\nZvimwe uchiri kunzwa usina kugadzirira kutora kubvunzurudzwa kwebasa?\nIyi ndiyo yakakwana app yekudzidzira hunyanzvi hwako hwekutaura mukurangana kwebasa rebasa!\n\nJobho antelliviewer anoshandisa simba rehungwaru hwekunyepedzera kuti vabate basa rezvekutaurirana kwekunakidzwa kwehunyanzvi hwekukurukurirana kwehupenyu chaihwo hunotambidza uye kukugadzirira kuti ade kubvunzana kwako kunotevera.\n\nKubvunzurudzwa kwakarongedzwa kune chinzvimbo chebasa iwe wauri kutsvaga, uye kuchagadziriswa uye kugadziriswa nemibvunzo zvine chekuita nezvinangwa zvako zvinomiririra zvakanaka kubvunzurudzwa kwebasa rechokwadi.\n\nVashandisi vekutanga vanogashirawo mushumo pakupera kwekubvunzurudza kwega kwega kutaurirana nekutaura nekupa mhinduro uye zano rekuti vangavandudza sei mikana yako yekubatwa mukubvunzurudzwa kwebasa rebasa rechokwadi.",
+      "taglines": [
+        "Gadzirira basa rako rinotevera!",
+        "Dzidzira kwekubvunzisisa kwako kwebasa!",
+        "Ace yako inotevera Job hurukuro naAi!",
+        "Yako inotevera nyanzvi kubudirira kwakamirira iwe pano!"
+      ],
+      "premium_benefits": [
+        "Inobvisa kushambadza",
+        "Unlimited kubvunzurudzwa",
+        "Gamuchira mishumo ine mhinduro uye zano"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Pamwedzi",
+      "annual": "Pagore",
+      "cancel_anytime": "Kudzima chero nguva",
+      "save_discount": "Chengetedza",
+      "subscribe": "Nyorera",
+      "restore_purchases": "Dzosera kutenga",
+      "premium_benefits": [
+        "Bvisa kushambadzira",
+        "Inlimited kubvunzurudzwa isina cooldown",
+        "Gamuchira mishumo ine mhinduro uye kuraira mushure mekubvunzurudza"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Batsira Kududzira",
+    "description": "Rubatsiro shandura iyi kune mimwe mitauro."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Versão gratuita"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Pratique para sua próxima entrevista de emprego!",
+      "message": "Tomar entrevistas de emprego o deixa nervoso e ansioso?\nTalvez você ainda se sinta despreparado para fazer entrevistas de emprego?\nEste é o aplicativo perfeito para praticar suas habilidades de conversação em uma configuração de entrevista de emprego!"
+    },
+    {
+      "title": "Esteja preparado para o seu próximo emprego!",
+      "message": "Job Intelliviewer usa o poder da inteligência artificial para realizar entrevistas de emprego simuladas realistas para ajudá -lo a aproveitar as habilidades de conversação necessárias para causar uma boa impressão nos recrutadores da vida real e torná -lo preparado para aceitar sua próxima entrevista na vida real."
+    },
+    {
+      "title": "Assinatura premium:",
+      "message": "Receba um relatório no final de cada entrevista resumindo a conversa com feedback e conselhos sobre como melhorar suas chances de ser contratado em uma entrevista de emprego real."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Lar",
+      "interview": "Entrevista",
+      "resume_cv": "Retomar",
+      "history": "História",
+      "history_entry": "Entrada de histórico",
+      "reports": "Relatórios",
+      "settings": "Configurações"
+    }
+  },
+  "title": {
+    "attention": "Atenção",
+    "information": "Informação"
+  },
+  "label": {
+    "search": "Procurar"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Voltar",
+    "close": "Fechar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "review": "Análise",
+    "subscribe": "Inscreva -se"
+  },
+  "language": {
+    "title": "Linguagem",
+    "select": "Selecione o idioma",
+    "altered": "O idioma mudou"
+  },
+  "history": {
+    "empty": "História vazia",
+    "delete": {
+      "list": {
+        "title": "Excluir a história?",
+        "message": "Tem certeza de que deseja excluir toda a história?",
+        "deleted": "História excluída."
+      },
+      "entry": {
+        "title": "Excluir entrevista?",
+        "message": "Tem certeza de que deseja excluir esta entrevista?",
+        "deleted": "História excluída."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nome",
+      "first_name": "Primeiro nome",
+      "date_of_birth": "Data de nascimento",
+      "job_position": "Posição no trabalho",
+      "job_position_detailed": "Posição detalhada no trabalho",
+      "education": "Educação",
+      "courses": "Cursos",
+      "experience": "Experiência",
+      "add": {
+        "education": "Adicione nova educação",
+        "courses": "Adicione um novo curso",
+        "experience": "Adicione nova experiência"
+      },
+      "error": {
+        "validation": {
+          "title": "Erro de validação",
+          "invalid_fields": "Insira uma função de posição válida no trabalho para solicitar uma nova entrevista de emprego.\nAlternativamente",
+          "unable_to_validate": "Não é possível validar campos."
+        }
+      }
+    },
+    "education": {
+      "institution": "Instituição",
+      "degree": "Grau",
+      "start": "Começar",
+      "end": "Fim"
+    },
+    "courses": {
+      "institution": "Instituição",
+      "title_of_course": "Título, é claro",
+      "course_load": "Carga do curso"
+    },
+    "experience": {
+      "company": "Empresa",
+      "position": "Posição",
+      "start": "Começar",
+      "end": "Fim"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tema sombrio",
+      "description": "Selecione entre o tema claro e escuro.\nDefina automaticamente para o tema do dispositivo na primeira vez em que você abre o aplicativo."
+    },
+    "language": {
+      "name": "Linguagem",
+      "description": "Selecione o idioma preferido a ser exibido ao usar o aplicativo e conversar com a IA durante as entrevistas."
+    },
+    "notifications": {
+      "saved": "Configurações salvas"
+    },
+    "search": {
+      "not_found": "Nenhum resultado encontrado."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nova entrevista",
+      "resume": "Retomar a entrevista"
+    },
+    "generating": "Gerando nova entrevista"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Toque para tentar novamente"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Digite sua mensagem ...",
+    "max_length": "Comprimento máximo atingido"
+  },
+  "cooldown": {
+    "description": "A versão gratuita do aplicativo permite que você faça uma entrevista por hora.\n\nSe você quiser remover as limitações, remova os anúncios e receba um relatório de feedback com conselhos sobre como melhorar após cada entrevista, considere assinar o prêmio.",
+    "active": "Aguarde o cronômetro de recarga antes de gerar uma nova entrevista.\n\nSe você deseja remover o recado, remover anúncios e receber um relatório de feedback com conselhos sobre como melhorar após cada entrevista, considere assinar o prêmio.",
+    "timer": {
+      "wait": "Espere",
+      "second": "segundo",
+      "seconds": "segundos"
+    }
+  },
+  "report": {
+    "title": "Relatório",
+    "summary": "Resumo",
+    "feedback": "Opinião",
+    "advice": "Conselho",
+    "button": {
+      "view": "Ver relatório",
+      "unlock": "Relatório de desbloqueio",
+      "get": "Obtenha relatório"
+    },
+    "generating": "Gerando relatório ..."
+  },
+  "review": {
+    "request": "Se você gostou do aplicativo, considere deixar uma revisão para nos ajudar.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Muito obrigado!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nova entrevista disponível!",
+      "message": "Você tem uma nova entrevista disponível para contratar o Job Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Subscrição",
+      "subscribe": "Inscreva -se",
+      "invitation": "Inscreva -se no Premium",
+      "active": "Assinatura premium ativa",
+      "thanks": "Obrigado por assinar o Premium! Desejamos -lhe boa sorte e sucesso em todas as suas futuras entrevistas!",
+      "menu": {
+        "title": "Assinatura premium",
+        "subtitle": "Inscreva -se no Plano Premium"
+      }
+    },
+    "error": {
+      "subscription": "Erro tentando validar sua compra.",
+      "connection": "Erro de conexão.\n\nNão é possível conectar -se à loja.",
+      "products": "Não é possível verificar as opções do produto.",
+      "subscription_options": "Não é possível carregar planos de assinatura.\n\nPor favor, verifique sua conexão com a Internet ou tente novamente mais tarde."
+    }
+  },
+  "error": {
+    "title": "Erro",
+    "unexpected": "Algo deu errado ... você não estava vendo isso! 😱",
+    "connection": "Conexão",
+    "connection_fix": "Verifique sua conexão com a Internet e tente novamente mais tarde.",
+    "ai": {
+      "no_response": "Sem resposta",
+      "unexpected": "Inesperado",
+      "internal_server_error": "Erro do Servidor Interno"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Pratique para sua próxima entrevista de emprego com este simulador de IA realista",
+      "full_description": "Tomar entrevistas de emprego o deixa nervoso e ansioso?\nTalvez você ainda se sinta despreparado para fazer entrevistas de emprego?\nEste é o aplicativo perfeito para praticar suas habilidades de conversação em uma configuração de entrevista de emprego!\n\nJob Intelliviewer usa o poder da inteligência artificial para realizar entrevistas de emprego simuladas realistas para ajudá -lo a aproveitar as habilidades de conversação necessárias para causar uma boa impressão nos recrutadores da vida real e torná -lo preparado para aceitar sua próxima entrevista.\n\nAs entrevistas são adaptadas à posição do trabalho que você está procurando e será moldada e ajustada com perguntas relacionadas aos seus objetivos para representar melhor uma entrevista de emprego real.\n\nOs usuários premium também receberão um relatório no final de cada entrevista, resumindo a conversa com feedback e conselhos sobre como melhorar suas chances de ser contratado em uma entrevista de emprego real.",
+      "taglines": [
+        "Esteja preparado para o seu próximo emprego!",
+        "Pratique para sua próxima entrevista de emprego!",
+        "ACE sua próxima entrevista de emprego com AI!",
+        "Seu próximo sucesso profissional aguarda você aqui!"
+      ],
+      "premium_benefits": [
+        "Remove anúncios",
+        "Entrevistas ilimitadas",
+        "Receba relatórios com feedback e conselhos"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Mensal",
+      "annual": "Anual",
+      "cancel_anytime": "Cancelar a qualquer hora",
+      "save_discount": "Salvar",
+      "subscribe": "Inscreva -se",
+      "restore_purchases": "Restaurar compras",
+      "premium_benefits": [
+        "Remova anúncios",
+        "Entrevistas ilimitadas sem recarga",
+        "Receba relatórios com feedback e conselhos após entrevistas"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Ajude a traduzir",
+    "description": "Ajude a traduzir esse aplicativo para outros idiomas."
+  }
+}

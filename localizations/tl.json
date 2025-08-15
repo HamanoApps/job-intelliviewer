@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Libreng bersyon"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Magsanay para sa iyong susunod na pakikipanayam sa trabaho!",
+      "message": "Ang pagkuha ba ng mga panayam sa trabaho ay kinakabahan ka at nababahala?\nSiguro naramdaman mo pa rin na hindi handa na kumuha ng mga panayam sa trabaho?\nIto ang perpektong app upang maisagawa ang iyong mga kasanayan sa pag -uusap sa isang setting ng pakikipanayam sa trabaho!"
+    },
+    {
+      "title": "Maging handa para sa iyong susunod na trabaho!",
+      "message": "Ginagamit ng Job Intelliviewer ang kapangyarihan ng artipisyal na katalinuhan upang magsagawa ng makatotohanang mga panayam sa trabaho ng pangungutya upang matulungan kang magamit ang mga kasanayan sa pag -uusap na kinakailangan upang makagawa ng isang mahusay na impression sa mga tunay na recruiter ng buhay at maghanda ka upang ma -ace ang iyong susunod na pakikipanayam sa buhay."
+    },
+    {
+      "title": "Premium subscription:",
+      "message": "Tumanggap ng isang ulat sa pagtatapos ng bawat pakikipanayam na nagbubuod sa pag -uusap na may puna at payo kung paano mapapabuti ang iyong pagkakataon na makakuha ng upahan sa isang tunay na pakikipanayam sa trabaho."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Home",
+      "interview": "Pakikipanayam",
+      "resume_cv": "Resumé",
+      "history": "Kasaysayan",
+      "history_entry": "Pagpasok sa kasaysayan",
+      "reports": "Ulat",
+      "settings": "Mga setting"
+    }
+  },
+  "title": {
+    "attention": "Pansin",
+    "information": "Impormasyon"
+  },
+  "label": {
+    "search": "Maghanap"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Balik",
+    "close": "Malapit",
+    "cancel": "Kanselahin",
+    "delete": "Tanggalin",
+    "review": "Suriin",
+    "subscribe": "Mag -subscribe"
+  },
+  "language": {
+    "title": "Wika",
+    "select": "Piliin ang Wika",
+    "altered": "Nagbago ang wika"
+  },
+  "history": {
+    "empty": "Walang laman na kasaysayan",
+    "delete": {
+      "list": {
+        "title": "Tanggalin ang kasaysayan?",
+        "message": "Sigurado ka bang nais mong tanggalin ang buong kasaysayan?",
+        "deleted": "Tinanggal ang kasaysayan."
+      },
+      "entry": {
+        "title": "Tanggalin ang pakikipanayam?",
+        "message": "Sigurado ka bang nais mong tanggalin ang panayam na ito?",
+        "deleted": "Tinanggal ang kasaysayan."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Pangalan",
+      "first_name": "Unang pangalan",
+      "date_of_birth": "Petsa ng kapanganakan",
+      "job_position": "Posisyon ng trabaho",
+      "job_position_detailed": "Detalyadong posisyon sa trabaho",
+      "education": "Edukasyon",
+      "courses": "Mga kurso",
+      "experience": "Karanasan",
+      "add": {
+        "education": "Magdagdag ng bagong edukasyon",
+        "courses": "Magdagdag ng bagong kurso",
+        "experience": "Magdagdag ng bagong karanasan"
+      },
+      "error": {
+        "validation": {
+          "title": "Error sa pagpapatunay",
+          "invalid_fields": "Ipasok ang isang wastong papel sa posisyon ng trabaho upang mag -aplay para sa isang bagong pakikipanayam sa trabaho.\nBilang kahalili",
+          "unable_to_validate": "Hindi mapatunayan ang mga patlang."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institusyon",
+      "degree": "Degree",
+      "start": "Magsimula",
+      "end": "Magtapos"
+    },
+    "courses": {
+      "institution": "Institusyon",
+      "title_of_course": "Pamagat ng kurso",
+      "course_load": "Pag -load ng kurso"
+    },
+    "experience": {
+      "company": "Kumpanya",
+      "position": "Posisyon",
+      "start": "Magsimula",
+      "end": "Magtapos"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Madilim na tema",
+      "description": "Piliin sa pagitan ng ilaw at madilim na tema.\nAwtomatikong nakatakda sa tema ng aparato sa unang pagkakataon na buksan mo ang app."
+    },
+    "language": {
+      "name": "Wika",
+      "description": "Piliin ang ginustong wika upang ipakita habang ginagamit ang application at nakikipag -usap sa AI sa panahon ng mga panayam."
+    },
+    "notifications": {
+      "saved": "Nai -save ang mga setting"
+    },
+    "search": {
+      "not_found": "Walang nahanap na mga resulta."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Bagong pakikipanayam",
+      "resume": "Ipagpatuloy ang pakikipanayam"
+    },
+    "generating": "Bumubuo ng bagong pakikipanayam"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tapikin upang muling sumubok"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "I -type ang iyong mensahe ...",
+    "max_length": "Naabot ang haba ng max"
+  },
+  "cooldown": {
+    "description": "Ang libreng bersyon ng app ay nagbibigay -daan sa iyo upang kumuha ng isang pakikipanayam bawat oras.\n\nKung nais mong alisin ang mga limitasyon, alisin ang mga ad, at makatanggap ng isang ulat ng puna na may payo kung paano mapapabuti pagkatapos ng bawat pakikipanayam, isaalang -alang ang pag -subscribe sa premium.",
+    "active": "Maghintay para sa cooldown timer bago makabuo ng isang bagong pakikipanayam.\n\nKung nais mong alisin ang mga cooldown, alisin ang mga ad, at makatanggap ng isang ulat ng puna na may payo kung paano mapapabuti pagkatapos ng bawat pakikipanayam, isaalang -alang ang pag -subscribe sa premium.",
+    "timer": {
+      "wait": "Maghintay",
+      "second": "pangalawa",
+      "seconds": "segundo"
+    }
+  },
+  "report": {
+    "title": "Ulat",
+    "summary": "Buod",
+    "feedback": "Feedback",
+    "advice": "Payo",
+    "button": {
+      "view": "Tingnan ang Ulat",
+      "unlock": "I -unlock ang ulat",
+      "get": "Kumuha ng ulat"
+    },
+    "generating": "Pagbuo ng ulat ..."
+  },
+  "review": {
+    "request": "Kung nagustuhan mo ang app, mangyaring isaalang -alang ang pag -iwan ng isang pagsusuri upang matulungan kami.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Maraming salamat!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Magagamit ang bagong pakikipanayam!",
+      "message": "Mayroon kang isang bagong pakikipanayam na magagamit upang kunin ang Job Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Subscription",
+      "subscribe": "Mag -subscribe",
+      "invitation": "Mag -subscribe sa Premium",
+      "active": "Aktibo ang premium na subscription",
+      "thanks": "Salamat sa pag -subscribe sa Premium! Nais ka naming magandang kapalaran at tagumpay sa lahat ng iyong mga panayam sa hinaharap!",
+      "menu": {
+        "title": "Premium subscription",
+        "subtitle": "Mag -subscribe sa premium na plano"
+      }
+    },
+    "error": {
+      "subscription": "Error na sinusubukan upang mapatunayan ang iyong pagbili.",
+      "connection": "Error sa koneksyon.\n\nHindi kumonekta sa tindahan.",
+      "products": "Hindi masuri ang mga pagpipilian sa produkto.",
+      "subscription_options": "Hindi ma -load ang mga plano sa subscription.\n\nMangyaring, suriin ang iyong koneksyon sa internet, o subukang muli sa ibang pagkakataon."
+    }
+  },
+  "error": {
+    "title": "Error",
+    "unexpected": "May mali ... hindi mo ito nakikita! 😱",
+    "connection": "Koneksyon",
+    "connection_fix": "Suriin ang iyong koneksyon sa internet at subukang muli sa ibang pagkakataon.",
+    "ai": {
+      "no_response": "Walang tugon",
+      "unexpected": "Hindi inaasahan",
+      "internal_server_error": "Error sa Panloob na Server"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Magsanay para sa iyong susunod na pakikipanayam sa trabaho sa makatotohanang AI simulator na ito",
+      "full_description": "Ang pagkuha ba ng mga pakikipanayam sa trabaho ay kinakabahan ka at nababahala?\nSiguro naramdaman mo pa rin na hindi handa na kumuha ng mga panayam sa trabaho?\nIto ang perpektong app upang maisagawa ang iyong mga kasanayan sa pag -uusap sa isang setting ng pakikipanayam sa trabaho!\n\nGinagamit ng Job Intelliviewer ang kapangyarihan ng artipisyal na katalinuhan upang magsagawa ng makatotohanang mga panayam sa job job upang matulungan kang magamit ang mga kasanayan sa pag -uusap na kinakailangan upang makagawa ng isang mahusay na impression sa mga tunay na recruiter ng buhay at maghanda ka upang ma -ace ang iyong susunod na pakikipanayam.\n\nAng mga panayam ay naaayon sa posisyon ng trabaho na iyong hinahanap, at mahuhubog at maiayos sa mga katanungan na may kaugnayan sa iyong mga layunin upang mas mahusay na kumatawan sa isang tunay na pakikipanayam sa trabaho.\n\nAng mga gumagamit ng premium ay makakatanggap din ng isang ulat sa pagtatapos ng bawat pakikipanayam na nagbubuod sa pag -uusap na may puna at payo kung paano mapapabuti ang iyong pagkakataon na makakuha ng upahan sa isang tunay na pakikipanayam sa trabaho.",
+      "taglines": [
+        "Maging handa para sa iyong susunod na trabaho!",
+        "Magsanay para sa iyong susunod na pakikipanayam sa trabaho!",
+        "Ace ang iyong susunod na pakikipanayam sa trabaho sa AI!",
+        "Ang iyong susunod na propesyonal na tagumpay ay naghihintay sa iyo dito!"
+      ],
+      "premium_benefits": [
+        "Tinatanggal ang mga ad",
+        "Walang limitasyong panayam",
+        "Makatanggap ng mga ulat na may puna at payo"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Buwanang",
+      "annual": "Taunang",
+      "cancel_anytime": "Kanselahin anumang oras",
+      "save_discount": "I -save",
+      "subscribe": "Mag -subscribe",
+      "restore_purchases": "Ibalik ang mga pagbili",
+      "premium_benefits": [
+        "Alisin ang mga ad",
+        "Walang limitasyong mga panayam na walang mga cooldown",
+        "Makatanggap ng mga ulat na may puna at payo pagkatapos ng mga panayam"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Tulong sa pagsasalin",
+    "description": "Tulungan isalin ang application na ito sa iba pang mga wika."
+  }
+}

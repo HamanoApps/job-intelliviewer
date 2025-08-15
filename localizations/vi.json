@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PHẦN THƯỞNG",
+      "free": "Phiên bản miễn phí"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Thực hành cho cuộc phỏng vấn việc làm tiếp theo của bạn!",
+      "message": "Việc thực hiện các cuộc phỏng vấn việc làm có khiến bạn lo lắng và lo lắng không?\nCó lẽ bạn vẫn cảm thấy không chuẩn bị để thực hiện các cuộc phỏng vấn việc làm?\nĐây là ứng dụng hoàn hảo để thực hành các kỹ năng trò chuyện của bạn trong một thiết lập phỏng vấn xin việc!"
+    },
+    {
+      "title": "Hãy chuẩn bị cho công việc tiếp theo của bạn!",
+      "message": "Công việc IntelliViewer sử dụng sức mạnh của trí tuệ nhân tạo để thực hiện các cuộc phỏng vấn việc làm giả thực tế để giúp bạn khai thác các kỹ năng trò chuyện cần thiết để tạo ấn tượng tốt với các nhà tuyển dụng ngoài đời thực và khiến bạn chuẩn bị cho cuộc phỏng vấn thực tế tiếp theo của mình."
+    },
+    {
+      "title": "Đăng ký cao cấp:",
+      "message": "Nhận một báo cáo vào cuối mỗi cuộc phỏng vấn tóm tắt cuộc trò chuyện với phản hồi và lời khuyên về cách cải thiện cơ hội được thuê trong một cuộc phỏng vấn thực sự."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Trang chủ",
+      "interview": "Phỏng vấn",
+      "resume_cv": "Bản tóm tắt",
+      "history": "Lịch sử",
+      "history_entry": "Lịch sử nhập cảnh",
+      "reports": "Báo cáo",
+      "settings": "Cài đặt"
+    }
+  },
+  "title": {
+    "attention": "Chú ý",
+    "information": "Thông tin"
+  },
+  "label": {
+    "search": "Tìm kiếm"
+  },
+  "button": {
+    "ok": "ĐƯỢC RỒI",
+    "back": "Mặt sau",
+    "close": "Đóng",
+    "cancel": "Hủy bỏ",
+    "delete": "Xóa bỏ",
+    "review": "Ôn tập",
+    "subscribe": "Đặt mua"
+  },
+  "language": {
+    "title": "Ngôn ngữ",
+    "select": "Chọn ngôn ngữ",
+    "altered": "Ngôn ngữ đã thay đổi"
+  },
+  "history": {
+    "empty": "Lịch sử trống",
+    "delete": {
+      "list": {
+        "title": "Xóa lịch sử?",
+        "message": "Bạn có chắc là bạn muốn xóa toàn bộ lịch sử?",
+        "deleted": "Lịch sử đã xóa."
+      },
+      "entry": {
+        "title": "Xóa phỏng vấn?",
+        "message": "Bạn có chắc là bạn muốn xóa cuộc phỏng vấn này?",
+        "deleted": "Lịch sử đã xóa."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Tên",
+      "first_name": "Tên",
+      "date_of_birth": "Ngày sinh",
+      "job_position": "Vị trí công việc",
+      "job_position_detailed": "Vị trí công việc chi tiết",
+      "education": "Giáo dục",
+      "courses": "Khóa học",
+      "experience": "Kinh nghiệm",
+      "add": {
+        "education": "Thêm giáo dục mới",
+        "courses": "Thêm khóa học mới",
+        "experience": "Thêm kinh nghiệm mới"
+      },
+      "error": {
+        "validation": {
+          "title": "Lỗi xác thực",
+          "invalid_fields": "Chèn một vai trò vị trí công việc hợp lệ để áp dụng cho một cuộc phỏng vấn việc làm mới.\nCách khác",
+          "unable_to_validate": "Không thể xác nhận các trường."
+        }
+      }
+    },
+    "education": {
+      "institution": "Tổ chức",
+      "degree": "Bằng cấp",
+      "start": "Bắt đầu",
+      "end": "Kết thúc"
+    },
+    "courses": {
+      "institution": "Tổ chức",
+      "title_of_course": "Tiêu đề tất nhiên",
+      "course_load": "Tải khóa học"
+    },
+    "experience": {
+      "company": "Công ty",
+      "position": "Chức vụ",
+      "start": "Bắt đầu",
+      "end": "Kết thúc"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Chủ đề tối",
+      "description": "Chọn giữa chủ đề ánh sáng và tối.\nTự động đặt thành chủ đề của thiết bị ngay lần đầu tiên bạn mở ứng dụng."
+    },
+    "language": {
+      "name": "Ngôn ngữ",
+      "description": "Chọn ngôn ngữ ưa thích để hiển thị trong khi sử dụng ứng dụng và nói chuyện với AI trong các cuộc phỏng vấn."
+    },
+    "notifications": {
+      "saved": "Cài đặt được lưu"
+    },
+    "search": {
+      "not_found": "Không tìm thấy kết quả."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Phỏng vấn mới",
+      "resume": "Tiếp tục phỏng vấn"
+    },
+    "generating": "Tạo cuộc phỏng vấn mới"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Nhấn để thử lại"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Nhập tin nhắn của bạn ...",
+    "max_length": "Độ dài tối đa đạt được"
+  },
+  "cooldown": {
+    "description": "Phiên bản miễn phí của ứng dụng cho phép bạn thực hiện một cuộc phỏng vấn mỗi giờ.\n\nNếu bạn muốn xóa các hạn chế, hãy xóa quảng cáo và nhận báo cáo phản hồi với lời khuyên về cách cải thiện sau mỗi cuộc phỏng vấn, hãy xem xét đăng ký phí bảo hiểm.",
+    "active": "Đợi thời gian thời gian hồi chiêu trước khi tạo ra một cuộc phỏng vấn mới.\n\nNếu bạn muốn xóa thời gian hồi chiêu, xóa quảng cáo và nhận báo cáo phản hồi với lời khuyên về cách cải thiện sau mỗi cuộc phỏng vấn, hãy xem xét đăng ký cao cấp.",
+    "timer": {
+      "wait": "Chờ đợi",
+      "second": "thứ hai",
+      "seconds": "giây"
+    }
+  },
+  "report": {
+    "title": "Báo cáo",
+    "summary": "Bản tóm tắt",
+    "feedback": "Nhận xét",
+    "advice": "Khuyên bảo",
+    "button": {
+      "view": "Xem báo cáo",
+      "unlock": "Mở khóa báo cáo",
+      "get": "Nhận báo cáo"
+    },
+    "generating": "Tạo báo cáo ..."
+  },
+  "review": {
+    "request": "Nếu bạn thích ứng dụng, vui lòng xem xét để lại đánh giá để giúp chúng tôi.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Cảm ơn rất nhiều!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Phỏng vấn mới có sẵn!",
+      "message": "Bạn có một cuộc phỏng vấn mới có sẵn để đảm nhận công việc IntelliViewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PHẦN THƯỞNG",
+      "type": "Đăng ký",
+      "subscribe": "Đặt mua",
+      "invitation": "Đăng ký phí bảo hiểm",
+      "active": "Đăng ký cao cấp hoạt động",
+      "thanks": "Cảm ơn bạn đã đăng ký cao cấp! Chúng tôi chúc bạn may mắn và thành công trong tất cả các cuộc phỏng vấn trong tương lai của bạn!",
+      "menu": {
+        "title": "Đăng ký cao cấp",
+        "subtitle": "Đăng ký kế hoạch cao cấp"
+      }
+    },
+    "error": {
+      "subscription": "Lỗi khi cố gắng xác nhận mua hàng của bạn.",
+      "connection": "Lỗi kết nối.\n\nKhông thể kết nối với cửa hàng.",
+      "products": "Không thể kiểm tra tùy chọn sản phẩm.",
+      "subscription_options": "Không thể tải kế hoạch đăng ký.\n\nVui lòng kiểm tra kết nối Internet của bạn hoặc thử lại sau."
+    }
+  },
+  "error": {
+    "title": "Lỗi",
+    "unexpected": "Có gì đó không ổn ... bạn sẽ không thấy điều này! 😱",
+    "connection": "Sự liên quan",
+    "connection_fix": "Kiểm tra kết nối Internet của bạn và thử lại sau.",
+    "ai": {
+      "no_response": "Không có phản hồi",
+      "unexpected": "Không ngờ tới",
+      "internal_server_error": "Lỗi máy chủ nội bộ"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Thực hành cho cuộc phỏng vấn công việc tiếp theo của bạn với trình giả lập AI thực tế này",
+      "full_description": "Việc thực hiện các cuộc phỏng vấn việc làm có khiến bạn lo lắng và lo lắng không?\nCó lẽ bạn vẫn cảm thấy không chuẩn bị để thực hiện các cuộc phỏng vấn việc làm?\nĐây là ứng dụng hoàn hảo để thực hành các kỹ năng trò chuyện của bạn trong một thiết lập phỏng vấn xin việc!\n\nCông việc IntelliViewer sử dụng sức mạnh của trí tuệ nhân tạo để thực hiện các cuộc phỏng vấn việc làm giả thực tế để giúp bạn khai thác các kỹ năng trò chuyện cần thiết để tạo ấn tượng tốt với các nhà tuyển dụng ngoài đời thực và khiến bạn chuẩn bị cho cuộc phỏng vấn tiếp theo.\n\nCác cuộc phỏng vấn được điều chỉnh theo vị trí công việc mà bạn đang tìm kiếm, và sẽ được định hình và điều chỉnh với các câu hỏi liên quan đến mục tiêu của bạn để thể hiện tốt hơn một cuộc phỏng vấn việc làm thực sự.\n\nNgười dùng Premium cũng sẽ nhận được một báo cáo vào cuối mỗi cuộc phỏng vấn tóm tắt cuộc trò chuyện với phản hồi và lời khuyên về cách cải thiện cơ hội được thuê trong một cuộc phỏng vấn thực sự.",
+      "taglines": [
+        "Hãy chuẩn bị cho công việc tiếp theo của bạn!",
+        "Thực hành cho cuộc phỏng vấn việc làm tiếp theo của bạn!",
+        "Ace cuộc phỏng vấn công việc tiếp theo của bạn với AI!",
+        "Thành công chuyên nghiệp tiếp theo của bạn đang chờ bạn ở đây!"
+      ],
+      "premium_benefits": [
+        "Xóa quảng cáo",
+        "Phỏng vấn không giới hạn",
+        "Nhận báo cáo với phản hồi và lời khuyên"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Phần thưởng",
+      "monthly": "Hàng tháng",
+      "annual": "Hàng năm",
+      "cancel_anytime": "Hủy bất cứ lúc nào",
+      "save_discount": "Cứu",
+      "subscribe": "Đặt mua",
+      "restore_purchases": "Khôi phục mua hàng",
+      "premium_benefits": [
+        "Xóa quảng cáo",
+        "Các cuộc phỏng vấn không giới hạn không có thời gian hồi chiêu",
+        "Nhận báo cáo với phản hồi và lời khuyên sau khi phỏng vấn"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Giúp dịch",
+    "description": "Giúp dịch ứng dụng này sang các ngôn ngữ khác."
+  }
+}

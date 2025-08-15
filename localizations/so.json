@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Lacag joogto ah",
+      "free": "Nooca bilaashka ah"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Ku celceli wareysigaaga shaqada ee xiga!",
+      "message": "Qaadashada wareysiyada shaqada miyuu ku xanuunayaa walwal iyo walaac?\nLaga yaabee inaad wali dareento inaan diyaar u ahayn inaad qaadato wareysiyo shaqo?\nKani waa barnaamijka kaamil ah ee lagu tababarayo xirfadahaaga wadahadalka ee goobta wareysiga shaqada!"
+    },
+    {
+      "title": "Diyaar u noqo shaqadaada xigta!",
+      "message": "Irganka shaqada wuxuu adeegsadaa awoodda sirdoonka macmalka ah si uu u sameeyo wareysiyo macquul ah oo uu kugu caawiyo si uu kuu hayo xirfadaha wada-hadalka ee loo baahan yahay si uu u sameeyo aragti wanaagsan oo ku saabsan shaqaalaynta dhabta ah oo kaa dhigaysa inaad u diyaarsatid wareysigaaga nolosha ee dhabta ah."
+    },
+    {
+      "title": "Diiwaangelinta Bilaashka ah:",
+      "message": "Hesho warbixin dhamaadka wareysi kasta oo soo koobaya wadahadalka wakaalada jawaab celinta iyo talo ku saabsan sida loo hagaajiyo fursadahaaga lagu shaqaaleysiinayo wareysiga shaqada dhabta ah."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Guri",
+      "interview": "Kulan wareysi ah",
+      "resume_cv": "Reyumé",
+      "history": "Taariikh",
+      "history_entry": "Soo Galitaanka Taariikhda",
+      "reports": "Warbixin",
+      "settings": "Dejinta"
+    }
+  },
+  "title": {
+    "attention": "Digtooni",
+    "information": "War"
+  },
+  "label": {
+    "search": "Raadin"
+  },
+  "button": {
+    "ok": "Hagaag",
+    "back": "Xagga gadaale",
+    "close": "Xirid",
+    "cancel": "Burin",
+    "delete": "Tirtirid",
+    "review": "Dib u hubin",
+    "subscribe": "Ku qor"
+  },
+  "language": {
+    "title": "Af",
+    "select": "Xullo luuqad",
+    "altered": "Luqadda ayaa la beddelay"
+  },
+  "history": {
+    "empty": "Taariikh madhan",
+    "delete": {
+      "list": {
+        "title": "Taariikhda tirtir?",
+        "message": "Ma hubtaa inaad rabto inaad tirtirto taariikhda oo dhan?",
+        "deleted": "Taariikhda la tirtiray."
+      },
+      "entry": {
+        "title": "Tirtir wareysiga?",
+        "message": "Ma hubtaa inaad rabto inaad tirtirto wareysigan?",
+        "deleted": "Taariikhda la tirtiray."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Magac",
+      "first_name": "Magaca koowaad",
+      "date_of_birth": "Taariikhda dhalashada",
+      "job_position": "Booska shaqada",
+      "job_position_detailed": "Booska shaqada ee faahfaahsan",
+      "education": "Waxbarasho",
+      "courses": "Koorasyo",
+      "experience": "Khibrad",
+      "add": {
+        "education": "Ku dar waxbarasho cusub",
+        "courses": "Kudar koorso cusub",
+        "experience": "Kudar khibrad cusub"
+      },
+      "error": {
+        "validation": {
+          "title": "Khalad ansax ah",
+          "invalid_fields": "Gali kaalin shaqo oo shaqo oo ansax ah oo aad ku dalbato wareysi shaqo oo cusub.\nHaddii kale",
+          "unable_to_validate": "Lama xaqiijin karo beeraha."
+        }
+      }
+    },
+    "education": {
+      "institution": "Dhismo weyn",
+      "degree": "Qiyaas",
+      "start": "Bilaabid",
+      "end": "Dhammaad"
+    },
+    "courses": {
+      "institution": "Dhismo weyn",
+      "title_of_course": "Cinwaanka koorsada",
+      "course_load": "Rarka koorsada"
+    },
+    "experience": {
+      "company": "Wehel",
+      "position": "Meel",
+      "start": "Bilaabid",
+      "end": "Dhammaad"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Mowduuc mugdi ah",
+      "description": "Xulo inta u dhaxaysa iftiinka iyo mowduuca mugdiga ah.\nSi otomaatig ah u dejiso mawduuca aaladda markii ugu horreysay ee aad furato barnaamijka."
+    },
+    "language": {
+      "name": "Af",
+      "description": "Xulo luqadda la doorbiday si aad u soo bandhigto inta aad isticmaaleyso arjiga oo aad lahadasho AI inta lagu gudajiro wareysiyada."
+    },
+    "notifications": {
+      "saved": "Dejinta la keydiyay"
+    },
+    "search": {
+      "not_found": "Natiijooyin lama helin."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Wareysiga cusub",
+      "resume": "Dib u bilaw wareysiga"
+    },
+    "generating": "Abuurista wareysi cusub"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Taabo si aad iskudaydo"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Qor fariintaada ...",
+    "max_length": "Dhererka max"
+  },
+  "cooldown": {
+    "description": "Nooca bilaashka ah ee app-ka wuxuu kuu oggolaanayaa inaad mid ka mid ah wareysato saacaddii.\n\nHadaad jeceshahay inaad ka saarto xadidaada, ka saar xayeysiinta, oo aad ka hesho warbixin jawaab celin ah oo ku saabsan sida loo hagaajiyo wareysi kasta, tixgeli inaad ku qorto lacag-bixinta.",
+    "active": "Sug sugida saacadda kacsan kahor intaadan abuurin wareysi cusub.\n\nHaddii aad jeceshahay inaad ka saarto coldenowns, ka saar xayeysiiska, oo aad ka hesho warbixin ra'yi-celin ah oo ku saabsan sida loo hagaajiyo wareysi kasta, tixgeli inaad ku qorto gudeynta.",
+    "timer": {
+      "wait": "Sugid",
+      "second": "labaad",
+      "seconds": "sekan"
+    }
+  },
+  "report": {
+    "title": "War bixinta",
+    "summary": "Kooban",
+    "feedback": "Jawaab celin",
+    "advice": "Talo",
+    "button": {
+      "view": "Fiiri Warbixinta",
+      "unlock": "Unlock Warbixinta",
+      "get": "Soo hel warbixin"
+    },
+    "generating": "Soo saarida Warbixinta ..."
+  },
+  "review": {
+    "request": "Haddii aad jeceshahay barnaamijka, fadlan ka fikir inaad ka baxdo dib u eegista si ay noo caawiso.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Aad baad u mahadsantahay!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Wareysiga cusub ee la heli karo!",
+      "message": "Waxaad leedahay wareysi cusub oo aad diyaar u tahay inaad ku qaadato shaqada shaqada."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Lacag joogto ah",
+      "type": "Rukumasho warqad",
+      "subscribe": "Ku qor",
+      "invitation": "Isticmaal lacagta joogtada ah",
+      "active": "QIIMAYNTA QARANKA FARSAMADA",
+      "thanks": "Waad ku mahadsantahay inaad iska diiwaangeliso lacagta joogtada ah! Waxaan kuu rajeyneynaa nasiib wacan iyo guul dhammaan wareysiyadaada mustaqbalka!",
+      "menu": {
+        "title": "Diiwaangelinta Premium",
+        "subtitle": "Kusoo dhawow qorshaha lacagta joogtada ah"
+      }
+    },
+    "error": {
+      "subscription": "Khalad isku dayaya inuu xaqiijiyo iibsashadaada.",
+      "connection": "Khalad isku xirka.\n\nLama xiriirin karo dukaanka.",
+      "products": "Lama hubin karo xulashooyinka badeecada.",
+      "subscription_options": "Awoodin in lagu shubo qorshayaasha rukunka.\n\nFadlan, hubi xiriirkaaga internetka, ama mar labaad isku day mar dambe."
+    }
+  },
+  "error": {
+    "title": "Khalad",
+    "unexpected": "Waxbaa khaldamay ... Adigoo aad u arkin tan! 😱",
+    "connection": "Xiriir",
+    "connection_fix": "Hubi xiriirkaaga internetka oo isku day mar dambe.",
+    "ai": {
+      "no_response": "Wax jawaab ah kama bixin",
+      "unexpected": "Aan la filayn",
+      "internal_server_error": "Khaladaadka server-ka gudaha"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Ku celceli wareysigaaga shaqada ee soo socota oo ay la yeelato simulator dhabta ah",
+      "full_description": "Qaadashada wareysiyada shaqada miyuu ku xanuunayaa walwal iyo walaac?\nLaga yaabee inaad wali dareento inaan diyaar u ahayn inaad qaadato wareysiyo shaqo?\nKani waa barnaamijka kaamil ah ee lagu tababarayo xirfadahaaga wadahadalka ee goobta wareysiga shaqada!\n\nSirganka shaqada wuxuu adeegsadaa awoodda sirdoonka macmalka ah si uu u sameeyo wareysiyo macquul ah oo macquul ah si uu kaaga caawiyo xakameynta xirfadaha wada-hadalka ee loo baahan yahay si uu u sameeyo aragti wanaagsan oo ku saabsan shaqaalaysiinta dhabta ah oo kaa dhigaysa inaad u diyaarsatid wareysigaaga xiga.\n\nWareysiyada waxaa loogu talagalay booska shaqada ee aad raadineyso, waana loo qaabeyn doonaa oo lagu hagaajin doonaa su'aalaha la xiriira yoolalkaaga si aad u fiicnaato wareysiga shaqada dhabta ah.\n\nIsticmaalayaasha joogtada ah waxay sidoo kale heli doonaan warbixin dhamaadka wareysi kasta oo soo koobaya wadahadalka wakaalada jawaab-celinta iyo talo ku saabsan sida loo wanaajiyo fursadahaaga lagu kireysto wareysiga shaqada dhabta ah.",
+      "taglines": [
+        "Diyaar u noqo shaqadaada xigta!",
+        "Ku celceli wareysigaaga shaqada ee xiga!",
+        "Ace Wareysigaaga shaqada ee xiga ee AI!",
+        "Guushaada xigta ee xirfadda soo socota ayaa halkan kugu sugaysaa!"
+      ],
+      "premium_benefits": [
+        "Waxay ka saartaa xayeysiiska",
+        "Wareysi aan xadidneyn",
+        "Hesho warbixinno wata jawaab celin iyo talo"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Lacag joogto ah",
+      "monthly": "Bil kasta",
+      "annual": "Sannad kasta mar u dhaca",
+      "cancel_anytime": "Jooji wakhti kasta",
+      "save_discount": "Badbaadin",
+      "subscribe": "Ku qor",
+      "restore_purchases": "Soo celinta Iibsashada",
+      "premium_benefits": [
+        "Ka saar xayeysiiska",
+        "Wareysi aan xadidneyn oo aan lahayn isku-dhafan",
+        "Hesho warbixinno wata-jawaabcelin iyo talo kadib wareysiyada kadib"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Caawinta turjumaada",
+    "description": "Caawinta u turjun arjigan luqadaha kale."
+  }
+}

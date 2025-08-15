@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PREMIE",
+      "free": "Gratisversion"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Öva för din nästa jobbintervju!",
+      "message": "Får du att ta jobbintervjuer nervös och orolig?\nKanske känner du dig fortfarande oförberedd att ta jobbintervjuer?\nDetta är den perfekta appen för att öva dina samtalskompetenser i en jobbintervjuinställning!"
+    },
+    {
+      "title": "Var beredd på ditt nästa jobb!",
+      "message": "Job Intelliviewer använder kraften i artificiell intelligens för att genomföra realistiska håliga jobbintervjuer för att hjälpa dig att utnyttja de konversationsförmågor som behövs för att göra ett gott intryck på rekryterare i verkliga livet och göra dig beredd att få din nästa verkliga intervju."
+    },
+    {
+      "title": "Premiumabonnemang:",
+      "message": "Få en rapport i slutet av varje intervju som sammanfattar konversationen med feedback och råd om hur du kan förbättra dina chanser att bli anställd i en riktig jobbintervju."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Hem",
+      "interview": "Intervju",
+      "resume_cv": "Resume",
+      "history": "Historia",
+      "history_entry": "Historikinträde",
+      "reports": "Rapporter",
+      "settings": "Inställningar"
+    }
+  },
+  "title": {
+    "attention": "Uppmärksamhet",
+    "information": "Information"
+  },
+  "label": {
+    "search": "Söka"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Tillbaka",
+    "close": "Nära",
+    "cancel": "Avboka",
+    "delete": "Radera",
+    "review": "Recension",
+    "subscribe": "Prenumerera"
+  },
+  "language": {
+    "title": "Språk",
+    "select": "Välj språk",
+    "altered": "Språket förändrades"
+  },
+  "history": {
+    "empty": "Tom historia",
+    "delete": {
+      "list": {
+        "title": "Ta bort historien?",
+        "message": "Är du säker på att du vill ta bort hela historien?",
+        "deleted": "Historien raderad."
+      },
+      "entry": {
+        "title": "Ta bort intervju?",
+        "message": "Är du säker på att du vill ta bort den här intervjun?",
+        "deleted": "Historien raderad."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Namn",
+      "first_name": "Förnamn",
+      "date_of_birth": "Födelsedatum",
+      "job_position": "Arbetsposition",
+      "job_position_detailed": "Detaljerad jobbposition",
+      "education": "Utbildning",
+      "courses": "Kurser",
+      "experience": "Uppleva",
+      "add": {
+        "education": "Lägg till ny utbildning",
+        "courses": "Lägg till ny kurs",
+        "experience": "Lägg till ny upplevelse"
+      },
+      "error": {
+        "validation": {
+          "title": "Valideringsfel",
+          "invalid_fields": "Sätt in en giltig arbetsposition för att ansöka om en ny jobbintervju.\nAlternativt",
+          "unable_to_validate": "Det går inte att validera fält."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institution",
+      "degree": "Grad",
+      "start": "Start",
+      "end": "Avsluta"
+    },
+    "courses": {
+      "institution": "Institution",
+      "title_of_course": "Naturligtvis titel",
+      "course_load": "Kursbelastning"
+    },
+    "experience": {
+      "company": "Företag",
+      "position": "Placera",
+      "start": "Start",
+      "end": "Avsluta"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Mörkt tema",
+      "description": "Välj mellan ljus och mörkt tema.\nStäll automatiskt in på enhetens tema första gången du öppnar appen."
+    },
+    "language": {
+      "name": "Språk",
+      "description": "Välj det föredragna språket som ska visas när du använder applikationen och pratar med AI under intervjuerna."
+    },
+    "notifications": {
+      "saved": "Inställningar sparade"
+    },
+    "search": {
+      "not_found": "Inga resultat hittades."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Ny intervju",
+      "resume": "CV -intervju"
+    },
+    "generating": "Generera ny intervju"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tryck för att försöka igen"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Skriv ditt meddelande ...",
+    "max_length": "Max längd nådde"
+  },
+  "cooldown": {
+    "description": "Den gratis versionen av appen låter dig ta en intervju per timme.\n\nOm du vill ta bort begränsningarna, ta bort annonserna och få en feedbackrapport med råd om hur du kan förbättras efter varje intervju, överväga att prenumerera på premium.",
+    "active": "Vänta på Cooldown -timern innan du genererar en ny intervju.\n\nOm du vill ta bort nedkylning, ta bort annonser och få en feedbackrapport med råd om hur du kan förbättras efter varje intervju, överväga att prenumerera på premium.",
+    "timer": {
+      "wait": "Vänta",
+      "second": "andra",
+      "seconds": "sekunder"
+    }
+  },
+  "report": {
+    "title": "Rapportera",
+    "summary": "Sammanfattning",
+    "feedback": "Feed-back",
+    "advice": "Råd",
+    "button": {
+      "view": "Visa rapport",
+      "unlock": "Låsa upp rapporten",
+      "get": "Få rapport"
+    },
+    "generating": "Genererande rapport ..."
+  },
+  "review": {
+    "request": "Om du gillade appen, överväg att lämna en recension för att hjälpa oss.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Tack så mycket!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Ny intervju tillgänglig!",
+      "message": "Du har en ny intervju tillgänglig för att ta på dig Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PREMIE",
+      "type": "Prenumeration",
+      "subscribe": "Prenumerera",
+      "invitation": "Prenumerera på premium",
+      "active": "Premiumabonnemang aktivt",
+      "thanks": "Tack för att du prenumererar på Premium! Vi önskar dig lycka till och framgång med alla dina framtida intervjuer!",
+      "menu": {
+        "title": "Premiumprenumeration",
+        "subtitle": "Prenumerera på premiumplanen"
+      }
+    },
+    "error": {
+      "subscription": "Fel att försöka validera ditt köp.",
+      "connection": "Anslutningsfel.\n\nDet går inte att ansluta till butiken.",
+      "products": "Det går inte att kontrollera produktalternativ.",
+      "subscription_options": "Det går inte att ladda prenumerationsplaner.\n\nKontrollera din internetanslutning eller försök igen senare."
+    }
+  },
+  "error": {
+    "title": "Fel",
+    "unexpected": "Något gick fel ... du skulle inte se det här! 😱",
+    "connection": "Förbindelse",
+    "connection_fix": "Kontrollera din internetanslutning och försök igen senare.",
+    "ai": {
+      "no_response": "Inget svar",
+      "unexpected": "Oväntad",
+      "internal_server_error": "Internt serverfel"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Öva för din nästa jobbintervju med denna realistiska AI -simulator",
+      "full_description": "Får du att ta jobbintervjuer nervös och orolig?\nKanske känner du dig fortfarande oförberedd att ta jobbintervjuer?\nDetta är den perfekta appen för att öva dina samtalskompetenser i en jobbintervjuinställning!\n\nJob Intelliviewer använder kraften i artificiell intelligens för att genomföra realistiska håliga jobbintervjuer för att hjälpa dig att utnyttja de konversationsförmågor som behövs för att göra ett gott intryck på rekryterare i verkliga livet och göra dig beredd att få din nästa intervju.\n\nIntervjuerna är anpassade till den jobbposition du söker och kommer att formas och justeras med frågor relaterade till dina mål för att bättre representera en riktig jobbintervju.\n\nPremiumanvändare kommer också att få en rapport i slutet av varje intervju som sammanfattar konversationen med feedback och råd om hur du kan förbättra dina chanser att bli anställda i en riktig jobbintervju.",
+      "taglines": [
+        "Var beredd på ditt nästa jobb!",
+        "Öva för din nästa jobbintervju!",
+        "Ace Din nästa jobbintervju med AI!",
+        "Din nästa professionella framgång väntar dig här!"
+      ],
+      "premium_benefits": [
+        "Tar bort annonser",
+        "Obegränsade intervjuer",
+        "Ta emot rapporter med feedback och råd"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premie",
+      "monthly": "Månatlig",
+      "annual": "Årlig",
+      "cancel_anytime": "Avbryt när som helst",
+      "save_discount": "Spara",
+      "subscribe": "Prenumerera",
+      "restore_purchases": "Återställ inköp",
+      "premium_benefits": [
+        "Ta bort annonser",
+        "Obegränsade intervjuer utan nedkylning",
+        "Ta emot rapporter med feedback och råd efter intervjuer"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Hjälp att översätta",
+    "description": "Hjälp till att översätta denna applikation till andra språk."
+  }
+}

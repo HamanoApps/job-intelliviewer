@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Prim",
+      "free": "Ücretsiz Versiyon"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Bir sonraki iş görüşmeniz için pratik yapın!",
+      "message": "İş görüşmeleri yapmak sizi gergin ve endişeli hale getiriyor mu?\nBelki hala iş görüşmeleri yapmak için hazırlıksız hissediyorsunuz?\nBu, bir iş görüşmesi ortamında konuşma becerilerinizi uygulamak için mükemmel bir uygulamadır!"
+    },
+    {
+      "title": "Bir sonraki işinize hazır olun!",
+      "message": "Job Intelliviewer, gerçek hayat işverenleri üzerinde iyi bir izlenim bırakmak ve bir sonraki gerçek hayat röportajınızı asmaya hazır hale getirmek için gereken konuşma becerilerini kullanmanıza yardımcı olmak için gerçekçi sahte iş görüşmeleri yapmak için yapay zekanın gücünü kullanır."
+    },
+    {
+      "title": "Premium Abonelik:",
+      "message": "Her röportajın sonunda, gerçek bir iş görüşmesinde işe alınma şansınızı nasıl artıracağınıza dair geri bildirim ve tavsiyelerle konuşmayı özetleyen bir rapor alın."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Ev",
+      "interview": "Röportaj",
+      "resume_cv": "Sürdürmek",
+      "history": "Tarih",
+      "history_entry": "Tarih girişi",
+      "reports": "Raporlar",
+      "settings": "Ayarlar"
+    }
+  },
+  "title": {
+    "attention": "Dikkat",
+    "information": "Bilgi"
+  },
+  "label": {
+    "search": "Aramak"
+  },
+  "button": {
+    "ok": "TAMAM",
+    "back": "Geri",
+    "close": "Kapalı",
+    "cancel": "İptal etmek",
+    "delete": "Silmek",
+    "review": "Gözden geçirmek",
+    "subscribe": "Abone"
+  },
+  "language": {
+    "title": "Dil",
+    "select": "Dili seçin",
+    "altered": "Dil değişti"
+  },
+  "history": {
+    "empty": "Boş tarih",
+    "delete": {
+      "list": {
+        "title": "Geçmişi Sil?",
+        "message": "Tüm geçmişi silmek istediğinden emin misiniz?",
+        "deleted": "Tarih silindi."
+      },
+      "entry": {
+        "title": "Röportajı Sil?",
+        "message": "Bu röportajı silmek istediğinizden emin misiniz?",
+        "deleted": "Tarih silindi."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "İsim",
+      "first_name": "İlk adı",
+      "date_of_birth": "Doğum tarihi",
+      "job_position": "İş pozisyonu",
+      "job_position_detailed": "Ayrıntılı iş pozisyonu",
+      "education": "Eğitim",
+      "courses": "Kurslar",
+      "experience": "Deneyim",
+      "add": {
+        "education": "Yeni Eğitim Ekle",
+        "courses": "Yeni kurs ekle",
+        "experience": "Yeni deneyim ekleyin"
+      },
+      "error": {
+        "validation": {
+          "title": "Doğrulama hatası",
+          "invalid_fields": "Yeni bir iş görüşmesi için başvurmak için geçerli bir iş pozisyonu rolü ekleyin.\nAlternatif olarak",
+          "unable_to_validate": "Alanları doğrulanamıyor."
+        }
+      }
+    },
+    "education": {
+      "institution": "Kurum",
+      "degree": "Derece",
+      "start": "Başlangıç",
+      "end": "Son"
+    },
+    "courses": {
+      "institution": "Kurum",
+      "title_of_course": "Tabii ki başlık",
+      "course_load": "Kurs yükü"
+    },
+    "experience": {
+      "company": "Şirket",
+      "position": "Konum",
+      "start": "Başlangıç",
+      "end": "Son"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Karanlık tema",
+      "description": "Işık ve karanlık tema arasında seçin.\nUygulamayı ilk açtığınızda cihazın temasına otomatik olarak ayarlayın."
+    },
+    "language": {
+      "name": "Dil",
+      "description": "Uygulamayı kullanırken görüntülenecek ve görüşmeler sırasında AI ile konuşurken tercih edilen dili seçin."
+    },
+    "notifications": {
+      "saved": "Kaydedilen Ayarlar"
+    },
+    "search": {
+      "not_found": "Sonuç bulunamadı."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Yeni röportaj",
+      "resume": "Röportajı Devam Edin"
+    },
+    "generating": "Yeni Röportaj Oluşturma"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Yeniden denemek için dokunun"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Mesajınızı yazın ...",
+    "max_length": "Maksimum uzunluk ulaşıldı"
+  },
+  "cooldown": {
+    "description": "Uygulamanın ücretsiz sürümü, saatte bir röportaj almanızı sağlar.\n\nSınırlamaları kaldırmak, reklamları kaldırmak ve her görüşmeden sonra nasıl iyileştirileceğine dair tavsiyelerde bulunan bir geri bildirim raporu almak istiyorsanız, prim'e abone olmayı düşünün.",
+    "active": "Yeni bir röportaj yapmadan önce bekleme sürecini bekleyin.\n\nHer bir görüşmeden sonra nasıl iyileştirileceğine dair tavsiyelerde bulunarak bekleme sürelerini kaldırmak, reklamları kaldırmak ve bir geri bildirim raporu almak istiyorsanız, prim'e abone olmayı düşünün.",
+    "timer": {
+      "wait": "Beklemek",
+      "second": "ikinci",
+      "seconds": "saniye"
+    }
+  },
+  "report": {
+    "title": "Rapor",
+    "summary": "Özet",
+    "feedback": "Geri bildirim",
+    "advice": "Tavsiye",
+    "button": {
+      "view": "Raporu görüntüle",
+      "unlock": "Kilit açma raporu",
+      "get": "Rapor alın"
+    },
+    "generating": "Rapor oluşturma ..."
+  },
+  "review": {
+    "request": "Uygulamayı beğendiyseniz, lütfen bize yardımcı olmak için bir inceleme bırakmayı düşünün.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Çok teşekkür ederim!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Yeni röportaj mevcut!",
+      "message": "Job Intelliviewer'ı ele geçirmek için yeni bir röportajınız var."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Prim",
+      "type": "Abonelik",
+      "subscribe": "Abone",
+      "invitation": "Premium'a abone olun",
+      "active": "Premium Abonelik Aktif",
+      "thanks": "Premium'a abone olduğunuz için teşekkür ederiz! Gelecekteki tüm röportajlarınızda iyi şanslar ve başarı diliyoruz!",
+      "menu": {
+        "title": "Premium abonelik",
+        "subtitle": "Premium plana abone olun"
+      }
+    },
+    "error": {
+      "subscription": "Satın alma işleminizi doğrulamaya çalışırken hata.",
+      "connection": "Bağlantı hatası.\n\nMağazaya bağlanılamıyor.",
+      "products": "Ürün seçeneklerini kontrol edemiyor.",
+      "subscription_options": "Abonelik planlarını yükleyemiyor.\n\nLütfen, İnternet bağlantınızı kontrol edin veya daha sonra tekrar deneyin."
+    }
+  },
+  "error": {
+    "title": "Hata",
+    "unexpected": "Bir şeyler ters gitti ... bunu göremezsin! 😱",
+    "connection": "Bağlantı",
+    "connection_fix": "İnternet bağlantınızı kontrol edin ve daha sonra tekrar deneyin.",
+    "ai": {
+      "no_response": "Yanıt Yok",
+      "unexpected": "Beklenmedik",
+      "internal_server_error": "İç Sunucu Hatası"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Bu gerçekçi AI simülatörü ile bir sonraki iş görüşmeniz için pratik yapın",
+      "full_description": "İş görüşmeleri yapmak sizi gergin ve endişeli hale getiriyor mu?\nBelki hala iş görüşmeleri yapmak için hazırlıksız hissediyorsunuz?\nBu, bir iş görüşmesi ortamında konuşma becerilerinizi uygulamak için mükemmel bir uygulamadır!\n\nJob Intelliviewer, gerçek hayat işverenleri üzerinde iyi bir izlenim bırakmak ve bir sonraki röportajınızı asmak için hazır olmanızı sağlamak için gereken konuşma becerilerini kullanmanıza yardımcı olmak için gerçekçi sahte iş görüşmeleri yapmak için yapay zekanın gücünü kullanır.\n\nGörüşmeler, aradığınız iş pozisyonuna göre uyarlanmıştır ve gerçek bir iş görüşmesini daha iyi temsil etmek için hedeflerinizle ilgili sorularla şekillendirilecek ve ayarlanacaktır.\n\nPremium kullanıcılar, her görüşmenin sonunda, gerçek bir iş görüşmesinde işe alınma şansınızı nasıl artıracağınıza dair geri bildirim ve tavsiyelerle konuşmayı özetleyen bir rapor alacaklar.",
+      "taglines": [
+        "Bir sonraki işinize hazır olun!",
+        "Bir sonraki iş görüşmeniz için pratik yapın!",
+        "AI ile bir sonraki iş görüşmenizi as!",
+        "Bir sonraki profesyonel başarınız sizi burada bekliyor!"
+      ],
+      "premium_benefits": [
+        "Reklamları kaldırır",
+        "Sınırsız Röportajlar",
+        "Geri bildirim ve tavsiyelerle raporlar alın"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Prim",
+      "monthly": "Aylık",
+      "annual": "Yıllık",
+      "cancel_anytime": "İstediğiniz zaman iptal et",
+      "save_discount": "Kaydetmek",
+      "subscribe": "Abone",
+      "restore_purchases": "Satın Alımları Geri Yükle",
+      "premium_benefits": [
+        "Reklamları Kaldır",
+        "Bekleme süresi olmayan sınırsız röportaj",
+        "Görüşmelerden sonra geri bildirim ve tavsiyelerle raporlar alın"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Çevirmeye Yardım",
+    "description": "Bu uygulamayı diğer dillere çevirmeye yardımcı olun."
+  }
+}

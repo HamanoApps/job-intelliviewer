@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Ipremiyamu",
+      "free": "Inguqulelo yasimahla"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Ziqhelise ngodliwanondlebe lwakho olulandelayo!",
+      "message": "Ngaba ukuthatha udliwanondlebe lomsebenzi kukwenza uloyiko kwaye unexhala?\nMhlawumbi usaziva ungakulungelanga ukuthatha udliwanondlebe lomsebenzi?\nLe yinkqubo egqibeleleyo yokuziqhelanisa nezakhono zakho zokuncokola kwiseti yodliwanondlebe!"
+    },
+    {
+      "title": "Zilungiselele umsebenzi wakho olandelayo!",
+      "message": "I-Jobliviewer isebenzisa amandla okuba nobuchule bokwenza izinto zokwenza udliwanondlebe oluyinyani ukukunceda ukuba usebenzise imbonakalo efunekayo ukuze wenze umbono ofanelekileyo wobomi bakho bokwenyani."
+    },
+    {
+      "title": "I-Premium Redumbunter:",
+      "message": "Fumana ingxelo ekupheleni kodliwanondlebe ngalunye lwesishwankathela le incoko ngengxelo kunye nengcebiso malunga nendlela yokuphucula amathuba akho okuqeshwa kudliwanondlebe lokwenyani."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Ikhaya",
+      "interview": "Udliwanondlebe",
+      "resume_cv": "Phinda Uqalele",
+      "history": "Imbali",
+      "history_entry": "Ukungena kwimbali",
+      "reports": "Iingxelo",
+      "settings": "Izicwangciso"
+    }
+  },
+  "title": {
+    "attention": "Ingqalelo",
+    "information": "Ulwazi"
+  },
+  "label": {
+    "search": "Ukukhankanya"
+  },
+  "button": {
+    "ok": "KULUNGILE",
+    "back": "Umva",
+    "close": "Vala",
+    "cancel": "Rhoxisa",
+    "delete": "Cima",
+    "review": "Uphononongo",
+    "subscribe": "Bhalisa"
+  },
+  "language": {
+    "title": "Ulwimi",
+    "select": "Khetha ulwimi",
+    "altered": "Ulwimi lutshintshiwe"
+  },
+  "history": {
+    "empty": "Imbali engenanto",
+    "delete": {
+      "list": {
+        "title": "Cima iMbali?",
+        "message": "Uqinisekile ukuba ufuna ukuyicima yonke imbali?",
+        "deleted": "Imbali icinyiwe."
+      },
+      "entry": {
+        "title": "Cima udliwanondlebe?",
+        "message": "Uqinisekile ukuba ufuna ukucima udliwanondlebe?",
+        "deleted": "Imbali icinyiwe."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Igama",
+      "first_name": "Igama lakho",
+      "date_of_birth": "Umhla wokuzalwa",
+      "job_position": "Indawo yomsebenzi",
+      "job_position_detailed": "Indawo yokusebenzela",
+      "education": "Imfundo",
+      "courses": "Iikhosi",
+      "experience": "Amava",
+      "add": {
+        "education": "Yongeza imfundo entsha",
+        "courses": "Yongeza ikhosi entsha",
+        "experience": "Yongeza amava amatsha"
+      },
+      "error": {
+        "validation": {
+          "title": "Impazamo yokuqinisekisa",
+          "invalid_fields": "Faka indima efanelekileyo yomsebenzi osebenzayo yokufaka isicelo sodliwanondlebe olutsha lomsebenzi.\nNgenye indlela",
+          "unable_to_validate": "Ayikwazi ukuqinisekisa amasimi."
+        }
+      }
+    },
+    "education": {
+      "institution": "Iziko",
+      "degree": "Isidanga",
+      "start": "Qala",
+      "end": "Isiphelo"
+    },
+    "courses": {
+      "institution": "Iziko",
+      "title_of_course": "Isihloko sekhosi",
+      "course_load": "Umthwalo wekhosi"
+    },
+    "experience": {
+      "company": "Inkampani",
+      "position": "Isikhundla",
+      "start": "Qala",
+      "end": "Isiphelo"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Umxholo omnyama",
+      "description": "Khetha phakathi kokukhanya kunye nomxholo omnyama.\nBeka umxholo wesixhobo okokuqala uvula usetyenziso."
+    },
+    "language": {
+      "name": "Ulwimi",
+      "description": "Khetha ulwimi olukhethiweyo ukubonisa ngelixa usebenzisa isicelo kwaye uthethe kwi-AI ngexesha lodliwanondlebe."
+    },
+    "notifications": {
+      "saved": "Izicwangciso zigciniwe"
+    },
+    "search": {
+      "not_found": "Akukho ziphumo zifunyenweyo."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Udliwanondlebe olutsha",
+      "resume": "Yenza udliwanondlebe"
+    },
+    "generating": "Ukuvelisa Udliwanondlebe olutsha"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Thepha ukuze uzame kwakhona"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Chwetheza umyalezo wakho ...",
+    "max_length": "Ubude obufikelelweyo"
+  },
+  "cooldown": {
+    "description": "Inguqulelo yasimahla ye-APP ikuvumela ukuba uthathe udliwanondlebe omnye ngeyure.\n\nUkuba ungathanda ukususa umda, susa iintengiso, kwaye ufumane ingxelo yengxelo ngengcebiso malunga nendlela yokuphucula emva kokuba udliwanondlebe, cinga ngepremiyamu.",
+    "active": "Lindela ixesha lesilumkiso ngaphambi kokuba uve udliwanondlebe olutsha.\n\nUkuba ungathanda ukususa i-Coolddown, ususe iintengiso, kwaye ufumane ingxelo yengxelo malunga nendlela yokuphucula emva kokuba udliwanondlebe ngalunye, cinga ngepremiyamu.",
+    "timer": {
+      "wait": "Yima",
+      "second": "Isibini",
+      "seconds": "imizuzwana"
+    }
+  },
+  "report": {
+    "title": "Ingxelo",
+    "summary": "Isishwankathelo",
+    "feedback": "Impendulo",
+    "advice": "Ingcebiso",
+    "button": {
+      "view": "Jonga ingxelo",
+      "unlock": "Vula ingxelo",
+      "get": "Fumana ingxelo"
+    },
+    "generating": "Ukuvelisa ingxelo ..."
+  },
+  "review": {
+    "request": "Ukuba uyithandile i-APP, nceda uqaphele ukuhamba uphononongo ukusinceda.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Enkosi kakhulu!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Udliwanondlebe olutsha olutsha!",
+      "message": "Unodliwanondlebe olutsha olukhoyo lokuthatha umsebenzi-ntsapho."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Ipremiyamu",
+      "type": "Ubhaliso",
+      "subscribe": "Bhalisa",
+      "invitation": "Bhalisa kwipremiyamu",
+      "active": "Ukubhaliswa kwePremiyamu esebenzayo",
+      "thanks": "Enkosi ngokubhalisa kwipremiyamu! Sikunqwenelela ithamsanqa kunye nempumelelo kulo lonke udliwanondlebe lwakho lwexesha elizayo!",
+      "menu": {
+        "title": "I-Premium RelimuS",
+        "subtitle": "Bhalisa kwisicwangciso sePremiyamu"
+      }
+    },
+    "error": {
+      "subscription": "Imposiso izama ukuqinisekisa ukuthenga kwakho.",
+      "connection": "Impazamo yoqhagamshelo.\n\nAyikwazi ukuqhagamshela kwivenkile.",
+      "products": "Ayikwazi ukukhangela iindlela zemveliso.",
+      "subscription_options": "Ayikwazi ukulayisha izicwangciso zokubhalisela.\n\nNceda ujonge uqhagamshelo lwakho lwe-Intanethi, okanye uzame kwakhona kamva."
+    }
+  },
+  "error": {
+    "title": "Impazamo",
+    "unexpected": "Kukho into engahambanga kakuhle ... awungekhe uyibone le nto! 😱",
+    "connection": "Uqhagamshelo",
+    "connection_fix": "Jonga uqhagamshelo lwakho lwe-Intanethi kwaye uzame kwakhona kamva.",
+    "ai": {
+      "no_response": "Akukho mpendulo",
+      "unexpected": "Engalindelekanga",
+      "internal_server_error": "Impazamo yeSeva yangaphakathi"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Ukuziqhelanisa nodliwanondlebe lwakho olulandelayo ngale nto",
+      "full_description": "Ngaba ukuthatha udliwanondlebe lomsebenzi kukwenza uloyiko kwaye unexhala?\nMhlawumbi usaziva ungakulungelanga ukuthatha udliwanondlebe lomsebenzi?\nLe yinkqubo egqibeleleyo yokuziqhelanisa nezakhono zakho zokuncokola kwiseti yodliwanondlebe!\n\nI-Jobliviewer isebenzisa amandla okuba nobuchule bokwenza izinto zokwenza udliwanondlebe oluyinyani ukukunceda ukuba uchithe ubuchule obufunekayo bokwenza udliwanondlebe olulandelayo.\n\nUdliwanondlebe lulungiselelwe indawo yomsebenzi oyifunayo, kwaye uya kwenziwa kwaye uhlengahlengiswe ngemibuzo enxulumene neenjongo zakho ukuze ubonakale udliwanondlebe lokwenyani.\n\nAbasebenzisi beeprimiyamu baya kufumana ingxelo ekupheleni kodliwano-ndlebe,",
+      "taglines": [
+        "Zilungiselele umsebenzi wakho olandelayo!",
+        "Ziqhelise ngodliwanondlebe lwakho olulandelayo!",
+        "I-ACE PRODE YAKHO ELANDELAYO NE-AI!",
+        "Impumelelo yakho elandelayo ilindelwe apha!"
+      ],
+      "premium_benefits": [
+        "Isusa iintengiso",
+        "Udliwanondlebe olungapheliyo",
+        "Fumana iingxelo ezinengxelo kunye nengcebiso"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Ipremiyamu",
+      "monthly": "Ngenyanga",
+      "annual": "Ngonyaka",
+      "cancel_anytime": "Rhoxisa nangaliphi na ixesha",
+      "save_discount": "Gcina",
+      "subscribe": "Bhalisa",
+      "restore_purchases": "Buyisela ukuthenga",
+      "premium_benefits": [
+        "Susa iintengiso",
+        "Udliwanondlebe olungenamkhawulo olungenazixhobo",
+        "Fumana iingxelo ezinengxelo nengcebiso emva kodliwanondlebe"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Nceda ukuguqulela",
+    "description": "Nceda ukuguqulela esi sicelo kwezinye iilwimi."
+  }
+}

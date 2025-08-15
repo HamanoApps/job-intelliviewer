@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PREMIE",
+      "free": "Gratis versie"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Oefen voor je volgende sollicitatiegesprek!",
+      "message": "Maakt het nemen van sollicitatiegesprekken je nerveus en angstig?\nMisschien voel je je nog steeds onvoorbereid om sollicitatiegesprekken te nemen?\nDit is de perfecte app om uw gespreksvaardigheden te oefenen in een sollicitatiegesprek!"
+    },
+    {
+      "title": "Wees voorbereid op je volgende baan!",
+      "message": "Job Intelliviewer gebruikt de kracht van kunstmatige intelligentie om realistische onechte sollicitatiegesprekken af te nemen om je te helpen de gespreksvaardigheden te benutten die nodig zijn om een goede indruk te maken op echte recruiters en je voorbereid te maken om je volgende interview in het echte leven te maken."
+    },
+    {
+      "title": "Premium -abonnement:",
+      "message": "Ontvang een rapport aan het einde van elk interview waarin het gesprek wordt samengevat met feedback en advies over hoe u uw kansen kunt verbeteren om aangenomen te worden in een echt sollicitatiegesprek."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Thuis",
+      "interview": "Interview",
+      "resume_cv": "Cv",
+      "history": "Geschiedenis",
+      "history_entry": "Geschiedenisinvoer",
+      "reports": "Rapporten",
+      "settings": "Instellingen"
+    }
+  },
+  "title": {
+    "attention": "Aandacht",
+    "information": "Informatie"
+  },
+  "label": {
+    "search": "Zoekopdracht"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Rug",
+    "close": "Dichtbij",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "review": "Beoordeling",
+    "subscribe": "Abonneren"
+  },
+  "language": {
+    "title": "Taal",
+    "select": "Selecteer taal",
+    "altered": "Taal veranderd"
+  },
+  "history": {
+    "empty": "Lege geschiedenis",
+    "delete": {
+      "list": {
+        "title": "Geschiedenis verwijderen?",
+        "message": "Weet je zeker dat je de hele geschiedenis wilt verwijderen?",
+        "deleted": "Geschiedenis verwijderd."
+      },
+      "entry": {
+        "title": "Interview verwijderen?",
+        "message": "Weet u zeker dat u dit interview wilt verwijderen?",
+        "deleted": "Geschiedenis verwijderd."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Naam",
+      "first_name": "Voornaam",
+      "date_of_birth": "Geboortedatum",
+      "job_position": "Werkpositie",
+      "job_position_detailed": "Gedetailleerde functie",
+      "education": "Onderwijs",
+      "courses": "Cursussen",
+      "experience": "Ervaring",
+      "add": {
+        "education": "Nieuw onderwijs toevoegen",
+        "courses": "Voeg een nieuwe cursus toe",
+        "experience": "Voeg nieuwe ervaring toe"
+      },
+      "error": {
+        "validation": {
+          "title": "Validatiefout",
+          "invalid_fields": "Voeg een geldige functie van een functie in om een nieuw sollicitatiegesprek aan te vragen.\nAlternatief",
+          "unable_to_validate": "Niet in staat om velden te valideren."
+        }
+      }
+    },
+    "education": {
+      "institution": "Instelling",
+      "degree": "Rang",
+      "start": "Begin",
+      "end": "Einde"
+    },
+    "courses": {
+      "institution": "Instelling",
+      "title_of_course": "Titel natuurlijk",
+      "course_load": "Cursusbelasting"
+    },
+    "experience": {
+      "company": "Bedrijf",
+      "position": "Positie",
+      "start": "Begin",
+      "end": "Einde"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Donker thema",
+      "description": "Selecteer tussen licht en donker thema.\nAutomatisch ingesteld op het thema van het apparaat de eerste keer dat u de app opent."
+    },
+    "language": {
+      "name": "Taal",
+      "description": "Selecteer de voorkeurstaal om weer te geven tijdens het gebruik van de toepassing en praat met de AI tijdens de interviews."
+    },
+    "notifications": {
+      "saved": "Instellingen opgeslagen"
+    },
+    "search": {
+      "not_found": "Geen resultaten gevonden."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nieuw interview",
+      "resume": "Hervat interview"
+    },
+    "generating": "Nieuw interview genereren"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tik om opnieuw te proberen"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Typ uw bericht ...",
+    "max_length": "Maximale lengte bereikt"
+  },
+  "cooldown": {
+    "description": "Met de gratis versie van de app kunt u één interview per uur nemen.\n\nAls u de beperkingen wilt verwijderen, de advertenties wilt verwijderen en een feedbackrapport ontvangt met advies over hoe u na elk interview kunt verbeteren, overweeg dan om zich te abonneren op Premium.",
+    "active": "Wacht op de cooldown -timer voordat u een nieuw interview genereert.\n\nAls u cooldowns wilt verwijderen, advertenties wilt verwijderen en een feedbackrapport ontvangt met advies over hoe u na elk interview kunt verbeteren, overweeg dan om zich te abonneren op Premium.",
+    "timer": {
+      "wait": "Wachten",
+      "second": "seconde",
+      "seconds": "seconden"
+    }
+  },
+  "report": {
+    "title": "Rapport",
+    "summary": "Samenvatting",
+    "feedback": "Feedback",
+    "advice": "Advies",
+    "button": {
+      "view": "Bekijk rapport",
+      "unlock": "Ontgrendel rapport",
+      "get": "Rapport krijgen"
+    },
+    "generating": "Rapport genereren ..."
+  },
+  "review": {
+    "request": "Als je de app leuk vond, overweeg dan om een recensie achter te laten om ons te helpen.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Hartelijk dank!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nieuw interview beschikbaar!",
+      "message": "Je hebt een nieuw interview beschikbaar om Job Intelliviewer aan te nemen."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PREMIE",
+      "type": "Abonnement",
+      "subscribe": "Abonneren",
+      "invitation": "Abonneer u op Premium",
+      "active": "Premium abonnement actief",
+      "thanks": "Bedankt voor het abonneren op Premium! We wensen u veel geluk en succes bij al uw toekomstige interviews!",
+      "menu": {
+        "title": "Premium abonnement",
+        "subtitle": "Abonneer u op het premiumplan"
+      }
+    },
+    "error": {
+      "subscription": "Fout proberen uw aankoop te valideren.",
+      "connection": "Verbindingsfout.\n\nKan geen verbinding maken met de winkel.",
+      "products": "Kan productopties niet controleren.",
+      "subscription_options": "Niet in staat om abonnementsplannen te laden.\n\nControleer uw internetverbinding of probeer het later opnieuw."
+    }
+  },
+  "error": {
+    "title": "Fout",
+    "unexpected": "Er ging iets mis ... je zou dit niet moeten zien! 😱",
+    "connection": "Verbinding",
+    "connection_fix": "Controleer uw internetverbinding en probeer het later opnieuw.",
+    "ai": {
+      "no_response": "Geen antwoord",
+      "unexpected": "Onverwacht",
+      "internal_server_error": "Interne serverfout"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Oefen voor uw volgende sollicitatiegesprek met deze realistische AI -simulator",
+      "full_description": "Maakt het nemen van sollicitatiegesprekken je nerveus en angstig?\nMisschien voel je je nog steeds onvoorbereid om sollicitatiegesprekken te nemen?\nDit is de perfecte app om uw gespreksvaardigheden te oefenen in een sollicitatiegesprek!\n\nJob Intelliviewer gebruikt de kracht van kunstmatige intelligentie om realistische onechte sollicitatiegesprekken af te nemen om je te helpen de gespreksvaardigheden te benutten die nodig zijn om een goede indruk te maken op echte recruiters en je voorbereid te maken op je volgende interview.\n\nDe interviews zijn afgestemd op de functie die u zoekt en zullen worden gevormd en aangepast aan vragen met betrekking tot uw doelen om een echt sollicitatiegesprek beter te vertegenwoordigen.\n\nPremium -gebruikers ontvangen ook een rapport aan het einde van elk interview waarin het gesprek wordt samengevat met feedback en advies over hoe u uw kansen kunt verbeteren om aangenomen te worden in een echt sollicitatiegesprek.",
+      "taglines": [
+        "Wees voorbereid op je volgende baan!",
+        "Oefen voor je volgende sollicitatiegesprek!",
+        "Ace je volgende sollicitatiegesprek met AI!",
+        "Uw volgende professionele succes wacht hier op u!"
+      ],
+      "premium_benefits": [
+        "Verwijdert advertenties",
+        "Onbeperkte interviews",
+        "Ontvang rapporten met feedback en advies"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premie",
+      "monthly": "Maandelijks",
+      "annual": "Jaarlijks",
+      "cancel_anytime": "Annuleer altijd",
+      "save_discount": "Redden",
+      "subscribe": "Abonneren",
+      "restore_purchases": "Herstel aankopen",
+      "premium_benefits": [
+        "Verwijder advertenties",
+        "Onbeperkte interviews zonder cooldowns",
+        "Ontvang rapporten met feedback en advies na interviews"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Help vertalen",
+    "description": "Help deze applicatie te vertalen naar andere talen."
+  }
+}

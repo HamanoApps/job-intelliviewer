@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Versi percuma"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Berlatih untuk temu ramah pekerjaan anda yang seterusnya!",
+      "message": "Adakah mengambil wawancara kerja membuat anda gugup dan cemas?\nMungkin anda masih merasa tidak bersedia untuk mengambil wawancara kerja?\nIni adalah aplikasi yang sempurna untuk mengamalkan kemahiran perbualan anda dalam suasana wawancara kerja!"
+    },
+    {
+      "title": "Bersedia untuk pekerjaan anda yang seterusnya!",
+      "message": "Job Intelliviewer menggunakan kuasa kecerdasan buatan untuk menjalankan wawancara pekerjaan yang realistik untuk membantu anda memanfaatkan kemahiran perbualan yang diperlukan untuk memberi kesan yang baik kepada perekrut kehidupan sebenar dan membuat anda bersedia untuk mengadakan wawancara kehidupan sebenar anda yang akan datang."
+    },
+    {
+      "title": "Langganan Premium:",
+      "message": "Menerima laporan pada akhir setiap wawancara yang meringkaskan perbualan dengan maklum balas dan nasihat tentang bagaimana untuk meningkatkan peluang anda untuk disewa dalam temu bual kerja yang sebenar."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Rumah",
+      "interview": "Temu ramah",
+      "resume_cv": "Resumé",
+      "history": "Sejarah",
+      "history_entry": "Kemasukan Sejarah",
+      "reports": "Laporan",
+      "settings": "Tetapan"
+    }
+  },
+  "title": {
+    "attention": "Perhatian",
+    "information": "Maklumat"
+  },
+  "label": {
+    "search": "Cari"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Kembali",
+    "close": "Tutup",
+    "cancel": "Batalkan",
+    "delete": "Padam",
+    "review": "Kajian",
+    "subscribe": "Melanggan"
+  },
+  "language": {
+    "title": "Bahasa",
+    "select": "Pilih bahasa",
+    "altered": "Bahasa berubah"
+  },
+  "history": {
+    "empty": "Sejarah kosong",
+    "delete": {
+      "list": {
+        "title": "Padam Sejarah?",
+        "message": "Adakah anda pasti mahu memadam seluruh sejarah?",
+        "deleted": "Sejarah dipadam."
+      },
+      "entry": {
+        "title": "Padam temu ramah?",
+        "message": "Adakah anda pasti mahu memadamkan wawancara ini?",
+        "deleted": "Sejarah dipadam."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nama",
+      "first_name": "Nama pertama",
+      "date_of_birth": "Tarikh lahir",
+      "job_position": "Kedudukan pekerjaan",
+      "job_position_detailed": "Kedudukan pekerjaan terperinci",
+      "education": "Pendidikan",
+      "courses": "Kursus",
+      "experience": "Pengalaman",
+      "add": {
+        "education": "Tambah pendidikan baru",
+        "courses": "Tambah kursus baru",
+        "experience": "Tambah pengalaman baru"
+      },
+      "error": {
+        "validation": {
+          "title": "Ralat pengesahan",
+          "invalid_fields": "Masukkan peranan kedudukan pekerjaan yang sah untuk memohon wawancara kerja baru.\nSebagai alternatif",
+          "unable_to_validate": "Tidak dapat mengesahkan bidang."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institusi",
+      "degree": "Ijazah",
+      "start": "Mula",
+      "end": "Akhir"
+    },
+    "courses": {
+      "institution": "Institusi",
+      "title_of_course": "Tajuk kursus",
+      "course_load": "Beban kursus"
+    },
+    "experience": {
+      "company": "Syarikat",
+      "position": "Kedudukan",
+      "start": "Mula",
+      "end": "Akhir"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tema gelap",
+      "description": "Pilih antara tema cahaya dan gelap.\nSecara automatik ditetapkan ke tema peranti pada kali pertama anda membuka aplikasinya."
+    },
+    "language": {
+      "name": "Bahasa",
+      "description": "Pilih bahasa yang dipilih untuk dipaparkan semasa menggunakan aplikasi dan bercakap dengan AI semasa wawancara."
+    },
+    "notifications": {
+      "saved": "Tetapan disimpan"
+    },
+    "search": {
+      "not_found": "Tiada hasil yang dijumpai."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Temu ramah baru",
+      "resume": "Resume Wawancara"
+    },
+    "generating": "Menjana wawancara baru"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Ketik untuk mencuba semula"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Taipkan mesej anda ...",
+    "max_length": "Panjang maksimum dicapai"
+  },
+  "cooldown": {
+    "description": "Versi percuma aplikasi membolehkan anda mengambil satu wawancara setiap jam.\n\nJika anda ingin membuang batasan, keluarkan iklan, dan terima laporan maklum balas dengan nasihat tentang bagaimana untuk memperbaiki selepas setiap wawancara, pertimbangkan untuk melanggan premium.",
+    "active": "Tunggu pemasa cooldown sebelum menjana wawancara baru.\n\nSekiranya anda ingin mengeluarkan cooldowns, keluarkan iklan, dan terima laporan maklum balas dengan nasihat tentang bagaimana untuk memperbaiki selepas setiap wawancara, pertimbangkan untuk melanggan premium.",
+    "timer": {
+      "wait": "Tunggu",
+      "second": "kedua",
+      "seconds": "saat"
+    }
+  },
+  "report": {
+    "title": "Laporan",
+    "summary": "Ringkasan",
+    "feedback": "Maklum balas",
+    "advice": "Nasihat",
+    "button": {
+      "view": "Lihat Laporan",
+      "unlock": "Buka kunci laporan",
+      "get": "Dapatkan laporan"
+    },
+    "generating": "Menghasilkan laporan ..."
+  },
+  "review": {
+    "request": "Jika anda suka aplikasinya, sila pertimbangkan untuk meninggalkan ulasan untuk membantu kami.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Terima kasih banyak!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Temu ramah baru disediakan!",
+      "message": "Anda mempunyai wawancara baru yang tersedia untuk mengambil kerja Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Langganan",
+      "subscribe": "Melanggan",
+      "invitation": "Langgan Premium",
+      "active": "Langganan Premium Aktif",
+      "thanks": "Terima kasih kerana melanggan Premium! Kami mengucapkan semoga berjaya dan berjaya dalam semua wawancara masa depan anda!",
+      "menu": {
+        "title": "Langganan premium",
+        "subtitle": "Melanggan rancangan premium"
+      }
+    },
+    "error": {
+      "subscription": "Ralat cuba mengesahkan pembelian anda.",
+      "connection": "Ralat sambungan.\n\nTidak dapat menyambung ke kedai.",
+      "products": "Tidak dapat memeriksa pilihan produk.",
+      "subscription_options": "Tidak dapat memuatkan rancangan langganan.\n\nTolong, periksa sambungan internet anda, atau cuba lagi kemudian."
+    }
+  },
+  "error": {
+    "title": "Ralat",
+    "unexpected": "Sesuatu yang tidak kena ... anda tidak akan melihat ini! 😱",
+    "connection": "Sambungan",
+    "connection_fix": "Semak sambungan internet anda dan cuba lagi kemudian.",
+    "ai": {
+      "no_response": "Tiada respons",
+      "unexpected": "Tidak dijangka",
+      "internal_server_error": "Ralat pelayan dalaman"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Berlatih untuk temu ramah pekerjaan anda yang seterusnya dengan simulator AI yang realistik ini",
+      "full_description": "Adakah mengambil wawancara kerja membuat anda gugup dan cemas?\nMungkin anda masih merasa tidak bersedia untuk mengambil wawancara kerja?\nIni adalah aplikasi yang sempurna untuk mengamalkan kemahiran perbualan anda dalam suasana wawancara kerja!\n\nJob Intelliviewer menggunakan kuasa kecerdasan buatan untuk menjalankan wawancara pekerjaan yang realistik untuk membantu anda memanfaatkan kemahiran perbualan yang diperlukan untuk memberi kesan yang baik kepada perekrut kehidupan sebenar dan membuat anda bersedia untuk mengadakan wawancara seterusnya.\n\nWawancara disesuaikan dengan kedudukan pekerjaan yang anda cari, dan akan dibentuk dan diselaraskan dengan soalan yang berkaitan dengan matlamat anda untuk mewakili lebih baik wawancara kerja sebenar.\n\nPengguna premium juga akan menerima laporan pada akhir setiap wawancara yang meringkaskan perbualan dengan maklum balas dan nasihat tentang bagaimana untuk meningkatkan peluang anda untuk disewa dalam temu bual kerja yang sebenar.",
+      "taglines": [
+        "Bersedia untuk pekerjaan anda yang seterusnya!",
+        "Berlatih untuk temu ramah pekerjaan anda yang seterusnya!",
+        "Ace wawancara kerja seterusnya dengan AI!",
+        "Kejayaan profesional anda yang seterusnya menanti anda di sini!"
+      ],
+      "premium_benefits": [
+        "Membuang iklan",
+        "Wawancara tanpa had",
+        "Terima laporan dengan maklum balas dan nasihat"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Bulanan",
+      "annual": "Tahunan",
+      "cancel_anytime": "Batalkan bila -bila masa",
+      "save_discount": "Simpan",
+      "subscribe": "Melanggan",
+      "restore_purchases": "Memulihkan pembelian",
+      "premium_benefits": [
+        "Keluarkan iklan",
+        "Wawancara tanpa had tanpa Cooldowns",
+        "Terima laporan dengan maklum balas dan nasihat selepas wawancara"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Bantu menterjemahkan",
+    "description": "Bantu menterjemahkan aplikasi ini ke bahasa lain."
+  }
+}

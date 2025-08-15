@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Mugt wersiýa"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Indiki iş söhbetdeşligiňiz üçin tejribe!",
+      "message": "Iş söhbetdeşliklerini kabul edýärsiňizmi, size nerw we aladaly bolýarmy?\nBelki, iş söhbetdeşligini almak üçin henizem taýyn dälsiňiz?\nBu, iş söhbetdeşliginde söhbetdeşlik ukybyňyzy ýerine ýetirmek üçin iň oňat programma!"
+    },
+    {
+      "title": "Indiki işiňize taýyn boluň!",
+      "message": "Iş çatlaýyş işine kömek etmek üçin hakyky durmuş işgärleri işe girizmek üçin hakyky durmuş okrugyna gowy täsir galdyrmaga kömek etmek üçin maglumaty, hakyky durmuş okrugyna gowy täsir galdyrmaga kömek etmek üçin maglumaty, hakyky durmuş ussatlygyny üpjün etmek üçin maglumaty, hakyky durmuş ussatlygyny gowy görmäge kömek etmek üçin emdirmek üçin täsirli intellekt hereketini özleşdirmäge kömek edýär."
+    },
+    {
+      "title": "Premium abunalygy:",
+      "message": "Hereketiň soňunda gepleşikleri jemlemek, hakyky iş söhbetdeşliginde işe almak mümkinçiligiňizi nädip gowulaşdyrmaly barada habarnamada belläň."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Öý",
+      "interview": "Söhbetdeşlik",
+      "resume_cv": "Resepté",
+      "history": "Taryh",
+      "history_entry": "Taryh ýazgysy",
+      "reports": "Hasabatlar",
+      "settings": "Sazlamalar"
+    }
+  },
+  "title": {
+    "attention": "Üns",
+    "information": "Maglumat"
+  },
+  "label": {
+    "search": "Gözlemek"
+  },
+  "button": {
+    "ok": "Bolýar",
+    "back": "Yza",
+    "close": "Ýakyn",
+    "cancel": "Ýatyr",
+    "delete": "Pozuň",
+    "review": "Se",
+    "subscribe": "Abuna ýazylyň"
+  },
+  "language": {
+    "title": "Dili",
+    "select": "Dil saýlaň",
+    "altered": "Diliň üýtgemegi"
+  },
+  "history": {
+    "empty": "Boş taryh",
+    "delete": {
+      "list": {
+        "title": "Taryhy pozmalymy?",
+        "message": "Taryhy tutuş taryhyňyzy pozmak isleýändigiňize ynanýarsyňyzmy?",
+        "deleted": "Taryh öçürildi."
+      },
+      "entry": {
+        "title": "Söhbetdeşlikden pozuň?",
+        "message": "Bu söhbetdeşligi pozmak isleýändigiňize ynanýarsyňyzmy?",
+        "deleted": "Taryh öçürildi."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Ady",
+      "first_name": "Ady",
+      "date_of_birth": "Doglan gün",
+      "job_position": "Iş wezipesi",
+      "job_position_detailed": "Jikme-jik iş pozisiýasy",
+      "education": "Bilim",
+      "courses": "Kurslar",
+      "experience": "Tejribe",
+      "add": {
+        "education": "Täze bilim goşuň",
+        "courses": "Täze kurs goşuň",
+        "experience": "Täze tejribe goşuň"
+      },
+      "error": {
+        "validation": {
+          "title": "Tassyklamak ýalňyşlygy",
+          "invalid_fields": "Täze iş söhbetdeşligi üçin ýüz tutmak üçin dogry iş wezipesini goýuň.\nBolmasa-da",
+          "unable_to_validate": "Meýdanlary tassyklap bolmaýar."
+        }
+      }
+    },
+    "education": {
+      "institution": "Edara",
+      "degree": "Derejesi",
+      "start": "Başla",
+      "end": "Soňy"
+    },
+    "courses": {
+      "institution": "Edara",
+      "title_of_course": "Elbetde",
+      "course_load": "Okuw"
+    },
+    "experience": {
+      "company": "Kompaniýasy",
+      "position": "Ýagdaýy",
+      "start": "Başla",
+      "end": "Soňy"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Garaňky tema",
+      "description": "Yşyk we gara mowzugyň arasynda saýlaň.\nProgrammany açanyňyzda ilkinji gezek enjam temasyna awtomatiki usulda düzüň."
+    },
+    "language": {
+      "name": "Dili",
+      "description": "Programmalary ulananyňyzda we Söhbetdeşlik wagtynda AI-ni ulananyňyzda görkezmek üçin makullanan dili saýlaň."
+    },
+    "notifications": {
+      "saved": "Saklanan sazlamalar"
+    },
+    "search": {
+      "not_found": "Netije tapylmady"
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Täze söhbetdeşlik",
+      "resume": "Söhbetdeşlik"
+    },
+    "generating": "Täze söhbetdeşlik döretmek"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Gaýtadan synanyşyň"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Habaryňyzy ýazyň ...",
+    "max_length": "Iň ýokary uzynlyk ýetdi"
+  },
+  "cooldown": {
+    "description": "Programmanyň mugt wersiýasy, bir sagatda bir söhbetdeşlik geçirmäge mümkinçilik berýär.\n\nÇestifikasiýalary aýyrmak isleseňiz, mahabatlary aýyrmak we her söhbetdeşden soň gowulaşmalydygy barada maslahat alyň, premiuma abonentlemek.",
+    "active": "Täze söhbetdeşlik döretmezden ozal CODDown taýmerine garaşyň.\n\nCountaldownlary aýyrmak isleseňiz mahabatlary aýyrmak we mahabatlardan başga zatlary aýyrmak we neksiň tassyklanmagy bilen, predema abonentlemek üçin sezewar hasaplaň.",
+    "timer": {
+      "wait": "Garaş",
+      "second": "ikinji",
+      "seconds": "sekuntlar"
+    }
+  },
+  "report": {
+    "title": "Hasabat",
+    "summary": "Gysgaça mazmun",
+    "feedback": "Seslenme",
+    "advice": "Maslahat",
+    "button": {
+      "view": "Hasabatda",
+      "unlock": "Hasabatyň sanawyny açyň",
+      "get": "Hasabat alyň"
+    },
+    "generating": "Döwrebaplaşdyryjy hasabat ..."
+  },
+  "review": {
+    "request": "Programmany halaýan bolsaňyz, bize kömek etmek üçin gözden geçirmegiňizi haýyş edýäris.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Köp sagbol!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Täze söhbetdeşlik bar!",
+      "message": "Iş inweltiwewerer-i işe almak üçin täze söhbetdeşlik bar."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Abuna",
+      "subscribe": "Abuna ýazylyň",
+      "invitation": "Premiuma ýazylyň",
+      "active": "Premium abunalygy işjeň",
+      "thanks": "Premiuma ýazylanyňyz üçin sag boluň! Geljekdäki söhbetdeşlikleriňizde üstünlik we üstünlik arzuw edýäris!",
+      "menu": {
+        "title": "Premium abunalygy",
+        "subtitle": "Premium meýilnamasyna ýazylyň"
+      }
+    },
+    "error": {
+      "subscription": "Satyn alýanlaryňyzy tassyklamaga synanyşmakda säwlik.",
+      "connection": "Baglanyşyk ýalňyşlygy.\n\nDükana birigip bolmaýar.",
+      "products": "Önüm wariantlaryny barlap bolmaýar.",
+      "subscription_options": "Abuna ýazylmak meýilnamalaryny ýükläp bolmaýar.\n\nInternet birikmäňizi barlaň ýa-da soňrak synanyşyň."
+    }
+  },
+  "error": {
+    "title": "Ýalňyşlyk",
+    "unexpected": "Bir zat ýalňyşdy ... muny görüp bilmeýärsiňmi? 😱",
+    "connection": "Baglanyşyk",
+    "connection_fix": "Internet birikmäňizi barlaň we soňrak synanyşyň.",
+    "ai": {
+      "no_response": "Jogap ýok",
+      "unexpected": "Garaşylmadyk",
+      "internal_server_error": "Içerki serwer ýalňyşlygy"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Indiki iş söhbetdeşligiňiz üçin indiki iş söhbetdeşligiňiz üçin tejribe üçin tejribe",
+      "full_description": "Iş söhbetdeşliklerini kabul edýärsiňizmi, size nerw we aladaly bolýarmy?\nBelki, iş söhbetdeşligini almak üçin henizem taýyn dälsiňiz?\nBu, iş söhbetdeşliginde söhbetdeşlik ukybyňyzy ýerine ýetirmek üçin iň oňat programma!\n\nIş çatwiw alyp barşy, hakyky durmuş işgärleri işe girizmek üçin hakyky durmuş işgärleri taýýarlamak we indiki söhbetdeşligiňizi, indiki söhbetdeşligiňize gowy täsir etmek üçin zerur täsir etmek üçin emdirmek üçin emdirmek üçin emdirmek üçin täsirli indiköýerlik bilen baglanyşykly\n\nSöhbetdeşlikler gözleýän iş ýeriňize laýyk gelmeýär we şekilli we maksatlaryňyz bilen baglanyşykly soraglar bilen baglanyşykly soraglar bilen baglanyşykly soraglar bilen baglanyşykly we düzüler.\n\nPremium ulanyjylary, şeýle hem, hakyky iş söhbetdeşligine hakyna tutmak mümkinçiligiňizi nädip gowulaşdyrmalydygyny habarsyz we maslahaty belläň.",
+      "taglines": [
+        "Indiki işiňize taýyn boluň!",
+        "Indiki iş söhbetdeşligiňiz üçin tejribe!",
+        "Indiki iş söhbetdeşligiňizi AI bilen aI!",
+        "Indiki professional üstünlikleriňiz size bu ýerde garaşýar!"
+      ],
+      "premium_benefits": [
+        "Mahabatlary aýyrýar",
+        "Çäklendirilmedik söhbetdeşlikler",
+        "Seslenme we maslahatlar bilen hasabat alyň"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Aýda",
+      "annual": "Ýyllyk",
+      "cancel_anytime": "Islän wagtyňyz ýatyryň",
+      "save_discount": "Tygşytlaň",
+      "subscribe": "Abuna ýazylyň",
+      "restore_purchases": "Satyn almalary dikeltmek",
+      "premium_benefits": [
+        "Mahabalary aýyryň",
+        "Sowuklar bolmadyk çäksiz söhbetdeşlikler",
+        "Söhbetdeşliklerden soň käbir pikirler we maslahatlar bilen hasabat alyň"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Terjime etmek",
+    "description": "Bu programmany başga dillere terjime etmek üçin."
+  }
+}

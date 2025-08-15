@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Verisiyo yubuntu"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Imyitozo kubiganiro byawe bitaha!",
+      "message": "Gufata ibibazo byakazi gafite ubwoba no guhangayika?\nBirashoboka ko ukomeje kumva utiteguye gufata ibibazo byakazi?\nIyi niyo porogaramu nziza yo kwitoza ubuhanga bwawe bwo kuganira mubikorwa byabajijwe akazi!"
+    },
+    {
+      "title": "Witegure kumurimo wawe utaha!",
+      "message": "AKAZI AKAZI Akoresha Imbaraga zubwenge bwubukorikori kugirango ukore ibibazo byangiza akazi kugirango bigufashe gukoresha ubumenyi bwubuzima bukenewe kugirango ushimishe abashaka ubuzima busanzwe kandi bigutera kwitegura kugabanya ikiganiro cyubuzima gikurikira."
+    },
+    {
+      "title": "Kwiyandikisha kwa Premium:",
+      "message": "Akira raporo kurangiza buri kiganiro muri make ikiganiro hamwe nigitekerezo ninama zuburyo bwo kunoza amahirwe yo guhabwa akazi mubiganiro byakazi."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Urugo",
+      "interview": "Ikiganiro",
+      "resume_cv": "Resumé",
+      "history": "Amateka",
+      "history_entry": "Kwinjira Amateka",
+      "reports": "Raporo",
+      "settings": "Igenamiterere"
+    }
+  },
+  "title": {
+    "attention": "Kwitondera",
+    "information": "Amakuru"
+  },
+  "label": {
+    "search": "Gushakisha"
+  },
+  "button": {
+    "ok": "Ok",
+    "back": "Inyuma",
+    "close": "Gufunga",
+    "cancel": "Guhagarika",
+    "delete": "Siba",
+    "review": "Gusubiramo",
+    "subscribe": "Kwiyandikisha"
+  },
+  "language": {
+    "title": "Ururimi",
+    "select": "Hitamo Ururimi",
+    "altered": "Ururimi rwarahindutse"
+  },
+  "history": {
+    "empty": "Amateka Yubusa",
+    "delete": {
+      "list": {
+        "title": "Siba amateka?",
+        "message": "Uzi neza ko ushaka gusiba amateka yose?",
+        "deleted": "Amateka yasibwe."
+      },
+      "entry": {
+        "title": "Siba ikiganiro?",
+        "message": "Uzi neza ko ushaka gusiba iki kiganiro?",
+        "deleted": "Amateka yasibwe."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Izina",
+      "first_name": "Izina Ryambere",
+      "date_of_birth": "Itariki y'amavuko",
+      "job_position": "Umwanya wakazi",
+      "job_position_detailed": "Umwanya urambuye",
+      "education": "Uburezi",
+      "courses": "Amasomo",
+      "experience": "Uburambe",
+      "add": {
+        "education": "Ongeraho Uburezi bushya",
+        "courses": "Ongeramo amasomo mashya",
+        "experience": "Ongeraho uburambe bushya"
+      },
+      "error": {
+        "validation": {
+          "title": "Ikosa ryo kwemeza",
+          "invalid_fields": "Shyiramo imyanya yakazi yemewe kugirango usabe ikiganiro gishya cyakazi.\nUbundi",
+          "unable_to_validate": "Ntibishobora kwemeza imirima."
+        }
+      }
+    },
+    "education": {
+      "institution": "Ikigo",
+      "degree": "Impamyabumenyi",
+      "start": "Tangira",
+      "end": "Iherezo"
+    },
+    "courses": {
+      "institution": "Ikigo",
+      "title_of_course": "Umutwe",
+      "course_load": "Umutwaro"
+    },
+    "experience": {
+      "company": "Isosiyete",
+      "position": "Umwanya",
+      "start": "Tangira",
+      "end": "Iherezo"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Insanganyamatsiko Yijimye",
+      "description": "Hitamo hagati yumucyo nuwijimye.\nMu buryo bwikora kugeza ku nsanganyamatsiko y'ibikoresho ubwambere ufungura porogaramu."
+    },
+    "language": {
+      "name": "Ururimi",
+      "description": "Hitamo imvugo ihitamo kugirango yerekane mugihe ukoresheje porogaramu no kuganira na AI mugihe cyibiganiro."
+    },
+    "notifications": {
+      "saved": "Igenamiterere ryabitswe"
+    },
+    "search": {
+      "not_found": "Nta bisubizo byabonetse."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Ikiganiro gishya",
+      "resume": "Uruhu rwawe"
+    },
+    "generating": "Kubyara ikiganiro gishya"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Kanda kugirango ugerageze"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Andika ubutumwa bwawe ...",
+    "max_length": "Uburebure bwanini bwageze"
+  },
+  "cooldown": {
+    "description": "Verisiyo yubuntu ya porogaramu igufasha gufata ikiganiro kimwe ku isaha.\n\nNiba ushaka kuvana aho bigarukira, kura iyamamaza, kandi wakire raporo y'ibitekerezo ufite inama zuburyo bwo kunoza nyuma ya buri kiganiro, tekereza kwiyandikisha muri Premium.",
+    "active": "Tegereza igihe cya Cooldown mbere yo kubyara ikiganiro gishya.\n\nNiba ushaka kuvanaho ibikoma, Kuraho amatangazo, no kwakira raporo yigitekerezo hamwe namasezerano inama zuburyo bwo kunoza nyuma ya buri kiganiro, tekereza kwiyandikisha muri Premium.",
+    "timer": {
+      "wait": "Tegereza",
+      "second": "kabiri",
+      "seconds": "amasegonda"
+    }
+  },
+  "report": {
+    "title": "Raporo",
+    "summary": "Incamake",
+    "feedback": "Ibitekerezo",
+    "advice": "Inama",
+    "button": {
+      "view": "Reba raporo",
+      "unlock": "Fungura raporo",
+      "get": "Shakisha raporo"
+    },
+    "generating": "Gutanga raporo ..."
+  },
+  "review": {
+    "request": "Niba ukunda porogaramu, nyamuneka tekereza gusiga isubiramo kugirango udufashe.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Urakoze cyane!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Ikiganiro gishya kiboneka!",
+      "message": "Ufite ikiganiro gishya kiboneka gufatanya akazi."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Kwiyandikisha",
+      "subscribe": "Kwiyandikisha",
+      "invitation": "Kwiyandikisha kwa premium",
+      "active": "Kwiyandikisha kwa Premium",
+      "thanks": "Urakoze kwiyandikisha muri Premium! Twifurije amahirwe masa no gutsinda kubiganiro byawe byose!",
+      "menu": {
+        "title": "Kwiyandikisha kwa Premium",
+        "subtitle": "Iyandikishe kuri gahunda ya premium"
+      }
+    },
+    "error": {
+      "subscription": "Ikosa ryo kugerageza kwemeza ibyo waguze.",
+      "connection": "Ikosa ryo guhuza.\n\nNtushobora guhuza ububiko.",
+      "products": "Ntushobora kugenzura amahitamo.",
+      "subscription_options": "Ntibishobora kwishyiriraho gahunda yo kwiyandikisha.\n\nNyamuneka, reba umurongo wa enterineti, cyangwa ugerageze nyuma."
+    }
+  },
+  "error": {
+    "title": "Ikosa",
+    "unexpected": "Hari ibitagenze neza ... ntushobora kubibona! 😱",
+    "connection": "Guhuza",
+    "connection_fix": "Reba umurongo wa enterineti hanyuma ugerageze nyuma.",
+    "ai": {
+      "no_response": "Nta gisubizo",
+      "unexpected": "Bitunguranye",
+      "internal_server_error": "Ikosa rya seriveri y'imbere"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Imyitozo yo kubaza akazi kawe kataha hamwe niyi sigana AI Simulater",
+      "full_description": "Gufata ibibazo byakazi gafite ubwoba no guhangayika?\nBirashoboka ko ukomeje kumva utiteguye gufata ibibazo byakazi?\nIyi niyo porogaramu nziza yo kwitoza ubuhanga bwawe bwo kuganira mubikorwa byabajijwe akazi!\n\nAKAZI AKAZI Akoresha Imbaraga zubwenge bwubukorikori kugirango ukore ibibazo byangiza akazi kugirango bigufashe gukoresha ubuhanga bwo kuganira bukenewe kugirango tumenye neza abashaka\n\nIbibazo bihujwe numwanya wakazi ushaka, kandi bizahinduka kandi uhindurwe kubibazo bijyanye nintego zawe kugirango uhagararire neza ikiganiro cyakazi.\n\nAbakoresha premium bazakira kandi raporo nyuma ya buri kiganiro muri make ikiganiro hamwe nibitekerezo hamwe nuburyo bwo kunoza amahirwe yo guhabwa akazi mubiganiro byakazi.",
+      "taglines": [
+        "Witegure kumurimo wawe utaha!",
+        "Imyitozo kubiganiro byawe bitaha!",
+        "Ace ikiganiro gitaha cyakazi hamwe na Ai!",
+        "Intsinzi yawe itaha yagutegereje hano!"
+      ],
+      "premium_benefits": [
+        "Kuraho amatangazo",
+        "Ibibazo bitagira imipaka",
+        "Yakira raporo zishingiye kubitekerezo ninama"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Buri kwezi",
+      "annual": "Mwaka",
+      "cancel_anytime": "Kureka igihe icyo aricyo cyose",
+      "save_discount": "Kubika",
+      "subscribe": "Kwiyandikisha",
+      "restore_purchases": "Kugarura ibyaguzwe",
+      "premium_benefits": [
+        "Kuraho amatangazo",
+        "Ibibazo bitagira imipaka ntabwo ari cooluwns",
+        "Yakira raporo zishingiye kubitekerezo ninama nyuma yibiganiro"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Fasha Gusobanura",
+    "description": "Fasha guhindura iyi porogaramu mu zindi ndimi."
+  }
+}

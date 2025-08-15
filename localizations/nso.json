@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PREMIAMO",
+      "free": "Phetolelo ya mahala ."
+    }
+  },
+  "presentation": [
+    {
+      "title": "Itlwaetše bakeng sa poledišano ya gago e latelago ya mošomo!",
+      "message": "Na go tšea dipoledišano tša mošomo go go dira gore o tšhoge le go tshwenyega?\nMohlomongwe o sa ikwa o sa itokišetša go tšea dipoledišano tša mošomo?\nYe ke tirišo ye e phethagetšego ya go itlwaetša mabokgoni a gago a poledišano maemong a poledišano ya mošomo!"
+    },
+    {
+      "title": "Itokišetše mošomo wa gago o latelago!",
+      "message": "Job IntelliViewer e šomiša maatla a bohlale bja maitirelo go swara dipoledišano tša mošomo tša kgonthe tša go itira go go thuša go šomiša mabokgoni a poledišano ao a nyakegago go dira kgopolo ye botse go bathwalwa ba nnete ba bophelo le go go dira gore o itokišetše go ace poledišano ya gago ya bophelo bja nnete ye e latelago."
+    },
+    {
+      "title": "Peeletšo ya Premium: .",
+      "message": "Amogela pego mafelelong a poledišano ye nngwe le ye nngwe o akaretša poledišano ka ditshwaotshwao le keletšo ya gore o ka kaonafatša bjang dibaka tša gago tša go thwala poledišanong ya nnete ya mošomo."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Gae",
+      "interview": "Dipoledišano",
+      "resume_cv": "Thomološa",
+      "history": "Histori",
+      "history_entry": "Go tsena ga histori .",
+      "reports": "Dipego .",
+      "settings": "Dipeakanyo ."
+    }
+  },
+  "title": {
+    "attention": "Tlhokomelo",
+    "information": "Tshedimošo"
+  },
+  "label": {
+    "search": "Nyaka"
+  },
+  "button": {
+    "ok": "GO LOKILE",
+    "back": "Morago",
+    "close": "Tswalela",
+    "cancel": "Khansela",
+    "delete": "Phumola",
+    "review": "Lekodišiša",
+    "subscribe": "Inšuranse ."
+  },
+  "language": {
+    "title": "Polelo",
+    "select": "Kgetha Polelo .",
+    "altered": "Polelo e fetotšwe ."
+  },
+  "history": {
+    "empty": "Histori e se nang letho .",
+    "delete": {
+      "list": {
+        "title": "Phimola histori?",
+        "message": "Na o na le bonnete bja gore o nyaka go phumola histori ka moka?",
+        "deleted": "Histori e phumotšwe."
+      },
+      "entry": {
+        "title": "Phimola poledišano?",
+        "message": "Naa o na le bonnete bja gore o nyaka go phumola poledišano ye?",
+        "deleted": "Histori e phumotšwe."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Leina",
+      "first_name": "Leina",
+      "date_of_birth": "Letšatšikgwedi la matswalo .",
+      "job_position": "Maemo a Mošomo .",
+      "job_position_detailed": "Boemo bja mošomo bjo bo nago le dintlha ka botlalo .",
+      "education": "Thuto",
+      "courses": "Dithuto .",
+      "experience": "Maitemogelo",
+      "add": {
+        "education": "Oketša thuto e mpsha .",
+        "courses": "Oketša thuto e mpsha .",
+        "experience": "Oketša phihlelo e mpsha ."
+      },
+      "error": {
+        "validation": {
+          "title": "Phošo ya netefatšo .",
+          "invalid_fields": "Tsenya tema ya maemo a mošomo ye e šomago go dira kgopelo ya poledišano ye mpsha ya mošomo.\nka tsela e nngwe .",
+          "unable_to_validate": "Ga e kgone go netefatša mašemo."
+        }
+      }
+    },
+    "education": {
+      "institution": "Setheo .",
+      "degree": "Tikrii",
+      "start": "Thomiša",
+      "end": "Mafelelo"
+    },
+    "courses": {
+      "institution": "Setheo .",
+      "title_of_course": "Thaetlele ya nnete .",
+      "course_load": "Morwalo wa khoso ."
+    },
+    "experience": {
+      "company": "Khamphani",
+      "position": "Maemo",
+      "start": "Thomiša",
+      "end": "Mafelelo"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Sehlogo se se lefsifsi .",
+      "description": "Kgetha pakeng tsa leseli le lefifi sehlooho.\nKa go itiriša beakanya go sehlogo sa sedirišwa lekga la mathomo ge o bula tirišo."
+    },
+    "language": {
+      "name": "Polelo",
+      "description": "Kgetha leleme leo le kgethilwego go bontšha ge o šomiša tirišo le go bolela le AI nakong ya dipoledišano."
+    },
+    "notifications": {
+      "saved": "Dipeakanyo tše di bolokilwego ."
+    },
+    "search": {
+      "not_found": "Ga go na dipoelo tše di hweditšwego."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Poledišano ye mpsha .",
+      "resume": "Tsoma gape Poledišano ."
+    },
+    "generating": "Go tšweletša poledišano ye mpsha ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tlanya go leka gape ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Thaepa molaetša wa gago...",
+    "max_length": "Bolelele ba max ba ile ba fihlella ."
+  },
+  "cooldown": {
+    "description": "Phetolelo ya mahala ya tirišo e go dumelela go tšea poledišano e tee ka iri.\n\nGe o rata go tloša mellwane, tloša dipapatšo, gomme o amogele pego ya ditshwaotshwao ka keletšo ya ka fao o ka kaonafatšago ka morago ga poledišano ye nngwe le ye nngwe, nagana ka go ingwadiša go Premium.",
+    "active": "Ema bakeng sa sešupanako sa Cooldown pele o tšweletša poledišano e mpsha.\n\nGe e ba o rata go tloša di-cooldown, go tloša dipapatšo, gomme o amogele pego ya ditshwaotshwao ka keletšo ya kamoo o ka kaonefatšago ka morago ga poledišano e nngwe le e nngwe, nagana ka go ingwadiša go Premium.",
+    "timer": {
+      "wait": "Leta",
+      "second": "motsotswana",
+      "seconds": "Metsotswana ."
+    }
+  },
+  "report": {
+    "title": "Pego",
+    "summary": "Kakaretšo",
+    "feedback": "Dipoelo",
+    "advice": "Maele",
+    "button": {
+      "view": "Lebelela Bega .",
+      "unlock": "Pego ya go notlolla .",
+      "get": "Hwetša pego ."
+    },
+    "generating": "Pego ya go tšweletša..."
+  },
+  "review": {
+    "request": "Ge e ba o ratile app, hle nagana ka go tlogela tlhahlobo go re thuša.\n\n⭐⭐⭐⭐⭐ .",
+    "thanks": "Re leboga kudu!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Poledišano e mpsha e hwetšagala!",
+      "message": "O na le poledišano ye mpsha yeo e lego gona go tšea mošomo wa IntelliViewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PREMIAMO",
+      "type": "Peeletšo .",
+      "subscribe": "Inšuranse .",
+      "invitation": "Ingwadiše go Premium .",
+      "active": "Premium Peeletšo e mafolofolo .",
+      "thanks": "Re leboga go ingwadišetša Premium! Re le lakaletša mahlatse le maemo le katlego dipoledišanong tša gago ka moka tša ka moso!",
+      "menu": {
+        "title": "Peeletšo ya Premium .",
+        "subtitle": "Ingwadiše go Leano la Premium ."
+      }
+    },
+    "error": {
+      "subscription": "Phošo ya go leka go netefatša theko ya gago.",
+      "connection": "Phošo ya kgokagano.\n\nGa e kgone go kgokagana le lebenkele.",
+      "products": "Ga e kgone go lekola dikgetho tša setšweletšwa.",
+      "subscription_options": "Ga e kgone go laetša maano a peeletšo.\n\nHle, hlahloba kgokagano ya gago ya inthanete, goba o leke gape ka morago."
+    }
+  },
+  "error": {
+    "title": "Phošo",
+    "unexpected": "Selo se sengwe se ile sa fošagala... o souldn't be seeing this! 😱 .",
+    "connection": "Kgokagano .",
+    "connection_fix": "Lekola kgokagano ya gago ya inthanete gomme o leke gape ka morago.",
+    "ai": {
+      "no_response": "Ga go na karabelo .",
+      "unexpected": "Go sa letelwa .",
+      "internal_server_error": "Phošo ya seva ya ka gare ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Itlwaetše poledišano ya gago ye e latelago ya mošomo le sedirišwa se sa go ekiša sa AI sa kgonthe .",
+      "full_description": "Na go tšea dipoledišano tša mošomo go go dira gore o tšhoge le go tshwenyega?\nMohlomongwe o sa ikwa o sa itokišetša go tšea dipoledišano tša mošomo?\nYe ke tirišo ye e phethagetšego ya go itlwaetša mabokgoni a gago a poledišano maemong a poledišano ya mošomo!\n\nJob IntelliViewer e šomiša maatla a bohlale bja maitirelo go swara dipoledišano tša mošomo tša kgonthe tša go itira go go thuša go šomiša mabokgoni a poledišano ao a nyakegago go dira kgopolo ye botse go bathwalwa ba nnete ba bophelo le go go dira gore o itokišetše go ace poledišano ya gago ye e latelago.\n\nDipoledišano di rulagantšwe go ya ka maemo a mošomo ao o a nyakago, gomme di tla bopega le go lokišwa ka dipotšišo tšeo di amanago le dinepo tša gago go emela gakaone poledišano ya mošomo ya nnete.\n\nBadiriši ba Premium le bona ba tla amogela pego mafelelong a poledišano ye nngwe le ye nngwe yeo e akaretšago poledišano ka ditshwaotshwao le keletšo ya ka fao o ka kaonafatšago dibaka tša gago tša go thwala poledišanong ya nnete ya mošomo.",
+      "taglines": [
+        "Itokišetše mošomo wa gago o latelago!",
+        "Itlwaetše bakeng sa poledišano ya gago e latelago ya mošomo!",
+        "Ace poledišano ya gago ye e latelago ya mošomo le AI!",
+        "Katlego ya gago e latelago ya setsebi e go letetše mo!"
+      ],
+      "premium_benefits": [
+        "E tloša dipapatšo .",
+        "Dipoledišano tše di se nago mellwane .",
+        "Amogela dipego tšeo di nago le ditshwayotshwayo le keletšo ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premiamo",
+      "monthly": "Kgwedi le kgwedi .",
+      "annual": "Ngwaga ka ngwaga",
+      "cancel_anytime": "Khansela nako efe goba efe .",
+      "save_discount": "Boloka",
+      "subscribe": "Inšuranse .",
+      "restore_purchases": "Tsošološa ditheko .",
+      "premium_benefits": [
+        "Tlosa dipapatso .",
+        "Dipoledišano tše di sa lekanyetšwego tšeo di se nago Cooldowns .",
+        "Amogela dipego ka ditshwaelo le keletšo ka morago ga dipoledišano ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Thušo Fetolela .",
+    "description": "Thuša go fetolela tirišo ye go maleme a mangwe."
+  }
+}

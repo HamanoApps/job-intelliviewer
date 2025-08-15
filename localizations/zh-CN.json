@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "优质的",
+      "free": "免费版本"
+    }
+  },
+  "presentation": [
+    {
+      "title": "练习下一次面试！",
+      "message": "参加求职面试会让您紧张和焦虑吗？\n也许您仍然没有准备好工作面试？\n这是在工作面试环境中练习对话技能的理想应用！"
+    },
+    {
+      "title": "为您的下一份工作做好准备！",
+      "message": "Job Intelliviewer使用人工智能的力量来进行现实的模拟工作访谈，以帮助您利用对现实生活招聘人员的良好印象所需的对话技能，并使您准备好让您下一次现实生活中的面试。"
+    },
+    {
+      "title": "高级订阅：",
+      "message": "在每次面试结束时收到一份报告，总结了对话的反馈，并提供有关如何提高实际工作面试中雇用的机会的建议。"
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "家",
+      "interview": "面试",
+      "resume_cv": "恢复",
+      "history": "历史",
+      "history_entry": "历史记录",
+      "reports": "报告",
+      "settings": "设置"
+    }
+  },
+  "title": {
+    "attention": "注意力",
+    "information": "信息"
+  },
+  "label": {
+    "search": "搜索"
+  },
+  "button": {
+    "ok": "好的",
+    "back": "后退",
+    "close": "关闭",
+    "cancel": "取消",
+    "delete": "删除",
+    "review": "审查",
+    "subscribe": "订阅"
+  },
+  "language": {
+    "title": "语言",
+    "select": "选择语言",
+    "altered": "语言改变了"
+  },
+  "history": {
+    "empty": "空的历史",
+    "delete": {
+      "list": {
+        "title": "删除历史？",
+        "message": "您确定要删除整个历史记录吗？",
+        "deleted": "历史删除。"
+      },
+      "entry": {
+        "title": "删除面试？",
+        "message": "您确定要删除这次采访吗？",
+        "deleted": "历史删除。"
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "姓名",
+      "first_name": "名",
+      "date_of_birth": "出生日期",
+      "job_position": "工作职位",
+      "job_position_detailed": "详细的工作职位",
+      "education": "教育",
+      "courses": "课程",
+      "experience": "经验",
+      "add": {
+        "education": "增加新的教育",
+        "courses": "添加新课程",
+        "experience": "添加新的经验"
+      },
+      "error": {
+        "validation": {
+          "title": "验证错误",
+          "invalid_fields": "插入有效的工作职位角色，以申请新的工作面试。\n或者",
+          "unable_to_validate": "无法验证字段。"
+        }
+      }
+    },
+    "education": {
+      "institution": "机构",
+      "degree": "程度",
+      "start": "开始",
+      "end": "结尾"
+    },
+    "courses": {
+      "institution": "机构",
+      "title_of_course": "标题当然",
+      "course_load": "课程负载"
+    },
+    "experience": {
+      "company": "公司",
+      "position": "位置",
+      "start": "开始",
+      "end": "结尾"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "黑暗主题",
+      "description": "在光和黑暗主题之间进行选择。\n首次打开应用程序时，会自动设置为设备主题。"
+    },
+    "language": {
+      "name": "语言",
+      "description": "在使用应用程序时选择要显示的首选语言，并在访谈期间与AI交谈。"
+    },
+    "notifications": {
+      "saved": "设置保存"
+    },
+    "search": {
+      "not_found": "找不到结果。"
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "新面试",
+      "resume": "简历面试"
+    },
+    "generating": "产生新的采访"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "点击重试"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "输入您的消息...",
+    "max_length": "达到最大长度"
+  },
+  "cooldown": {
+    "description": "该应用程序的免费版本可让您每小时接受一次面试。\n\n如果您想删除限制，请删除广告，并收到一份反馈报告，并提供有关如何在每次面试后进行改进的建议，请考虑订阅Premium。",
+    "active": "等待冷却的计时器，然后再进行新的采访。\n\n如果您想删除冷却器，删除广告，并收到一份反馈报告，并提供有关如何在每次面试后进行改进的建议，请考虑订阅Premium。",
+    "timer": {
+      "wait": "等待",
+      "second": "第二",
+      "seconds": "秒"
+    }
+  },
+  "report": {
+    "title": "报告",
+    "summary": "概括",
+    "feedback": "反馈",
+    "advice": "建议",
+    "button": {
+      "view": "查看报告",
+      "unlock": "解锁报告",
+      "get": "获取报告"
+    },
+    "generating": "生成报告..."
+  },
+  "review": {
+    "request": "如果您喜欢该应用程序，请考虑离开评论来帮助我们。\n\n⭐⭐⭐⭐⭐",
+    "thanks": "非常感谢！"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "可用的新面试！",
+      "message": "您有一项新的面试可以接受Job Intelliviewer。"
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "优质的",
+      "type": "订阅",
+      "subscribe": "订阅",
+      "invitation": "订阅保费",
+      "active": "高级订阅活动",
+      "thanks": "感谢您订阅Premium！祝您在未来的所有面试中都好运和成功！",
+      "menu": {
+        "title": "高级订阅",
+        "subtitle": "订阅高级计划"
+      }
+    },
+    "error": {
+      "subscription": "错误试图验证您的购买。",
+      "connection": "连接错误。\n\n无法连接到商店。",
+      "products": "无法检查产品选项。",
+      "subscription_options": "无法加载订阅计划。\n\n请检查您的互联网连接，或稍后再试。"
+    }
+  },
+  "error": {
+    "title": "错误",
+    "unexpected": "出了问题...您不会看到这个！ 😱",
+    "connection": "联系",
+    "connection_fix": "检查您的互联网连接，然后再试一次。",
+    "ai": {
+      "no_response": "没有回应",
+      "unexpected": "意外",
+      "internal_server_error": "内部服务器错误"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "练习您的下一次与此现实的AI模拟器面试",
+      "full_description": "参加求职面试会让您紧张和焦虑吗？\n也许您仍然没有准备好工作面试？\n这是在工作面试环境中练习对话技能的理想应用！\n\nJob Intelliviewer利用人工智能的力量来进行现实的模拟工作面试，以帮助您利用对现实生活招聘人员留下良好印象所需的对话技能，并让您准备下一次面试。\n\n访谈是针对您要寻求的工作职位量身定制的，并将与您的目标相关的问题进行塑造和调整，以更好地代表真正的工作面试。\n\n高级用户还将在每次面试结束时收到一份报告，总结了对话，并提供有关如何提高实际工作面试中雇用的机会的建议。",
+      "taglines": [
+        "为您的下一份工作做好准备！",
+        "练习下一次面试！",
+        "ACE您与AI的下一次求职面试！",
+        "您的下一个职业成功在这里等待您！"
+      ],
+      "premium_benefits": [
+        "删除广告",
+        "无限访谈",
+        "收到有反馈和建议的报告"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "优质的",
+      "monthly": "每月",
+      "annual": "年度的",
+      "cancel_anytime": "随时取消",
+      "save_discount": "节省",
+      "subscribe": "订阅",
+      "restore_purchases": "还原购买",
+      "premium_benefits": [
+        "删除广告",
+        "没有冷却的无限访谈",
+        "接受面试后的反馈和建议的报告"
+      ]
+    }
+  },
+  "translation": {
+    "title": "帮助翻译",
+    "description": "帮助将此应用转换为其他语言。"
+  }
+}

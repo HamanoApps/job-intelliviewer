@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Mukofot",
+      "free": "Bepul versiya"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Keyingi ish suhbatingiz uchun mashq qiling!",
+      "message": "Ayub intervyulari sizni asabiy va xavotirga soladimi?\nEhtimol, siz hali ham ish intervyularini qabul qilmaysizmi?\nBu sizning intervyu sozlamalarida sizning suhbatdoshingizni mashq qilish uchun mukammal ilova!"
+    },
+    {
+      "title": "Keyingi ishingizga tayyor bo'ling!",
+      "message": "Lavorning intizomi varaqlari sun'iy aqlning kuchidan foydalanadi, chunki siz haqiqiy hayotni yollashda yaxshi taassurot qoldiradigan va sizni keyingi haqiqiy hayotiy intervyuga tayyorlashga yordam beradi."
+    },
+    {
+      "title": "Premium obuna:",
+      "message": "Har bir intervyu oxirida suhbatni qabul qilish suhbat va maslahatlar bilan haqiqiy intervyuda yollash imkoniyatlarini yaxshilash bo'yicha muammolar bilan yakunlang."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Uy",
+      "interview": "Intervyu",
+      "resume_cv": "Rezyume; qayta boshlash",
+      "history": "Tarix",
+      "history_entry": "Tarix kirish",
+      "reports": "Hisobotlar",
+      "settings": "Sozlash"
+    }
+  },
+  "title": {
+    "attention": "Diqqat",
+    "information": "Ma'lumot"
+  },
+  "label": {
+    "search": "Qidirish"
+  },
+  "button": {
+    "ok": "KELISHDIKMI",
+    "back": "Orqaga qaytish",
+    "close": "Yaqin",
+    "cancel": "Bekor qilmoq",
+    "delete": "O'chirmoq",
+    "review": "Ko'rib chiqmoq",
+    "subscribe": "Obuna bo'lish"
+  },
+  "language": {
+    "title": "Til",
+    "select": "Tilni tanlang",
+    "altered": "Til o'zgartirildi"
+  },
+  "history": {
+    "empty": "Bo'sh tarix",
+    "delete": {
+      "list": {
+        "title": "Tarixni o'chirasizmi?",
+        "message": "Haqiqatan ham butun tarixni yo'q qilmoqchimisiz?",
+        "deleted": "Tarix o'chirildi."
+      },
+      "entry": {
+        "title": "Suhbatni o'chirasizmi?",
+        "message": "Haqiqatan ham ushbu suhbatni yo'q qilmoqchimisiz?",
+        "deleted": "Tarix o'chirildi."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Ism",
+      "first_name": "Ism",
+      "date_of_birth": "Tug'ilgan kuni",
+      "job_position": "Ish joyi",
+      "job_position_detailed": "Batafsil ish o'rinlari",
+      "education": "Ta'lim",
+      "courses": "Kurslar",
+      "experience": "Tajriba",
+      "add": {
+        "education": "Yangi ta'lim qo'shing",
+        "courses": "Yangi kurs qo'shing",
+        "experience": "Yangi tajriba qo'shing"
+      },
+      "error": {
+        "validation": {
+          "title": "Tasdiqlash xatosi",
+          "invalid_fields": "Yangi ish suhbati uchun murojaat qilish uchun ish joyini to'g'ri joylashtiring.\nMuqobil ravishda",
+          "unable_to_validate": "Maydonlarni tekshirib bo'lmadi."
+        }
+      }
+    },
+    "education": {
+      "institution": "Muassasa",
+      "degree": "Daraja",
+      "start": "Boshlamoq",
+      "end": "Oxiri"
+    },
+    "courses": {
+      "institution": "Muassasa",
+      "title_of_course": "Albatta unvoni",
+      "course_load": "Kurs yuki"
+    },
+    "experience": {
+      "company": "Jamiyat",
+      "position": "Pozitsiya",
+      "start": "Boshlamoq",
+      "end": "Oxiri"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Qorong'i mavzusi",
+      "description": "Yorug'lik va qorong'i mavzu orasini tanlang.\nIlovani birinchi marta ochganingizda avtomatik ravishda qurilmaning mavzusiga o'rnatiladi."
+    },
+    "language": {
+      "name": "Til",
+      "description": "Ilovadan foydalanganda displeyni ishlatish va intervyu paytida AI bilan suhbatlashish uchun oldindan tanlangan tilni tanlang."
+    },
+    "notifications": {
+      "saved": "Saqlash sozlamalari"
+    },
+    "search": {
+      "not_found": "Hech qanday natija topilmadi."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Yangi intervyu",
+      "resume": "Intervyuni qayta tiklash"
+    },
+    "generating": "Yangi intervyus yaratish"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Qayta urinish uchun bosing"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Xabaringizni kiriting ...",
+    "max_length": "Maksning uzunligi yetdi"
+  },
+  "cooldown": {
+    "description": "Ilovaning bepul versiyasi sizga soatiga bitta intervyu olish imkonini beradi.\n\nAgar siz cheklovlarni olib tashlashni, reklamalarni olib tashlashni istasangiz va har bir intervyudan keyin qanday qilib yaxshilanish haqida maslahatlar bilan aloqa hisobotini oling.",
+    "active": "Yangi intervyus yaratishdan oldin batamom taymerini kuting.\n\nAgar men Koardsni olib tashlashni, reklamalarni olib tashlashni istasangiz va har bir intervyudan keyin qanday qilib yaxshilanish bo'yicha maslahatlar bilan aloqa hisobotini oling.",
+    "timer": {
+      "wait": "Kutmoq",
+      "second": "ikkinchi",
+      "seconds": "soniya"
+    }
+  },
+  "report": {
+    "title": "Hisobot",
+    "summary": "Qisqacha ma'lumot",
+    "feedback": "Fikr-mulohaza",
+    "advice": "Maslahat",
+    "button": {
+      "view": "Hisobotni ko'rish",
+      "unlock": "Qulfni ochish",
+      "get": "Hisobot oling"
+    },
+    "generating": "Hisobot hisobot ..."
+  },
+  "review": {
+    "request": "Agar sizga ilova yoqdi, iltimos, bizga yordam berish uchun sharhni qoldiring.\n\nShum",
+    "thanks": "Katta rahmat!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Yangi intervyu mavjud!",
+      "message": "Sizda ijobiy ma'lumot olish uchun yangi intervyu mavjud."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Mukofot",
+      "type": "Obuna",
+      "subscribe": "Obuna bo'lish",
+      "invitation": "Premiumga obuna bo'ling",
+      "active": "Premium obuna faol",
+      "thanks": "Premiumga obuna bo'lganingiz uchun rahmat! Sizga omad va kelajakdagi intervyular bo'yicha muvaffaqiyatlar tilaymiz!",
+      "menu": {
+        "title": "Premium obuna",
+        "subtitle": "Premium rejasiga obuna bo'ling"
+      }
+    },
+    "error": {
+      "subscription": "Xaridingizni tasdiqlashga harakat qilishda xato.",
+      "connection": "Ulanish xatosi.\n\nDo'konga ulanib bo'lmadi.",
+      "products": "Mahsulot parametrlarini tekshirib bo'lmadi.",
+      "subscription_options": "Obuna rejasini yuklab bo'lmadi.\n\nIltimos, Internetga ulanishingizni tekshiring yoki keyinroq qayta urinib ko'ring."
+    }
+  },
+  "error": {
+    "title": "Xato",
+    "unexpected": "Biror narsa noto'g'ri ketdi ... Siz buni ko'rmaysiz! Shum",
+    "connection": "Ulanish",
+    "connection_fix": "Internetga ulanishingizni tekshiring va keyinroq qayta urinib ko'ring.",
+    "ai": {
+      "no_response": "Hech qanday javob yo'q",
+      "unexpected": "Kutilmagan",
+      "internal_server_error": "Serverdagi ichki xatolik"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Ushbu haqiqiy ai simulyatori bilan navbatdagi ish suhbatingiz uchun amaliyot",
+      "full_description": "Ayub intervyulari sizni asabiy va xavotirga soladimi?\nEhtimol, siz hali ham ish intervyularini qabul qilmaysizmi?\nBu sizning intervyu sozlamalarida sizning suhbatdoshingizni mashq qilish uchun mukammal ilova!\n\nLavorning intizomi varaqlari sun'iy aqlning kuchidan foydalanadi, chunki siz haqiqiy hayotni yollashda yaxshi taassurot qoldiradigan va sizni keyingi intervyuga tayyorlashga yordam beradigan suhbat ko'nikmalarini olib boring.\n\nIntervyu siz qidirayotgan ish joyiga mos keladi va haqiqiy ish suhbatini yaxshiroq taqdim etish uchun maqsadlaringiz bilan bog'liq savollar bilan shakllantiriladi.\n\nPremium foydalanuvchilar, shuningdek, har bir intervyu oxirida suhbatni, suhbatni ko'rib chiqish va real suhbatda yollash imkoniyatlarini yaxshilash bo'yicha suhbatni yakunlaydilar.",
+      "taglines": [
+        "Keyingi ishingizga tayyor bo'ling!",
+        "Keyingi ish suhbatingiz uchun mashq qiling!",
+        "Ace AI bilan navbatdagi ish suhbatingiz!",
+        "Keyingi professional muvaffaqiyatingiz sizni bu erda kutmoqda!"
+      ],
+      "premium_benefits": [
+        "Reklamalarni olib tashlaydi",
+        "Cheksiz intervyu",
+        "Fikr va maslahatlar bilan hisobotlarni oling"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Mukofot",
+      "monthly": "Oylik",
+      "annual": "Yillik",
+      "cancel_anytime": "Istalgan vaqtda bekor qiling",
+      "save_discount": "Tejash",
+      "subscribe": "Obuna bo'lish",
+      "restore_purchases": "Xaridlarni tiklash",
+      "premium_benefits": [
+        "Reklamani olib tashlang",
+        "Koadovlar bo'lmagan cheksiz intervyu",
+        "Intervyu oldidan fikr-mulohaza va maslahatlar bilan hisobotlarni oling"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Tarjima qiling",
+    "description": "Ushbu dasturni boshqa tillarga tarjima qilishga yordam bering."
+  }
+}

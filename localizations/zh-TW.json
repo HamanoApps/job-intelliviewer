@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "優質的",
+      "free": "免費版本"
+    }
+  },
+  "presentation": [
+    {
+      "title": "練習下一次面試！",
+      "message": "參加求職面試會讓您緊張和焦慮嗎？\n也許您仍然沒有準備好工作面試？\n這是在工作面試環境中練習對話技能的理想應用！"
+    },
+    {
+      "title": "為您的下一份工作做好準備！",
+      "message": "Job Intelliviewer使用人工智能的力量來進行現實的模擬工作訪談，以幫助您利用對現實生活招聘人員的良好印象所需的對話技能，並使您準備好讓您下一次現實生活中的面試。"
+    },
+    {
+      "title": "高級訂閱：",
+      "message": "在每次面試結束時收到一份報告，總結了對話的反饋，並提供有關如何提高實際工作面試中僱用的機會的建議。"
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "家",
+      "interview": "面試",
+      "resume_cv": "恢復",
+      "history": "歷史",
+      "history_entry": "歷史記錄",
+      "reports": "報告",
+      "settings": "設定"
+    }
+  },
+  "title": {
+    "attention": "注意力",
+    "information": "資訊"
+  },
+  "label": {
+    "search": "搜尋"
+  },
+  "button": {
+    "ok": "好的",
+    "back": "後退",
+    "close": "關閉",
+    "cancel": "取消",
+    "delete": "刪除",
+    "review": "審查",
+    "subscribe": "訂閱"
+  },
+  "language": {
+    "title": "語言",
+    "select": "選擇語言",
+    "altered": "語言改變了"
+  },
+  "history": {
+    "empty": "空的歷史",
+    "delete": {
+      "list": {
+        "title": "刪除歷史？",
+        "message": "您確定要刪除整個歷史記錄嗎？",
+        "deleted": "歷史刪除。"
+      },
+      "entry": {
+        "title": "刪除面試？",
+        "message": "您確定要刪除這次採訪嗎？",
+        "deleted": "歷史刪除。"
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "姓名",
+      "first_name": "名",
+      "date_of_birth": "出生日期",
+      "job_position": "工作職位",
+      "job_position_detailed": "詳細的工作職位",
+      "education": "教育",
+      "courses": "課程",
+      "experience": "經驗",
+      "add": {
+        "education": "增加新的教育",
+        "courses": "添加新課程",
+        "experience": "添加新的經驗"
+      },
+      "error": {
+        "validation": {
+          "title": "驗證錯誤",
+          "invalid_fields": "插入有效的工作職位角色，以申請新的工作面試。\n或者",
+          "unable_to_validate": "無法驗證字段。"
+        }
+      }
+    },
+    "education": {
+      "institution": "機構",
+      "degree": "程度",
+      "start": "開始",
+      "end": "結尾"
+    },
+    "courses": {
+      "institution": "機構",
+      "title_of_course": "標題當然",
+      "course_load": "課程負載"
+    },
+    "experience": {
+      "company": "公司",
+      "position": "位置",
+      "start": "開始",
+      "end": "結尾"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "黑暗主題",
+      "description": "在光和黑暗主題之間進行選擇。\n首次打開應用程序時，會自動設置為設備主題。"
+    },
+    "language": {
+      "name": "語言",
+      "description": "在使用應用程序時選擇要顯示的首選語言，並在訪談期間與AI交談。"
+    },
+    "notifications": {
+      "saved": "設置保存"
+    },
+    "search": {
+      "not_found": "找不到結果。"
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "新面試",
+      "resume": "簡歷面試"
+    },
+    "generating": "產生新的採訪"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "點擊重試"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "輸入您的消息...",
+    "max_length": "達到最大長度"
+  },
+  "cooldown": {
+    "description": "該應用程序的免費版本可讓您每小時接受一次面試。\n\n如果您想刪除限制，請刪除廣告，並收到一份反饋報告，並提供有關如何在每次面試後進行改進的建議，請考慮訂閱Premium。",
+    "active": "等待冷卻的計時器，然後再進行新的採訪。\n\n如果您想刪除冷卻器，刪除廣告，並收到一份反饋報告，並提供有關如何在每次面試後進行改進的建議，請考慮訂閱Premium。",
+    "timer": {
+      "wait": "等待",
+      "second": "第二",
+      "seconds": "秒"
+    }
+  },
+  "report": {
+    "title": "報告",
+    "summary": "概括",
+    "feedback": "回饋",
+    "advice": "建議",
+    "button": {
+      "view": "查看報告",
+      "unlock": "解鎖報告",
+      "get": "獲取報告"
+    },
+    "generating": "生成報告..."
+  },
+  "review": {
+    "request": "如果您喜歡該應用程序，請考慮離開評論來幫助我們。\n\n⭐⭐⭐⭐⭐",
+    "thanks": "非常感謝！"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "可用的新面試！",
+      "message": "您有一項新的面試可以接受Job Intelliviewer。"
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "優質的",
+      "type": "訂閱",
+      "subscribe": "訂閱",
+      "invitation": "訂閱保費",
+      "active": "高級訂閱活動",
+      "thanks": "感謝您訂閱Premium！祝您在未來的所有面試中都好運和成功！",
+      "menu": {
+        "title": "高級訂閱",
+        "subtitle": "訂閱高級計劃"
+      }
+    },
+    "error": {
+      "subscription": "錯誤試圖驗證您的購買。",
+      "connection": "連接錯誤。\n\n無法連接到商店。",
+      "products": "無法檢查產品選項。",
+      "subscription_options": "無法加載訂閱計劃。\n\n請檢查您的互聯網連接，或稍後再試。"
+    }
+  },
+  "error": {
+    "title": "錯誤",
+    "unexpected": "出了問題...您不會看到這個！ 😱",
+    "connection": "聯繫",
+    "connection_fix": "檢查您的互聯網連接，然後再試一次。",
+    "ai": {
+      "no_response": "沒有回應",
+      "unexpected": "出乎意料",
+      "internal_server_error": "內部服務器錯誤"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "練習您的下一次與此現實的AI模擬器面試",
+      "full_description": "參加求職面試會讓您緊張和焦慮嗎？\n也許您仍然沒有準備好工作面試？\n這是在工作面試環境中練習對話技能的理想應用！\n\nJob Intelliviewer利用人工智能的力量來進行現實的模擬工作面試，以幫助您利用對現實生活招聘人員留下良好印象所需的對話技能，並讓您準備下一次面試。\n\n訪談是針對您要尋求的工作職位量身定制的，並將與您的目標相關的問題進行塑造和調整，以更好地代表真正的工作面試。\n\n高級用戶還將在每次面試結束時收到一份報告，總結了對話，並提供有關如何提高實際工作面試中僱用的機會的建議。",
+      "taglines": [
+        "為您的下一份工作做好準備！",
+        "練習下一次面試！",
+        "ACE您與AI的下一次求職面試！",
+        "您的下一個職業成功在這裡等待您！"
+      ],
+      "premium_benefits": [
+        "刪除廣告",
+        "無限訪談",
+        "收到有反饋和建議的報告"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "優質的",
+      "monthly": "每月",
+      "annual": "年度的",
+      "cancel_anytime": "隨時取消",
+      "save_discount": "節省",
+      "subscribe": "訂閱",
+      "restore_purchases": "還原購買",
+      "premium_benefits": [
+        "刪除廣告",
+        "沒有冷卻的無限訪談",
+        "接受面試後的反饋和建議的報告"
+      ]
+    }
+  },
+  "translation": {
+    "title": "幫助翻譯",
+    "description": "幫助將此應用轉換為其他語言。"
+  }
+}

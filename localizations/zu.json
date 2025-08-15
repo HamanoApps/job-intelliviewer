@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Umvuzo",
+      "free": "Version free"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Prakthiza kwinhlolokhono yakho elandelayo yomsebenzi!",
+      "message": "Ingabe ukuthatha izingxoxo zemisebenzi kukuthola uvalo futhi ukhathazeke?\nMhlawumbe usazizwa ungakulungele ukuthatha izingxoxo zomsebenzi?\nLolu uhlelo lokusebenza oluhle kakhulu lokuzijwayeza amakhono akho okuxoxa esimweni sengxoxo somsebenzi!"
+    },
+    {
+      "title": "Zilungiselele umsebenzi wakho olandelayo!",
+      "message": "I-Job IntelliVieiewer isebenzisa amandla wobuhlakani bokufakelwa ukwenza izingxoxo zemisebenzi ehlekisayo ukuze ikusize uhlanganise amakhono okuxoxa adingekayo ekuqasheni impilo yangempela futhi kukwenze ulungele i-ace interview yakho yangempela yempilo yangempela."
+    },
+    {
+      "title": "Ukubhaliswa kwe-Premium:",
+      "message": "Thola umbiko ekugcineni kwengxoxo ngayinye efingqa ingxoxo ngempendulo nezeluleko zokuthi ungawathuthukisa kanjani amathuba akho okuqashwa kwinhlolokhono yangempela yomsebenzi."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Ikhaya",
+      "interview": "Ukuxoxa naye",
+      "resume_cv": "Jikisa kabusha",
+      "history": "Umlando",
+      "history_entry": "Ukungena komlando",
+      "reports": "Ibika",
+      "settings": "Amasethingi"
+    }
+  },
+  "title": {
+    "attention": "Ukuqaphela",
+    "information": "Ulwazi"
+  },
+  "label": {
+    "search": "Sesha"
+  },
+  "button": {
+    "ok": "KULUNGILE",
+    "back": "-Dlulile",
+    "close": "Ngokuminyanisa",
+    "cancel": "Hlikihla",
+    "delete": "Cisha",
+    "review": "Bhekisisa",
+    "subscribe": "Bhalisa"
+  },
+  "language": {
+    "title": "Ulimi",
+    "select": "Khetha ulimi",
+    "altered": "Ulimi lushintshile"
+  },
+  "history": {
+    "empty": "Umlando Ongenalutho",
+    "delete": {
+      "list": {
+        "title": "Susa umlando?",
+        "message": "Uqinisekile ukuthi ufuna ukususa wonke umlando?",
+        "deleted": "Umlando uyasuswa."
+      },
+      "entry": {
+        "title": "Susa Ingxoxo?",
+        "message": "Uqinisekile ukuthi ufuna ukususa le ngxoxo?",
+        "deleted": "Umlando uyasuswa."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Ibizo",
+      "first_name": "Igama",
+      "date_of_birth": "Usuku lokuzalwa",
+      "job_position": "Isikhundla",
+      "job_position_detailed": "Isikhundla somsebenzi esinemininingwane",
+      "education": "Imfundo",
+      "courses": "Izifundo",
+      "experience": "Isipiliyoni",
+      "add": {
+        "education": "Engeza imfundo entsha",
+        "courses": "Faka inkambo entsha",
+        "experience": "Engeza isipiliyoni esisha"
+      },
+      "error": {
+        "validation": {
+          "title": "Iphutha Lokuqinisekiswa",
+          "invalid_fields": "Faka indawo evumelekile yomsebenzi ukufaka isicelo senhlolokhono entsha yomsebenzi.\nNgenye indlela",
+          "unable_to_validate": "Ayikwazi ukuqinisekisa izinkambu."
+        }
+      }
+    },
+    "education": {
+      "institution": "Ukumiswa",
+      "degree": "Ibanga",
+      "start": "Suka",
+      "end": "Ukugcina"
+    },
+    "courses": {
+      "institution": "Ukumiswa",
+      "title_of_course": "Isihloko Seqiniso",
+      "course_load": "Umthwalo wesifundo"
+    },
+    "experience": {
+      "company": "Iviyo",
+      "position": "Ukuma",
+      "start": "Suka",
+      "end": "Ukugcina"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Isihloko",
+      "description": "Khetha phakathi kwengqikithi elula nemnyama.\nSetha ngokuzenzakalelayo itimu yedivayisi okokuqala lapho uvula uhlelo lokusebenza."
+    },
+    "language": {
+      "name": "Ulimi",
+      "description": "Khetha ulimi olukhethwe ukulubonisa ngenkathi usebenzisa uhlelo lokusebenza futhi ukhuluma ne-AI ngesikhathi sezingxoxo."
+    },
+    "notifications": {
+      "saved": "Izilungiselelo ezigciniwe"
+    },
+    "search": {
+      "not_found": "Ayikho imiphumela etholakele."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Ingxoxo entsha",
+      "resume": "Qalisa kabusha ingxoxo"
+    },
+    "generating": "Kwenziwa Ingxoxo entsha"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Thepha ukuze uzame futhi"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Thayipha umlayezo wakho ...",
+    "max_length": "Ubude obukhulu bufinyelelwe"
+  },
+  "cooldown": {
+    "description": "Uhlobo lwamahhala lwe-App likuvumela ukuthi uthathe ingxoxo eyodwa ngehora.\n\nUma ungathanda ukususa umkhawulo, susa izikhangiso, bese uthola umbiko wempendulo ngeseluleko sendlela yokuthuthukisa ngemuva kwengxoxo ngayinye, cabanga ngokubhalisela i-Premium.",
+    "active": "Lindela isibali sesikhathi esidala ngaphambi kokukhipha inhlolokhono entsha.\n\nUma ungathanda ukususa ama-cooldown, susa izikhangiso, bese uthola umbiko wempendulo ngezeluleko zeseluleko sendlela yokuthuthukisa ngemuva kwengxoxo ngayinye, cabanga ngokubhalisela i-Premium.",
+    "timer": {
+      "wait": "Linda",
+      "second": "-lekayo",
+      "seconds": "imisa"
+    }
+  },
+  "report": {
+    "title": "Ukwenza umbiko",
+    "summary": "Ukubeka kafushane",
+    "feedback": "Impendulo",
+    "advice": "Iseluleko",
+    "button": {
+      "view": "Bheka Umbiko",
+      "unlock": "Umbiko Vula",
+      "get": "Thola umbiko"
+    },
+    "generating": "Ukwenza umbiko ..."
+  },
+  "review": {
+    "request": "Uma uluthandile uhlelo lokusebenza, sicela ucabangele ukushiya isibuyekezo ukusisiza.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Ngibona kakhulu!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Ingxoxo entsha iyatholakala!",
+      "message": "Unengxoxo entsha etholakalayo ongayithatha kwi-Job Intelliviewler."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Umvuzo",
+      "type": "Imali ekhishwa izikhawu",
+      "subscribe": "Bhalisa",
+      "invitation": "Bhalisela iprimiyamu",
+      "active": "Ukubhaliswa kwe-premium kusebenza",
+      "thanks": "Ngiyabonga ngokubhalisela i-premium! Sifisela wena inhlanhla nempumelelo kuzo zonke izingxoxo zakho zesikhathi esizayo!",
+      "menu": {
+        "title": "Ukubhaliswa kwe-premium",
+        "subtitle": "Bhalisela uhlelo lwe-premium"
+      }
+    },
+    "error": {
+      "subscription": "Iphutha lizama ukuqinisekisa ukuthenga kwakho.",
+      "connection": "Iphutha lokuxhumeka.\n\nAyikwazi ukuxhuma esitolo.",
+      "products": "Ayikwazi ukuhlola izinketho zomkhiqizo.",
+      "subscription_options": "Ayikwazi ukulayisha amasu wokubhalisa.\n\nSicela ubheke ukuxhumana kwakho kwe-inthanethi, noma uzame futhi emuva kwesikhathi."
+    }
+  },
+  "error": {
+    "title": "Ukuphambeka",
+    "unexpected": "Kukhona okungahambanga kahle ... awuzukubona lokhu! 😱",
+    "connection": "Isihlobo",
+    "connection_fix": "Bheka ukuxhumana kwakho kwe-inthanethi bese uzama futhi emuva kwesikhathi.",
+    "ai": {
+      "no_response": "Akunampendulo",
+      "unexpected": "-Ngabhekiwe",
+      "internal_server_error": "Iphutha Leseva Engaphakathi"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Prakthiza ukuxoxisana ngomsebenzi wakho olandelayo nalesi simulator esingokoqobo se-AI",
+      "full_description": "Ingabe ukuthatha izingxoxo zemisebenzi kukuthola uvalo futhi ukhathazeke?\nMhlawumbe usazizwa ungakulungele ukuthatha izingxoxo zomsebenzi?\nLolu uhlelo lokusebenza oluhle kakhulu lokuzijwayeza amakhono akho okuxoxa esimweni sengxoxo somsebenzi!\n\nI-Job IntelliVieiewer isebenzisa amandla wobuhlakani bokufakelwa ongokoqobo izingxoxo zomsebenzi ezihlekisayo ukukusiza ukuhlanganisa amakhono okuxoxa okudingekayo ukwenza umbono omuhle wabaqashi bempilo yangempela futhi ukwenze ulungele i-ace interview yakho elandelayo.\n\nIzingxoxo zenzelwe isikhundla somsebenzi osifunayo, futhi zizokwakhiwa futhi zilungiswe ngemibuzo ehlobene nezinhloso zakho ukuze zifaneke kangcono ingxoxo yangempela yomsebenzi.\n\nAbasebenzisi bePrimiyamu bazothola nombiko ekugcineni kwengxoxo ngayinye efingqa ingxoxo nempendulo nezeluleko zendlela yokuthuthukisa amathuba akho okuqashwa kwinhlolokhono yangempela yomsebenzi.",
+      "taglines": [
+        "Zilungiselele umsebenzi wakho olandelayo!",
+        "Prakthiza kwinhlolokhono yakho elandelayo yomsebenzi!",
+        "Ace umbuzo wakho olandelayo womsebenzi ne-AI!",
+        "Impumelelo yakho elandelayo yobungcweti ikulindele lapha!"
+      ],
+      "premium_benefits": [
+        "Isusa Izikhangiso",
+        "Izingxoxo Ezingenamkhawulo",
+        "Thola imibiko ngempendulo nezeluleko"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Umvuzo",
+      "monthly": "-Nyanga zonke",
+      "annual": "-Minyaka yonke",
+      "cancel_anytime": "Khansela nganoma yisiphi isikhathi",
+      "save_discount": "Hlenga",
+      "subscribe": "Bhalisa",
+      "restore_purchases": "Buyisela ukuthenga",
+      "premium_benefits": [
+        "Susa Izikhangiso",
+        "Izingxoxo ezingenamkhawulo ezingenamkhawulo ezingenazo ama-coold",
+        "Thola imibiko ngempendulo nezeluleko ngemuva kwezingxoxo"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Siza ukuhumusha",
+    "description": "Siza Humumisa lolu hlelo kwezinye izilimi."
+  }
+}

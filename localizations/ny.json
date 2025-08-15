@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Ndalama",
+      "free": "Mtundu waulere"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Yesezani kuyankhulana kwanu kotsatira!",
+      "message": "Kodi kutenga zokambirana za ntchito kumakusangalatsani komanso kuda nkhawa?\nMwinanso mukumva kuti simukufuna kufunsa mafunso?\nIli ndiye pulogalamu yabwino yoyeserera luso lanu loyankhulana pantchito yofunsidwa!"
+    },
+    {
+      "title": "Konzekerani ntchito yanu yotsatira!",
+      "message": "Anzeru a Jobdevaview amagwiritsa ntchito mphamvu ya nzeru zowunikira kuti akuthandizeni kudziwa luso lazokambirana zofunikira pa moyo weniweniwo."
+    },
+    {
+      "title": "Kulembetsa Premium:",
+      "message": "Landirani lipoti kumapeto kwa zofunsidwa lililonse zikulamba zokambiranazo ndi malingaliro ndi upangiri wa momwe mungapangire kuyankhulana kwa ntchito yeniyeni."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Nyumba",
+      "interview": "Kufunsa",
+      "resume_cv": "Pitilizani",
+      "history": "Mbiri yazakale",
+      "history_entry": "Kulowa kwa mbiri",
+      "reports": "Malipoti",
+      "settings": "Makonzedwe"
+    }
+  },
+  "title": {
+    "attention": "Kumvera",
+    "information": "Nkhani"
+  },
+  "label": {
+    "search": "Kufunafuna"
+  },
+  "button": {
+    "ok": "Chabwino",
+    "back": "Limbikitsa",
+    "close": "Tseka",
+    "cancel": "Siya",
+    "delete": "Chotsa",
+    "review": "Bweleza",
+    "subscribe": "Lembetsani"
+  },
+  "language": {
+    "title": "Chinenero",
+    "select": "Sankhani chilankhulo",
+    "altered": "Chilankhulo chinasintha"
+  },
+  "history": {
+    "empty": "Mbiri Yakale",
+    "delete": {
+      "list": {
+        "title": "Chotsani mbiriyakale?",
+        "message": "Mukutsimikiza kuti mukufuna kuchotsa mbiri yonse?",
+        "deleted": "Mbiri idachotsedwa."
+      },
+      "entry": {
+        "title": "Chotsani Mafunso?",
+        "message": "Mukutsimikiza kuti mukufuna kuchotsa kuyankhulana kumeneku?",
+        "deleted": "Mbiri idachotsedwa."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Dzina",
+      "first_name": "Dzina loyamba",
+      "date_of_birth": "Tsiku lobadwa",
+      "job_position": "Udindo wa ntchito",
+      "job_position_detailed": "Malo Oyenera",
+      "education": "Maphunziro",
+      "courses": "Maphunziro",
+      "experience": "Kuzindikira",
+      "add": {
+        "education": "Onjezani maphunziro atsopano",
+        "courses": "Onjezani maphunziro atsopano",
+        "experience": "Onjezani zatsopano"
+      },
+      "error": {
+        "validation": {
+          "title": "Cholakwika chovomerezeka",
+          "invalid_fields": "Ikani udindo woyenera kugwira ntchito yofunsira mafunso atsopano.\nMwina",
+          "unable_to_validate": "Takanika kutsimikizira minda."
+        }
+      }
+    },
+    "education": {
+      "institution": "Sukulu",
+      "degree": "Kuchuluka",
+      "start": "Kuyamba",
+      "end": "TSIRIZA"
+    },
+    "courses": {
+      "institution": "Sukulu",
+      "title_of_course": "Mutu wa Maphunziro",
+      "course_load": "Zowonjezera"
+    },
+    "experience": {
+      "company": "Kampani",
+      "position": "Malo",
+      "start": "Kuyamba",
+      "end": "TSIRIZA"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Mutu wakuda",
+      "description": "Sankhani pakati pa mutu wowala komanso wakuda.\nIngoyikani pamutu wa chipangizocho nthawi yoyamba yomwe mumatsegula pulogalamuyi."
+    },
+    "language": {
+      "name": "Chinenero",
+      "description": "Sankhani chilankhulo chowoneka bwino kuti muwonetse mukamagwiritsa ntchito pulogalamuyi ndikulankhula ndi ai poyankhulana."
+    },
+    "notifications": {
+      "saved": "Makonda opulumutsidwa"
+    },
+    "search": {
+      "not_found": "Palibe zotsatira zopezeka."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Mafunso atsopano",
+      "resume": "Yambitsani Kuyankhulana"
+    },
+    "generating": "Kupanga Mafunso atsopano"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Dinani kuti muyesenso"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Lembani uthenga wanu ...",
+    "max_length": "Kutalika kwa Max kunafika"
+  },
+  "cooldown": {
+    "description": "Mtundu waulere wa pulogalamuyi umakupatsani mwayi wofunsira kamodzi pa ola limodzi.\n\nNgati mungafune kuchotsa malire, chotsani zotsatsa, ndikulandila lipoti la mayankho ndi upangiri wa momwe mungasinthire atangoyankhulana chilichonse, lingalirani kulembetsa ku Prectium.",
+    "active": "Yembekezerani nthawi yanthawi yopanga isanayambike kuyankhulana kumene.\n\nNgati mukufuna kuchotsa zitsulo, chotsani zotsatsa, ndikulandila lipoti la mayankho ndi upangiri wa momwe mungasinthire atangoyankhulana chilichonse, lingalirani kulembetsa ku premium.",
+    "timer": {
+      "wait": "Dikira",
+      "second": "wachiwiri",
+      "seconds": "masekondi"
+    }
+  },
+  "report": {
+    "title": "Kuulula",
+    "summary": "Chidule",
+    "feedback": "Manzanu",
+    "advice": "Langizo",
+    "button": {
+      "view": "Onani lipoti",
+      "unlock": "Tsegulani malipoti",
+      "get": "Pezani lipoti"
+    },
+    "generating": "Lipoti Lopanga ..."
+  },
+  "review": {
+    "request": "Ngati mukufuna pulogalamuyi, chonde lingalirani kusiya ndemanga yotithandiza.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Zikomo kwambiri!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Mafunso atsopano alipo!",
+      "message": "Muli ndi kuyankhulana kwatsopano komwe kumapezeka kuti mugwire ntchito yantchito."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Ndalama",
+      "type": "Kulipira",
+      "subscribe": "Lembetsani",
+      "invitation": "Lembetsani ku Pulogalamu",
+      "active": "Kulembetsa Premium",
+      "thanks": "Zikomo kwambiri chifukwa cholembetsa ku Premium! Tikukufunirani zabwino zonse ndi kuchita bwino pa zoyankhula zanu zamtsogolo!",
+      "menu": {
+        "title": "Kulembetsa",
+        "subtitle": "Lembetsani mapulani a Premium"
+      }
+    },
+    "error": {
+      "subscription": "Vuto loyesa kutsimikizira kugula kwanu.",
+      "connection": "Cholakwika.\n\nTakanika kulumikizana ndi sitolo.",
+      "products": "Takanika kuwona zosankha zopanga.",
+      "subscription_options": "Takanika kukweza mapulani olembetsa.\n\nChonde, onani intaneti yanu, kapena yesaninso pambuyo pake."
+    }
+  },
+  "error": {
+    "title": "Kulakwa",
+    "unexpected": "China chake chalakwika ... Simungawone! 😱",
+    "connection": "Kulumikiza",
+    "connection_fix": "Onani kulumikizana kwanu pa intaneti ndikuyesanso pambuyo pake.",
+    "ai": {
+      "no_response": "Palibe kuyankha",
+      "unexpected": "Osayembekezedwa",
+      "internal_server_error": "Cholakwika Cham'kati Chaseva"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Yesezani kuyankhulana kwanu kotsatira ndi iyi",
+      "full_description": "Kodi kutenga zokambirana za ntchito kumakusangalatsani komanso kuda nkhawa?\nMwinanso mukumva kuti simukufuna kufunsa mafunso?\nIli ndiye pulogalamu yabwino yoyeserera luso lanu loyankhulana pantchito yofunsidwa!\n\nAnzeru a Jobdevaview amagwiritsa ntchito mphamvu ya nzeru zakuthupi kuti azitha kuyankhulana ntchito zomwe zikuthandizani kuti mukhale ndi malingaliro abwino pa moyo weniweniwo.\n\nZoyankhulana zimagwirizana ndi ntchito yomwe mukufuna, ndipo idzapangidwa ndikusinthidwa ndikusinthidwa ndi mafunso okhudzana ndi zolinga zanu kuti muimirenso kuyankhulana.\n\nOgwiritsa ntchito premium adzalandiranso lipoti kumapeto kwa mafunso aliwonse akuliza kuyankhulana ndi malingaliro ndi upangiri wamomwe mungapangire kuyankhulana kwa ntchito.",
+      "taglines": [
+        "Konzekerani ntchito yanu yotsatira!",
+        "Yesezani kuyankhulana kwanu kotsatira!",
+        "ACE ACE LAKO LABWINO LABWINO NDI AI!",
+        "Ubwino wanu wotsatira ukuyembekezera pano!"
+      ],
+      "premium_benefits": [
+        "Amachotsa malonda",
+        "Mafunso Opanda malire",
+        "Landirani malipoti ndi ndemanga ndi upangiri"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Ndalama",
+      "monthly": "Pamwezi",
+      "annual": "Pachaka",
+      "cancel_anytime": "Kuletsa nthawi iliyonse",
+      "save_discount": "Sunga",
+      "subscribe": "Lembetsani",
+      "restore_purchases": "Bwezeretsani kugula",
+      "premium_benefits": [
+        "Chotsani zotsatsa",
+        "Mafunso Opanda malire Opanda Ma Cooldns",
+        "Landirani malipoti ndi ndemanga ndi upangiri pambuyo pa zokambirana"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Thandizani Kutanthauzira",
+    "description": "Thandizo limatanthauzira izi ku zilankhulo zina."
+  }
+}

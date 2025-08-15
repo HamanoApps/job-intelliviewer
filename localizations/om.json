@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "HAMMA KAFFALTII WALIIGALTEEF YKN BARAARSAAF KAFFALAMU",
+      "free": "Version bilisaa ."
+    }
+  },
+  "presentation": [
+    {
+      "title": "Gaaffii fi deebii hojii itti aanuuf shaakali!",
+      "message": "Gaaffii fi deebii hojii fudhachuun si rifachiisuu fi yaaddoo sitti fida?\nTarii ammallee gaaffii fi deebii hojii fudhachuuf qophiin sitti dhaga’ama ta’a?\nKun appii gaarii ta'eedha, dandeettii haasa'aa keessan haala gaaffii fi deebii hojii keessatti shaakaluudhaaf!"
+    },
+    {
+      "title": "Hojii itti aanuuf qophaa'aa!",
+      "message": "Iyyed IntelliViewer humna sammuu namtolchee fayyadamuun gaaffii fi deebii hojii fakkeessaa qabatamaa ta’e gaggeessuun dandeettii haasa’aa qacartoota jireenya dhugaa irratti yaada gaarii uumuuf si gargaaru fayyadamtanii fi gaaffii fi deebii jireenya dhugaa itti aanu ace gochuuf akka isin qopheessitan isin gargaara."
+    },
+    {
+      "title": "Maallaqa Preemii:",
+      "message": "Tokkoon tokkoon af-gaaffii irratti gabaasa gabaabsee yaada fi gorsa akkaataa carraa gaaffii fi deebii hojii dhugaa keessatti qacaramuu kee fooyyessuu dandeessu irratti."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Mana",
+      "interview": "Af-gaaffii",
+      "resume_cv": "Deebisanii jalqabuu",
+      "history": "Seenaa",
+      "history_entry": "Galmee seenaa .",
+      "reports": "Gabaasaalee .",
+      "settings": "Sajoo ."
+    }
+  },
+  "title": {
+    "attention": "Xiyyeeffannoo",
+    "information": "Odeeffannoo"
+  },
+  "label": {
+    "search": "Barbaaduu"
+  },
+  "button": {
+    "ok": "TOLE",
+    "back": "Dugda",
+    "close": "Cufuu",
+    "cancel": "Haquu",
+    "delete": "Haquu",
+    "review": "Keessa deebi'uu",
+    "subscribe": "Subscribe godhaa ."
+  },
+  "language": {
+    "title": "Afaan",
+    "select": "Afaan filadhu .",
+    "altered": "Afaan jijjiirame ."
+  },
+  "history": {
+    "empty": "Seenaa duwwaa .",
+    "delete": {
+      "list": {
+        "title": "Seenaa haquu?",
+        "message": "Seenaa guutuu haquu akka barbaaddu mirkaneeffatteettaa?",
+        "deleted": "Seenaan haqame."
+      },
+      "entry": {
+        "title": "Gaaffii fi deebii haquu?",
+        "message": "Gaaffii fi deebii kana haquu akka barbaaddu mirkaneeffatteettaa?",
+        "deleted": "Seenaan haqame."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Maqaa",
+      "first_name": "Maqaa jalqabaa",
+      "date_of_birth": "Guyyaa dhalootaa .",
+      "job_position": "Bakka hojii .",
+      "job_position_detailed": "Bakka hojii bal'aa .",
+      "education": "Barumsa",
+      "courses": "Koorsii .",
+      "experience": "Muuxannoo",
+      "add": {
+        "education": "Barnoota haaraa itti dabali",
+        "courses": "Koorsii haaraa itti dabalaa",
+        "experience": "Muuxannoo haaraa itti dabalaa"
+      },
+      "error": {
+        "validation": {
+          "title": "Dogoggora mirkaneessuu .",
+          "invalid_fields": "Gaaffii fi deebii hojii haaraa iyyachuuf gahee iddoo hojii sirrii ta’e galchi.\nAkka filannootti .",
+          "unable_to_validate": "man'eelee mirkaneessuu hin dandeenye."
+        }
+      }
+    },
+    "education": {
+      "institution": "Dhaabbata .",
+      "degree": "Digirii",
+      "start": "Eegaluu",
+      "end": "Xumura"
+    },
+    "courses": {
+      "institution": "Dhaabbata .",
+      "title_of_course": "Mata duree koorsii .",
+      "course_load": "Fe'umsa Koorsii ."
+    },
+    "experience": {
+      "company": "Dhaabbata",
+      "position": "Gita hojii",
+      "start": "Eegaluu",
+      "end": "Xumura"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Mata duree dukkanaa'aa .",
+      "description": "Mata duree ifaa fi dukkanaa gidduutti filadhu.\nYeroo jalqabaaf appicha bantan ofumaan gara mata duree meeshaatti saagi."
+    },
+    "language": {
+      "name": "Afaan",
+      "description": "Afaan filatamaa agarsiisuuf yeroo application fayyadamuu fi yeroo af-gaaffii AI waliin haasa'uu fili."
+    },
+    "notifications": {
+      "saved": "Sajoo qusatame ."
+    },
+    "search": {
+      "not_found": "Bu'aan hin argamne."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Gaaffii fi deebii haaraa .",
+      "resume": "Gaaffii fi deebii hojii irra oolmaa ."
+    },
+    "generating": "Gaaffii fi deebii haaraa maddisiisuu ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Irra deebi'uuf tuqi ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Ergaa keessan barreessaa...",
+    "max_length": "Max dheerina ga'e ."
+  },
+  "cooldown": {
+    "description": "Appiin bilisaa sa'aatii tokkotti gaaffii fi deebii tokko akka fudhattu si dandeessisa.\n\nYoo daangaawwan haquu barbaadde, beeksisa sana haquu barbaadde, akkasumas gaaffii fi deebii tokkoon tokkoon booda akkaataa itti fooyya'uu dandeessan gorsa waliin, gatii olaanaatti galchuu yaadaa.",
+    "active": "Gaaffii fi deebii haaraa maddisiisuu dura sa'aatii cooldown eegaa.\n\nYoo cooldowns balleessuu barbaadde, beeksisa haquu barbaadde, fi gabaasa yaada gaaffii fi deebii tokkoon tokkoon booda akkamitti akka fooyya'u gorsa fudhatte, Premium subscribing ilaali.",
+    "timer": {
+      "wait": "Eegi",
+      "second": "lammaffaa",
+      "seconds": "Sekondii ."
+    }
+  },
+  "report": {
+    "title": "Gabaasuu",
+    "summary": "Cuunfaa",
+    "feedback": "Duubdeebii",
+    "advice": "Gorsa",
+    "button": {
+      "view": "Gabaasa ilaali",
+      "unlock": "Gabaasa Unlock .",
+      "get": "Gabaasa argadhaa ."
+    },
+    "generating": "Gabaasa maddisiisuu..."
+  },
+  "review": {
+    "request": "Yoo appicha jaallattan, maaloo gamaaggama nu gargaaru dhiisuu yaadaa.\n\n⭐⭐⭐⭐⭐ .",
+    "thanks": "Baay'ee galatoomi!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Gaaffii fi deebii haaraa argachuu dandeessu!",
+      "message": "Gaaffii fi deebii haaraa hojii IntelliViewer fudhachuuf jiru qabda."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "HAMMA KAFFALTII WALIIGALTEEF YKN BARAARSAAF KAFFALAMU",
+      "type": "Maallaqa galchuu .",
+      "subscribe": "Subscribe godhaa .",
+      "invitation": "Premium irratti mallatteessaa .",
+      "active": "Subscription Premium Active .",
+      "thanks": "Premium subscribe gochuuf galatoomaa! Gaaffii fi deebii gara fuula duraa hunda irratti carraa fi milkaa'ina gaarii isiniif hawwina!",
+      "menu": {
+        "title": "Maallaqa Preemii .",
+        "subtitle": "Karoora Preemiyeemii irratti mallatteessaa ."
+      }
+    },
+    "error": {
+      "subscription": "Dogoggora bittaa kee mirkaneessuuf yaaluun.",
+      "connection": "Dogoggora walqabsiisaa.\n\nSuuqii waliin wal qunnamsiisuu hin dandeenye.",
+      "products": "Filannoo oomishaa ilaaluu hin dandeenye.",
+      "subscription_options": "karoora maallaqa galchuu fe’uu hin dandeenye.\n\nMaaloo, interneetii keessan ilaalaa, ykn booda irra deebi'aa."
+    }
+  },
+  "error": {
+    "title": "Dogoggora",
+    "unexpected": "Waan tokkotu dogoggora ta'e... ati kana arguu hin qabdu! 😱 .",
+    "connection": "Walitti hidhamiinsa .",
+    "connection_fix": "Intarneetii keessan ilaalaa booda irra deebi'aa.",
+    "ai": {
+      "no_response": "Deebii hin qabu .",
+      "unexpected": "Kan hin eegamne .",
+      "internal_server_error": "Dogoggora sarvarii keessaa ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Gaaffii fi deebii hojii itti aanuuf simulator AI qabatamaa kanaan shaakala .",
+      "full_description": "Gaaffii fi deebii hojii fudhachuun si rifachiisuu fi yaaddoo sitti fida?\nTarii ammallee gaaffii fi deebii hojii fudhachuuf qophiin sitti dhaga’ama ta’a?\nKun appii gaarii ta'eedha, dandeettii haasa'aa keessan haala gaaffii fi deebii hojii keessatti shaakaluudhaaf!\n\nIyyed IntelliViewer humna sammuu namtolchee fayyadamuun gaaffii fi deebii hojii fakkeessaa qabatamaa ta’e gaggeessuun dandeettii haasawa qacartoota jireenya dhugaa irratti yaada gaarii uumuuf si gargaaru akka fayyadamtu si gargaara, akkasumas gaaffii fi deebii itti aanu ace gochuuf si qopheessuuf si gargaara.\n\nAf-gaaffiin hojii ati barbaadduuf kan qophaa’e yoo ta’u, gaaffii fi deebii hojii dhugaa haala gaariin bakka bu’uuf gaaffilee galma keetiin walqabataniin bocamee sirreeffama.\n\nFayyadamtoonni Premium akkasumas dhuma af-gaaffii tokkoon tokkoon isaanii irratti gabaasa ni argatu yaadaafi gorsa akkaataa carraa gaaffii fi deebii hojii dhugaa keessatti qacaruuf qabdan fooyyessuu dandeessu.",
+      "taglines": [
+        "Hojii itti aanuuf qophaa'aa!",
+        "Gaaffii fi deebii hojii itti aanuuf shaakali!",
+        "ACE Gaaffii fi deebii hojii itti aanu AI waliin qabdu!",
+        "Milkaa'inni ogummaa itti aanu asitti si eega!"
+      ],
+      "premium_benefits": [
+        "Beeksisa buqqisa .",
+        "Gaaffii fi deebii daangaa hin qabne .",
+        "Gabaasa yaadaafi gorsa waliin argachuu ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Hamma kaffaltii waliigalteef ykn baraarsaaf kaffalamu",
+      "monthly": "Ji'a ji'aan .",
+      "annual": "Waggaatti",
+      "cancel_anytime": "Yeroo kamiyyuu haquu .",
+      "save_discount": "Qusachuu",
+      "subscribe": "Subscribe godhaa .",
+      "restore_purchases": "Bittaa deebisaa .",
+      "premium_benefits": [
+        "Beeksisa irraa kaasi .",
+        "Gaaffii fi deebii daangaa hin qabne kan cooldowns hin qabne .",
+        "Gaaffii fi deebii booda gabaasa yaadaafi gorsa waliin argachuu ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Hiikkaa hiikuuf gargaaraa .",
+    "description": "Appilikeeshinii kana afaanota birootti hiikuuf gargaaraa."
+  }
+}

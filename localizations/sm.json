@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Totogiga",
+      "free": "Maua fua"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Faʻataʻitaʻi mo lau isi 'galuega faʻatalanoaga!",
+      "message": "E ave e le ave o galuega e te popole ai ma popole?\nAtonu e te lagona pea le le atoatoa ona faia faatalanoaga galuega?\nO le lelei lea polokalama e faʻataʻitaʻi ai au talanoaga faʻatalanoa i se galuega faʻatalanoaga galuega!"
+    },
+    {
+      "title": "Sauni mo lau isi galuega!",
+      "message": "E manaʻomia e Iopu le malosi o le poto e faʻatautaia ai ni faʻatalanoaga i le tele o talanoaga e fesoasoani ai ia te oe e faia se isi faʻatalanoaga moni."
+    },
+    {
+      "title": "Veluai Iunite:",
+      "message": "Maua se lipoti i le faaiuga o faʻatalatalanoaga taʻitasi o loʻo taʻua ai le talanoaga ma faʻamatalaga ma fautuaga i le auala e faʻaleleia ai ou avanoa o le faʻatalanoaga moni i se faʻatalanoaga moni."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Aiga",
+      "interview": "Talanoaga",
+      "resume_cv": "Toe amata",
+      "history": "Talaʻaga",
+      "history_entry": "Talafaasolopito ulufale",
+      "reports": "Lipoti",
+      "settings": "Tulaga"
+    }
+  },
+  "title": {
+    "attention": "Alalafaamaina",
+    "information": "Faʻamatalaga"
+  },
+  "label": {
+    "search": "Sailiga"
+  },
+  "button": {
+    "ok": "Ua lelei",
+    "back": "I tua",
+    "close": "Tapunia",
+    "cancel": "Faaleaogaina",
+    "delete": "Tape",
+    "review": "Iloiloga",
+    "subscribe": "Lesitala"
+  },
+  "language": {
+    "title": "Gagana",
+    "select": "Filifili gagana",
+    "altered": "Suia le gagana"
+  },
+  "history": {
+    "empty": "Taofia talafaasolopito",
+    "delete": {
+      "list": {
+        "title": "Aveese talafaasolopito?",
+        "message": "E te mautinoa e te manaʻo e tape le talaʻaga atoa?",
+        "deleted": "Faatomuaga ua aveesea."
+      },
+      "entry": {
+        "title": "Aveese faatalanoaga?",
+        "message": "O e mautinoa e te manaʻo e tape lenei faʻatalatalanoaga?",
+        "deleted": "Faatomuaga ua aveesea."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Igoa",
+      "first_name": "Igoa muamua",
+      "date_of_birth": "Aso fanau",
+      "job_position": "Tulaga faigaluega",
+      "job_position_detailed": "Auiliiliga galuega tulaga",
+      "education": "Aoaoga",
+      "courses": "Vasega",
+      "experience": "Poto masani",
+      "add": {
+        "education": "Faaopopo Aoga fou",
+        "courses": "Faaopopo vasega fou",
+        "experience": "Faaopopo le poto masani"
+      },
+      "error": {
+        "validation": {
+          "title": "Faamaoniga sese",
+          "invalid_fields": "Faʻaofi se tulaga aoga aoga galuega e talosaga ai mo se galuega fou galuega.\nMa se isi mea",
+          "unable_to_validate": "Le mafai ona faʻamaonia fanua."
+        }
+      }
+    },
+    "education": {
+      "institution": "Faalapotopotoga",
+      "degree": "Tikeri",
+      "start": "Amata",
+      "end": "Iuga"
+    },
+    "courses": {
+      "institution": "Faalapotopotoga",
+      "title_of_course": "Ulutala o le mea moni",
+      "course_load": "Kosi avega"
+    },
+    "experience": {
+      "company": "Kamupani",
+      "position": "Tulaga",
+      "start": "Amata",
+      "end": "Iuga"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Aurome Autu",
+      "description": "Filifili i le va o le malamalama ma le pogisa autu.\nOtometi seti i le masini autu o le taimi muamua na e tatalaina ai le app."
+    },
+    "language": {
+      "name": "Gagana",
+      "description": "Filifili le gagana o loʻo faʻaalia ai aʻo faʻaaoga le tusi talosaga ma talanoa i le AI i le taimi o faʻatalatalanoaga."
+    },
+    "notifications": {
+      "saved": "Seti na sefeina"
+    },
+    "search": {
+      "not_found": "Leai se tali maua."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Faatalanoaga fou",
+      "resume": "Toe amata faatalanoaga"
+    },
+    "generating": "Fausiaina Fou talanoaga"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Maua e toe taumafai"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Tusi lau savali ...",
+    "max_length": "Na taunuu Max"
+  },
+  "cooldown": {
+    "description": "O le fua fua o le app e mafai ai ona e faia se tasi faatalanoaga ile itula.\n\nAfai e te manaʻo e aveese ni tapulaʻa, aveese faʻasalalauga, ma maua ni faʻaupuga lipotia ma fautuaga pe faʻapefea ona faʻaleleia atili uma faʻatalanoaga pe a maeʻa ona maeʻa faatalanoaga.",
+    "active": "Faatali mo le cooldldown timer ae leʻi faia se faʻatalanoaga fou.\n\nAfai e te manaʻo e aveese le cooldowns, aveese ni faʻamatalaga, ma maua ni faʻamatalaga faʻamatalaga ma fautuaga pe faʻafefea ona faʻaleleia pe a maeʻa faatalanoaga, mafaufau i le tau faʻamaonia.",
+    "timer": {
+      "wait": "Faatali",
+      "second": "tulaga lua",
+      "seconds": "sekone"
+    }
+  },
+  "report": {
+    "title": "Lipoti",
+    "summary": "Aotelega",
+    "feedback": "Manatu faaalia",
+    "advice": "Fautuaga",
+    "button": {
+      "view": "View Couct",
+      "unlock": "Tatala Lipoti",
+      "get": "Maua Lipoti"
+    },
+    "generating": "Fausiaina o le Lipoti ..."
+  },
+  "review": {
+    "request": "Afai e te fiafia i le app, faʻamolemole mafaufau e tuua se iloiloga e fesoasoani ia matou.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Faafetai lava!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Avanoa fou!",
+      "message": "E iai sau faʻatalanoaga fou avanoa e alu ai i le galuega faʻamalosi."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Totogiga",
+      "type": "Togisala",
+      "subscribe": "Lesitala",
+      "invitation": "Lesitala i le tau",
+      "active": "O le totogi o le lesitala",
+      "thanks": "Faafetai mo le lesitala i le tau! Matou te moomoo ia te oe le manuia ma manuia i au galuega i le lumanaʻi!",
+      "menu": {
+        "title": "Talosaga Iunite",
+        "subtitle": "Lesitala i le taimi muamua"
+      }
+    },
+    "error": {
+      "subscription": "Faʻaletonu e taumafai e faʻamaonia lau faʻatau.",
+      "connection": "Faapitoa le sese.\n\nLe mafai ona fesoʻotaʻi i le faleoloa.",
+      "products": "Le mafai ona siaki filifiliga oloa.",
+      "subscription_options": "Le mafai ona utaina lesitala fuafuaga.\n\nFaʻamolemole, siaki lau fesoʻotaʻiga initaneti, pe toe taumafai mulimuli ane."
+    }
+  },
+  "error": {
+    "title": "Mea sese",
+    "unexpected": "Se mea na sese ... E te le o vaai i lenei mea! 😱",
+    "connection": "Fesoʻotaʻiga",
+    "connection_fix": "Siaki lau initaneti fesoʻotaʻiga ma toe taumafai mulimuli ane.",
+    "ai": {
+      "no_response": "Leai se tali",
+      "unexpected": "Le mafaufauina",
+      "internal_server_error": "Suafa i totonu"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Faataʻitaʻiga mo lau isi galuega faʻatalanoaga ma lenei moni faʻailoga ari simulator",
+      "full_description": "E ave e le ave o galuega e te popole ai ma popole?\nAtonu e te lagona pea le le atoatoa ona faia faatalanoaga galuega?\nO le lelei lea polokalama e faʻataʻitaʻi ai au talanoaga faʻatalanoa i se galuega faʻatalanoaga galuega!\n\nE manaʻomia e Iopu le malosi o galuega le malosi o le poto o le poto e faʻatautaia ai ni faʻatalanoaga galuega e fesoasoani ai ia te oe le faʻaosofia tomai i le isi faʻatalanoaga moni.\n\nO faʻatalatalanoaga e faʻapipiʻi i le galuega tulaga o loʻo e sailia, ma o le a foliga ma fetuʻunaʻi ma fesili e fesoʻotaʻi ma au sini moni galuega.\n\nO tagata o loʻo i ai o loʻo mauaina le lipoti o le faʻaiuga i le faaiuga o faʻatalatalanoaga taʻitasi o loʻo taʻua uma le talanoaga ma faʻamatalaga i le auala e faʻaleleia ai lau avanoa o le galuega moni galuega.",
+      "taglines": [
+        "Sauni mo lau isi galuega!",
+        "Faʻataʻitaʻi mo lau isi 'galuega faʻatalanoaga!",
+        "Ace lau isi galuega faatalanoaga ma Ai!",
+        "O lau isi mea na saunia ai oe i lenei manuia!"
+      ],
+      "premium_benefits": [
+        "Aveesea Ads",
+        "Uisaua Faatalanoaga",
+        "Maua lipoti ma faʻamatalaga ma fautuaga"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Totogiga",
+      "monthly": "Masina masina",
+      "annual": "Tausaga",
+      "cancel_anytime": "Faaleaogaina i soo se taimi",
+      "save_discount": "Sefe",
+      "subscribe": "Lesitala",
+      "restore_purchases": "Toe faʻafoʻi faʻatau",
+      "premium_benefits": [
+        "Aveese faasalalauga",
+        "Faʻatalatalanoaga faʻatalanoaga ma le leai o le cooldowns",
+        "Maua lipoti ma faʻamatalaga ma fautuaga ina ua maeʻa faatalanoaga"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Fesoasoani faaliliu",
+    "description": "Fesoasoani e faaliliu lenei apalai i isi gagana."
+  }
+}

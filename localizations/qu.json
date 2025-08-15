@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PREMIUM",
+      "free": "Versión gratis ."
+    }
+  },
+  "presentation": [
+    {
+      "title": "¡Practica para tu próxima entrevista de trabajo!",
+      "message": "¿Llank’anapaq entrevistakunata hap’iyqa mancharisqa, llakisqa ima?\nIchapas kunankamapas mana preparasqa hina tarikunki llamkaymanta entrevistakunata ruwanaykipaq?\n¡Kaymi allin app rimanakuy yachayniykikunata practicanaykipaq huk llamkay entrevistapi!"
+    },
+    {
+      "title": "¡Qhipa llamk’anaykipaq wakichisqa kay!",
+      "message": "Llamkana IntelliViewer llamk'achin atiyta inteligencia artificial kaqmanta ruwanapaq chiqa simulado llamk'ay entrevistakuna yanapasunaykipaq aprovechar rimanakuy yachaykunata necesitasqankuta huk allin impresionta ruwanapaq chiqa kawsay reclutadores kaqpi chaymanta ruwanaykipaq wakichisqa ace qatiq chiqa kawsay entrevistaykipaq."
+    },
+    {
+      "title": "Suscripción Premium:",
+      "message": "Sapa rimanakuy tukukuptin huk willakuyta chaskiy, rimanakuymanta rimaykunata pisiyachispa, yuyaychakuykunawan ima, imaynatataq chiqap llamkaymanta rimanakuypi contratasqa kanaykipaq chansaykikunata allinta ruwanaykipaq."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Wasi",
+      "interview": "Tapunakuy",
+      "resume_cv": "Pisiyachiy",
+      "history": "Willarina",
+      "history_entry": "Historiamanta qillqasqa .",
+      "reports": "Willakuykuna .",
+      "settings": "Ajustes ."
+    }
+  },
+  "title": {
+    "attention": "Yuyachiy",
+    "information": "Willakuy"
+  },
+  "label": {
+    "search": "Maskay"
+  },
+  "button": {
+    "ok": "KUSA",
+    "back": "Qipaman",
+    "close": "Wichqay",
+    "cancel": "Sayachiy",
+    "delete": "Chinkachiy",
+    "review": "Qawapay",
+    "subscribe": "Suscribirse ."
+  },
+  "language": {
+    "title": "Simi",
+    "select": "Simi akllay .",
+    "altered": "Simi tikrasqa ."
+  },
+  "history": {
+    "empty": "Ch'usaq willakuy .",
+    "delete": {
+      "list": {
+        "title": "¿Historiata qulluchiychu?",
+        "message": "¿Segurochu kanki llapan historiata chinkachiyta munanki?",
+        "deleted": "Historia Borrado."
+      },
+      "entry": {
+        "title": "¿Entrevistata chinkachiychu?",
+        "message": "¿Segurochu kanki kay entrevistata borrayta munanki?",
+        "deleted": "Historia Borrado."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Suti",
+      "first_name": "Ñawpa suti",
+      "date_of_birth": "P'unchawpi paqarisqan p'unchaw .",
+      "job_position": "Llamk'ana Kargu .",
+      "job_position_detailed": "Detallada llamkay posición .",
+      "education": "Yachay",
+      "courses": "Cursos .",
+      "experience": "Yachaykuna",
+      "add": {
+        "education": "Musuq yachachiyta yapay .",
+        "courses": "Musuq kursuta yapay .",
+        "experience": "Musuq experienciata yapay ."
+      },
+      "error": {
+        "validation": {
+          "title": "Chiqapchay pantay .",
+          "invalid_fields": "Musuq llamkaymanta rimanakuypaq mañakunaykipaqqa allin llamkay posición nisqa ruwayta churay.\nHukninpiqa .",
+          "unable_to_validate": "mana atispa chakrakunata chiqapchayta."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institución .",
+      "degree": "Titulo",
+      "start": "Qallariy",
+      "end": "Tukuy"
+    },
+    "courses": {
+      "institution": "Institución .",
+      "title_of_course": "Título por curso .",
+      "course_load": "Curso Carga ."
+    },
+    "experience": {
+      "company": "Hatun llamkana",
+      "position": "Tarikuynin",
+      "start": "Qallariy",
+      "end": "Tukuy"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tuta Tema .",
+      "description": "K’anchaywan tutayaq temawan chawpipi akllay.\nKikinmanta dispositivopa temanman churay ñawpaq kuti app kichanki."
+    },
+    "language": {
+      "name": "Simi",
+      "description": "Akllay aswan allin simita rikuchiypaq llamk’achkaspa chaymanta AI kaqwan rimachkaspa entrevistas kaqpi."
+    },
+    "notifications": {
+      "saved": "Ajustes Waqaychasqa ."
+    },
+    "search": {
+      "not_found": "Mana ima taripaykunata tarishkachu."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Musuq rimanakuy .",
+      "resume": "Curriculum vitae entrevista ."
+    },
+    "generating": "Musuq rimanakuy paqarichiq ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Retry nisqapi ñit'iy ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Qillqay willakuyniykita...",
+    "max_length": "Max largo alcance ."
+  },
+  "cooldown": {
+    "description": "Chay apppa mana qullqillapaq kaqninqa huk entrevistata sapa hora ruwayta atikunki.\n\nSichus limitacionkunata hurquyta munanki, willakuykunata hurquy, chaymanta huk willakuy willayta chaskiyta munanki yuyaychaykunawan imayna sapa entrevistamanta qhipaman allinchaypaq, qhaway suscribir premium kaqman.",
+    "active": "Suyay kay cooldown temporizador manaraq musuq entrevistata ruwachkaspa.\n\nSichus cooldownkunata hurquyta munanki, willakuykunata hurquy, chaymanta huk kutichiy willayta chaskiyta munanki yuyaychakuywan imayna sapa entrevistamanta qhipaman allinchaypaq, qhaway suscribir premium kaqman.",
+    "timer": {
+      "wait": "Suyay",
+      "second": "iskay ñiqi",
+      "seconds": "Segundos ."
+    }
+  },
+  "report": {
+    "title": "Willakuy",
+    "summary": "Pisiyachisqa",
+    "feedback": "Rimaykuna",
+    "advice": "Kunay",
+    "button": {
+      "view": "Willayta qhaway .",
+      "unlock": "Willayta kichay .",
+      "get": "Willayta tariy ."
+    },
+    "generating": "Informe generador..."
+  },
+  "review": {
+    "request": "Sichus chay app gustasurqanki, ama hina kaspa qhawariy huk revisión saqeyta yanapawanaykupaq.\n\n⭐⭐⭐⭐⭐ .",
+    "thanks": "Anchayam riqsikuyki!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "¡Musuq entrevistan kan!",
+      "message": "Musuq entrevistata llamk'ay Intellieviewer kaqpi hap'inaykipaq kanki."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PREMIUM",
+      "type": "Suscripción .",
+      "subscribe": "Suscribirse .",
+      "invitation": "Suscribete a Premium .",
+      "active": "Suscripción Premium Active .",
+      "thanks": "Gracias por suscribir a premium! ¡Allin suerteta, allin ruwaytapas munaykiku llapa hamuq pacha entrevistaykikunapi!",
+      "menu": {
+        "title": "Suscripción Premium .",
+        "subtitle": "Suscribete al Plan Premium ."
+      }
+    },
+    "error": {
+      "subscription": "Pantasqa rantisqaykita chiqapchayta munaspa.",
+      "connection": "T'inkisqa pantay.\n\nmana tiendaman tinkuyta atispa.",
+      "products": "Mana atispa ruru akllanakunata qhawayta.",
+      "subscription_options": "Mana Suscripción plankunata kargayta atispa.\n\nAma hina kaspa, internetman t'inkisqaykita qhaway, utaq qhipaman wakmanta kallpachakuy."
+    }
+  },
+  "error": {
+    "title": "Pantay",
+    "unexpected": "Imapas mana allinchu karqan... ¡Qanqa manan kayta rikunkichu! 😱 .",
+    "connection": "T'inkisqa .",
+    "connection_fix": "Internetman t’inkisqaykita qhaway hinaspa qhepaman yapamanta kallpachakuy.",
+    "ai": {
+      "no_response": "Mana kutichiy .",
+      "unexpected": "Mana suyasqa .",
+      "internal_server_error": "Ukhu sirwiq pantay ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Kay chiqap AI simuladorwan qatiqnin llamkay rimanakuyniykipaq practicay .",
+      "full_description": "¿Llank’anapaq entrevistakunata hap’iyqa mancharisqa, llakisqa ima?\nIchapas kunankamapas mana preparasqa hina tarikunki llamkaymanta entrevistakunata ruwanaykipaq?\n¡Kaymi allin app rimanakuy yachayniykikunata practicanaykipaq huk llamkay entrevistapi!\n\nJob Intellieviewer llamk'achin atiyta inteligencia artificial kaqmanta ruwanapaq chiqa simulado llamk'ay entrevistakuna yanapasunaykipaq aprovecharte habilidades necesitadas huk allin impresionta ruwanapaq chiqa kawsay reclutadores kaqpi chaymanta ruwanaykipaq wakichisqa ace qatiq entrevistaykipaq.\n\nEntrevistakuna llamk’ay posición maskasqaykiman hina ruwasqa kanku, chaymanta formasqa kanqa chaymanta allinchasqa kanqa tapuykunawan tupaq metakunaykiwan aswan allinta representanapaq huk chiqa llamk’ay entrevistata.\n\nPremium kaqmanta llamk'aqkuna huk willayta chaskinqaku sapa entrevista tukukuyninpi rimayta resumenpi retroalimentación kaqwan chaymanta yuyaychaykunawan imayna allinchaypaq chansakunayki contratasqa kay chiqa llamk'ay entrevista kaqpi.",
+      "taglines": [
+        "¡Qhipa llamk’anaykipaq wakichisqa kay!",
+        "¡Practica para tu próxima entrevista de trabajo!",
+        "Ace Tu próxima entrevista de trabajo con AI!",
+        "Tu siguiente éxito profesional te esperan aquí!"
+      ],
+      "premium_benefits": [
+        "Willakuykunata hurqun .",
+        "Mana k'itiyuq rimanakuykuna .",
+        "Willakuykunata chaskiy yuyaywan, yuyaychaywan ima ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Killapi .",
+      "annual": "Sapa wata",
+      "cancel_anytime": "Cancelar Anytime .",
+      "save_discount": "Waqaychay",
+      "subscribe": "Suscribirse .",
+      "restore_purchases": "Rantinakuykunata kutichiy .",
+      "premium_benefits": [
+        "Anunciokunata hurquy .",
+        "Mana k'itiyuq rimanakuykuna mana q'uñichiykunawan .",
+        "Willakuykunata chaskiy yuyaykunawan, yuyaychaykunawan ima rimanakuykunata tukuruspa ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Yanapakuy Traducir .",
+    "description": "Yanapay kay ruwayta huk simikunaman tikray."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Owo idawọle",
+      "free": "Ẹya ọfẹ"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Adaṣe fun ijomitoro iṣẹ rẹ t'okan!",
+      "message": "Njẹ mu awọn ibere ijomitoro iṣẹ jẹ ki o jẹ aifọkanbalẹ ati aibalẹ?\nBoya o tun lero ti a ko lero lati mu awọn ibere ijomitoro iṣẹ?\nEyi ni app pipe lati ṣe adaṣe awọn ọgbọn ibaranilẹnu rẹ ni eto ifọrọwanilẹnuwo iṣẹ!"
+    },
+    {
+      "title": "Jẹ mura fun iṣẹ atẹle rẹ!",
+      "message": "Iṣẹ edéye nlo agbara ti ọgbọn atọwọda lati ṣe awọn ibere ijomitoro iṣẹ ere idaraya lati ṣe riri rere lori awọn olukọ imọ-jinlẹ gidi ati jẹ ki o pese si ijomitoro igbesi aye gidi rẹ ti n bọ."
+    },
+    {
+      "title": "Idaraya Ere:",
+      "message": "Gba ijabọ kan ni opin ifọrọwanilẹnuwo kọọkan ti ṣe abojuto ibaraẹnisọrọ pẹlu esi ati imọran lori bi o ṣe le ṣe ilọsiwaju awọn aye rẹ ti gbigba ni ijomitoro iṣẹ gidi."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Ile",
+      "interview": "Ifọrọwanilẹnuwo",
+      "resume_cv": "Atunṣe",
+      "history": "Itan",
+      "history_entry": "Akọsilẹ Itan",
+      "reports": "Ijabọ",
+      "settings": "Eto"
+    }
+  },
+  "title": {
+    "attention": "Akiyesi",
+    "information": "Alaye"
+  },
+  "label": {
+    "search": "Ṣewadii"
+  },
+  "button": {
+    "ok": "Dara",
+    "back": "Ẹhin",
+    "close": "Sunmọ",
+    "cancel": "Fagilee",
+    "delete": "Paarẹ",
+    "review": "Atunyẹwo",
+    "subscribe": "Alabaranṣẹ"
+  },
+  "language": {
+    "title": "Ede",
+    "select": "Yan Ede",
+    "altered": "Ede yipada"
+  },
+  "history": {
+    "empty": "Itan olofo",
+    "delete": {
+      "list": {
+        "title": "Paarẹ itan?",
+        "message": "Ṣe o da ọ loju pe o fẹ lati pa gbogbo itan naa?",
+        "deleted": "Itan ti paarẹ."
+      },
+      "entry": {
+        "title": "Patoro?",
+        "message": "Ṣe o da ọ loju pe o fẹ lati pa ijomitoro yii?",
+        "deleted": "Itan ti paarẹ."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Orukọ",
+      "first_name": "Orukọ akọkọ",
+      "date_of_birth": "Ojo ibi",
+      "job_position": "Ipo iṣẹ",
+      "job_position_detailed": "Ipo iṣẹ alaye",
+      "education": "Eto ẹkọ",
+      "courses": "Awọn iṣẹ",
+      "experience": "Iriri",
+      "add": {
+        "education": "Ṣafikun ẹkọ tuntun",
+        "courses": "Ṣafikun Ẹkọ Tuntun",
+        "experience": "Ṣafikun iriri tuntun"
+      },
+      "error": {
+        "validation": {
+          "title": "Aṣiṣe afọwọsi",
+          "invalid_fields": "Fi ipo ipo iṣẹ ti o wulo fun lilo fun ijomitoro iṣẹ tuntun.\nNi omiiran",
+          "unable_to_validate": "Ko le ṣe pataki awọn aaye."
+        }
+      }
+    },
+    "education": {
+      "institution": "Ile-ẹkọ",
+      "degree": "Digiri",
+      "start": "Bẹrẹ",
+      "end": "Ipari"
+    },
+    "courses": {
+      "institution": "Ile-ẹkọ",
+      "title_of_course": "Akọle ti dajudaju",
+      "course_load": "Ipa ọna"
+    },
+    "experience": {
+      "company": "Ile-iṣẹ",
+      "position": "Ipo",
+      "start": "Bẹrẹ",
+      "end": "Ipari"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Akọle dudu",
+      "description": "Yan laarin ina ati akori dudu.\nṢeto laifọwọyi si Akori ẹrọ ni igba akọkọ ti o ṣii app naa."
+    },
+    "language": {
+      "name": "Ede",
+      "description": "Yan ede ti o fẹran lati ṣafihan lakoko lilo ohun elo ati sisọ si Ai lakoko awọn ifọrọwanilẹnuwo."
+    },
+    "notifications": {
+      "saved": "Eto ti fipamọ"
+    },
+    "search": {
+      "not_found": "Ko si awọn abajade ti a rii."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Ifọrọwanilẹnuwo tuntun",
+      "resume": "Pada sipo"
+    },
+    "generating": "Nla ijomitoro tuntun"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Fọwọ ba lati Tun gbiyanju"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Tẹ ifiranṣẹ rẹ ...",
+    "max_length": "Max ipari ti de"
+  },
+  "cooldown": {
+    "description": "Ẹya ọfẹ ti app naa fun ọ laaye lati mu ifọrọwanilẹnuwo kan fun wakati kan.\n\nTi o ba fẹ lati yọ awọn idiwọn kuro, yọ awọn ipolowo kuro, ki o gba ijabọ esi lori bi o ṣe le ṣe ilọsiwaju lẹhin ijomitoro kọọkan, ro ṣiṣe alabapin si Ere.",
+    "active": "Duro fun aago Canoown ṣaaju ṣiṣẹda ijomitoro tuntun kan.\n\nTi o ba fẹ lati yọ awọn ipolowo kuro, yọ awọn ipolowo kuro pẹlu ijabọ esi lori bi o ṣe le ṣe ilọsiwaju lẹhin ijomitoro kọọkan, ro ṣiṣe alabapin si Ere.",
+    "timer": {
+      "wait": "Duro",
+      "second": "ikeji",
+      "seconds": "aaya"
+    }
+  },
+  "report": {
+    "title": "Ijabọ",
+    "summary": "Isọniṣoki",
+    "feedback": "Esi",
+    "advice": "Imọran",
+    "button": {
+      "view": "Wiwọle Wo",
+      "unlock": "Sii ijabọ",
+      "get": "Gba ijabọ"
+    },
+    "generating": "Ijabọ ti npese ..."
+  },
+  "review": {
+    "request": "Ti o ba fẹran app naa, jọwọ ṣakiyesi ṣiyewo atunyẹwo lati ran wa lọwọ.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "O ṣeun pupọ!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Ifọrọwanilẹnuwo tuntun wa!",
+      "message": "O ni ifọrọwanilẹnuwo tuntun ti o wa lati ṣe lori iṣẹ oye."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Owo idawọle",
+      "type": "Ṣiṣe-alabapin",
+      "subscribe": "Alabaranṣẹ",
+      "invitation": "Alabapin si Ere",
+      "active": "Ere-alabapin Ere lọwọ",
+      "thanks": "O ṣeun fun ṣiṣe alabapin si Ere! A fẹ ki o dara orire ati aṣeyọri lori gbogbo awọn ibere ijomitoro ọjọ iwaju rẹ!",
+      "menu": {
+        "title": "Nkọ Iforukọsilẹ Ere",
+        "subtitle": "Alabapin si Eto Ere naa"
+      }
+    },
+    "error": {
+      "subscription": "Aṣiṣe gbiyanju lati fi idi rẹ mu.",
+      "connection": "Aṣiṣe asopọ.\n\nKo lagbara lati sopọ si ile itaja.",
+      "products": "Ko lagbara lati ṣayẹwo awọn aṣayan ọja.",
+      "subscription_options": "Ko lagbara lati fifuye alabapin awọn alabapin.\n\nJọwọ, ṣayẹwo asopọ intanẹẹti rẹ, tabi gbiyanju lẹẹkansi nigbamii."
+    }
+  },
+  "error": {
+    "title": "Aṣiṣe",
+    "unexpected": "Ohunkan ti o jẹ aṣiṣe ... o ko rii eyi! 😱",
+    "connection": "Asopọ",
+    "connection_fix": "Ṣayẹwo isopọ Ayelujara rẹ ki o tun gbiyanju lẹẹkan si.",
+    "ai": {
+      "no_response": "Ko si esi",
+      "unexpected": "Ainireti",
+      "internal_server_error": "Asa"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Adaṣe fun ijomitoro iṣẹ rẹ t'okan pẹlu ohun-ini AI bojumu yii",
+      "full_description": "Njẹ mu awọn ibere ijomitoro iṣẹ jẹ ki o jẹ aifọkanbalẹ ati aibalẹ?\nBoya o tun lero ti a ko lero lati mu awọn ibere ijomitoro iṣẹ?\nEyi ni app pipe lati ṣe adaṣe awọn ọgbọn ibaranilẹnu rẹ ni eto ifọrọwanilẹnuwo iṣẹ!\n\nIṣẹ edéye nlo agbara ti oye ti ofin ara lati ṣe iwuri fun ọ lati ṣe idanimọ awọn ọgbọn ibaraẹnisọrọ gidi lori awọn olukọ igbesi aye gidi ati jẹ ki o pese si ifọrọwanilẹnuwo rẹ t'okan.\n\nAwọn ifọrọwanilẹnuwo ni a ta fun ipo iṣẹ ti o n wa, ati pe yoo ṣe atunṣe ati tunṣe pẹlu awọn ibeere ti o ni ibatan si ijomitoro iṣẹ rẹ dara julọ.\n\nAwọn olumulo Ere yoo tun gba ijabọ kan ni opin ifọrọwanilẹnuwo kọọkan ti ṣe abojuto ibaraẹnisọrọ ati imọran lori bi o ṣe le ṣe ilọsiwaju awọn aye rẹ ti gbigba ni ijomitoro iṣẹ gidi.",
+      "taglines": [
+        "Jẹ mura fun iṣẹ atẹle rẹ!",
+        "Adaṣe fun ijomitoro iṣẹ rẹ t'okan!",
+        "Ace Ijumọsọrọ iṣẹ rẹ ti o tẹle pẹlu AI!",
+        "Aṣeyọri Ọjọgbọn atẹle rẹ n duro de rẹ nibi!"
+      ],
+      "premium_benefits": [
+        "Mu awọn ipolowo kuro",
+        "Awọn ifọrọwanilẹnuwo Kolopin",
+        "Gba awọn ijabọ pẹlu esi ati imọran"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Owo idawọle",
+      "monthly": "Oṣooṣu",
+      "annual": "Ọdọọdun",
+      "cancel_anytime": "Fagile nigbakugba",
+      "save_discount": "Fipamọ",
+      "subscribe": "Alabaranṣẹ",
+      "restore_purchases": "Mu pada awọn rira",
+      "premium_benefits": [
+        "Yọ awọn ipolowo kuro",
+        "Awọn ifọrọwanilẹnuwo Kolopin Pẹlu Ko si Croldowns",
+        "Gba awọn ijabọ pẹlu esi ati imọran lẹhin awọn ifọrọwanilẹnuwo"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Ṣe alaye",
+    "description": "Ṣe iranlọwọ fun ohun elo yii si awọn ede miiran."
+  }
+}

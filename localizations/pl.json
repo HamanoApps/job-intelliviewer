@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PREMIA",
+      "free": "Darmowa wersja"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Ćwicz na następną rozmowę o pracę!",
+      "message": "Czy przeprowadzanie rozmów kwalifikacyjnych denerwuje cię i niespokojna?\nMoże nadal czujesz się nieprzygotowany do przeprowadzania rozmów kwalifikacyjnych?\nJest to idealna aplikacja do ćwiczenia umiejętności konwersacyjnych w warunkach kwalifikacyjnych!"
+    },
+    {
+      "title": "Przygotuj się na następną pracę!",
+      "message": "Job Intelliviewer wykorzystuje moc sztucznej inteligencji do przeprowadzania realistycznych próbnych rozmów kwalifikacyjnych, aby pomóc Ci wykorzystać umiejętności konwersacyjne potrzebne do zrobienia dobrego wrażenia dla rekruterów z prawdziwego życia i przygotowania się do następnego wywiadu z prawdziwym życiem."
+    },
+    {
+      "title": "Subskrypcja premium:",
+      "message": "Otrzymaj raport na koniec każdego wywiadu, podsumowując rozmowę z informacjami zwrotnymi i poradami, jak zwiększyć swoje szanse na zatrudnienie w prawdziwej rozmowie kwalifikacyjnej."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Dom",
+      "interview": "Wywiad",
+      "resume_cv": "Wznawiać",
+      "history": "Historia",
+      "history_entry": "Wpis w historii",
+      "reports": "Raporty",
+      "settings": "Ustawienia"
+    }
+  },
+  "title": {
+    "attention": "Uwaga",
+    "information": "Informacja"
+  },
+  "label": {
+    "search": "Szukaj"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Z powrotem",
+    "close": "Zamknąć",
+    "cancel": "Anulować",
+    "delete": "Usuwać",
+    "review": "Recenzja",
+    "subscribe": "Subskrybować"
+  },
+  "language": {
+    "title": "Język",
+    "select": "Wybierz język",
+    "altered": "Język zmienił się"
+  },
+  "history": {
+    "empty": "Pusta historia",
+    "delete": {
+      "list": {
+        "title": "Usuń historię?",
+        "message": "Czy na pewno chcesz usunąć całą historię?",
+        "deleted": "Historia usunięta."
+      },
+      "entry": {
+        "title": "Usuń wywiad?",
+        "message": "Czy na pewno chcesz usunąć ten wywiad?",
+        "deleted": "Historia usunięta."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nazwa",
+      "first_name": "Imię",
+      "date_of_birth": "Data urodzenia",
+      "job_position": "Stanowisko pracy",
+      "job_position_detailed": "Szczegółowa pozycja pracy",
+      "education": "Edukacja",
+      "courses": "Kursy",
+      "experience": "Doświadczenie",
+      "add": {
+        "education": "Dodaj nowe wykształcenie",
+        "courses": "Dodaj nowy kurs",
+        "experience": "Dodaj nowe doświadczenie"
+      },
+      "error": {
+        "validation": {
+          "title": "Błąd sprawdzania poprawności",
+          "invalid_fields": "Włóż ważną rolę w stanowisku pracy, aby ubiegać się o nową rozmowę o pracę.\nAlternatywnie",
+          "unable_to_validate": "Nie można weryfikować pól."
+        }
+      }
+    },
+    "education": {
+      "institution": "Instytucja",
+      "degree": "Stopień",
+      "start": "Start",
+      "end": "Koniec"
+    },
+    "courses": {
+      "institution": "Instytucja",
+      "title_of_course": "Tytuł oczywiście",
+      "course_load": "Obciążenie kursu"
+    },
+    "experience": {
+      "company": "Firma",
+      "position": "Pozycja",
+      "start": "Start",
+      "end": "Koniec"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Mroczny motyw",
+      "description": "Wybierz między światłem i ciemnym motywem.\nAutomatycznie ustaw na motyw urządzenia za pierwszym otwieraniem aplikacji."
+    },
+    "language": {
+      "name": "Język",
+      "description": "Wybierz preferowany język do wyświetlenia podczas korzystania z aplikacji i rozmowy z AI podczas wywiadów."
+    },
+    "notifications": {
+      "saved": "Zapisane ustawienia"
+    },
+    "search": {
+      "not_found": "Nie znaleziono żadnych wyników."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nowy wywiad",
+      "resume": "Wznowić wywiad"
+    },
+    "generating": "Generowanie nowego wywiadu"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Stuknij, aby ponieść ponowne"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Wpisz swoją wiadomość ...",
+    "max_length": "Osiągnęła maksymalna długość"
+  },
+  "cooldown": {
+    "description": "Bezpłatna wersja aplikacji pozwala wziąć jedną rozmowę na godzinę.\n\nJeśli chcesz usunąć ograniczenia, usuń reklamy i otrzymać raport zwrotny z poradami na temat poprawy po każdej rozmowie, rozważ subskrypcję Premium.",
+    "active": "Poczekaj na czas odnowienia przed wygenerowaniem nowego wywiadu.\n\nJeśli chcesz usunąć czasów odnowienia, usunąć reklamy i otrzymać raport zwrotny z poradami na temat poprawy po każdej rozmowie, rozważ subskrypcję Premium.",
+    "timer": {
+      "wait": "Czekać",
+      "second": "drugi",
+      "seconds": "towary drugiej jakości"
+    }
+  },
+  "report": {
+    "title": "Raport",
+    "summary": "Streszczenie",
+    "feedback": "Informacja zwrotna",
+    "advice": "Rada",
+    "button": {
+      "view": "Zobacz raport",
+      "unlock": "Odblokuj raport",
+      "get": "Zdobądź raport"
+    },
+    "generating": "Generowanie raportu ..."
+  },
+  "review": {
+    "request": "Jeśli podobała Ci się aplikacja, rozważ opuszczenie recenzji, aby nam pomóc.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Dziękuję bardzo!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Dostępny nowy wywiad!",
+      "message": "Masz nowy wywiad, aby podjąć pracę Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PREMIA",
+      "type": "Prenumerata",
+      "subscribe": "Subskrybować",
+      "invitation": "Subskrybuj Premium",
+      "active": "Aktywna subskrypcja premium",
+      "thanks": "Dziękujemy za subskrypcję Premium! Życzymy powodzenia i sukcesu we wszystkich przyszłych wywiadach!",
+      "menu": {
+        "title": "Subskrypcja premium",
+        "subtitle": "Subskrybuj plan premium"
+      }
+    },
+    "error": {
+      "subscription": "Błąd próbujący potwierdzić zakup.",
+      "connection": "Błąd połączenia.\n\nNie można połączyć się ze sklepem.",
+      "products": "Nie można sprawdzić opcji produktu.",
+      "subscription_options": "Nie można załadować planów subskrypcji.\n\nSprawdź połączenie internetowe lub spróbuj ponownie później."
+    }
+  },
+  "error": {
+    "title": "Błąd",
+    "unexpected": "Coś poszło nie tak ... nie mogłeś tego zobaczyć! 😱",
+    "connection": "Połączenie",
+    "connection_fix": "Sprawdź swoje połączenie internetowe i spróbuj ponownie później.",
+    "ai": {
+      "no_response": "Brak odpowiedzi",
+      "unexpected": "Nieoczekiwany",
+      "internal_server_error": "Błąd serwera wewnętrznego"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Ćwicz następną rozmowę o pracę z tym realistycznym symulatorem AI",
+      "full_description": "Czy przeprowadzanie rozmów kwalifikacyjnych denerwuje cię i niespokojna?\nMoże nadal czujesz się nieprzygotowany do przeprowadzania rozmów kwalifikacyjnych?\nJest to idealna aplikacja do ćwiczenia umiejętności konwersacyjnych w warunkach kwalifikacyjnych!\n\nJob Intelliviewer wykorzystuje moc sztucznej inteligencji do przeprowadzania realistycznych próbnych rozmów kwalifikacyjnych, aby pomóc Ci wykorzystać umiejętności konwersacyjne potrzebne do zrobienia dobrego wrażenia dla rekruterów z prawdziwego życia i przygotowania się do następnego wywiadu.\n\nWywiady są dostosowane do poszukiwanego stanowiska pracy i będą kształtowane i dostosowane do pytań związanych z twoimi celami, aby lepiej reprezentować prawdziwą rozmowę o pracę.\n\nUżytkownicy Premium otrzymają również raport na koniec każdego wywiadu, podsumowując rozmowę z opiniami i poradami na temat zwiększenia szans na zatrudnienie w prawdziwej rozmowie kwalifikacyjnej.",
+      "taglines": [
+        "Przygotuj się na następną pracę!",
+        "Ćwicz na następną rozmowę o pracę!",
+        "Ace kolejną rozmowę o pracę z AI!",
+        "Twój następny sukces zawodowy czeka na Ciebie tutaj!"
+      ],
+      "premium_benefits": [
+        "Usuwa reklamy",
+        "Nieograniczone wywiady",
+        "Otrzymuj raporty z opinią i poradami"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premia",
+      "monthly": "Miesięczny",
+      "annual": "Coroczny",
+      "cancel_anytime": "Anuluj w dowolnym momencie",
+      "save_discount": "Ratować",
+      "subscribe": "Subskrybować",
+      "restore_purchases": "Przywróć zakupy",
+      "premium_benefits": [
+        "Usuń reklamy",
+        "Nieograniczone wywiady bez odnowienia",
+        "Otrzymuj raporty z opinią i poradami po rozmowie kwalifikacyjnej"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Pomóż przetłumaczyć",
+    "description": "Pomóż przetłumaczyć tę aplikację na inne języki."
+  }
+}

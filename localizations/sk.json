@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Prémia",
+      "free": "Verzia"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Cvičte pre váš ďalší pracovný pohovor!",
+      "message": "Dostane vás pracovné pohovory nervózne a úzkostné?\nMožno sa stále cítite nepripravení na pracovné pohovory?\nToto je perfektná aplikácia na precvičenie vašich konverzačných schopností v prostredí pracovného pohovoru!"
+    },
+    {
+      "title": "Buďte pripravení na svoju ďalšiu prácu!",
+      "message": "Spoločnosť Job IntelViewer využíva silu umelej inteligencie na vykonávanie realistických falošných pracovných pohovorov, aby vám pomohla využiť konverzačné zručnosti potrebné na to, aby ste urobili dobrý dojem na náborových pracovníkov v reálnom živote a aby ste sa pripravili na eso svojho ďalšieho rozhovoru v reálnom živote."
+    },
+    {
+      "title": "Prémiové predplatné:",
+      "message": "Dostaňte správu na konci každého rozhovoru sumaring konverzácie so spätnou väzbou a radami o tom, ako zlepšiť svoje šance na najatie v skutočnom pracovnom pohovore."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Domov",
+      "interview": "Rozhovor",
+      "resume_cv": "Prebiehať",
+      "history": "História",
+      "history_entry": "Vstup do histórie",
+      "reports": "Správy",
+      "settings": "Nastavenia"
+    }
+  },
+  "title": {
+    "attention": "Pozornosť",
+    "information": "Informácie"
+  },
+  "label": {
+    "search": "Prehliadka"
+  },
+  "button": {
+    "ok": "V poriadku",
+    "back": "Chrbát",
+    "close": "Zatvoriť",
+    "cancel": "Zrušiť",
+    "delete": "Vymazať",
+    "review": "Preskúmanie",
+    "subscribe": "Predplatiť"
+  },
+  "language": {
+    "title": "Jazyk",
+    "select": "Vyberte jazyk",
+    "altered": "Zmenil sa jazyk"
+  },
+  "history": {
+    "empty": "Prázdna história",
+    "delete": {
+      "list": {
+        "title": "Vymazať históriu?",
+        "message": "Ste si istý, že chcete odstrániť celú históriu?",
+        "deleted": "História vymazaná."
+      },
+      "entry": {
+        "title": "Odstrániť rozhovor?",
+        "message": "Ste si istí, že chcete tento rozhovor vymazať?",
+        "deleted": "História vymazaná."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Pomenovať",
+      "first_name": "Krstné meno",
+      "date_of_birth": "Dátum narodenia",
+      "job_position": "Pracovná pozícia",
+      "job_position_detailed": "Detailná pracovná pozícia",
+      "education": "Vzdelávanie",
+      "courses": "Kurzy",
+      "experience": "Zážitok",
+      "add": {
+        "education": "Pridajte nové vzdelávanie",
+        "courses": "Pridajte nový kurz",
+        "experience": "Pridajte nové skúsenosti"
+      },
+      "error": {
+        "validation": {
+          "title": "Chyba validácie",
+          "invalid_fields": "Vložte platnú úlohu pracovnej pozície a požiadajte o nový pracovný pohovor.\nAlternatívne",
+          "unable_to_validate": "Nie je možné overiť polia."
+        }
+      }
+    },
+    "education": {
+      "institution": "Inštitúcia",
+      "degree": "Titul",
+      "start": "Štart",
+      "end": "Ukončiť"
+    },
+    "courses": {
+      "institution": "Inštitúcia",
+      "title_of_course": "Samozrejme",
+      "course_load": "Zaťaženie kurzu"
+    },
+    "experience": {
+      "company": "Spoločnosť",
+      "position": "Pozícia",
+      "start": "Štart",
+      "end": "Ukončiť"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Téma",
+      "description": "Vyberte medzi svetlom a temnou témou.\nAutomaticky nastavte na tému zariadenia pri prvom otvorení aplikácie."
+    },
+    "language": {
+      "name": "Jazyk",
+      "description": "Vyberte preferovaný jazyk, ktorý sa má zobraziť pri používaní aplikácie a rozprávať sa s AI počas rozhovorov."
+    },
+    "notifications": {
+      "saved": "Uložené nastavenia"
+    },
+    "search": {
+      "not_found": "Nezistili sa žiadne výsledky."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nový rozhovor",
+      "resume": "Pokračovať v rozhovore"
+    },
+    "generating": "Generovanie nového rozhovoru"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Klepnite na opakovanie"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Zadajte svoju správu ...",
+    "max_length": "Maximálna dĺžka dosiahla"
+  },
+  "cooldown": {
+    "description": "Bezplatná verzia aplikácie vám umožňuje vziať si jeden rozhovor za hodinu.\n\nAk chcete odstrániť obmedzenia, odstráňte reklamy a dostanete správu o spätnej väzbe s radou, ako sa zlepšiť po každom pohovore, zvážte prihlásenie na odber poistného.",
+    "active": "Pred vytvorením nového rozhovoru počkajte na časovač Cooldown.\n\nAk chcete odstrániť Cooldowns, odstrániť reklamy a dostať správu o spätnej väzbe s radou, ako sa po každom pohovore zlepšiť, zvážte prihlásenie na odber poistného.",
+    "timer": {
+      "wait": "Čakať",
+      "second": "druhý",
+      "seconds": "sekundy"
+    }
+  },
+  "report": {
+    "title": "Uvádzanie",
+    "summary": "Zhrnutie",
+    "feedback": "Spätná väzba",
+    "advice": "Poradiť",
+    "button": {
+      "view": "Zobraziť správu",
+      "unlock": "Odomknutie",
+      "get": "Získať správu"
+    },
+    "generating": "Generovanie správy ..."
+  },
+  "review": {
+    "request": "Ak sa vám aplikácia páčila, zvážte opustenie recenzie, ktorá nám pomôže.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Ďakujem pekne!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "K dispozícii je nový rozhovor!",
+      "message": "Máte k dispozícii nový rozhovor, ktorý môžete prevziať na pracovisku IntelViewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Prémia",
+      "type": "Predplatné",
+      "subscribe": "Predplatiť",
+      "invitation": "Prihláste sa na odber prémie",
+      "active": "Prémiové predplatné aktívne",
+      "thanks": "Ďakujeme, že ste sa prihlásili na odber prémie! Prajeme vám veľa šťastia a úspechu vo všetkých vašich budúcich rozhovoroch!",
+      "menu": {
+        "title": "Prémiové predplatné",
+        "subtitle": "Prihláste sa na odber prémiového plánu"
+      }
+    },
+    "error": {
+      "subscription": "Chyba pokusu o overenie nákupu.",
+      "connection": "Chyba pripojenia.\n\nNedá sa pripojiť k obchodu.",
+      "products": "Nie je možné skontrolovať možnosti produktu.",
+      "subscription_options": "Nie je možné načítať plány predplatného.\n\nSkontrolujte svoje pripojenie na internet alebo skúste to znova neskôr."
+    }
+  },
+  "error": {
+    "title": "Chyba",
+    "unexpected": "Niečo sa pokazilo ... Mohol si to vidieť! 😱",
+    "connection": "Spojenie",
+    "connection_fix": "Skontrolujte svoje pripojenie na internet a skúste to znova neskôr.",
+    "ai": {
+      "no_response": "Žiadna odpoveď",
+      "unexpected": "Neočakávaný",
+      "internal_server_error": "Chyba interného servera"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Cvičte pre váš ďalší pracovný pohovor s týmto realistickým simulátorom AI",
+      "full_description": "Dostane vás pracovné pohovory nervózne a úzkostné?\nMožno sa stále cítite nepripravení na pracovné pohovory?\nToto je perfektná aplikácia na precvičenie vašich konverzačných schopností v prostredí pracovného pohovoru!\n\nSpoločnosť Job IntelViewer využíva silu umelej inteligencie na vykonávanie realistických falošných pracovných pohovorov, ktoré vám pomôžu využiť konverzačné zručnosti potrebné na to, aby ste urobili dobrý dojem na náborových pracovníkov v reálnom živote a aby ste sa pripravili na ďalší rozhovor.\n\nRozhovory sú prispôsobené pracovnej pozícii, ktorú hľadáte, a budú formované a upravené otázkami súvisiacimi s vašimi cieľmi, aby lepšie predstavovali skutočný pracovný pohovor.\n\nPoužívatelia prémií dostanú aj správu na konci každého rozhovoru, v ktorom zhrnie konverzáciu so spätnou väzbou a radami o tom, ako zlepšiť svoje šance na najatie v skutočnom pracovnom pohovore.",
+      "taglines": [
+        "Buďte pripravení na svoju ďalšiu prácu!",
+        "Cvičte pre váš ďalší pracovný pohovor!",
+        "ACE Tvoj ďalší pracovný pohovor s AI!",
+        "Čaká vás tu ďalší profesionálny úspech!"
+      ],
+      "premium_benefits": [
+        "Odstraňuje reklamy",
+        "Neobmedzené rozhovory",
+        "Dostávať správy so spätnou väzbou a radou"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Prémia",
+      "monthly": "Mesačný",
+      "annual": "Výročný",
+      "cancel_anytime": "Zrušiť kedykoľvek",
+      "save_discount": "Uložiť",
+      "subscribe": "Predplatiť",
+      "restore_purchases": "Obnoviť nákupy",
+      "premium_benefits": [
+        "Odstrániť reklamy",
+        "Neobmedzené rozhovory bez cooldowns",
+        "Po pohovoroch dostávajte správy so spätnou väzbou a radou"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Pomôcť preložiť",
+    "description": "Pomôžte preložiť túto aplikáciu do iných jazykov."
+  }
+}

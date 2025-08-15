@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "PHIRIMIYAMU",
+      "free": "Vuhundzuluxeri Bya Mahala ."
+    }
+  },
+  "presentation": [
+    {
+      "title": "Titolovete ku kuma mbulavurisano wa wena lowu landzelaka wa ntirho!",
+      "message": "Xana ku teka mimbulavurisano ya ntirho swi ku endla u va ni xivundza ni ku vilela?\nKumbexana wa ha titwa u nga tiyimiselanga ku teka ti-interview ta ntirho?\nLeyi i app leyi hetisekeke yo titoloveta vuswikoti bya wena bya mbulavurisano eka xiyimo xa mbulavurisano wa ntirho!"
+    },
+    {
+      "title": "Tilunghiselele ntirho wa wena lowu landzelaka!",
+      "message": "Job IntelliViewer yi tirhisa matimba ya vutlhari byo endliwa ku endla mimbulavurisano ya xiviri ya mock ya mock ku ku pfuna ku tirhisa vuswikoti bya mbulavurisano lebyi lavekaka ku endla nhlamuselo leyinene eka vathori va vutomi bya xiviri na ku ku endla u tilulamisela ku ace interview ya wena leyi landzelaka ya vutomi bya xiviri."
+    },
+    {
+      "title": "Xikhokhelo xa Premium:",
+      "message": "Amukela xiviko emakumu ka mbhurisano wun’wana na wun’wana lowu katsakanyaka mbulavurisano hi mbuyelo na switsundzuxo swa ndlela yo antswisa minkarhi ya wena yo thoriwa eka mbulavurisano wa xiviri wa ntirho."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Kaya",
+      "interview": "Inthavhiyu",
+      "resume_cv": "Sungula",
+      "history": "Matimu",
+      "history_entry": "Ku nghena ka matimu .",
+      "reports": "Swiviko swa swiviko .",
+      "settings": "Swiyimiso ."
+    }
+  },
+  "title": {
+    "attention": "Rinoko",
+    "information": "Marungula"
+  },
+  "label": {
+    "search": "Secha"
+  },
+  "button": {
+    "ok": "LULAMILE",
+    "back": "Tlhelela",
+    "close": "Pfala",
+    "cancel": "Khansela",
+    "delete": "Sula",
+    "review": "Hlela hi vuntshwa",
+    "subscribe": "Subscribe ."
+  },
+  "language": {
+    "title": "Ririmi",
+    "select": "Hlawula ririmi .",
+    "altered": "Ririmi ri cinciwile ."
+  },
+  "history": {
+    "empty": "Matimu lama nga riki na nchumu .",
+    "delete": {
+      "list": {
+        "title": "Susa matimu?",
+        "message": "Xana u tiyisile leswaku u lava ku susa matimu hinkwawo?",
+        "deleted": "Matimu ya susiwile."
+      },
+      "entry": {
+        "title": "Susa mbulavurisano?",
+        "message": "Xana u tiyisile leswaku u lava ku susa interview leyi?",
+        "deleted": "Matimu ya susiwile."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Vito",
+      "first_name": "Vito rosungula",
+      "date_of_birth": "Siku ra ku velekiwa .",
+      "job_position": "Xiyimo xa Ntirho .",
+      "job_position_detailed": "Xiyimo xa ntirho lexi nga ni vuxokoxoko .",
+      "education": "Dyondzo",
+      "courses": "Tikhoso .",
+      "experience": "Hlangana",
+      "add": {
+        "education": "Engetela dyondzo leyintshwa .",
+        "courses": "Engetela khoso leyintshwa .",
+        "experience": "Engetela ntokoto lowuntshwa ."
+      },
+      "error": {
+        "validation": {
+          "title": "Xihoxo xa ku tiyisisiwa .",
+          "invalid_fields": "Nghenisa xiphemu xa xiyimo xa ntirho lexi tirhaka ku endla xikombelo xa mbulavurisano wuntshwa wa ntirho.\nHi ndlela yin’wana .",
+          "unable_to_validate": "A swi koteki ku tiyisisa tinsimu."
+        }
+      }
+    },
+    "education": {
+      "institution": "Nhlangano .",
+      "degree": "Xiyimo",
+      "start": "Sungula",
+      "end": "Makumu"
+    },
+    "courses": {
+      "institution": "Nhlangano .",
+      "title_of_course": "Title ya ntiyiso .",
+      "course_load": "Ndzhwalo wa Khoso ."
+    },
+    "experience": {
+      "company": "Khamphani",
+      "position": "Xiyimo",
+      "start": "Sungula",
+      "end": "Makumu"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Nhlokomhaka ya munyama .",
+      "description": "Hlawula exikarhi ka ku vonakala ni nhloko-mhaka ya munyama.\nHi ku tisungulela u vekiwile eka theme ra xitirhisiwa loko u pfula app ro sungula."
+    },
+    "language": {
+      "name": "Ririmi",
+      "description": "Hlawula ririmi leri u ri tsakelaka ku ri kombisa loko u ri karhi u tirhisa xitirhisiwa na ku vulavula na AI hi nkarhi wa mimbulavurisano."
+    },
+    "notifications": {
+      "saved": "Swiyimiso swi hlayisiwile ."
+    },
+    "search": {
+      "not_found": "Ku hava vuyelo lebyi kumiweke."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Ntshaho Lowuntshwa .",
+      "resume": "Resume interview ."
+    },
+    "generating": "Ku tumbuluxa Ntshaho Lowuntshwa ."
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tap ku ringeta nakambe ."
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Thayipha rungula ra wena...",
+    "max_length": "Max length yi fikeleriwile ."
+  },
+  "cooldown": {
+    "description": "Vuhundzuluxeri bya mahala bya app byi ku pfumelela ku teka interview yin’we hi awara.\n\nLoko u lava ku susa swipimelo, susa swinavetiso, naswona u kuma xiviko xa mbuyelo hi switsundzuxo swa ndlela yo antswisa endzhaku ka mbulavurisano wun’wana na wun’wana, anakanya hi ku tsarisa eka premium.",
+    "active": "Yimela timer ya cooldown u nga si endla interview leyintshwa.\n\nLoko u lava ku susa ti cooldown, susa swinavetiso, na ku amukela xiviko xa mbuyelo hi switsundzuxo swa ndlela yo antswisa endzhaku ka interview yin’wana na yin’wana, ehleketa ku tsarisa eka premium.",
+    "timer": {
+      "wait": "Yima",
+      "second": "sekondi",
+      "seconds": "Tisekoni ."
+    }
+  },
+  "report": {
+    "title": "Xiviko",
+    "summary": "Nkomiso",
+    "feedback": "Mbuyelo",
+    "advice": "Xitsundzuxo",
+    "button": {
+      "view": "Languta xiviko .",
+      "unlock": "Xiviko xa Unlock .",
+      "get": "Kuma xiviko ."
+    },
+    "generating": "Xiviko xo tumbuluxa..."
+  },
+  "review": {
+    "request": "Loko u tsakele app, hi kombela u ehleketa ku siya nxopaxopo lowu nga ta hi pfuna.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Inkomu swinene!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Ntshaho lowuntshwa wu kona!",
+      "message": "U na interview leyintshwa leyi nga kona ku yi teka eka Job IntelliViewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PHIRIMIYAMU",
+      "type": "Xikhokhelo .",
+      "subscribe": "Subscribe .",
+      "invitation": "Tsarisa eka Premium .",
+      "active": "Xikhokhelo xa Premium xi tirha .",
+      "thanks": "Ndza khensa ku tsarisa eka Premium! Hi mi navelela mikateko na ku humelela eka ti interview ta n’wina hinkwato ta nkarhi lowu taka!",
+      "menu": {
+        "title": "Xikhokhelo xa Premium .",
+        "subtitle": "Tsarisa eka Pulani ya Premium ."
+      }
+    },
+    "error": {
+      "subscription": "Xihoxo xo ringeta ku tiyisisa ku xava ka wena.",
+      "connection": "Xihoxo xa Nhlanganiso.\n\nA swi koteki ku hlanganisa na xitolo.",
+      "products": "A swi koteki ku kambela swihlawulekisi swa swikumiwa.",
+      "subscription_options": "A swi koteki ku layicha tipulani ta xikhokhelo.\n\nHi kombela, languta vuhlanganisi bya wena bya inthanete, kumbe u ringeta nakambe endzhaku."
+    }
+  },
+  "error": {
+    "title": "Xihoxo",
+    "unexpected": "Xin'wana lexi nga famba kahle... a wu soldn't be seeing this! 😱 .",
+    "connection": "Ku hlanganisiwa .",
+    "connection_fix": "Languta vuhlanganisi bya wena bya inthanete kutani u ringeta nakambe endzhaku.",
+    "ai": {
+      "no_response": "Ku hava nhlamulo .",
+      "unexpected": "A swi nga languteriwanga .",
+      "internal_server_error": "Xihoxo xa sevha ya le ndzeni ."
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Titolovete eka mbulavurisano wa wena lowu landzelaka wa ntirho na xifaniso lexi xa xiviri xa AI simulator .",
+      "full_description": "Xana ku teka mimbulavurisano ya ntirho swi ku endla u va ni xivundza ni ku vilela?\nKumbexana wa ha titwa u nga tiyimiselanga ku teka ti-interview ta ntirho?\nLeyi i app leyi hetisekeke yo titoloveta vuswikoti bya wena bya mbulavurisano eka xiyimo xa mbulavurisano wa ntirho!\n\nJob IntelliViewer u tirhisa matimba ya vutlhari byo endliwa ku endla mimbulavurisano ya xiviri ya mock ya mock ku ku pfuna ku tirhisa vuswikoti bya mbulavurisano lebyi lavekaka ku endla nhlamuselo leyinene eka vathori va vutomi bya xiviri na ku ku endla u tilulamisela ku ace interview ya wena leyi landzelaka.\n\nMimbulavurisano yi lulamisiwile eka xiyimo xa ntirho lexi u xi lavaka, naswona yi ta vumbiwa no lulamisiwa hi swivutiso leswi fambelanaka na tipakani ta wena ku yimela ku antswa mbulavurisano wa xiviri wa ntirho.\n\nVatirhisi va Premium va ta tlhela va kuma xiviko emakumu ka mbhurisano wun’wana na wun’wana hi ku katsakanya mbulavurisano hi mbuyelo na switsundzuxo swa ndlela yo antswisa minkarhi ya wena yo thoriwa eka mbulavurisano wa xiviri wa ntirho.",
+      "taglines": [
+        "Tilunghiselele ntirho wa wena lowu landzelaka!",
+        "Titolovete ku kuma mbulavurisano wa wena lowu landzelaka wa ntirho!",
+        "Ace interview ya wena leyi landzelaka ya ntirho na AI!",
+        "Ku humelela ka wena loku landzelaka ka xiphurofexinali ku ku rindzile laha!"
+      ],
+      "premium_benefits": [
+        "Ku susa swinavetiso .",
+        "Mimbulavurisano leyi nga riki na swipimelo .",
+        "Amukela swiviko leswi nga na vuxokoxoko na switsundzuxo ."
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Phirimiyamu",
+      "monthly": "N’hweti na n’hweti .",
+      "annual": "Lembe na lembe",
+      "cancel_anytime": "Khansela nkarhi wihi na wihi .",
+      "save_discount": "Hlayisa",
+      "subscribe": "Subscribe .",
+      "restore_purchases": "Vuyisela swilo leswi xaviweke .",
+      "premium_benefits": [
+        "Susa swinavetiso .",
+        "Mimbulavurisano leyi nga riki na swipimelo leyi nga riki na ti-cooldown .",
+        "Amukela swiviko leswi nga na vuxokoxoko na switsundzuxo endzhaku ka mimbulavurisano ."
+      ]
+    }
+  },
+  "translation": {
+    "title": "Pfuna ku hundzuluxela .",
+    "description": "Pfuna ku hundzuluxa xikombelo lexi eka tindzimi tin’wana."
+  }
+}

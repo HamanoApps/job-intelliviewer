@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Version falas"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Praktikoni për intervistën tuaj të ardhshme të punës!",
+      "message": "A ju bën nervoz dhe ankth marrja e intervistave në punë?\nNdoshta ju ende ndiheni të papërgatitur për të marrë intervista në punë?\nKy është aplikacioni i përsosur për të praktikuar aftësitë tuaja bisedore në një mjedis të intervistës në punë!"
+    },
+    {
+      "title": "Jini të përgatitur për punën tuaj të ardhshme!",
+      "message": "Job IntelliViewer përdor fuqinë e inteligjencës artificiale për të kryer intervista realiste të punës tallen për t'ju ndihmuar të shfrytëzoni aftësitë bisedore të nevojshme për të bërë një përshtypje të mirë në rekrutuesit e jetës reale dhe për t'ju bërë të përgatitur të bëni intervistën tuaj të ardhshme të jetës reale."
+    },
+    {
+      "title": "Abonimi Premium:",
+      "message": "Merrni një raport në fund të secilës intervistë që përmbledh bisedën me reagime dhe këshilla se si të përmirësoni shanset tuaja për t'u punësuar në një intervistë të vërtetë pune."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Shtëpi",
+      "interview": "Intervistë",
+      "resume_cv": "Rinis",
+      "history": "Histori",
+      "history_entry": "Hyrja në Histori",
+      "reports": "Raportim",
+      "settings": "Cilësimet"
+    }
+  },
+  "title": {
+    "attention": "Vëmendje",
+    "information": "Informacion"
+  },
+  "label": {
+    "search": "Kërkim"
+  },
+  "button": {
+    "ok": "I mirë",
+    "back": "I prapambetur",
+    "close": "I afërt",
+    "cancel": "Anuloj",
+    "delete": "Nxjerr",
+    "review": "Rishikim",
+    "subscribe": "Pajtohem"
+  },
+  "language": {
+    "title": "Gjuhë",
+    "select": "Zgjidhni gjuhën",
+    "altered": "Gjuha ndryshoi"
+  },
+  "history": {
+    "empty": "Histori boshe",
+    "delete": {
+      "list": {
+        "title": "Fshi historinë?",
+        "message": "A jeni i sigurt që doni të fshini tërë historinë?",
+        "deleted": "Historia e fshirë."
+      },
+      "entry": {
+        "title": "Fshini intervistën?",
+        "message": "A jeni i sigurt që doni të fshini këtë intervistë?",
+        "deleted": "Historia e fshirë."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Emër",
+      "first_name": "Emër",
+      "date_of_birth": "Data e lindjes",
+      "job_position": "Vend pune",
+      "job_position_detailed": "Pozicioni i detajuar i punës",
+      "education": "Arsim",
+      "courses": "Kurse",
+      "experience": "Përvojë",
+      "add": {
+        "education": "Shtoni arsim të ri",
+        "courses": "Shto kurs të ri",
+        "experience": "Shtoni përvojë të re"
+      },
+      "error": {
+        "validation": {
+          "title": "Gabim në vërtetim",
+          "invalid_fields": "Vendosni një rol të vlefshëm të pozicionit të punës për të aplikuar për një intervistë të re pune.\nAlternative",
+          "unable_to_validate": "Në pamundësi për të vërtetuar fushat."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institucion",
+      "degree": "Shkallë",
+      "start": "Filloj",
+      "end": "Mbaroj"
+    },
+    "courses": {
+      "institution": "Institucion",
+      "title_of_course": "Titulli natyrisht",
+      "course_load": "Ngarkesë e kursit"
+    },
+    "experience": {
+      "company": "Kompani",
+      "position": "Pozicion",
+      "start": "Filloj",
+      "end": "Mbaroj"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Temë e errët",
+      "description": "Zgjidhni midis temës së dritës dhe të errët.\nVendoseni automatikisht në temën e pajisjes herën e parë që hapni aplikacionin."
+    },
+    "language": {
+      "name": "Gjuhë",
+      "description": "Zgjidhni gjuhën e preferuar për të shfaqur ndërsa përdorni aplikacionin dhe bisedoni me AI gjatë intervistave."
+    },
+    "notifications": {
+      "saved": "Cilësimet e ruajtura"
+    },
+    "search": {
+      "not_found": "Nuk u gjet asnjë rezultat."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Intervistë e re",
+      "resume": "Rinis intervistimin"
+    },
+    "generating": "Gjenerimi i intervistës së re"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Trokitni lehtë për të provuar përsëri"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Shtypni mesazhin tuaj ...",
+    "max_length": "Arriti gjatësia maksimale"
+  },
+  "cooldown": {
+    "description": "Versioni falas i aplikacionit ju lejon të merrni një intervistë në orë.\n\nNëse dëshironi të hiqni kufizimet, hiqni reklamat dhe merrni një raport të feedback -ut me këshilla se si të përmirësoheni pas çdo interviste, konsideroni të pajtoheni në premium.",
+    "active": "Prisni për kohëmatësin e Cooldown para se të gjeneroni një intervistë të re.\n\nNëse dëshironi të hiqni bashkërendimet, hiqni reklamat dhe merrni një raport të feedback -ut me këshilla se si të përmirësoheni pas çdo interviste, konsideroni të pajtoheni në premium.",
+    "timer": {
+      "wait": "Prit",
+      "second": "i dyti",
+      "seconds": "sekondë"
+    }
+  },
+  "report": {
+    "title": "Raportoj",
+    "summary": "Përmbledhje",
+    "feedback": "Reagim",
+    "advice": "Këshillë",
+    "button": {
+      "view": "Shikoni Raportin",
+      "unlock": "Raporti i zhbllokimit",
+      "get": "Merrni Raportin"
+    },
+    "generating": "Raporti Gjenerues ..."
+  },
+  "review": {
+    "request": "Nëse ju pëlqeu aplikacioni, ju lutemi konsideroni të lini një rishikim për të na ndihmuar.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Faleminderit shumë!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Intervistë e re në dispozicion!",
+      "message": "Ju keni një intervistë të re në dispozicion për të marrë në punë Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Pajtim",
+      "subscribe": "Pajtohem",
+      "invitation": "Regjistrohu në Premium",
+      "active": "Abonimi Premium aktiv",
+      "thanks": "Faleminderit për pajtimin në Premium! Ju urojmë fat të mirë dhe sukses në të gjitha intervistat tuaja të ardhshme!",
+      "menu": {
+        "title": "Pajtim premium",
+        "subtitle": "Regjistrohu në planin e primit"
+      }
+    },
+    "error": {
+      "subscription": "Gabim duke u përpjekur për të vërtetuar blerjen tuaj.",
+      "connection": "Gabim në lidhje.\n\nNë pamundësi për t'u lidhur me dyqanin.",
+      "products": "Në pamundësi për të kontrolluar opsionet e produktit.",
+      "subscription_options": "Në pamundësi për të ngarkuar planet e pajtimit.\n\nJu lutemi, kontrolloni lidhjen tuaj të internetit ose provoni përsëri më vonë."
+    }
+  },
+  "error": {
+    "title": "Gabim",
+    "unexpected": "Diçka shkoi keq ... Ju nuk mund ta shihni këtë! 😱",
+    "connection": "Lidhje",
+    "connection_fix": "Kontrolloni lidhjen tuaj të internetit dhe provoni përsëri më vonë.",
+    "ai": {
+      "no_response": "Pa përgjigje",
+      "unexpected": "I papritur",
+      "internal_server_error": "Gabim i brendshëm i serverit"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Praktikoni për intervistën tuaj të ardhshme të punës me këtë imitues realist të AI",
+      "full_description": "A ju bën nervoz dhe ankth marrja e intervistave në punë?\nNdoshta ju ende ndiheni të papërgatitur për të marrë intervista në punë?\nKy është aplikacioni i përsosur për të praktikuar aftësitë tuaja bisedore në një mjedis të intervistës në punë!\n\nJob IntelliViewer përdor fuqinë e inteligjencës artificiale për të kryer intervista realiste të punës tallen për t'ju ndihmuar të shfrytëzoni aftësitë bisedore të nevojshme për të bërë një përshtypje të mirë në rekrutuesit e jetës reale dhe për t'ju bërë të përgatitur të bëni intervistën tuaj të ardhshme.\n\nIntervistat janë përshtatur për pozicionin e punës që po kërkoni, dhe do të formohen dhe rregullohen me pyetje që lidhen me qëllimet tuaja për të përfaqësuar më mirë një intervistë të vërtetë për punë.\n\nPërdoruesit e Premium gjithashtu do të marrin një raport në fund të secilës intervistë që përmbledh bisedën me reagime dhe këshilla se si të përmirësoni shanset tuaja për t'u punësuar në një intervistë të vërtetë pune.",
+      "taglines": [
+        "Jini të përgatitur për punën tuaj të ardhshme!",
+        "Praktikoni për intervistën tuaj të ardhshme të punës!",
+        "Ace intervistën tuaj të ardhshme të punës me AI!",
+        "Suksesi juaj i ardhshëm profesional ju pret këtu!"
+      ],
+      "premium_benefits": [
+        "Heq reklamat",
+        "Intervista të pakufizuara",
+        "Merrni raporte me reagime dhe këshilla"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Mujor",
+      "annual": "Vjetor",
+      "cancel_anytime": "Anuloni në çdo kohë",
+      "save_discount": "Ruaj",
+      "subscribe": "Pajtohem",
+      "restore_purchases": "Rivendosni blerjet",
+      "premium_benefits": [
+        "Hiq reklamat",
+        "Intervista të pakufizuara pa bashkësi",
+        "Merrni raporte me reagime dhe këshilla pas intervistave"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Ndihmoni në përkthimin",
+    "description": "Ndihmoni në përkthimin e kësaj aplikacioni në gjuhë të tjera."
+  }
+}

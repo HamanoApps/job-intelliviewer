@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Malipo",
+      "free": "Toleo la bure"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Fanya mazoezi kwa mahojiano yako ya kazi yanayofuata!",
+      "message": "Je! Kuchukua mahojiano ya kazi hukufanya uwe na wasiwasi na wasiwasi?\nLabda bado unahisi haujajiandaa kuchukua mahojiano ya kazi?\nHii ndio programu nzuri ya kufanya mazoezi ya ustadi wako wa mazungumzo katika mpangilio wa mahojiano ya kazi!"
+    },
+    {
+      "title": "Kuwa tayari kwa kazi yako inayofuata!",
+      "message": "Ayubu IntelliViewer hutumia nguvu ya akili ya bandia kufanya mahojiano ya kweli ya kazi kukusaidia kutumia ujuzi wa mazungumzo unaohitajika kufanya hisia nzuri kwa waajiri wa maisha halisi na kukufanya uwe tayari kufanya mahojiano yako ya maisha halisi."
+    },
+    {
+      "title": "Usajili wa Premium:",
+      "message": "Pokea ripoti mwishoni mwa kila mahojiano muhtasari wa mazungumzo na maoni na ushauri juu ya jinsi ya kuboresha nafasi zako za kuajiriwa katika mahojiano ya kazi halisi."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Nyumbani",
+      "interview": "Mahojiano",
+      "resume_cv": "Resumé",
+      "history": "Historia",
+      "history_entry": "Kuingia kwa historia",
+      "reports": "Ripoti",
+      "settings": "Mipangilio"
+    }
+  },
+  "title": {
+    "attention": "Umakini",
+    "information": "Habari"
+  },
+  "label": {
+    "search": "Tafuta"
+  },
+  "button": {
+    "ok": "Sawa",
+    "back": "Nyuma",
+    "close": "Karibu",
+    "cancel": "Ghairi",
+    "delete": "Futa",
+    "review": "Hakiki",
+    "subscribe": "Jisajili"
+  },
+  "language": {
+    "title": "Lugha",
+    "select": "Chagua lugha",
+    "altered": "Lugha ilibadilika"
+  },
+  "history": {
+    "empty": "Historia tupu",
+    "delete": {
+      "list": {
+        "title": "Futa historia?",
+        "message": "Je! Una uhakika unataka kufuta historia yote?",
+        "deleted": "Historia imefutwa."
+      },
+      "entry": {
+        "title": "Futa mahojiano?",
+        "message": "Je! Una uhakika unataka kufuta mahojiano haya?",
+        "deleted": "Historia imefutwa."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Jina",
+      "first_name": "Jina la kwanza",
+      "date_of_birth": "Tarehe ya kuzaliwa",
+      "job_position": "Msimamo wa kazi",
+      "job_position_detailed": "Nafasi ya kazi ya kina",
+      "education": "Elimu",
+      "courses": "Kozi",
+      "experience": "Uzoefu",
+      "add": {
+        "education": "Ongeza elimu mpya",
+        "courses": "Ongeza kozi mpya",
+        "experience": "Ongeza uzoefu mpya"
+      },
+      "error": {
+        "validation": {
+          "title": "Kosa la uthibitisho",
+          "invalid_fields": "Ingiza jukumu halali la kazi ili kuomba mahojiano mpya ya kazi.\nVinginevyo",
+          "unable_to_validate": "Haiwezi kudhibitisha shamba."
+        }
+      }
+    },
+    "education": {
+      "institution": "Taasisi",
+      "degree": "Digrii",
+      "start": "Anza",
+      "end": "Mwisho"
+    },
+    "courses": {
+      "institution": "Taasisi",
+      "title_of_course": "Kichwa bila shaka",
+      "course_load": "Mzigo wa kozi"
+    },
+    "experience": {
+      "company": "Kampuni",
+      "position": "Msimamo",
+      "start": "Anza",
+      "end": "Mwisho"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Mandhari ya giza",
+      "description": "Chagua kati ya mandhari nyepesi na giza.\nWeka kiotomatiki kwenye mandhari ya kifaa mara ya kwanza kufungua programu."
+    },
+    "language": {
+      "name": "Lugha",
+      "description": "Chagua lugha inayopendekezwa kuonyesha wakati wa kutumia programu na kuzungumza na AI wakati wa mahojiano."
+    },
+    "notifications": {
+      "saved": "Mipangilio imehifadhiwa"
+    },
+    "search": {
+      "not_found": "Hakuna matokeo yaliyopatikana."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Mahojiano mapya",
+      "resume": "Anza mahojiano"
+    },
+    "generating": "Kuzalisha mahojiano mapya"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Gonga kujaribu tena"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Andika ujumbe wako ...",
+    "max_length": "Urefu wa max ulifikiwa"
+  },
+  "cooldown": {
+    "description": "Toleo la bure la programu hukuruhusu kuchukua mahojiano moja kwa saa.\n\nIkiwa ungetaka kuondoa mapungufu, ondoa matangazo, na upokee ripoti ya maoni na ushauri juu ya jinsi ya kuboresha baada ya kila mahojiano, fikiria kujisajili kwa malipo.",
+    "active": "Subiri timer ya cooldown kabla ya kutoa mahojiano mapya.\n\nIkiwa ungetaka kuondoa Cooldown, kuondoa matangazo, na kupokea ripoti ya maoni na ushauri juu ya jinsi ya kuboresha baada ya kila mahojiano, fikiria kujisajili kwa malipo.",
+    "timer": {
+      "wait": "Subiri",
+      "second": "pili",
+      "seconds": "sekunde"
+    }
+  },
+  "report": {
+    "title": "Ripoti",
+    "summary": "Muhtasari",
+    "feedback": "Maoni",
+    "advice": "Ushauri",
+    "button": {
+      "view": "Angalia ripoti",
+      "unlock": "Fungua ripoti",
+      "get": "Pata ripoti"
+    },
+    "generating": "Kuzalisha Ripoti ..."
+  },
+  "review": {
+    "request": "Ikiwa ulipenda programu, tafadhali fikiria kuacha hakiki kutusaidia.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Asante sana!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Mahojiano mapya yanapatikana!",
+      "message": "Una mahojiano mapya yanayopatikana kuchukua kazi ya Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Malipo",
+      "type": "Usajili",
+      "subscribe": "Jisajili",
+      "invitation": "Jiandikishe kwa malipo",
+      "active": "Usajili wa premium hai",
+      "thanks": "Asante kwa kujisajili kwa malipo! Tunakutakia bahati nzuri na mafanikio kwenye mahojiano yako yote ya baadaye!",
+      "menu": {
+        "title": "Usajili wa Premium",
+        "subtitle": "Jiandikishe kwa mpango wa malipo"
+      }
+    },
+    "error": {
+      "subscription": "Kosa kujaribu kudhibitisha ununuzi wako.",
+      "connection": "Kosa la Uunganisho.\n\nHaiwezi kuungana na duka.",
+      "products": "Haiwezi kuangalia chaguzi za bidhaa.",
+      "subscription_options": "Haiwezi kupakia mipango ya usajili.\n\nTafadhali, angalia muunganisho wako wa mtandao, au jaribu tena baadaye."
+    }
+  },
+  "error": {
+    "title": "Kosa",
+    "unexpected": "Kuna kitu kilienda vibaya ... hautaweza kuona hii! 😱",
+    "connection": "Unganisho",
+    "connection_fix": "Angalia unganisho lako la mtandao na ujaribu tena baadaye.",
+    "ai": {
+      "no_response": "Hakuna majibu",
+      "unexpected": "Isiyotarajiwa",
+      "internal_server_error": "Kosa la seva ya ndani"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Fanya mazoezi ya mahojiano yako ya kazi inayofuata na hii Simulator ya AI ya kweli",
+      "full_description": "Je! Kuchukua mahojiano ya kazi hukufanya uwe na wasiwasi na wasiwasi?\nLabda bado unahisi haujajiandaa kuchukua mahojiano ya kazi?\nHii ndio programu nzuri ya kufanya mazoezi ya ustadi wako wa mazungumzo katika mpangilio wa mahojiano ya kazi!\n\nAyubu IntelliViewer hutumia nguvu ya akili ya bandia kufanya mahojiano ya kweli ya kazi kukusaidia kutumia ujuzi wa mazungumzo unaohitajika kufanya hisia nzuri kwa waajiri wa maisha halisi na kukufanya uwe tayari kufanya mahojiano yako ijayo.\n\nMahojiano hayo yameundwa kwa nafasi ya kazi unayotafuta, na itaundwa na kubadilishwa na maswali yanayohusiana na malengo yako ya kuwakilisha mahojiano ya kazi halisi.\n\nWatumiaji wa Premium pia watapokea ripoti mwishoni mwa kila mahojiano muhtasari wa mazungumzo na maoni na ushauri juu ya jinsi ya kuboresha nafasi zako za kuajiriwa katika mahojiano ya kazi halisi.",
+      "taglines": [
+        "Kuwa tayari kwa kazi yako inayofuata!",
+        "Fanya mazoezi kwa mahojiano yako ya kazi yanayofuata!",
+        "Ace Mahojiano yako ya kazi ya pili na AI!",
+        "Mafanikio yako ya kitaalam yanayokusubiri hapa!"
+      ],
+      "premium_benefits": [
+        "Huondoa matangazo",
+        "Mahojiano yasiyo na kikomo",
+        "Pokea ripoti na maoni na ushauri"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Malipo",
+      "monthly": "Kila mwezi",
+      "annual": "Kila mwaka",
+      "cancel_anytime": "Ghairi wakati wowote",
+      "save_discount": "Hifadhi",
+      "subscribe": "Jisajili",
+      "restore_purchases": "Rejesha ununuzi",
+      "premium_benefits": [
+        "Ondoa matangazo",
+        "Mahojiano yasiyo na kikomo na hakuna Cooldown",
+        "Pokea ripoti na maoni na ushauri baada ya mahojiano"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Saidia kutafsiri",
+    "description": "Saidia kutafsiri programu tumizi hii kwa lugha zingine."
+  }
+}

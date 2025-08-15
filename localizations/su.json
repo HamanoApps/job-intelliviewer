@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Versi gratis"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Prakték pikeun wawancara padamelan anjeun salajengna!",
+      "message": "Naha nyandak wawancara padamelan anjeun pikeun gugup sareng hariwang?\nPanginten anjeun masih karasa henteu siap nyandak wawancara padamelan?\nIeu mangrupikeun aplikasi anu sampurna pikeun ngalaksanakeun kaahlian paguneman anjeun dina setting wawancara padamelan!"
+    },
+    {
+      "title": "Disiapkeun kanggo padamelan salajengna!",
+      "message": "Prentipsiceer nganggo kakuatan intelijen buatan pikeun ngalaksanakeun wawancara padamelan anu réalistis pikeun ngabantosan anjeun abah kaahlian paguneman anu diperyogikeun pikeun ngadamel recruiters hirup anu saé."
+    },
+    {
+      "title": "Langganan Premium:",
+      "message": "Nampi laporan di tungtung unggal wawancara nyimpulkeun paguneman sareng eupan balik sareng nasihat ngeunaan cara ningkatkeun kasempetan anjeun anu diupikan dina wawancara padamelan."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Imah",
+      "interview": "Ngawawancara",
+      "resume_cv": "CV",
+      "history": "Sajarah",
+      "history_entry": "Asupna",
+      "reports": "Laporan",
+      "settings": "Setelan"
+    }
+  },
+  "title": {
+    "attention": "Perhatian",
+    "information": "Inpormasi"
+  },
+  "label": {
+    "search": "Milarian"
+  },
+  "button": {
+    "ok": "OKÉ",
+    "back": "Tonggong",
+    "close": "Caket",
+    "cancel": "Ngabatalkeun",
+    "delete": "Mupus",
+    "review": "Ulasan",
+    "subscribe": "Ngalanggan"
+  },
+  "language": {
+    "title": "Basana",
+    "select": "Pilih basa",
+    "altered": "Bahasa dirobih"
+  },
+  "history": {
+    "empty": "Sejarah Kilk",
+    "delete": {
+      "list": {
+        "title": "Hapus sajarah?",
+        "message": "Naha anjeun badé mupus sadaya sajarah?",
+        "deleted": "Sejarah dihapus."
+      },
+      "entry": {
+        "title": "Hapus Wawancara?",
+        "message": "Naha anjeun badé ngahapus wawancara ieu?",
+        "deleted": "Sejarah dihapus."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nami",
+      "first_name": "Nami payun",
+      "date_of_birth": "Tanggal lahir",
+      "job_position": "Tujuan padamelan",
+      "job_position_detailed": "Posisi padamelan rinci",
+      "education": "Pendidikan",
+      "courses": "Kursus",
+      "experience": "Pangalaman",
+      "add": {
+        "education": "Tambahkeun pendidikan anyar",
+        "courses": "Tambahkeun kursus anyar",
+        "experience": "Tambihkeun pangalaman anyar"
+      },
+      "error": {
+        "validation": {
+          "title": "Kasalahan validasi",
+          "invalid_fields": "Selapkeun peran posisi padamelan anu sah pikeun nerapkeun wawancara padamelan énggal.\nAlféksi",
+          "unable_to_validate": "Teu tiasa ngabuktikeun widang."
+        }
+      }
+    },
+    "education": {
+      "institution": "Lembaga",
+      "degree": "Derajat",
+      "start": "Ngamimitian",
+      "end": "Tungtung"
+    },
+    "courses": {
+      "institution": "Lembaga",
+      "title_of_course": "Judul kursus",
+      "course_load": "Kursus"
+    },
+    "experience": {
+      "company": "Perusahaan",
+      "position": "Posisi",
+      "start": "Ngamimitian",
+      "end": "Tungtung"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tema poék",
+      "description": "Pilih antara téma lampu sareng poék.\nSacara otomatis pikeun téma alat anu munggaran anjeun muka aplikasi."
+    },
+    "language": {
+      "name": "Basana",
+      "description": "Pilih bahasa anu dipikaresep pikeun mandiri nalika nganggo aplikasi sareng ngobrol sareng AI salami wawancara."
+    },
+    "notifications": {
+      "saved": "Setélan disimpen"
+    },
+    "search": {
+      "not_found": "Teu aya hasil."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Ngawawasan Anyar",
+      "resume": "Wawancara neruskeun"
+    },
+    "generating": "Ngahasilkeun wawancara anyar"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Ketok pikeun mundur"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Ketik pesen anjeun ...",
+    "max_length": "Panjang maksimal"
+  },
+  "cooldown": {
+    "description": "Versi gratis tina aplikasi ngamungkinkeun anjeun nyandak hiji wawancara per jam.\n\nUpami anjeun hoyong ngahapus watesan, cabut iklan, sareng nampi laporan panyiputan sareng nasarvasi ngeunaan cara nerapkeun saatos unggal premium.",
+    "active": "Ngadagoan timer cooldown sateuacan ngahasilkeun wawancara anyar.\n\nUpami anjeun hoyong ngaleupaskeun cohokowns, miceun iklan, teras nampi laporan kerja sareng naséhat ngeunaan sabab mindahkeun deui premium, nimbang wawangsulna kanggo premium.",
+    "timer": {
+      "wait": "Ngantosan",
+      "second": "kadua",
+      "seconds": "detik"
+    }
+  },
+  "report": {
+    "title": "Laporan",
+    "summary": "Kasimpulan",
+    "feedback": "Eupan",
+    "advice": "Pituah",
+    "button": {
+      "view": "Témbongkeun laporan",
+      "unlock": "Buka konci lapangan",
+      "get": "Kéngingkeun laporan"
+    },
+    "generating": "Ngembang laporan ..."
+  },
+  "review": {
+    "request": "Upami anjeun resep aplikasi, mangga dipertimbangkeun ninggalkeun ulasan pikeun ngabantosan urang.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Hatur nuhun pisan!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Wawancara anyar sayogi!",
+      "message": "Anjeun gaduh wawancara anyar sayogi pikeun nyandak intelekual padamelan."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Langganan",
+      "subscribe": "Ngalanggan",
+      "invitation": "Ngalanggan premium",
+      "active": "Langganan Premium Aktip",
+      "thanks": "Hatur nuhun pikeun ngalanggan premium! Kami miharep anjeun wilujeng sareng kasuksésan dina sadaya wawancara ka hareup anjeun!",
+      "menu": {
+        "title": "Lalamaan premium",
+        "subtitle": "Langgan rencana premium"
+      }
+    },
+    "error": {
+      "subscription": "Kasalahan nyoba pikeun meunangkeun pameseran anjeun.",
+      "connection": "Kasalahan sambungan.\n\nTeu tiasa nyambung ka toko.",
+      "products": "Teu tiasa pariksa pilihan produk.",
+      "subscription_options": "Teu tiasa ngeusian rencana langganan.\n\nPunten, parios sambungan internét anjeun, atanapi cobian deui engké."
+    }
+  },
+  "error": {
+    "title": "Kasalahan",
+    "unexpected": "Aya anu salah ... anjeun henteu ningali ieu! 😱",
+    "connection": "Sambungan",
+    "connection_fix": "Pariksa sambungan internét anjeun sareng cobian deui engké.",
+    "ai": {
+      "no_response": "Teu aya réspon",
+      "unexpected": "Teu kaduga",
+      "internal_server_error": "Kasalahan Sérver Internal"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Prakték pikeun wawancara padamelan anjeun salajengna sareng Simulator AI réalistis ieu",
+      "full_description": "Naha nyandak wawancara padamelan anjeun pikeun gugup sareng hariwang?\nPanginten anjeun masih karasa henteu siap nyandak wawancara padamelan?\nIeu mangrupikeun aplikasi anu sampurna pikeun ngalaksanakeun kaahlian paguneman anjeun dina setting wawancara padamelan!\n\nPrentipsice\n\nWawancara dibasmi kana posisi padamelan anu anjeun milari, sareng bakal dibentuk sareng disaluyukeun sareng patarosan anu aya hubunganana sareng tujuan anu langkung saé ngagambarkeun wawancara padamelan.\n\nPamaké premium ogé bakal nampi laporan di tungtung unggal wawancara nyimpulkeun paguneman sareng eupan balik sareng nasihat ngeunaan cara ningkatkeun kasempetan padamelan.",
+      "taglines": [
+        "Disiapkeun kanggo padamelan salajengna!",
+        "Prakték pikeun wawancara padamelan anjeun salajengna!",
+        "Ace wawancara padamelan anjeun salajengna sareng Ai!",
+        "Kasuksésan profésional anjeun salajengna ngantosan anjeun di dieu!"
+      ],
+      "premium_benefits": [
+        "Ngaleungitkeun iklan",
+        "Wawancara taya wates",
+        "Nampi laporan sareng eupan balik sareng saran"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Bulanan",
+      "annual": "Taunan",
+      "cancel_anytime": "Batal iraha waé",
+      "save_discount": "Ngahémat",
+      "subscribe": "Ngalanggan",
+      "restore_purchases": "Mulangkeun pameseran",
+      "premium_benefits": [
+        "Cabut iklan",
+        "Wawancara anu henteu terbatas sareng henteu aya cooldowns",
+        "Nampi laporan sareng tanggapan sareng naséhat saatos wawancara"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Tulingan ditarjamahkeun",
+    "description": "Tempat narjamahkeun aplikasi ieu ka basa anu sanés."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Mofuta oa mahala"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Tloaela tlhahlobo ea hau ea mosebetsi o latelang!",
+      "message": "Na ho nka lipotso tsa mosebetsi ho u tšosa le ho tšoenyeha?\nMohlomong u ntse u ikutloa u sa itokisetsa ho nka lipotso tsa mosebetsi?\nEna ke sesebelisoa se phethahetseng sa ho ithuta tsebo ea hau ea puisano ho ea morao-rao ea lipotso!"
+    },
+    {
+      "title": "Itokisetse mosebetsi oa hau o latelang!",
+      "message": "Mosebetsi oa Intellitivideo o sebelisa matla a bohlale ba ho ithabisa ho etsa hore lipuisano tsa litaba tsa 'nete li be le lipotso tse latelang tsa bophelo ba' nete."
+    },
+    {
+      "title": "Ngoliso ea Premium:",
+      "message": "Fumana tlaleho qetellong ea thupelo ka 'ngoe e akaretsa moqoqo ka maikutlo le likeletso tsa hau tsa ho hiroa ka puisano ea mosebetsi oa sebele."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Hae",
+      "interview": "Puisano",
+      "resume_cv": "Lethathamo la tsebo tsa hau",
+      "history": "Nalane",
+      "history_entry": "Ho kena ha nalane",
+      "reports": "Litlaleho",
+      "settings": "Litlhophiso"
+    }
+  },
+  "title": {
+    "attention": "Tlhokomeliso",
+    "information": "Tlhahisoleseling"
+  },
+  "label": {
+    "search": "Batla"
+  },
+  "button": {
+    "ok": "HO LOKILE",
+    "back": "Khutlela",
+    "close": "Haufi",
+    "cancel": "Hlakola",
+    "delete": "Tlosa",
+    "review": "Tlhahlobo",
+    "subscribe": "Ingolise"
+  },
+  "language": {
+    "title": "Puo",
+    "select": "Khetha Puo",
+    "altered": "Puo e fetohile"
+  },
+  "history": {
+    "empty": "Nalane e se nang letho",
+    "delete": {
+      "list": {
+        "title": "Hlakola pale?",
+        "message": "Na u na le bonnete ba hore u batla ho hlakola nalane eohle?",
+        "deleted": "Nalane e hlakotsoe."
+      },
+      "entry": {
+        "title": "Tlosa puisano?",
+        "message": "Na u na le bonnete ba hore u batla ho hlakola puisano ee?",
+        "deleted": "Nalane e hlakotsoe."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Lebitso",
+      "first_name": "Lebitso la pele",
+      "date_of_birth": "Letsatsi la tsoalo",
+      "job_position": "Boemo ba mosebetsi",
+      "job_position_detailed": "Boemo bo qaqileng",
+      "education": "Thuto",
+      "courses": "Lithuto",
+      "experience": "Phihlelo",
+      "add": {
+        "education": "Kenya Thuto e Ncha",
+        "courses": "Kenya thupelo e ncha",
+        "experience": "Kenya boiphihlelo bo bocha"
+      },
+      "error": {
+        "validation": {
+          "title": "Phoso ea netefatso",
+          "invalid_fields": "Kenya karolo ea boemo bo nepahetseng ba mosebetsi ho etsa kopo ea tlhahlobo e ncha ea mosebetsi.\nKa tsela e fapaneng",
+          "unable_to_validate": "Ha e khone ho netefatsa masimo."
+        }
+      }
+    },
+    "education": {
+      "institution": "Setheo",
+      "degree": "Degree",
+      "start": "Qala",
+      "end": "QETA"
+    },
+    "courses": {
+      "institution": "Setheo",
+      "title_of_course": "Sehlooho sa 'nete",
+      "course_load": "Kholiseho ea Course"
+    },
+    "experience": {
+      "company": "Khampani",
+      "position": "Boemo",
+      "start": "Qala",
+      "end": "QETA"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Sehlooho se lefifi",
+      "description": "Khetha Pakeng tsa Leseli le Lefifi.\nIpehele ka boiketsetso ea sesebelisoa lekhetlo la pele u bula sesebelisoa."
+    },
+    "language": {
+      "name": "Puo",
+      "description": "Khetha puo e khethiloeng ho bonts'a ts'ebetso le ho bua le AI nakong ea lipuisano."
+    },
+    "notifications": {
+      "saved": "Litlhophiso li bolokiloe"
+    },
+    "search": {
+      "not_found": "Ha ho litholoana tse fumanoeng."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Puisano e Ncha",
+      "resume": "Resume hape"
+    },
+    "generating": "Ho hlahisa lipotso tse ncha"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tlanya ho leka hape"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Tlanya molaetsa oa hau ...",
+    "max_length": "Ma-bolelele ba Max o fihlile"
+  },
+  "cooldown": {
+    "description": "Mofuta oa mahala oa sesebelisoa o u lumella ho nka tlhahlobo e le 'ngoe ka hora.\n\nHaeba u rata ho tlosa mefokolo, tlosa lipapatso, 'me u hlahlobe karabo mabapi le hore na u ka ntlafatsa joang kamora ho ngolisa premium.",
+    "active": "Emela nako e pholileng nako le nako pele u kenya tlhahlobo e ncha.\n\nHaeba u rata ho tlosa li-coowadown, tlosa tlaleho ea maikutlo le likeletso tsa kamoo ho ka ntlafatsang kamora puisano e ngoe le e ngoe, nahana ka matsoho ho Premium.",
+    "timer": {
+      "wait": "Emela",
+      "second": "ea bobeli",
+      "seconds": "metsotsoana"
+    }
+  },
+  "report": {
+    "title": "Tlaleha",
+    "summary": "Kakaretso",
+    "feedback": "Tlhahiso",
+    "advice": "Keletso",
+    "button": {
+      "view": "Sheba Tlaleho ea Tlaleho",
+      "unlock": "Bula Tlaleho",
+      "get": "Fumana tlaleho"
+    },
+    "generating": "Tlaleho ea ho hlahisa ..."
+  },
+  "review": {
+    "request": "Haeba u ratile sesebelisoa, ka kopo nahana ka ho tlohela tlhahlobo ea ho re thusa.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Ke leboha haholo!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Puisano e ncha e teng!",
+      "message": "U na le tlhahlobo e ncha e fumanehang ho nka karolo ea mosebetsi."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Ngoliso",
+      "subscribe": "Ingolise",
+      "invitation": "Ingolise ho Premium",
+      "active": "Khoele ea Premium e sebetsang",
+      "thanks": "Kea leboha ha u ngolisa premium! Re u lakaletsa lehlohonolo le katleho lipuisanong tsohle tsa hau tsa nakong e tlang!",
+      "menu": {
+        "title": "Khoele ea Premium",
+        "subtitle": "Ingolise ho Premium Premium"
+      }
+    },
+    "error": {
+      "subscription": "Phoso e lekang ho netefatsa theko ea hau.",
+      "connection": "Phoso ea Khokahano.\n\nHa e khone ho hokela lebenkeleng.",
+      "products": "Ha e khone ho hlahloba likhetho tsa sehlahisoa.",
+      "subscription_options": "Ha e khone ho kenya merero ea peeletso.\n\nKa kopo, sheba khokahano ea hau ea inthanete, kapa leka hape hamorao."
+    }
+  },
+  "error": {
+    "title": "Phoso",
+    "unexpected": "Ho na le ntho e fosahetseng ... o ka be o sa bone sena! 😱",
+    "connection": "Khokahano",
+    "connection_fix": "Lekola khokahano ea hau ea inthanete ebe u leka hape hamorao.",
+    "ai": {
+      "no_response": "Ha ho karabelo",
+      "unexpected": "Se sa lebelloang",
+      "internal_server_error": "Phoso ea Kahare ea Seva"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Itloaetse puisano ea hau ea mosebetsi e latelang ea mosebetsi ona oa 'nete",
+      "full_description": "Na ho nka lipotso tsa mosebetsi ho u tšosa le ho tšoenyeha?\nMohlomong u ntse u ikutloa u sa itokisetsa ho nka lipotso tsa mosebetsi?\nEna ke sesebelisoa se phethahetseng sa ho ithuta tsebo ea hau ea puisano ho ea morao-rao ea lipotso!\n\nMosebetsi oa Intelliti o sebelisa matla a bohlale a maiketsetso a ho etsa tlhahlobo ea kelello ea ho nyelisa lintho tse hlokahalang ho etsa hore u be le maikutlo a monate a bophelo le ho u itokisetsa ho amohela puisano ea hau e latelang.\n\nLipuisano li tsamaisana le boemo ba mosebetsi oo u batlang mosebetsi oa mosebetsi oo u o batlang, 'me o fetole lipotso tse amanang le lipheo tsa hau tsa' nete.\n\nBasebelisi ba Premium le bona ba tla fumana tlaleho qetellong ea puisano ka 'ngoe e akaretsa moqoqo ka maikutlo le likeletso tsa hau tsa ho hiroa ka puisano ea mosebetsi oa sebele.",
+      "taglines": [
+        "Itokisetse mosebetsi oa hau o latelang!",
+        "Tloaela tlhahlobo ea hau ea mosebetsi o latelang!",
+        "ACE Puisano ea hau ea mosebetsi le Ai!",
+        "U tla fumana katleho ea hau ea boikoetliso e letelle mona!"
+      ],
+      "premium_benefits": [
+        "E tlosa lipapatso",
+        "Lipuisano tse se nang moeli",
+        "Fumana litlaleho tse nang le maikutlo le likeletso"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Khoeli le khoeli",
+      "annual": "Selemo le selemo",
+      "cancel_anytime": "Hlakola nako efe kapa efe",
+      "save_discount": "Boloka",
+      "subscribe": "Ingolise",
+      "restore_purchases": "Khutlisetsa ho reka",
+      "premium_benefits": [
+        "Tlosa lipapatso",
+        "Lipuisano tse se nang moeli tse sa lekanyetsoang",
+        "Fumana litlaleho ka tsela le likeletso kamora lipuisano"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Thusa ho fetolela",
+    "description": "Thusa ho fetolela kopo ena lipuong tse ling."
+  }
+}

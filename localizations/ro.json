@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Versiune gratuită"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Practicați -vă pentru următorul dvs. interviu de muncă!",
+      "message": "A lua interviuri de muncă vă face nervos și neliniștit?\nPoate că te simți încă nepregătit să iei interviuri de muncă?\nAceasta este aplicația perfectă pentru a -ți exersa abilitățile de conversație într -un cadru de interviu de muncă!"
+    },
+    {
+      "title": "Fii pregătit pentru următorul tău loc de muncă!",
+      "message": "Job Intelliviewer folosește puterea inteligenței artificiale pentru a efectua interviuri realiste de muncă batjocoritoare pentru a vă ajuta să valorificați abilitățile de conversație necesare pentru a face o impresie bună asupra recrutorilor din viața reală și pentru a vă face să vă pregătiți pentru a -ți atrage următorul interviu din viața reală."
+    },
+    {
+      "title": "Abonament premium:",
+      "message": "Primiți un raport la sfârșitul fiecărui interviu, rezumând conversația cu feedback și sfaturi despre cum să vă îmbunătățiți șansele de a vă angaja într -un adevărat interviu de muncă."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Acasă",
+      "interview": "Interviu",
+      "resume_cv": "Relua",
+      "history": "Istorie",
+      "history_entry": "Intrare de istoric",
+      "reports": "Rapoarte",
+      "settings": "Setări"
+    }
+  },
+  "title": {
+    "attention": "Atenţie",
+    "information": "Informaţii"
+  },
+  "label": {
+    "search": "Căutare"
+  },
+  "button": {
+    "ok": "Bine",
+    "back": "Spate",
+    "close": "Aproape",
+    "cancel": "Anula",
+    "delete": "Şterge",
+    "review": "Recenzie",
+    "subscribe": "Abonați -vă"
+  },
+  "language": {
+    "title": "Limbă",
+    "select": "Selectați limba",
+    "altered": "Limbajul schimbat"
+  },
+  "history": {
+    "empty": "Istorie goală",
+    "delete": {
+      "list": {
+        "title": "Ștergeți istoria?",
+        "message": "Ești sigur că vrei să ștergi întreaga istorie?",
+        "deleted": "Istoria ștersă."
+      },
+      "entry": {
+        "title": "Ștergeți interviul?",
+        "message": "Ești sigur că vrei să ștergi acest interviu?",
+        "deleted": "Istoria ștersă."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Nume",
+      "first_name": "Prenume",
+      "date_of_birth": "Data nașterii",
+      "job_position": "Poziția locului de muncă",
+      "job_position_detailed": "Poziție detaliată a postului",
+      "education": "Educaţie",
+      "courses": "Cursuri",
+      "experience": "Experienţă",
+      "add": {
+        "education": "Adăugați o nouă educație",
+        "courses": "Adăugați un nou curs",
+        "experience": "Adăugați experiență nouă"
+      },
+      "error": {
+        "validation": {
+          "title": "Eroare de validare",
+          "invalid_fields": "Introduceți un rol valabil de poziție de muncă pentru a solicita un nou interviu de muncă.\nAlternativ",
+          "unable_to_validate": "Incapabil să valideze câmpurile."
+        }
+      }
+    },
+    "education": {
+      "institution": "Instituţie",
+      "degree": "Grad",
+      "start": "Început",
+      "end": "Sfârşit"
+    },
+    "courses": {
+      "institution": "Instituţie",
+      "title_of_course": "Titlu desigur",
+      "course_load": "Încărcarea cursului"
+    },
+    "experience": {
+      "company": "Companie",
+      "position": "Poziţie",
+      "start": "Început",
+      "end": "Sfârşit"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tema întunecată",
+      "description": "Selectați între tema ușoară și întunecată.\nSetați automat pe tema dispozitivului prima dată când deschideți aplicația."
+    },
+    "language": {
+      "name": "Limbă",
+      "description": "Selectați limbajul preferat de afișat în timp ce utilizați aplicația și vorbiți cu AI în timpul interviurilor."
+    },
+    "notifications": {
+      "saved": "Setări salvate"
+    },
+    "search": {
+      "not_found": "Nu au fost găsite rezultate."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Nou interviu",
+      "resume": "Reluați interviul"
+    },
+    "generating": "Generarea unui nou interviu"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Atingeți pentru a încerca din nou"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Introduceți mesajul ...",
+    "max_length": "Lungimea maximă atinsă"
+  },
+  "cooldown": {
+    "description": "Versiunea gratuită a aplicației vă permite să luați un interviu pe oră.\n\nDacă doriți să eliminați limitările, eliminați anunțurile și primiți un raport de feedback cu sfaturi despre cum să vă îmbunătățiți după fiecare interviu, luați în considerare abonarea la Premium.",
+    "active": "Așteptați cronometrul de recul înainte de a genera un nou interviu.\n\nDacă doriți să eliminați reculii, să eliminați anunțurile și să primiți un raport de feedback cu sfaturi despre cum să îmbunătățiți după fiecare interviu, luați în considerare abonarea la Premium.",
+    "timer": {
+      "wait": "Așteptați",
+      "second": "doilea",
+      "seconds": "secunde"
+    }
+  },
+  "report": {
+    "title": "Raport",
+    "summary": "Rezumat",
+    "feedback": "Feedback",
+    "advice": "Sfaturi",
+    "button": {
+      "view": "Vizualizați raportul",
+      "unlock": "Deblocați raportul",
+      "get": "Obțineți raport"
+    },
+    "generating": "Generarea raportului ..."
+  },
+  "review": {
+    "request": "Dacă v -a plăcut aplicația, vă rugăm să luați în considerare să lăsați o recenzie care să ne ajute.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Mulțumesc foarte mult!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Nou interviu disponibil!",
+      "message": "Aveți un nou interviu disponibil pentru a vă ocupa de Job Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Abonament",
+      "subscribe": "Abonați -vă",
+      "invitation": "Abonați -vă la Premium",
+      "active": "Abonament premium activ",
+      "thanks": "Vă mulțumim că ați abonat la Premium! Vă dorim mult noroc și succes la toate interviurile dvs. viitoare!",
+      "menu": {
+        "title": "Abonament premium",
+        "subtitle": "Abonați -vă la planul premium"
+      }
+    },
+    "error": {
+      "subscription": "Eroare încercarea de a valida achiziția.",
+      "connection": "Eroare de conexiune.\n\nImposibil de conectat la magazin.",
+      "products": "Incapabil să verifice opțiunile de produs.",
+      "subscription_options": "Incapabil să încarce planuri de abonament.\n\nVă rugăm, verificați conexiunea la internet sau încercați din nou mai târziu."
+    }
+  },
+  "error": {
+    "title": "Eroare",
+    "unexpected": "Ceva nu a mers bine ... Nu ai vedea asta! 😱",
+    "connection": "Conexiune",
+    "connection_fix": "Verificați conexiunea la internet și încercați din nou mai târziu.",
+    "ai": {
+      "no_response": "Fără răspuns",
+      "unexpected": "Neaşteptat",
+      "internal_server_error": "Internal Server Error"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Exersați pentru următorul dvs. interviu de muncă cu acest simulator AI realist",
+      "full_description": "A lua interviuri de muncă vă face nervos și neliniștit?\nPoate că te simți încă nepregătit să iei interviuri de muncă?\nAceasta este aplicația perfectă pentru a -ți exersa abilitățile de conversație într -un cadru de interviu de muncă!\n\nJob Intelliviewer folosește puterea inteligenței artificiale pentru a efectua interviuri realiste de muncă batjocoritoare pentru a vă ajuta să valorificați abilitățile de conversație necesare pentru a face o impresie bună asupra recrutorilor din viața reală și pentru a vă face să vă pregătiți pentru a -ți atrage următorul interviu.\n\nInterviurile sunt adaptate la poziția de muncă pe care o căutați și vor fi modelate și ajustate cu întrebări legate de obiectivele dvs. pentru a reprezenta mai bine un adevărat interviu de muncă.\n\nUtilizatorii premium vor primi, de asemenea, un raport la sfârșitul fiecărui interviu, rezumând conversația cu feedback și sfaturi despre cum să vă îmbunătățiți șansele de a vă angaja într -un interviu real de muncă.",
+      "taglines": [
+        "Fii pregătit pentru următorul tău loc de muncă!",
+        "Practicați -vă pentru următorul dvs. interviu de muncă!",
+        "ACE următorul tău interviu de muncă cu AI!",
+        "Următorul tău succes profesional vă așteaptă aici!"
+      ],
+      "premium_benefits": [
+        "Elimină reclamele",
+        "Interviuri nelimitate",
+        "Primiți rapoarte cu feedback și sfaturi"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Lunar",
+      "annual": "Anual",
+      "cancel_anytime": "Anulați oricând",
+      "save_discount": "Salva",
+      "subscribe": "Abonați -vă",
+      "restore_purchases": "Restaurați cumpărăturile",
+      "premium_benefits": [
+        "Scoateți anunțurile",
+        "Interviuri nelimitate fără reculuri",
+        "Primiți rapoarte cu feedback și sfaturi după interviuri"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Ajutați să traduceți",
+    "description": "Ajutați la traducerea acestei aplicații în alte limbi."
+  }
+}

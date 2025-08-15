@@ -1,0 +1,241 @@
+{
+  "app": {
+    "version": {
+      "premium": "Premium",
+      "free": "Verżjoni b'xejn"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Prattika għall-intervista tax-xogħol li jmiss tiegħek!",
+      "message": "Tieħu intervisti tax-xogħol iġġiblek nervuż u anzjuż?\nForsi xorta tħossok mhux ippreparat biex tieħu intervisti tax-xogħol?\nDin hija l-app perfetta biex tipprattika l-ħiliet ta 'konversazzjoni tiegħek f'ambjent ta' intervista tax-xogħol!"
+    },
+    {
+      "title": "Kun ippreparat għax-xogħol li jmiss tiegħek!",
+      "message": "Job IntelliViewer juża l-poter ta 'intelliġenza artifiċjali biex iwettaq intervisti ta' xogħol mock realistiċi biex jgħinuk tuża l-ħiliet ta 'konversazzjoni meħtieġa biex tagħmel impressjoni tajba fuq dawk li jirreklutaw il-ħajja reali u jġiegħluk tkun ippreparat biex toqgħod l-intervista tal-ħajja reali li jmiss tiegħek."
+    },
+    {
+      "title": "Abbonament Premium:",
+      "message": "Irċievi rapport fl-aħħar ta 'kull intervista li tiġbor fil-qosor il-konversazzjoni b'reazzjoni u pariri dwar kif tista' ttejjeb iċ-ċansijiet tiegħek li tkun mikri f'intervista ta 'xogħol reali."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Id-dar",
+      "interview": "Intervista",
+      "resume_cv": "Jerġa 'jibda",
+      "history": "Storja",
+      "history_entry": "Dħul tal-Istorja",
+      "reports": "Rapporti",
+      "settings": "Settings"
+    }
+  },
+  "title": {
+    "attention": "Attenzjoni",
+    "information": "Informazzjoni"
+  },
+  "label": {
+    "search": "Tfittxija"
+  },
+  "button": {
+    "ok": "OK",
+    "back": "Lura",
+    "close": "Viċin",
+    "cancel": "Ikkanċella",
+    "delete": "Ħassar",
+    "review": "Reviżjoni",
+    "subscribe": "Abbona"
+  },
+  "language": {
+    "title": "Lingwa",
+    "select": "Agħżel Lingwa",
+    "altered": "Il-lingwa mibdula"
+  },
+  "history": {
+    "empty": "Storja vojta",
+    "delete": {
+      "list": {
+        "title": "Ħassar l-istorja?",
+        "message": "Int żgur li trid tħassar l-istorja kollha?",
+        "deleted": "L-istorja mħassra."
+      },
+      "entry": {
+        "title": "Ħassar l-intervista?",
+        "message": "Int żgur li trid tħassar din l-intervista?",
+        "deleted": "L-istorja mħassra."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Isem",
+      "first_name": "L-ewwel isem",
+      "date_of_birth": "Data tat-twelid",
+      "job_position": "Pożizzjoni tax-xogħol",
+      "job_position_detailed": "Pożizzjoni dettaljata tax-xogħol",
+      "education": "Edukazzjoni",
+      "courses": "Korsijiet",
+      "experience": "Esperjenza",
+      "add": {
+        "education": "Żid edukazzjoni ġdida",
+        "courses": "Żid kors ġdid",
+        "experience": "Żid esperjenza ġdida"
+      },
+      "error": {
+        "validation": {
+          "title": "Żball ta 'validazzjoni",
+          "invalid_fields": "Daħħal rwol ta 'pożizzjoni ta' xogħol valida biex tapplika għal intervista ġdida ta 'xogħol.\nAlternattivament",
+          "unable_to_validate": "Ma tistax tivvalida l-oqsma."
+        }
+      }
+    },
+    "education": {
+      "institution": "Istituzzjoni",
+      "degree": "Grad",
+      "start": "Ibda",
+      "end": "Tmiem"
+    },
+    "courses": {
+      "institution": "Istituzzjoni",
+      "title_of_course": "Titolu ovvjament",
+      "course_load": "Tagħbija tal-kors"
+    },
+    "experience": {
+      "company": "Kumpanija",
+      "position": "Pożizzjoni",
+      "start": "Ibda",
+      "end": "Tmiem"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Tema skura",
+      "description": "Agħżel bejn tema ħafifa u skura.\nIssettja awtomatikament għat-tema tal-apparat l-ewwel darba li tiftaħ l-app."
+    },
+    "language": {
+      "name": "Lingwa",
+      "description": "Agħżel il-lingwa preferuta biex turi waqt li tuża l-applikazzjoni u tkellem mal-AI waqt l-intervisti."
+    },
+    "notifications": {
+      "saved": "Settings salvati"
+    },
+    "search": {
+      "not_found": "Ma nstabu l-ebda riżultat."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "Intervista Ġdida",
+      "resume": "Terġa 'tibda l-intervista"
+    },
+    "generating": "Iġġenera intervista ġdida"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "Tektek biex terġa 'tpoġġi mill-ġdid"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Ittajpja l-messaġġ tiegħek ...",
+    "max_length": "Tul massimu milħuq"
+  },
+  "cooldown": {
+    "description": "Il-verżjoni bla ħlas tal-app tippermettilek tieħu intervista waħda fis-siegħa.\n\nJekk tixtieq tneħħi l-limitazzjonijiet, neħħi r-reklami u tirċievi rapport ta 'feedback b'pariri dwar kif tista' titjieb wara kull intervista, tikkunsidra li tissottoskrivi għal premium.",
+    "active": "Stenna l-kobor tat-timer qabel ma tiġġenera intervista ġdida.\n\nJekk tixtieq tneħħi l-cooldowns, tneħħi r-reklami, u tirċievi rapport ta 'feedback b'pariri dwar kif tista' titjieb wara kull intervista, tikkunsidra li tissottoskrivi għall-primjum.",
+    "timer": {
+      "wait": "Stenna",
+      "second": "it-tieni",
+      "seconds": "sekondi"
+    }
+  },
+  "report": {
+    "title": "Rapport",
+    "summary": "Sommarju",
+    "feedback": "Feedback",
+    "advice": "Parir",
+    "button": {
+      "view": "Ara r-rapport",
+      "unlock": "Nisfruttaw rapport",
+      "get": "Ikseb rapport"
+    },
+    "generating": "Rapport tal-Ġenerazzjoni ..."
+  },
+  "review": {
+    "request": "Jekk tħobb l-app, jekk jogħġbok ikkunsidra li tħalli reviżjoni biex tgħinna.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Grazzi ħafna!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "Intervista ġdida disponibbli!",
+      "message": "Għandek intervista ġdida disponibbli biex tieħu xogħol Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "Premium",
+      "type": "Abbonament",
+      "subscribe": "Abbona",
+      "invitation": "Abbona għal Premium",
+      "active": "Abbonament premium attiv",
+      "thanks": "Grazzi talli abbonajt għal Premium! Nawgurawlek xorti tajba u suċċess fuq l-intervisti futuri kollha tiegħek!",
+      "menu": {
+        "title": "Abbonament Premium",
+        "subtitle": "Abbona għall-pjan premium"
+      }
+    },
+    "error": {
+      "subscription": "Żball li tipprova tivvalida x-xiri tiegħek.",
+      "connection": "Żball ta 'konnessjoni.\n\nMa tistax tikkonnettja mal-maħżen.",
+      "products": "Ma tistax tiċċekkja l-għażliet tal-prodott.",
+      "subscription_options": "Ma tistax tgħabbi pjanijiet ta 'abbonament.\n\nJekk jogħġbok, iċċekkja l-konnessjoni tal-internet tiegħek, jew erġa 'pprova aktar tard."
+    }
+  },
+  "error": {
+    "title": "Żball",
+    "unexpected": "Xi ħaġa marret ħażin ... ma tkunx qed tara dan! 😱",
+    "connection": "Konnessjoni",
+    "connection_fix": "Iċċekkja l-konnessjoni tal-internet tiegħek u erġa 'pprova aktar tard.",
+    "ai": {
+      "no_response": "L-ebda tweġiba",
+      "unexpected": "Mhux mistenni",
+      "internal_server_error": "Żball intern tas-server"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Prattika għall-intervista tax-xogħol li jmiss tiegħek ma 'dan is-simulatur tal-AI realistiku",
+      "full_description": "Tieħu intervisti tax-xogħol iġġiblek nervuż u anzjuż?\nForsi xorta tħossok mhux ippreparat biex tieħu intervisti tax-xogħol?\nDin hija l-app perfetta biex tipprattika l-ħiliet ta 'konversazzjoni tiegħek f'ambjent ta' intervista tax-xogħol!\n\nJob Intelliviewer juża l-poter ta 'intelliġenza artifiċjali biex iwettaq intervisti ta' xogħol mock realistiċi biex jgħinuk tuża l-ħiliet ta 'konversazzjoni meħtieġa biex tagħmel impressjoni tajba fuq dawk li jirreklutaw il-ħajja reali u jġiegħluk tkun ippreparat biex toqgħod l-intervista li jmiss tiegħek.\n\nL-intervisti huma mfassla għall-pożizzjoni tax-xogħol li qed tfittex, u se jiġu ffurmati u aġġustati bi mistoqsijiet relatati mal-għanijiet tiegħek biex jirrappreżentaw aħjar intervista ta 'xogħol reali.\n\nL-utenti premium jirċievu wkoll rapport fi tmiem kull intervista li tiġbor fil-qosor il-konversazzjoni b'reazzjoni u pariri dwar kif tista 'ttejjeb iċ-ċansijiet tiegħek li tkun mikri f'intervista ta' xogħol reali.",
+      "taglines": [
+        "Kun ippreparat għax-xogħol li jmiss tiegħek!",
+        "Prattika għall-intervista tax-xogħol li jmiss tiegħek!",
+        "Ass l-intervista tax-xogħol li jmiss tiegħek ma 'AI!",
+        "Is-suċċess professjonali li jmiss tiegħek jistenna hawn!"
+      ],
+      "premium_benefits": [
+        "Tneħħi r-reklami",
+        "Intervisti Unlimited",
+        "Irċievi rapporti b'reazzjoni u pariri"
+      ]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Kull xahar",
+      "annual": "Annwali",
+      "cancel_anytime": "Ikkanċella f'kull ħin",
+      "save_discount": "Ħlief",
+      "subscribe": "Abbona",
+      "restore_purchases": "Irrestawra x-xiri",
+      "premium_benefits": [
+        "Neħħi r-reklami",
+        "Intervisti Unlimited ma 'No Cooldowns",
+        "Irċievi rapporti bi feedback u pariri wara intervisti"
+      ]
+    }
+  },
+  "translation": {
+    "title": "Tgħin tittraduċi",
+    "description": "Tgħin tittraduċi din l-applikazzjoni għal lingwi oħra."
+  }
+}
