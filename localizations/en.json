@@ -1,0 +1,228 @@
+{
+  "app": {
+    "version": {
+      "premium": "PREMIUM",
+      "free": "Free version"
+    }
+  },
+  "presentation": [
+    {
+      "title": "Practice for your next job interview!",
+      "message": "Does taking job interviews get you nervous and anxious?\nMaybe you still feel unprepared to take job interviews?\nThis is the perfect app to practice your conversational skills in a job interview setting!"
+    },
+    {
+      "title": "Be prepared for your next job!",
+      "message": "Job Intelliviewer uses the power of artificial intelligence to conduct realistic mock job interviews to help you harness the conversational skills needed to make a good impression on real life recruiters and make you prepared to ace your next real life interview."
+    },
+    {
+      "title": "Premium subscription:",
+      "message": "Receive a report at the end of each interview summarizing the conversation with feedback and advice on how to improve your chances of getting hired in a real job interview."
+    }
+  ],
+  "navigation": {
+    "page": {
+      "home": "Home",
+      "interview": "Interview",
+      "resume_cv": "Resumé",
+      "history": "History",
+      "history_entry": "History entry",
+      "reports": "Reports",
+      "settings": "Settings"
+    }
+  },
+  "title": {
+    "attention": "Attention",
+    "information": "Information"
+  },
+  "label": {
+    "search": "Search"
+  },
+"button": {
+  "ok": "OK",
+    "back": "Back",
+    "close": "Close",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "review": "Review",
+    "subscribe": "Subscribe"
+  },
+  "language": {
+    "title": "Language",
+    "select": "Select language",
+    "altered": "Language changed"
+  },
+  "history": {
+    "empty": "Empty history",
+    "delete": {
+      "list": {
+        "title": "Delete history?",
+        "message": "Are you sure you want to delete the entire history?",
+        "deleted": "History deleted."
+      },
+      "entry": {
+        "title": "Delete interview?",
+        "message": "Are you sure you want to delete this interview?",
+        "deleted": "History deleted."
+      }
+    }
+  },
+  "resume": {
+    "fields": {
+      "name": "Name",
+      "first_name": "First name",
+      "date_of_birth": "Date of birth",
+      "job_position": "Job position",
+      "job_position_detailed": "Detailed job position",
+      "education": "Education",
+      "courses": "Courses",
+      "experience": "Experience",
+      "add": {
+        "education": "Add new education",
+        "courses": "Add new course",
+        "experience": "Add new experience"
+      },
+      "error": {
+        "validation": {
+          "title": "Validation error",
+          "invalid_fields": "Insert a valid job position role to apply for a new job interview.\nAlternatively",
+          "unable_to_validate": "Unable to validate fields."
+        }
+      }
+    },
+    "education": {
+      "institution": "Institution",
+      "degree": "Degree",
+      "start": "Start",
+      "end": "End"
+    },
+    "courses": {
+      "institution": "Institution",
+      "title_of_course": "Title of course",
+      "course_load": "Course load"
+    },
+    "experience": {
+      "company": "Company",
+      "position": "Position",
+      "start": "Start",
+      "end": "End"
+    }
+  },
+  "settings": {
+    "color_scheme": {
+      "name": "Dark Theme",
+      "description": "Select between light and dark theme.\nAutomatically set to the device's theme the first time you open the app."
+    },
+    "language": {
+      "name": "Language",
+      "description": "Select the prefered language to display while using the application and talking to the AI during the interviews."
+    },
+    "notifications": {
+      "saved": "Settings saved"
+    },
+    "search": {
+      "not_found": "No results found."
+    }
+  },
+  "interview": {
+    "button": {
+      "new": "New interview",
+      "resume": "Resume interview"
+    },
+    "generating": "Generating new interview"
+  },
+  "chat": {
+    "error": {
+      "label": {
+        "tap_to_retry": "TAP TO RETRY"
+      }
+    }
+  },
+  "text_input": {
+    "placeholder": "Type your message...",
+    "max_length": "Max length reached"
+  },
+  "cooldown": {
+    "description": "The free version of the app allows you to take one interview per hour.\n\nIf you'd like to remove the limitations, remove the ads, and receive a feedback report with advice on how to improve after each interview, consider subscribing to PREMIUM.",
+    "active": "Wait for the cooldown timer before generating a new interview.\n\nIf you'd like to remove cooldowns, remove ads, and receive a feedback report with advice on how to improve after each interview, consider subscribing to PREMIUM.",
+    "timer": {
+      "wait": "Wait ",
+      "second": " second",
+      "seconds": " seconds"
+    }
+  },
+  "report": {
+    "title": "Report",
+    "summary": "Summary",
+    "feedback": "Feedback",
+    "advice": "Advice",
+    "button": {
+      "view": "View Report",
+      "unlock": "Unlock Report",
+      "get": "Get Report"
+    },
+    "generating": "Generating Report..."
+  },
+  "review": {
+    "request": "If you liked the app, please consider leaving a review to help us.\n\n⭐⭐⭐⭐⭐",
+    "thanks": "Thank you very much!"
+  },
+  "notification": {
+    "new_interview": {
+      "title": "New interview available!",
+      "message": "You have a new interview available to take on Job Intelliviewer."
+    }
+  },
+  "iap": {
+    "subscription": {
+      "title": "PREMIUM",
+      "type": "Subscription",
+      "subscribe": "Subscribe",
+      "invitation": "Subscribe to PREMIUM",
+      "active": "PREMIUM subscription active",
+      "thanks": "Thank you for subscribing to PREMIUM! We wish you good luck and success on all your future interviews!",
+      "menu": {
+        "title": "PREMIUM subscription", 
+        "subtitle": "Subscribe to the PREMIUM plan"
+      }
+    },
+    "error": {
+      "subscription": "Error trying to validate your purchase.",
+      "connection": "Connection error.\n\nUnable to connect to the store.",
+      "products": "Unable to check product options.",
+      "subscription_options": "Unable to load subscription plans.\n\nPlease, check your internet connection, or try again later."
+    }
+  },
+  "error": {
+    "title": "Error",
+    "unexpected": "Something went wrong... You souldn't be seeing this! 😱",
+    "connection": "Connection",
+    "connection_fix": "Check your internet connection and try again later.",
+    "ai": {
+      "no_response": "No response",
+      "unexpected": "Unexpected",
+      "internal_server_error": "Internal Server Error"
+    }
+  },
+  "release": {
+    "store": {
+      "short_description": "Practice for your next job interview with this realistic AI simulator",
+      "full_description": "Does taking job interviews get you nervous and anxious?\nMaybe you still feel unprepared to take job interviews?\nThis is the perfect app to practice your conversational skills in a job interview setting!\n\nJob Intelliviewer uses the power of artificial intelligence to conduct realistic mock job interviews to help you harness the conversational skills needed to make a good impression on real life recruiters and make you prepared to ace your next interview.\n\nThe interviews are tailored to the job position you're seeking, and will be shaped and adjusted with questions related to your goals to better represent a real job interview.\n\nPremium users will also receive a report at the end of each interview summarizing the conversation with feedback and advice on how to improve your chances of getting hired in a real job interview.",
+      "taglines": ["Be prepared for your next job!", "Practice for your next job interview!", "Ace your next job interview with AI!", "Your next professional success awaits you here!"],
+      "premium_benefits": ["Removes ads", "Unlimited interviews", "Receive reports with feedback and advice"]
+    },
+    "revenue_cat": {
+      "premium": "Premium",
+      "monthly": "Monthly",
+      "annual": "Annual",
+      "cancel_anytime": "Cancel anytime",
+      "save_discount": "Save ",
+      "subscribe": "Subscribe",
+      "restore_purchases": "Restore purchases",
+      "premium_benefits": ["Remove ads", "Unlimited interviews with no cooldowns", "Receive reports with feedback and advice after interviews"]
+    }
+  },
+  "translation": {
+    "title": "Help translate",
+    "description": "Help translate this application to other languages."
+  }
+}
